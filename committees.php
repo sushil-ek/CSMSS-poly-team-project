@@ -119,7 +119,7 @@
                                     <div id="collapseOne" class="accordion-collapse collapse show department-download"
                                         aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Date:03-06-2023
+                                            Date : 03-06-2023
                                             <div class="mt-1">
                                                <div class="container">
                                                     <div class="row">

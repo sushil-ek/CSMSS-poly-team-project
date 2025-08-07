@@ -123,7 +123,498 @@
                                 </div>
                                 
                             </div>
-                          
+                            <section id="latest-news-section">
+                                <div class="container my-4">
+                                    <div id="carouselExampleDark" class="carousel carousel-dark slide" style="background-color:#f2f3f5;">
+                                        <h2 class="bg-success text-white p-2 ">Latest News</h2>
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active" data-bs-interval="10000">
+                                                <div style="min-height: 200px;">
+                                                    <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
+                                                        <strong class="ps-3">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</strong>
+                                            
+                                                        <center>
+                                                            <div class="department-btn ">
+                                                                <a href="event-occasion.php" class="pt-lg-4 justify-content-center">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item" data-bs-interval="10000">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Blood
+                                            Donation Camp on the Occasion of the Birthday of Hon. Secretary Padmakarji
+                                            Mulay Sir</strong>
+                                                        
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-blood-donation.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item" data-bs-interval="10000">
+                                                <div style="min-height: 200px;">
+                                                    <div class="carousel-caption d-block text-start pt-5" style=" font-size: 15px">
+                                                        <strong class="">Expert Talk on "Personality
+                                            Development</strong>
+                                                        
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-personality_development.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Expert
+                                            Talk on "Business Opportunities and Product Selection</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-business-opp.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Expert Talk on "Entrepreneurship as
+                                            a Career Choice</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-entrepreneurship.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">ISTE
+                                            Sponsored State Level Technical Paper Presentation and Quiz Competition</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-ISTE sponsered.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Inaugration of Project lab and
+                                            Software development lab</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-inagu of project soft.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Expert
+                                            talk on "Employability in Defence Services</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-expert talk.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">National Road Safety Week</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-national road.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">52th
+                                            District Level Science Exhibition</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-52th district.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Faculty Development Training Program
+                                            on "Comprehensive Python and Machine Learning "</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-comprehensive python.php"" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Faculty Development Training
+                                            program</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-faculty dev traning.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">PM
+                                            Vishawkarma Program</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-PM vishwakarma.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">First
+                                            Year Induction Program 2024-25</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-induction pro.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Entrepreneurship development
+                                            Program</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-entrepreneurship-development.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Online
+                                            webinar on 100% Free Education for Girls</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-online web.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">John Deere
+                                            Campus Drive</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-john.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">School Connect Program</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-special connect program.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">State
+                                            level Technical Event 2k24</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-state level2k.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">industrial visit to Devgiri Mahanand
+                                            Dairy Gandheli Chhatrapati Sambhajinagar</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-industrial devgiri.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Annual
+                                            Social Gathering Polyfest 2k24</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-polyfest2k24.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="text-center">Hackathon-2023</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-Hackathon.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">MERI MATI
+                                            MERA DESH ABHIYAAN</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-MERI MAATI.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">First year
+                                            induction program</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-first year.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Campus
+                                            Drive for Electrical & Mechanical Engineering students By Gangamai
+                                            Industries and Constructions Ltd</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-campus drive.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Result
+                                            Summer 2023</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-resultsummer23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">CSMSS Celebrates 150th Birth
+                                            Anniversary of Rajarshri Chhatrapati shivaji Maharaj</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-birthanniversary.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Placement in Forbes and Company</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-eventplacement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">National Conference 2022-23</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-national con 22-23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Annual
+                                            social gathering 2023</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-annual 2023.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">IEDSSA 2022-23 G-1 ZONE GLIMPSE</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-IEDSSA.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Inter Engineering Diploma Students
+                                            Sports Association (IEDSSA) Kabaddi Matches</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-Diploma Students.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Corruption
+                                            Free India for a Developed Nation</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-Corruption.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">8th
+                                            International Yoga Day Celebration at CSMSS College of Polytechnic</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event- yoga day.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 270px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Arrangement Of Covid-19 Mega
+                                            Vaccination Drive For All The Students Who Are Above 15 Years Old On The
+                                            Occasion Of National Youth Day January 12, 2022.</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-arrangement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Arrangement Of Special Vaccination
+                                            Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of
+                                            Polytechnic</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-special vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">National Conference on Emerging
+                                            Areas in Engineering and Technology</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-national conference.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">A State
+                                            Level Technical Paper Presentation Competition (Electronics Group)</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-paper pre.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="">Two days
+                                            state level workshop on "NBA Accreditation for polytechnic" on 08-04-2019 to
+                                            09-04-2019</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="event-NBA workshop.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            
+                                            
+                                            
+                                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                <span class="visually-hidden">Previous</span>
+                                            </button>
+                                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                <span class="visually-hidden">Next</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                            </section>
                         </div>
 
             <div class="col-xl-8 col-lg-8">

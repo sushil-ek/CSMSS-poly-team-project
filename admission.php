@@ -15,7 +15,7 @@
     <!-- title -->
 
     <!-- favicon -->
-    <link rel="" type="" href="">
+
 
     <?php
     include 'common/header-link.php';
@@ -99,7 +99,7 @@
                         <div class="col-xl-8 col-lg-8"  style="overflow-y: scroll; height: 800px; scrollbar-width: none; -ms-overflow-style: none;">
                             <div class="site-heading mb-4 fa-1x">
                                 <h4 class="site-title text-center">
-                                    ADMISSION 2025-2026
+                                    ADMISSION 2025-26
                                 </h4>
                             </div>
                             <p class="about-text">

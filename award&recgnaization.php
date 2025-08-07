@@ -54,7 +54,7 @@
       <!-- breadcrumb -->
         <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
             <div class="container">
-                <h2 class="breadcrumb-title">NEWS AND EVENT</h2>
+                <h2 class="breadcrumb-title">AWAREDS AND RECOGNITIONS</h2>
                 <ul class="breadcrumb-menu">
                     <li><a href="index-2.html">Home</a></li>
                     <li class="active">AWAREDS AND RECOGNITIONS</li>
@@ -94,11 +94,11 @@
                         </div>
                        <div class="col-xl-8 col-lg-8">
               <div class="row">
-                    <h1 class="ps-5 mb-4">Awards and Recognitions</h1>
+                    <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">Awards and Recognitions</h1>
                     <!-- CARD ONE  -->
                      <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2023</div>
+                          
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/BOARD.jpg" alt="Thumb" style="width:320%">
                             </div>
@@ -115,7 +115,7 @@
                      <!-- CARD TWO  -->
                     <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> march 25,2025</div>
+
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/Mechanical.jpg"  alt="Thumb" style="width:320%">
                             </div>
@@ -133,7 +133,7 @@
                     <!-- CARD Three  -->
                     <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> march 25,2025</div>
+                           
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/Appreciation Award.jpg"  alt="Thumb" style="width:320%">
                             </div>
@@ -151,7 +151,7 @@
                      <!-- CARD FOUR  -->
                    <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> march 25,2025</div>
+                           
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/Athletic Competition.jpeg"  alt="Thumb" style="width:320%">
                             </div>
@@ -169,7 +169,7 @@
                      <!-- CARD FIVE  -->
                      <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> march 25,2025</div>
+                           
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/Artificial Intelligence.jpeg"  alt="Thumb" style="width:320%">
                             </div>
@@ -187,7 +187,7 @@
                      <!-- CARD SIX -->
                    <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> march 25,2025</div>
+                           
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/ELectronics.jpeg"  alt="Thumb" style="width:320%">
                             </div>
@@ -205,7 +205,7 @@
                      <!-- CARD SEVEN  -->
                    <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> march 25,2025</div>
+                            
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/Excellent remark.jpeg"  alt="Thumb" style="width:320%">
                             </div>
@@ -223,7 +223,7 @@
                      <!-- CARD EIGHT -->
                    <div class="col-md-6 col-lg-6">
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> march 25,2025</div>
+                            
                             <div class="blog-item-img">
                                 <img src="assets/img/news and events/Awards and Recognitions (1)/Awards and Recognitions/Certificate of registration.jpg"  alt="Thumb" style="width:320%">
                             </div>

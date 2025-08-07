@@ -12,7 +12,10 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.css" />
+
 
     <?php
     include 'common/header-link.php';
@@ -122,7 +125,7 @@
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/photos-Gallery/campus recuritment of websum softwares images/campus front board.jpgg">
+                    data-src="assets/img/photos-Gallery/campus recuritment of websum softwares images/campus front board.jpg">
                     <img src="assets/img/photos-Gallery/campus recuritment of websum softwares images/campus front board.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>

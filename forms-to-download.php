@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <!-- Mirrored from live.themewild.com/eduka/academic-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:27 GMT -->
 
 <head>
@@ -11,21 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="keywords" content="">
-
     <!-- title -->
-   
-
     <!-- favicon -->
-   
-
     <?php
     include 'common/header-link.php';
     ?>
-
 </head>
 
 <body>
-
     <!-- preloader -->
     <div class="preloader">
         <div class="loader-book">
@@ -35,15 +26,11 @@
         </div>
     </div>
     <!-- preloader end -->
-
-
     <!-- header area -->
     <?php
     include 'common/header.php';
     ?>
     <!-- header area end -->
-
-
     <!-- popup search -->
     <div class="search-popup">
         <button class="close-search"><span class="far fa-times"></span></button>
@@ -55,11 +42,7 @@
         </form>
     </div>
     <!-- popup search end -->
-
-
-
     <main class="main">
-
         <!-- breadcrumb -->
         <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
             <div class="container">
@@ -71,8 +54,6 @@
             </div>
         </div>
         <!-- breadcrumb end -->
-
-
         <!-- Student-Corner -->
         <div class="department-single-area py-120 faq-area">
             <div class="container">
@@ -94,7 +75,6 @@
                                         <a href="committees.php"><i class="far fa-long-arrow-right"></i>Committees</a>
                                         <a href="forms-to-download.php"><i class="far fa-long-arrow-right"></i>Forms To
                                             Download</a>
-
                                     </div>
                                 </div>
                                 <!-- <div class="widget department-download">
@@ -108,11 +88,9 @@
                         </div>
                         <div class="col-xl-8 col-lg-8">
                             <div class="accordion" id="accordionExample">
-
                                 <div class="accordion-item mt-0">
                                     <h2 class="accordion-header ms-2 p-3" id="headingOne">
-                                       Forms For Download
-                                       
+                                        FORMS FOR DOWNLOAD
                                         <hr class="text">
                                         </button>
                                     </h2>
@@ -124,17 +102,16 @@
                                             </a>
                                             <a href="assets\pdf\forms-for-download\OTO-UNDERTAKING.pdf"
                                                 class="w-100 mt-3" download><i class="far fa-file-pdf"></i>
-                                                <strong>OTO UNDERTAKING</strong>
+                                                <strong>OTO Undertaking</strong>
                                             </a>
-                                            <a href="assets\pdf\forms-for-download\I-CARD-FORMAT.docx" class="w-100 mt-3"
-                                                download><i class="far fa-file-pdf"></i>
+                                            <a href="assets\pdf\forms-for-download\I-CARD-FORMAT.docx"
+                                                class="w-100 mt-3" download><i class="far fa-file-pdf"></i>
                                                 <strong>I Card Format</strong>
                                             </a>
                                             <a href="assets\pdf\forms-for-download\ALUMNI-REGISTRATION-FORM.pdf"
                                                 class="w-100 mt-3" download><i class="far fa-file-pdf"></i>
-                                                <strong>Alumni Registration form</strong>
+                                                <strong>Alumni Registration Form</strong>
                                             </a>
-
                                         </div>
                                     </div>
                                 </div>
@@ -147,32 +124,19 @@
         </div>
         </div>
         <!-- department-single end-->
-
     </main>
-
-
-
     <!-- footer area -->
     <?php
     include 'common/footer.php';
     ?>
     <!-- footer area end -->
-
-
-
-
     <!-- scroll-top -->
     <a href="#" id="scroll-top"><i class="far fa-arrow-up-from-arc"></i></a>
     <!-- scroll-top end -->
-
-
     <?php
     include 'common/footer-link.php';
     ?>
-
 </body>
-
-
 <!-- Mirrored from live.themewild.com/eduka/academic-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:32 GMT -->
 
 </html>

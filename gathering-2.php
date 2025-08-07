@@ -13,7 +13,7 @@
     <meta name="keywords" content="">
 
     <!-- title -->
-   
+
 
     <?php
     include 'common/header-link.php';
@@ -105,7 +105,8 @@
                     <div class="col-md-4 wow fadeInUp" data-wow-delay=".25s">
                         <div class="gallery-item">
                             <div class="gallery-img">
-                                <img src="assets\img\gathering\Poly-Fest 2k24\Outdoor Sports Inauguration\outdoor-sports-2.jpeg">
+                                <img
+                                    src="assets\img\gathering\Poly-Fest 2k24\Outdoor Sports Inauguration\outdoor-sports-2.jpeg">
                             </div>
                             <div class="gallery-content">
                                 <a class="popup-img gallery-link"
@@ -324,8 +325,7 @@
                     <div class="col-md-4 wow fadeInUp" data-wow-delay=".25s">
                         <div class="gallery-item">
                             <div class="gallery-img">
-                                <img src="assets\img\gathering\Poly-Fest 2k24\Granth Dindi\Granth Dindi-1.jpeg"
-                                    >
+                                <img src="assets\img\gathering\Poly-Fest 2k24\Granth Dindi\Granth Dindi-1.jpeg">
                             </div>
                             <div class="gallery-content">
                                 <a class="popup-img gallery-link"
@@ -351,8 +351,7 @@
                     <div class="col-md-4 wow fadeInUp" data-wow-delay=".50s">
                         <div class="gallery-item">
                             <div class="gallery-img">
-                                <img src="assets\img\gathering\Poly-Fest 2k24\Granth Dindi\Granth Dindi-3.jpeg"
-                                    >
+                                <img src="assets\img\gathering\Poly-Fest 2k24\Granth Dindi\Granth Dindi-3.jpeg">
                             </div>
                             <div class="gallery-content">
                                 <a class="popup-img gallery-link"
@@ -365,8 +364,7 @@
                     <div class="col-md-4  wow fadeInUp" data-wow-delay=".50s">
                         <div class="gallery-item">
                             <div class="gallery-img">
-                                <img src="assets\img\gathering\Poly-Fest 2k24\Granth Dindi\Granth Dindi-4.jpeg"
-                                    >
+                                <img src="assets\img\gathering\Poly-Fest 2k24\Granth Dindi\Granth Dindi-4.jpeg">
                             </div>
                             <div class="gallery-content">
                                 <a class="popup-img gallery-link"
@@ -446,13 +444,12 @@
                     <div class="col-md-4 wow fadeInUp" data-wow-delay=".25s">
                         <div class="gallery-item">
                             <div class="gallery-img">
-                                <img src="assets\img\gathering\Poly-Fest 2k24\Cultural Program\resize-1.jpeg"
-                                   >
+                                <img src="assets\img\gathering\Poly-Fest 2k24\Cultural Program\resize-1.jpeg">
                             </div>
                             <div class="gallery-content">
                                 <a class="popup-img gallery-link"
                                     href="assets\img\gathering\Poly-Fest 2k24\Cultural Program\resize-1.jpeg "><i
-                                    class="fal fa-plus"></i></a>
+                                        class="fal fa-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -692,11 +689,11 @@
 
 
 
-                    <div class="department-download text-center mt-3 ">
-                         <button class="btn"><a href="gathering.php">2K25</a></button>
-                <button class="btn"><a href="gathering-2.php">2K24</a></button>
-                    </div>
-               
+                <div class="department-download text-center mt-3">
+                    <button class="btn"><a href="gathering.php">2K25</a></button>
+                    <button class="btn"><a href="gathering-2.php">2K24</a></button>
+                </div>
+
 
                 <!-- container -->
             </div>

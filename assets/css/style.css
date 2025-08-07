@@ -2677,14 +2677,14 @@ label {
 }
 
 .choose-img::before {
-  content: "";
-  position: absolute;
-  left: -15px;
-  bottom: -15px;
-  width: 100%;
-  height: 100%;
-  border: 5px solid var(--theme-color2);
-  border-radius: 30% 0 30% 30%;
+    content: "";
+    position: absolute;
+    left: 0px;
+    bottom: -6px;
+    width: 100%;
+    height: 102%;
+    border: 5px solid var(--theme-color2);
+    border-radius: 30% 0 30% 30%;
 }
 
 .choose-img img {
@@ -7013,7 +7013,7 @@ label {
 }
 
 .ticker-container {
-  width: 800px;
+  /* width: 800px; */
   /* Set your desired width */
   overflow: hidden;
   white-space: nowrap;

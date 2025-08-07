@@ -12,14 +12,12 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <!-- title -->
-    <title>Eduka - School, College, University And Courses HTML5 Template</title>
+    
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.css" />
 
-    <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+    
 
     <?php
     include 'common/header-link.php';

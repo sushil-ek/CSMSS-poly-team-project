@@ -94,9 +94,9 @@
                             </div>
                             <!-- Latest News Section start -->
                             <section id="latest-news-section">
-                                <div class="container my-4">
+                                <div class=" my-4">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide" style="background-color:#f2f3f5;">
-                                        <h2 class="bg-success text-white p-2 ">Latest News</h2>
+                                        <h2 class="text-white p-2 " style="background-color:#642224">Latest News</h2>
                                         <div class="carousel-inner">
                                             <div class="carousel-item active" data-bs-interval="10000">
                                                 <div style="min-height: 330px;">

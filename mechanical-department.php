@@ -65,17 +65,6 @@
             width: 60px;
             font-weight: bold;
         }
-
-        /* view btn css */
-        #view-button {
-            background-color: #F48A19;
-            color: white;
-        }
-
-        #view-button:hover {
-            background-color: var(--theme-color);
-            color: white;
-        }
     </style>
 </head>
 
@@ -338,10 +327,10 @@
 
                                 <section id="Admission Capacity">
 
-                                    <h2 class="mb-3 ms-4 ps-1 text-black">Admission Intake Capacity : 60</h2>
+                                    <h2 class="mb-3 text-black">Admission Intake Capacity : 60</h2>
 
                                     <!-- Accodian start -->
-                                    <div class="container my-5">
+                                    <div class="my-5">
                                         <div class="accordion" id="hodAccordion">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingOne">
@@ -354,11 +343,11 @@
                                                     data-bs-parent="#hodAccordion">
                                                     <div class="accordion-body">
                                                         <div class="row">
-                                                            <div class="col-lg-4 col-md-7 col-sm-12 col-xs-12">
+                                                            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
                                                                 <center><img class="sticky" src="./assets/img/department/HODMech.jpeg" alt="HOD Image" width="150" height="200"></center>
                                                                 <center><b>Mr. S. S. Madan</b><br><i>HOD</i></center>
                                                             </div>
-                                                            <div class="col-lg-8">
+                                                            <div class="col-lg-8 col-md-12">
                                                                 <p style="text-align: justify">Welcome to the Department of Mechanical Engineering of CSMSS College of Polytechnic. The Department of Mechanical Engineering established in the year 2009 with an aim to developMechanical Engineers to serve the industry and society.</p>
                                                                 <p style="text-align: justify">The department of Mechanical Engineering received ‘Excellent’ Grade by Maharashtra State Board of Technical Education (MSBTE), Mumbai for the excellent academic performance. The Department is equipped with highly qualified, experienced and young faculty members who devote towards inculcating knowledge and skills in budding Mechanical engineers.</p>
                                                             </div>
@@ -423,506 +412,1127 @@
                                             </table>
                                             <!--first-table-end-->
                                             <!-- Second table -->
-                                            <div style="overflow-x: scroll;">
-                                                <div class="table-responsive">
-                                                    <table class=" table table-bordered table-hover">
-                                                        <thead>
-                                                            <tr>
-                                                                <th>
-                                                                    Sr.No.
-                                                                </th>
-                                                                <th>
-                                                                    Name
-                                                                </th>
-                                                                <th>
+                                            <div class="table-responsive">
+                                                <table class=" table table-bordered table-hover">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>
+                                                                Sr.No.
+                                                            </th>
+                                                            <th>
+                                                                Name
+                                                            </th>
+                                                            <th>
 
-                                                                    Qualification
-                                                                </th>
-                                                                <th>
+                                                                Qualification
+                                                            </th>
+                                                            <th>
 
-                                                                    Designation
+                                                                Designation
 
-                                                                </th>
-                                                                <th>
+                                                            </th>
+                                                            <th>
 
-                                                                    Profile
+                                                                Profile
 
-                                                                </th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <td>
-                                                                    01
-                                                                </td>
-                                                                <td>Mr. MADAN SANDIP SARJERAO</td>
-                                                                <td>
-                                                                    B.E.,M.E.
-                                                                </td>
-                                                                <td>
+                                                            </th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>
+                                                                01
+                                                            </td>
+                                                            <td>Mr. MADAN SANDIP SARJERAO</td>
+                                                            <td>
+                                                                B.E.,M.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    <b>HOD</b>
+                                                                <b>HOD</b>
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    02
-                                                                </td>
-                                                                <td>Mr.AWHALE SAGAR MANSARAM</td>
-                                                                <td>
-                                                                    B.TECH., M.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\Madan Sir.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                02
+                                                            </td>
+                                                            <td>Mr.AWHALE SAGAR MANSARAM</td>
+                                                            <td>
+                                                                B.TECH., M.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    03
-                                                                </td>
-                                                                <td>Mrs. LAHORE DHANSHRI RATNAKAR</td>
-                                                                <td>
-                                                                    B.E.,M.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\S.M.Avhale.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                03
+                                                            </td>
+                                                            <td>Mrs. LAHORE DHANSHRI RATNAKAR</td>
+                                                            <td>
+                                                                B.E.,M.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    04
-                                                                </td>
-                                                                <td>Mr. SAHANE GIRISH KISANRAO</td>
-                                                                <td>
-                                                                    B.E.,M.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\Lahore Madam.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                04
+                                                            </td>
+                                                            <td>Mr. SAHANE GIRISH KISANRAO</td>
+                                                            <td>
+                                                                B.E.,M.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    05
-                                                                </td>
-                                                                <td>Mrs. UGALE SMITA KAKASAHEB</td>
-                                                                <td>
-                                                                    B.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\G.K.Sahane.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                05
+                                                            </td>
+                                                            <td>Mrs. UGALE SMITA KAKASAHEB</td>
+                                                            <td>
+                                                                B.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    06
-                                                                </td>
-                                                                <td>Mr. CHIKNE RAVINDRA KAILAS</td>
-                                                                <td>
-                                                                    B.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\Ugle Madam.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                06
+                                                            </td>
+                                                            <td>Mr. CHIKNE RAVINDRA KAILAS</td>
+                                                            <td>
+                                                                B.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    07
-                                                                </td>
-                                                                <td>Mrs. MULEY SHRADHA KRUSHNARAO</td>
-                                                                <td>
-                                                                    B.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\Chikne Sir.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                07
+                                                            </td>
+                                                            <td>Mrs. MULEY SHRADHA KRUSHNARAO</td>
+                                                            <td>
+                                                                B.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            <tr>
-                                                                <td>
-                                                                    08
-                                                                </td>
-                                                                <td>Mr. SHELKE VIJAY RUPCHAND</td>
-                                                                <td>
-                                                                    B.E., M.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\surwade madam.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        <tr>
+                                                            <td>
+                                                                08
+                                                            </td>
+                                                            <td>Mr. SHELKE VIJAY RUPCHAND</td>
+                                                            <td>
+                                                                B.E., M.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            <tr>
-                                                                <td>
-                                                                    09
-                                                                </td>
-                                                                <td>Mr. SONAWANE ANIKET APPASAHEB</td>
-                                                                <td>
-                                                                    B.E.
-                                                                </td>
-                                                                <td>
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\Shelke Sir.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        <tr>
+                                                            <td>
+                                                                09
+                                                            </td>
+                                                            <td>Mr. SONAWANE ANIKET APPASAHEB</td>
+                                                            <td>
+                                                                B.E.
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            <tr>
-                                                                <td class="border-3 border-white">
-                                                                    10
-                                                                </td>
-                                                                <td class="border-3 border-white">Mr.RUPNAR GANESH POPAT</td>
-                                                                <td class="border-3 border-white">
-                                                                    B.E.,M.E
-                                                                </td>
-                                                                <td class="border-3 border-white">
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\Sonawane Sir.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        <tr>
+                                                            <td>
+                                                                10
+                                                            </td>
+                                                            <td>Mr.RUPNAR GANESH POPAT</td>
+                                                            <td>
+                                                                B.E.,M.E
+                                                            </td>
+                                                            <td>
 
-                                                                    LECTURER
+                                                                LECTURER
 
-                                                                </td>
-                                                                <td class="text-center">
-                                                                    <a href="#" target="_blank" class="btn text-white"
-                                                                        id="view-button">
-                                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                                <!-- second-table-end-->
-                                                <!-- Form Section Ends  -->
+                                                            </td>
+                                                            <td class="text-center">
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\ganesh rupnar.pdf" target="_blank" class="btn text-white"
+                                                                    id="view-button">
+                                                                    <i class="fa-regular fa-eye text-white"></i> View
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <!-- second-table-end-->
+                                            <!-- Form Section Ends  -->
 
-                                                <!-- Accordin Main Start -->
+                                            <!-- Accordin Main Start -->
 
-                                                <!--Accordin section started here-->
-                                                <section id="Accordion-section">
-                                                    <div class="faq-area">
-                                                        <div class="container">
-                                                            <div class="row">
-                                                                <div class="col-lg-6 w-100">
-                                                                    <div class="accordion" id="accordionExample">
-                                                                        <!--first accordion started-->
-                                                                        <div class="accordion-item">
-                                                                            <h2 class="accordion-header p-lg-2" id="headingOne">
-                                                                                <button class="accordion-button collapsed"
-                                                                                    type="button" data-bs-toggle="collapse"
-                                                                                    data-bs-target="#collapseOne"
-                                                                                    aria-expanded="false"
-                                                                                    aria-controls="collapseOne">
-                                                                                    TOPPERS
-                                                                                </button>
-                                                                            </h2>
-                                                                            <div id="collapseOne"
-                                                                                class="accordion-collapse collapse"
-                                                                                aria-labelledby="headingOne"
-                                                                                data-bs-parent="#accordionExample">
-                                                                                <div class="accordion-body">
+                                            <!--Accordin section started here-->
+                                            <section id="Accordion-section">
+                                                <div class="faq-area">
+                                                    <div class="container">
+                                                        <div class="row">
+                                                            <div class="col-lg-6 w-100">
+                                                                <div class="accordion" id="accordionExample">
+                                                                    <!--first accordion started-->
+                                                                    <div class="accordion-item">
+                                                                        <h2 class="accordion-header p-lg-2" id="headingOne">
+                                                                            <button class="accordion-button collapsed"
+                                                                                type="button" data-bs-toggle="collapse"
+                                                                                data-bs-target="#collapseOne"
+                                                                                aria-expanded="false"
+                                                                                aria-controls="collapseOne">
+                                                                                TOPPERS
+                                                                            </button>
+                                                                        </h2>
+                                                                        <div id="collapseOne"
+                                                                            class="accordion-collapse collapse"
+                                                                            aria-labelledby="headingOne"
+                                                                            data-bs-parent="#accordionExample">
+                                                                            <div class="accordion-body">
 
-                                                                                    <div class="hedaing-content">
-                                                                                    </div>
-                                                                                    <ul>
-                                                                                        <li>Following are the overall toppers of Mechanical Engineering department for the academic year 2022-23. </li>
-                                                                                        <p class="mt-lg-3 mb-lg-3"><strong><u>Toppers of FY ME</u></strong></p>
-                                                                                    </ul>
-                                                                                    <!--first table in started first Accordion-->
-                                                                                    <div class="mt-3 table-responsive">
-                                                                                        <table class="table table-bordered table-hover">
-                                                                                            <thead>
-                                                                                                <tr>
-                                                                                                    <th>
-                                                                                                        Sr. No.
+                                                                                <div class="hedaing-content">
+                                                                                </div>
+                                                                                <ul>
+                                                                                    <li>Following are the overall toppers of Mechanical Engineering department for the academic year 2022-23. </li>
+                                                                                    <p class="mt-lg-3 mb-lg-3"><strong><u>Toppers of FY ME</u></strong></p>
+                                                                                </ul>
+                                                                                <!--first table in started first Accordion-->
+                                                                                <div class="mt-3 table-responsive">
+                                                                                    <table class="table table-bordered table-hover">
+                                                                                        <thead>
+                                                                                            <tr>
+                                                                                                <th>
+                                                                                                    Sr. No.
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Name of Student
+                                                                                                    Name of Student
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Percentage <br>
+                                                                                                    Percentage <br>
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Class Awarded <br>
+                                                                                                    Class Awarded <br>
 
-                                                                                                    </th>
-                                                                                                </tr>
-                                                                                            </thead>
-                                                                                            <tbody>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        01
-                                                                                                    </td>
-                                                                                                    <td>SHAIKH MOHAMMAD BILAL ASIF</td>
-                                                                                                    <td>
-                                                                                                        88
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        02
-                                                                                                    </td>
-                                                                                                    <td>THORBOLE KRUSHNA SUJIT</td>
-                                                                                                    <td>
-                                                                                                        82.71
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        03
-                                                                                                    </td>
-                                                                                                    <td>TRIBHUVAN AMOL JIVAN</td>
-                                                                                                    <td>
-                                                                                                        77.65
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
+                                                                                                </th>
+                                                                                            </tr>
+                                                                                        </thead>
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    01
+                                                                                                </td>
+                                                                                                <td>SHAIKH MOHAMMAD BILAL ASIF</td>
+                                                                                                <td>
+                                                                                                    88
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    02
+                                                                                                </td>
+                                                                                                <td>THORBOLE KRUSHNA SUJIT</td>
+                                                                                                <td>
+                                                                                                    82.71
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    03
+                                                                                                </td>
+                                                                                                <td>TRIBHUVAN AMOL JIVAN</td>
+                                                                                                <td>
+                                                                                                    77.65
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
 
-                                                                                            </tbody>
-                                                                                        </table>
-                                                                                    </div>
-                                                                                    <!--first table in end first Accordion-->
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </div>
+                                                                                <!--first table in end first Accordion-->
 
-                                                                                    <!--second table in started first Accordion-->
-                                                                                    <ul>
-                                                                                        <p class="mt-lg-3 mb-lg-3"><strong><u>Toppers of SY ME</u></strong></p>
-                                                                                    </ul>
-                                                                                    <div class="mt-3 table-responsive">
-                                                                                        <table class="table table-bordered table-hover">
-                                                                                            <thead>
-                                                                                                <tr>
-                                                                                                    <th>
+                                                                                <!--second table in started first Accordion-->
+                                                                                <ul>
+                                                                                    <p class="mt-lg-3 mb-lg-3"><strong><u>Toppers of SY ME</u></strong></p>
+                                                                                </ul>
+                                                                                <div class="mt-3 table-responsive">
+                                                                                    <table class="table table-bordered table-hover">
+                                                                                        <thead>
+                                                                                            <tr>
+                                                                                                <th>
 
-                                                                                                        Sr. No.
+                                                                                                    Sr. No.
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Name of Student
+                                                                                                    Name of Student
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Percentage
+                                                                                                    Percentage
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Class Awarded
+                                                                                                    Class Awarded
 
-                                                                                                    </th>
-                                                                                                </tr>
-                                                                                            </thead>
-                                                                                            <tbody>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        01
-                                                                                                    </td>
-                                                                                                    <td>RATHOD MINAKSHI RAMRAO</td>
-                                                                                                    <td>
-                                                                                                        82.95
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        02
-                                                                                                    </td>
-                                                                                                    <td>ZODGE MALVIK MAHESH</td>
-                                                                                                    <td>
-                                                                                                        82.53
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        03
-                                                                                                    </td>
-                                                                                                    <td>RAUT SOPAN RATAN</td>
-                                                                                                    <td>
-                                                                                                        78.11
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
+                                                                                                </th>
+                                                                                            </tr>
+                                                                                        </thead>
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    01
+                                                                                                </td>
+                                                                                                <td>RATHOD MINAKSHI RAMRAO</td>
+                                                                                                <td>
+                                                                                                    82.95
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    02
+                                                                                                </td>
+                                                                                                <td>ZODGE MALVIK MAHESH</td>
+                                                                                                <td>
+                                                                                                    82.53
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    03
+                                                                                                </td>
+                                                                                                <td>RAUT SOPAN RATAN</td>
+                                                                                                <td>
+                                                                                                    78.11
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
 
-                                                                                            </tbody>
-                                                                                        </table>
-                                                                                    </div>
-                                                                                    <!--second table in end first Accordion-->
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </div>
+                                                                                <!--second table in end first Accordion-->
 
-                                                                                    <!--third table in started first Accordion-->
-                                                                                    <ul>
-                                                                                        <p class="mt-lg-3 mb-lg-3"><strong><u>Toppers of TY ME</u></strong></p>
-                                                                                    </ul>
-                                                                                    <div class="mt-3 table-responsive">
-                                                                                        <table class="table table-bordered table-hover">
-                                                                                            <thead>
-                                                                                                <tr>
-                                                                                                    <th>
+                                                                                <!--third table in started first Accordion-->
+                                                                                <ul>
+                                                                                    <p class="mt-lg-3 mb-lg-3"><strong><u>Toppers of TY ME</u></strong></p>
+                                                                                </ul>
+                                                                                <div class="mt-3 table-responsive">
+                                                                                    <table class="table table-bordered table-hover">
+                                                                                        <thead>
+                                                                                            <tr>
+                                                                                                <th>
 
-                                                                                                        Sr. No.
+                                                                                                    Sr. No.
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Name of Student
+                                                                                                    Name of Student
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Percentage
+                                                                                                    Percentage
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                                </th>
+                                                                                                <th>
 
-                                                                                                        Class Awarded
+                                                                                                    Class Awarded
 
-                                                                                                    </th>
-                                                                                                </tr>
-                                                                                            </thead>
-                                                                                            <tbody>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        01
-                                                                                                    </td>
-                                                                                                    <td>KULKARNI SHRUTI RAVINDRA</td>
-                                                                                                    <td>
-                                                                                                        92.67
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        02
-                                                                                                    </td>
-                                                                                                    <td>SATPUTE SNEHA SANTOSH</td>
-                                                                                                    <td>
-                                                                                                        88.76
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        03
-                                                                                                    </td>
-                                                                                                    <td>RAUT GANESH LAXMAN</td>
-                                                                                                    <td>
-                                                                                                        84
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        First Class with Distinction
-                                                                                                    </td>
-                                                                                                </tr>
+                                                                                                </th>
+                                                                                            </tr>
+                                                                                        </thead>
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    01
+                                                                                                </td>
+                                                                                                <td>KULKARNI SHRUTI RAVINDRA</td>
+                                                                                                <td>
+                                                                                                    92.67
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    02
+                                                                                                </td>
+                                                                                                <td>SATPUTE SNEHA SANTOSH</td>
+                                                                                                <td>
+                                                                                                    88.76
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    03
+                                                                                                </td>
+                                                                                                <td>RAUT GANESH LAXMAN</td>
+                                                                                                <td>
+                                                                                                    84
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    First Class with Distinction
+                                                                                                </td>
+                                                                                            </tr>
 
-                                                                                            </tbody>
-                                                                                        </table>
-                                                                                    </div>
-                                                                                    <!--third table in end first Accordion-->
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </div>
+                                                                                <!--third table in end first Accordion-->
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!--first Accordion end-->
+
+
+                                                                    <!--second Accordion start-->
+                                                                    <div class="accordion-item">
+                                                                        <h2 class="accordion-header p-lg-2" id="headingTwo">
+                                                                            <button class="accordion-button collapsed"
+                                                                                type="button" data-bs-toggle="collapse"
+                                                                                data-bs-target="#collapseTwo"
+                                                                                aria-expanded="false"
+                                                                                aria-controls="collapseTwo">
+                                                                                STUDENTS' ACHIEVEMENT
+                                                                            </button>
+                                                                        </h2>
+                                                                        <div id="collapseTwo"
+                                                                            class="accordion-collapse collapse"
+                                                                            aria-labelledby="headingTwo"
+                                                                            data-bs-parent="#accordionExample">
+                                                                            <div class="accordion-body">
+                                                                                <!--second table started-->
+                                                                                <div class="mt-3 table-responsive">
+                                                                                    <table class="table table-bordered table-hover">
+                                                                                        <thead>
+                                                                                            <tr>
+                                                                                                <th>
+
+                                                                                                    Sr. No.
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Name of Event
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Year
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Organized <br>
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Name of Student <br>
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Remark
+
+                                                                                                </th>
+                                                                                            </tr>
+                                                                                        </thead>
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    01
+                                                                                                </td>
+                                                                                                <td>State Level Paper Presentation</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    MIT Polytechnic, Aurangabad
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Shruti Kulkarni
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Winner
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    02
+                                                                                                </td>
+                                                                                                <td>State Level Paper Presentation</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    MIT Polytechnic, Aurangabad
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Sneha Satpute
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Winner
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    03
+                                                                                                </td>
+                                                                                                <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    IEDSSA
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Shaikh Shafan Imam
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Runner up
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    04
+                                                                                                </td>
+                                                                                                <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    IEDSSA
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Omkesh R. Tandale
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Runner up
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    05
+                                                                                                </td>
+                                                                                                <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                <td>
+                                                                                                    2017-18
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    IEDSSA
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Umar Ulwan Khan
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Runner up
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    06
+                                                                                                </td>
+                                                                                                <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    IEDSSA
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Shaikh Yahya Shaikh Zakir
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Runner up
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    07
+                                                                                                </td>
+                                                                                                <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    IEDSSA
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Dusyant N. Sarje
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Runner up
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    08
+                                                                                                </td>
+                                                                                                <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Table Tennis.</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    IEDSSA
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Dusyant N. Sarje
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Runner up
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    09
+                                                                                                </td>
+                                                                                                <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in ATHLETICS.</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    IEDSSA
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Rohit D. Kapse
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Winner
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    10
+                                                                                                </td>
+                                                                                                <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    CSMSS COP
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Duigvijay Patil
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    3rd Rank
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    11
+                                                                                                </td>
+                                                                                                <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    CSMSS COP
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Shruti Kulkarni
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    2nd Rank
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    12
+                                                                                                </td>
+                                                                                                <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    CSMSS COP
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Sneha Satpute
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    2nd Rank
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    13
+                                                                                                </td>
+                                                                                                <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                <td>
+                                                                                                    2023-24
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    CSMSS COP
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Dusyant N. Sarje
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    3rd Rank
+                                                                                                </td>
+                                                                                            </tr>
+
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </div>
+                                                                                <!--second table end-->
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!--second Accordion end-->
+
+                                                                    <!--Third Accordion Start -->
+                                                                    <div class="accordion-item p-2 ">
+                                                                        <h2 class="accordion-header" id="headingThird">
+                                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                                                                data-bs-target="#collapseThird" aria-expanded="false" aria-controls="collapseThird">
+                                                                                DEPARTMENT ADVISORY BOARD (DAB)
+                                                                            </button>
+                                                                        </h2>
+                                                                        <div id="collapseThird" class="accordion-collapse collapse" aria-labelledby="headingThird"
+                                                                            data-bs-parent="#accordionExample">
+                                                                            <div class="accordion-body">
+                                                                                <div class="mt-3 table-responsive">
+                                                                                    <table class="table table-bordered table-hover">
+                                                                                        <thead>
+                                                                                            <tr>
+                                                                                                <th>
+
+                                                                                                    Sr. No.
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Name of the Committee Member
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Details
+
+                                                                                                </th>
+                                                                                            </tr>
+                                                                                        </thead>
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    01
+                                                                                                </td>
+                                                                                                <td>Mr. S.S. Madan</td>
+                                                                                                <td>
+                                                                                                    Chairman
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    02
+                                                                                                </td>
+                                                                                                <td>Mr. S.M. Awhale</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    03
+                                                                                                </td>
+                                                                                                <td>Mr. K. B. Tidke</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    04
+                                                                                                </td>
+                                                                                                <td>Mr.Sunil Kirdak</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    05
+                                                                                                </td>
+                                                                                                <td>Mr.Shankar Khodke</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    06
+                                                                                                </td>
+                                                                                                <td>Mr.Vaibhav Gosavi</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    07
+                                                                                                </td>
+                                                                                                <td>Mr.H.K.Chaudhari</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    08
+                                                                                                </td>
+                                                                                                <td>Mr. Yogesh Arsul</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    09
+                                                                                                </td>
+                                                                                                <td>Mr. Amol Borude</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    10
+                                                                                                </td>
+                                                                                                <td>Mr.Ravindra Kulkarni</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    11
+                                                                                                </td>
+                                                                                                <td>Mr.Anil Sansare</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <!--first Accordion end-->
+                                                                    </div>
+                                                                    <!-- Third Accordion end -->
 
+                                                                    <!-- Fourth Accordion start -->
+                                                                    <div class="accordion-item p-2 ">
+                                                                        <h2 class="accordion-header" id="headingFourth">
+                                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                                                                data-bs-target="#collapseFourth" aria-expanded="false" aria-controls="collapseFourth">
+                                                                                PROGRAMME ASSESSMENT COMMITTEE (PAC)
+                                                                            </button>
+                                                                        </h2>
+                                                                        <div id="collapseFourth" class="accordion-collapse collapse"
+                                                                            aria-labelledby="headingFourth" data-bs-parent="#accordionExample">
+                                                                            <div class="accordion-body">
+                                                                                <div class="mt-3 table-responsive">
+                                                                                    <table class="table table-bordered table-hover">
+                                                                                        <thead>
+                                                                                            <tr>
+                                                                                                <th>
 
-                                                                        <!--second Accordion start-->
+                                                                                                    Sr. No.
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Name of Faculty
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Representation <br>
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Designation <br>
+
+                                                                                                </th>
+                                                                                            </tr>
+                                                                                        </thead>
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    01
+                                                                                                </td>
+                                                                                                <td>Mr. S.S. Madan</td>
+                                                                                                <td>
+                                                                                                    Chairman
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    HOD
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    02
+                                                                                                </td>
+                                                                                                <td>Mr. S.M. Awhale</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    03
+                                                                                                </td>
+                                                                                                <td>Mrs. D.R. Lahore</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    04
+                                                                                                </td>
+                                                                                                <td>Mr. G.K. Sahane</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    05
+                                                                                                </td>
+                                                                                                <td>Mr. A.A. Sonawane</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    06
+                                                                                                </td>
+                                                                                                <td>Mr. V.R. Shelke</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    07
+                                                                                                </td>
+                                                                                                <td>Mrs. S.K. Ugale</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    08
+                                                                                                </td>
+                                                                                                <td>Mrs. S.K. Muley</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    09
+                                                                                                </td>
+                                                                                                <td>Mr. R.K. Chikne</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    10
+                                                                                                </td>
+                                                                                                <td>Mr. G.P. Rupnar</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    11
+                                                                                                </td>
+                                                                                                <td>Mr. K. B. Tidke</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    12
+                                                                                                </td>
+                                                                                                <td>Mrs. K.H. Pakhale</td>
+                                                                                                <td>
+                                                                                                    Member
+                                                                                                </td>
+                                                                                                <td>
+                                                                                                    Lecturer
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Fourth Accordion end -->
+                                                                    <!--fifth accordion started-->
+                                                                    <div class="accordion" id="accordionExample">
                                                                         <div class="accordion-item">
-                                                                            <h2 class="accordion-header p-lg-2" id="headingTwo">
-                                                                                <button class="accordion-button collapsed"
-                                                                                    type="button" data-bs-toggle="collapse"
-                                                                                    data-bs-target="#collapseTwo"
-                                                                                    aria-expanded="false"
-                                                                                    aria-controls="collapseTwo">
-                                                                                    STUDENTS' ACHIEVEMENT
+                                                                            <h2 class="accordion-header p-lg-2" id="headingOne">
+                                                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                                                                    data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapseOne">
+                                                                                    LIST OF LABORATORIES
                                                                                 </button>
                                                                             </h2>
-                                                                            <div id="collapseTwo"
-                                                                                class="accordion-collapse collapse"
-                                                                                aria-labelledby="headingTwo"
-                                                                                data-bs-parent="#accordionExample">
+                                                                            <div id="collapsefive" class="accordion-collapse collapse"
+                                                                                aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                                                 <div class="accordion-body">
-                                                                                    <!--second table started-->
                                                                                     <div class="mt-3 table-responsive">
                                                                                         <table class="table table-bordered table-hover">
                                                                                             <thead>
@@ -934,27 +1544,12 @@
                                                                                                     </th>
                                                                                                     <th>
 
-                                                                                                        Name of Event
+                                                                                                        Name of Laboratories
 
                                                                                                     </th>
                                                                                                     <th>
 
-                                                                                                        Year
-
-                                                                                                    </th>
-                                                                                                    <th>
-
-                                                                                                        Organized <br>
-
-                                                                                                    </th>
-                                                                                                    <th>
-
-                                                                                                        Name of Student <br>
-
-                                                                                                    </th>
-                                                                                                    <th>
-
-                                                                                                        Remark
+                                                                                                        Cost of Equipments (Rs.) <br>
 
                                                                                                     </th>
                                                                                                 </tr>
@@ -964,255 +1559,445 @@
                                                                                                     <td>
                                                                                                         01
                                                                                                     </td>
-                                                                                                    <td>State Level Paper Presentation</td>
+                                                                                                    <td>Theory of machines</td>
                                                                                                     <td>
-                                                                                                        2023-24
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        MIT Polytechnic, Aurangabad
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Shruti Kulkarni
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Winner
+                                                                                                        138668
                                                                                                     </td>
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         02
                                                                                                     </td>
-                                                                                                    <td>State Level Paper Presentation</td>
+                                                                                                    <td>Industrial Fluid Power</td>
                                                                                                     <td>
-                                                                                                        2023-24
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        MIT Polytechnic, Aurangabad
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Sneha Satpute
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Winner
+                                                                                                        423629
                                                                                                     </td>
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         03
                                                                                                     </td>
-                                                                                                    <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                    <td>Thermal Engineering</td>
                                                                                                     <td>
-                                                                                                        2023-24
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        IEDSSA
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Shaikh Shafan Imam
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Runner up
+                                                                                                        45475
                                                                                                     </td>
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         04
                                                                                                     </td>
-                                                                                                    <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                    <td>Metrology &amp; Quality control</td>
                                                                                                     <td>
-                                                                                                        2023-24
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        IEDSSA
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Omkesh R. Tandale
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Runner up
+                                                                                                        235835.1
                                                                                                     </td>
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         05
                                                                                                     </td>
-                                                                                                    <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                    <td>Fluid Mechanics &amp; Machinery</td>
                                                                                                     <td>
-                                                                                                        2017-18
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        IEDSSA
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Umar Ulwan Khan
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Runner up
+                                                                                                        334447
                                                                                                     </td>
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         06
                                                                                                     </td>
-                                                                                                    <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                    <td>Power Engineering</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        193593
                                                                                                     </td>
-                                                                                                    <td>
-                                                                                                        IEDSSA
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Shaikh Yahya Shaikh Zakir
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Runner up
-                                                                                                    </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         07
                                                                                                     </td>
-                                                                                                    <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</td>
+                                                                                                    <td>Measurement &amp; Control</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        106666
                                                                                                     </td>
-                                                                                                    <td>
-                                                                                                        IEDSSA
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Dusyant N. Sarje
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Runner up
-                                                                                                    </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         08
                                                                                                     </td>
-                                                                                                    <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in Table Tennis.</td>
+                                                                                                    <td>Design of Machine Elements</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        41000
                                                                                                     </td>
-                                                                                                    <td>
-                                                                                                        IEDSSA
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Dusyant N. Sarje
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Runner up
-                                                                                                    </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         09
                                                                                                     </td>
-                                                                                                    <td>IEDSSA (Inter Engineering Diploma Students Sport Association.) in ATHLETICS.</td>
+                                                                                                    <td>CNC LAB</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        1399906.25
                                                                                                     </td>
-                                                                                                    <td>
-                                                                                                        IEDSSA
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Rohit D. Kapse
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Winner
-                                                                                                    </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         10
                                                                                                     </td>
-                                                                                                    <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                    <td>CAD LAB</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        800000
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        CSMSS COP
+                                                                                                        <b>Total</b>
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        Duigvijay Patil
+                                                                                                        <b>3719219.35</b>
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                            </tbody>
+                                                                                        </table>
+                                                                                    </div>
+                                                                                    <!--fifth Accordion end-->
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!--six Accordion start-->
+                                                                        <div class="accordion-item">
+                                                                            <h2 class="accordion-header p-lg-2" id="headingTwo">
+                                                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                                                                    data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                    OUR ALUMNI
+                                                                                </button>
+                                                                            </h2>
+                                                                            <div id="collapsesix" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                                                                data-bs-parent="#accordionExample">
+                                                                                <div class="accordion-body">
+                                                                                    <div class="mt-3 table-responsive">
+                                                                                        <table class="table table-bordered table-hover">
+                                                                                            <thead>
+                                                                                                <tr>
+                                                                                                    <th>
+
+                                                                                                        Sr. No.
+
+                                                                                                    </th>
+                                                                                                    <th>
+
+                                                                                                        Name of Student
+
+                                                                                                    </th>
+                                                                                                    <th>
+
+                                                                                                        Year of Passing
+
+                                                                                                    </th>
+                                                                                                    <th>
+
+                                                                                                        Achievement Details
+
+                                                                                                    </th>
+                                                                                                </tr>
+                                                                                            </thead>
+                                                                                            <tbody>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        01
+                                                                                                    </td>
+                                                                                                    <td>KHAIRNAR NIKHIL DEEPAK</td>
+                                                                                                    <td>
+                                                                                                        2011-12
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        3rd Rank
+                                                                                                        SR.ASSOCIATE CONSULTANT SAP MM INFOSYS LTD.PUNE
                                                                                                     </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        02
+                                                                                                    </td>
+                                                                                                    <td>PATHAN WAJEED HAMIDKHAN</td>
+                                                                                                    <td>
+                                                                                                        2012-13
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        ASSISTANT MANAGER ,SUZUKI MOTOR GUJARAT PRIVATE LIMITED
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        03
+                                                                                                    </td>
+                                                                                                    <td>ARSUL YOGESH KAILAS</td>
+                                                                                                    <td>
+                                                                                                        2013-14
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        DY. MANAGER APPLICATION ENGINEERING (R&amp;D BUSINESS UNIT PUNE) KIRLOSKAR OIL ENGINES LIMITED
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        04
+                                                                                                    </td>
+                                                                                                    <td>SALVE KARUNA BHAGAWANRAO</td>
+                                                                                                    <td>
+                                                                                                        2013-14
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        PRODUCTION PLANNER, KONECRANES ,PUNE
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        05
+                                                                                                    </td>
+                                                                                                    <td>HARDE PRAVIN TUKARAM</td>
+                                                                                                    <td>
+                                                                                                        2013-14
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        SR. ENGINEER ( UTILITY) AT JK TYRE &amp; INDUSTRIES LTD
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        06
+                                                                                                    </td>
+                                                                                                    <td>KULKARNI ANUP ANILRAO</td>
+                                                                                                    <td>
+                                                                                                        2014-15
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        FOUNDER, SPHURIT TECHNOLOGIES , GROWTH CONSULTANT , DIGITAL MARKETING EXPERT
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        07
+                                                                                                    </td>
+                                                                                                    <td>WAKLE MANISHA SAKHAHARI</td>
+                                                                                                    <td>
+                                                                                                        2014-15
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        JE, MAHAGENCO,GOVT. OF MAHARASHTRA
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        08
+                                                                                                    </td>
+                                                                                                    <td>NAZIMUDDIN RAZIUDDIN F.</td>
+                                                                                                    <td>
+                                                                                                        2014-15
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        SALES ADMINISTRATION ,GREAVES COTTON LIMITED
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        09
+                                                                                                    </td>
+                                                                                                    <td>KARANDE SHAILESH SHIVAJI</td>
+                                                                                                    <td>
+                                                                                                        2015-16
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        DEPUTY MANAGER AT GODREJ TOOLING
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        10
+                                                                                                    </td>
+                                                                                                    <td>BORUDE ROHIT VISHNU</td>
+                                                                                                    <td>
+                                                                                                        2015-16
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        STARTED OWN IT COMPANY “SNYAM TECH SOFTWARE”
+                                                                                                    </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         11
                                                                                                     </td>
-                                                                                                    <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                    <td>WAGH YOGESH ATMARAM</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        2015-16
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        CSMSS COP
+                                                                                                        DESIGN ENGINEER (BIW JIG &amp; FIXTURES) ROBTECH AUTOMATION &amp; SERVICES,PUNE.
                                                                                                     </td>
-                                                                                                    <td>
-                                                                                                        Shruti Kulkarni
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        2nd Rank
-                                                                                                    </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         12
                                                                                                     </td>
-                                                                                                    <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                    <td>KALATRE KRISHNA RAMRAO</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        2016-17
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        CSMSS COP
+                                                                                                        GRAPHICS &amp; ADVANCED GRAPHIC SPECIALIST AT JONH DEERE INDIA
                                                                                                     </td>
-                                                                                                    <td>
-                                                                                                        Sneha Satpute
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        2nd Rank
-                                                                                                    </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         13
                                                                                                     </td>
-                                                                                                    <td>National Conference entitled “Recent Innovations and Best Practices in Science and Technology”</td>
+                                                                                                    <td>CHOURE POOJA SHRIHAREE</td>
                                                                                                     <td>
-                                                                                                        2023-24
+                                                                                                        2016-17
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        CSMSS COP
+                                                                                                        DESIGN ENGINEER,AT OSBORN LIPPERT PVT.LTD.
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        14
+                                                                                                    </td>
+                                                                                                    <td>SARAF AMIT ANANT</td>
+                                                                                                    <td>
+                                                                                                        2016-17
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        Dusyant N. Sarje
+                                                                                                        CUSTOMER RETENTION SPECIALIST &amp; CUSTOMER DELIGHT HEAD. UGAOO AGRI TECH.PUNE
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        15
+                                                                                                    </td>
+                                                                                                    <td>CHAWALI SACHIN BALAJI</td>
+                                                                                                    <td>
+                                                                                                        2017-18
                                                                                                     </td>
                                                                                                     <td>
-                                                                                                        3rd Rank
+                                                                                                        SENIOR ENGINEER JCB INDIA LTD. PUNE
                                                                                                     </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        16
+                                                                                                    </td>
+                                                                                                    <td>PRATHAMESH RAJESH DHAMANE</td>
+                                                                                                    <td>
+                                                                                                        2017-18
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        EXECUTIVE AT SIEMENS ENERGY
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        17
+                                                                                                    </td>
+                                                                                                    <td>BOKIL PRASAD PRADEEPRAO</td>
+                                                                                                    <td>
+                                                                                                        2018-19
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        EQUIPMENT ENGINEER AT ITW INDIA PVT LTD
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        18
+                                                                                                    </td>
+                                                                                                    <td>KAYASTH MAYUR RAJENDRA</td>
+                                                                                                    <td>
+                                                                                                        2018-19
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        DATA ENGINEER AT TATA CONSULTANCY SERVICES,PUNE
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        19
+                                                                                                    </td>
+                                                                                                    <td>BHAVAR GANESH BABASAHEB</td>
+                                                                                                    <td>
+                                                                                                        2018-19
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        ASSOCIATE AT COGNIZANT (SAP HCM &amp; SAP ABAP CONSULTANT)
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        20
+                                                                                                    </td>
+                                                                                                    <td>BORUDE AMOL CHANGDEO</td>
+                                                                                                    <td>
+                                                                                                        2019-20
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        CEO ,HAPPAZON TECHNOLOGIES,AURANGABAD.
+                                                                                                    </td>
+
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td>
+                                                                                                        21
+                                                                                                    </td>
+                                                                                                    <td>PRADHAN SHUBHAM PRAKASH</td>
+                                                                                                    <td>
+                                                                                                        2019-20
+                                                                                                    </td>
+                                                                                                    <td>
+                                                                                                        PROJECT ENGINEER WIPRO,PUNE
+                                                                                                    </td>
+
                                                                                                 </tr>
 
                                                                                             </tbody>
                                                                                         </table>
                                                                                     </div>
-                                                                                    <!--second table end-->
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <!--second Accordion end-->
+                                                                        <!--six Accordion end-->
 
-                                                                        <!--Third Accordion Start -->
-                                                                        <div class="accordion-item p-2 ">
-                                                                            <h2 class="accordion-header" id="headingThird">
+                                                                        <!--seven Accordion start-->
+                                                                        <div class="accordion-item">
+                                                                            <h2 class="accordion-header p-lg-2" id="headingTwo">
                                                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                    data-bs-target="#collapseThird" aria-expanded="false" aria-controls="collapseThird">
-                                                                                    DEPARTMENT ADVISORY BOARD (DAB)
+                                                                                    data-bs-target="#collapseseven" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                    STUDENTS' ASSOCIATION (MESA) 2023-24:
                                                                                 </button>
                                                                             </h2>
-                                                                            <div id="collapseThird" class="accordion-collapse collapse" aria-labelledby="headingThird"
+                                                                            <div id="collapseseven" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                                                                 data-bs-parent="#accordionExample">
                                                                                 <div class="accordion-body">
                                                                                     <div class="mt-3 table-responsive">
@@ -1226,12 +2011,12 @@
                                                                                                     </th>
                                                                                                     <th>
 
-                                                                                                        Name of the Committee Member
+                                                                                                        Name of the Candidate
 
                                                                                                     </th>
                                                                                                     <th>
 
-                                                                                                        Details
+                                                                                                        Post <br>
 
                                                                                                     </th>
                                                                                                 </tr>
@@ -1241,1056 +2026,260 @@
                                                                                                     <td>
                                                                                                         01
                                                                                                     </td>
-                                                                                                    <td>Mr. S.S. Madan</td>
+                                                                                                    <td>MS. SHRUTI KULKARNI</td>
                                                                                                     <td>
-                                                                                                        Chairman
+                                                                                                        PRESIDENT
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         02
                                                                                                     </td>
-                                                                                                    <td>Mr. S.M. Awhale</td>
+                                                                                                    <td>MR. GANESH RAUT</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        VICE PRESIDENT
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         03
                                                                                                     </td>
-                                                                                                    <td>Mr. K. B. Tidke</td>
+                                                                                                    <td>MR. MALVIK ZODGE</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        SECRETARY
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         04
                                                                                                     </td>
-                                                                                                    <td>Mr.Sunil Kirdak</td>
+                                                                                                    <td>MS. SNEHA SATPUTE</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        EDITORIAL /DOCUMENTATION HEAD
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         05
                                                                                                     </td>
-                                                                                                    <td>Mr.Shankar Khodke</td>
+                                                                                                    <td>MR. AADARSH BORSE</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        CULTURAL HEAD
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         06
                                                                                                     </td>
-                                                                                                    <td>Mr.Vaibhav Gosavi</td>
+                                                                                                    <td>MR. OM TAUR</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        SPORT HEAD
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         07
                                                                                                     </td>
-                                                                                                    <td>Mr.H.K.Chaudhari</td>
+                                                                                                    <td>MS. ANUSHKA HAMAND</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        LADY REPRESENTATIVE
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         08
                                                                                                     </td>
-                                                                                                    <td>Mr. Yogesh Arsul</td>
+                                                                                                    <td>MR. DUSYANT SARJE</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        TREASURER
                                                                                                     </td>
+
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td>
                                                                                                         09
                                                                                                     </td>
-                                                                                                    <td>Mr. Amol Borude</td>
+                                                                                                    <td>MR. SOPAN RAUT</td>
                                                                                                     <td>
-                                                                                                        Member
+                                                                                                        SOCIAL ACTIVITY HEAD
                                                                                                     </td>
+
                                                                                                 </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        10
-                                                                                                    </td>
-                                                                                                    <td>Mr.Ravindra Kulkarni</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        11
-                                                                                                    </td>
-                                                                                                    <td>Mr.Anil Sansare</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                </tr>
+
                                                                                             </tbody>
                                                                                         </table>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <!-- Third Accordion end -->
-
-                                                                        <!-- Fourth Accordion start -->
-                                                                        <div class="accordion-item p-2 ">
-                                                                            <h2 class="accordion-header" id="headingFourth">
+                                                                        <!--seventh Accordion end-->
+                                                                        <!--eight Accordion start-->
+                                                                        <div class="accordion-item">
+                                                                            <h2 class="accordion-header p-lg-2" id="headingTwo">
                                                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                    data-bs-target="#collapseFourth" aria-expanded="false" aria-controls="collapseFourth">
-                                                                                    PROGRAMME ASSESSMENT COMMITTEE (PAC)
+                                                                                    data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                    DEPARTMENT MOU's
                                                                                 </button>
                                                                             </h2>
-                                                                            <div id="collapseFourth" class="accordion-collapse collapse"
-                                                                                aria-labelledby="headingFourth" data-bs-parent="#accordionExample">
+                                                                            <div id="collapseeight" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                                                                data-bs-parent="#accordionExample">
+                                                                                <div class="mt-3 table-responsive">
+                                                                                    <table class="table table-bordered table-hover">
+                                                                                        <thead>
+                                                                                            <tr>
+                                                                                                <th>
+
+                                                                                                    Sr. No.
+
+                                                                                                </th>
+                                                                                                <th>
+
+                                                                                                    Name of Company
+
+                                                                                                </th>
+                                                                                            </tr>
+                                                                                        </thead>
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    01
+                                                                                                </td>
+                                                                                                <td>Marathawada Auto Cluster, Waluj, MIDC Aurangabad.</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    02
+                                                                                                </td>
+                                                                                                <td>OTTOFlame Edutech Services</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    03
+                                                                                                </td>
+                                                                                                <td>Marathawada Association of Small Scale Industries and Agriculture (MASSIA), Hub Industry</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    04
+                                                                                                </td>
+                                                                                                <td>DNR India Auto Tech Pvt. Ltd.</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    05
+                                                                                                </td>
+                                                                                                <td>Tool Tech Tooling</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td>
+                                                                                                    06
+                                                                                                </td>
+                                                                                                <td>Gangamai Industries and Constructions Ltd.</td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!--eight Accordion end-->
+                                                                        <!--nine Accordion start-->
+                                                                        <div class="accordion-item">
+                                                                            <h2 class="accordion-header p-lg-2" id="headingTwo">
+                                                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                                                                    data-bs-target="#collapsenine" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                    DEPARTMENT PROJECTS
+                                                                                </button>
+                                                                            </h2>
+                                                                            <div id="collapsenine" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                                                                data-bs-parent="#accordionExample">
                                                                                 <div class="accordion-body">
-                                                                                    <div class="mt-3 table-responsive">
-                                                                                        <table class="table table-bordered table-hover">
-                                                                                            <thead>
-                                                                                                <tr>
-                                                                                                    <th>
 
-                                                                                                        Sr. No.
+                                                                                    <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2020-21</u></strong></p>
+                                                                                    <ul>
+                                                                                        <li style="list-style-type: disc;">Power Hammering Machine</li>
+                                                                                        <li style="list-style-type: disc;"> Find out Defect and maintenance with Bagga Boring Works</li>
+                                                                                        <li style="list-style-type: disc;"> Design and development of fixture with Galexy Engineering works</li>
+                                                                                        <li style="list-style-type: disc;"> Vehicle Black Box System (VBBS)</li>
+                                                                                        <li style="list-style-type: disc;"> Surface Condensor</li>
+                                                                                        <li style="list-style-type: disc;"> Impacts of jet (Experimental set up)</li>
+                                                                                        <li style="list-style-type: disc;"> Pedal Operated Hacksaw</li>
+                                                                                        <li style="list-style-type: disc;"> Development of material handling system with Abhijeet Agro Center</li>
+                                                                                        <li style="list-style-type: disc;"> Design of Burr cleaning system with Prabhakar Engineering</li>
+                                                                                        <li style="list-style-type: disc;"> Solar Tree</li>
+                                                                                        <li style="list-style-type: disc;"> Automatic Black Borad Cleaner</li>
+                                                                                    </ul>
+                                                                                    <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2021-22</u></strong></p>
+                                                                                    <ul>
+                                                                                        <li style="list-style-type: disc;">Semi Automated Floor cleaning Machine</li>
+                                                                                        <li style="list-style-type: disc;">Automatic Dog Feeder</li>
+                                                                                        <li style="list-style-type: disc;">Electrically Height adjustable Table</li>
+                                                                                        <li style="list-style-type: disc;">Pedal Power</li>
+                                                                                        <li style="list-style-type: disc;">U turn accident prevention</li>
+                                                                                        <li style="list-style-type: disc;">Obstacle Avoider Robot</li>
+                                                                                        <li style="list-style-type: disc;">LPG and CNG Gas Detector</li>
+                                                                                        <li style="list-style-type: disc;">Box Shifting Machine</li>
+                                                                                        <li style="list-style-type: disc;">Regenerative Bracking System</li>
+                                                                                        <li style="list-style-type: disc;">Singlr Axis Solar Tracker</li>
+                                                                                        <li style="list-style-type: disc;">Design And Fabrication of Agriculture sprayer</li>
+                                                                                        <li style="list-style-type: disc;">Electromagnetic Braking System</li>
+                                                                                        <li style="list-style-type: disc;">Green Energy City</li>
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                    </ul>
+                                                                                    <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2022-23</u></strong></p>
+                                                                                    <ul>
+                                                                                        <li style="list-style-type: disc;">Solar radiation tracking system</li>
+                                                                                        <li style="list-style-type: disc;">Solar energy operated grass cutter</li>
+                                                                                        <li style="list-style-type: disc;">Automatic spray pump</li>
+                                                                                        <li style="list-style-type: disc;">Alchohol detector</li>
+                                                                                        <li style="list-style-type: disc;">Mobile hydro-electric generator</li>
+                                                                                        <li style="list-style-type: disc;">Solar panel cleaning machine</li>
+                                                                                        <li style="list-style-type: disc;">Belt drive grinding machine</li>
+                                                                                        <li style="list-style-type: disc;">Air pollution control electrostatic precipetator</li>
+                                                                                        <li style="list-style-type: disc;">Ecofriendly road footpath cleaning machine</li>
+                                                                                        <li style="list-style-type: disc;">Smart dust bin</li>
+                                                                                        <li style="list-style-type: disc;">Solar electric vehicle</li>
+                                                                                        <li style="list-style-type: disc;">Collision mitigation adas system.</li>
+                                                                                        <li style="list-style-type: disc;">Electromagnetic breaking system</li>
+                                                                                        <li style="list-style-type: disc;">Ecofriendly pyrolysis product</li>
 
-                                                                                                        Name of Faculty
+                                                                                    </ul>
 
-                                                                                                    </th>
-                                                                                                    <th>
+                                                                                    <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2023-24</u></strong></p>
+                                                                                    <ul>
+                                                                                        <li style="list-style-type: disc;">Eye Blink Sensor Smart Irrigation System</li>
 
-                                                                                                        Representation <br>
+                                                                                        <li style="list-style-type: disc;">Automatic bike stand</li>
+                                                                                        <li style="list-style-type: disc;">Electriciy Generation by using foot step</li>
+                                                                                        <li style="list-style-type: disc;">To find a mechanism which keeps the workpiece clamped unless the entire machining is done</li>
+                                                                                        <li style="list-style-type: disc;">Shaft Driven Bicycle</li>
+                                                                                        <li style="list-style-type: disc;">Regenerative Braking System</li>
+                                                                                        <li style="list-style-type: disc;">Solution on Blow Holes in Casting</li>
+                                                                                        <li style="list-style-type: disc;">Cut-Section of Vehicle</li>
+                                                                                        <li style="list-style-type: disc;">Air Water Heater</li>
+                                                                                        <li style="list-style-type: disc;">Steering Control Head Light </li>
+                                                                                    </ul>
 
-                                                                                                    </th>
-                                                                                                    <th>
-
-                                                                                                        Designation <br>
-
-                                                                                                    </th>
-                                                                                                </tr>
-                                                                                            </thead>
-                                                                                            <tbody>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        01
-                                                                                                    </td>
-                                                                                                    <td>Mr. S.S. Madan</td>
-                                                                                                    <td>
-                                                                                                        Chairman
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        HOD
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        02
-                                                                                                    </td>
-                                                                                                    <td>Mr. S.M. Awhale</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        03
-                                                                                                    </td>
-                                                                                                    <td>Mrs. D.R. Lahore</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        04
-                                                                                                    </td>
-                                                                                                    <td>Mr. G.K. Sahane</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        05
-                                                                                                    </td>
-                                                                                                    <td>Mr. A.A. Sonawane</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        06
-                                                                                                    </td>
-                                                                                                    <td>Mr. V.R. Shelke</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        07
-                                                                                                    </td>
-                                                                                                    <td>Mrs. S.K. Ugale</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        08
-                                                                                                    </td>
-                                                                                                    <td>Mrs. S.K. Muley</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        09
-                                                                                                    </td>
-                                                                                                    <td>Mr. R.K. Chikne</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        10
-                                                                                                    </td>
-                                                                                                    <td>Mr. G.P. Rupnar</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        11
-                                                                                                    </td>
-                                                                                                    <td>Mr. K. B. Tidke</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        12
-                                                                                                    </td>
-                                                                                                    <td>Mrs. K.H. Pakhale</td>
-                                                                                                    <td>
-                                                                                                        Member
-                                                                                                    </td>
-                                                                                                    <td>
-                                                                                                        Lecturer
-                                                                                                    </td>
-                                                                                                </tr>
-                                                                                            </tbody>
-                                                                                        </table>
-                                                                                    </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <!-- Fourth Accordion end -->
-                                                                        <!--fifth accordion started-->
-                                                                        <div class="accordion" id="accordionExample">
-                                                                            <div class="accordion-item">
-                                                                                <h2 class="accordion-header p-lg-2" id="headingOne">
-                                                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                        data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapseOne">
-                                                                                        LIST OF LABORATORIES
-                                                                                    </button>
-                                                                                </h2>
-                                                                                <div id="collapsefive" class="accordion-collapse collapse"
-                                                                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                                                                    <div class="accordion-body">
-                                                                                        <div class="mt-3 table-responsive">
-                                                                                            <table class="table table-bordered table-hover">
-                                                                                                <thead>
-                                                                                                    <tr>
-                                                                                                        <th>
-
-                                                                                                            Sr. No.
-
-                                                                                                        </th>
-                                                                                                        <th>
-
-                                                                                                            Name of Laboratories
-
-                                                                                                        </th>
-                                                                                                        <th>
-
-                                                                                                            Cost of Equipments (Rs.) <br>
-
-                                                                                                        </th>
-                                                                                                    </tr>
-                                                                                                </thead>
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            01
-                                                                                                        </td>
-                                                                                                        <td>Theory of machines</td>
-                                                                                                        <td>
-                                                                                                            138668
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            02
-                                                                                                        </td>
-                                                                                                        <td>Industrial Fluid Power</td>
-                                                                                                        <td>
-                                                                                                            423629
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            03
-                                                                                                        </td>
-                                                                                                        <td>Thermal Engineering</td>
-                                                                                                        <td>
-                                                                                                            45475
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            04
-                                                                                                        </td>
-                                                                                                        <td>Metrology &amp; Quality control</td>
-                                                                                                        <td>
-                                                                                                            235835.1
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            05
-                                                                                                        </td>
-                                                                                                        <td>Fluid Mechanics &amp; Machinery</td>
-                                                                                                        <td>
-                                                                                                            334447
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            06
-                                                                                                        </td>
-                                                                                                        <td>Power Engineering</td>
-                                                                                                        <td>
-                                                                                                            193593
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            07
-                                                                                                        </td>
-                                                                                                        <td>Measurement &amp; Control</td>
-                                                                                                        <td>
-                                                                                                            106666
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            08
-                                                                                                        </td>
-                                                                                                        <td>Design of Machine Elements</td>
-                                                                                                        <td>
-                                                                                                            41000
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            09
-                                                                                                        </td>
-                                                                                                        <td>CNC LAB</td>
-                                                                                                        <td>
-                                                                                                            1399906.25
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            10
-                                                                                                        </td>
-                                                                                                        <td>CAD LAB</td>
-                                                                                                        <td>
-                                                                                                            800000
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            <b>Total</b>
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            <b>3719219.35</b>
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
-                                                                                        </div>
-                                                                                        <!--fifth Accordion end-->
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <!--six Accordion start-->
-                                                                            <div class="accordion-item">
-                                                                                <h2 class="accordion-header p-lg-2" id="headingTwo">
-                                                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                        data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapseTwo">
-                                                                                        OUR ALUMNI
-                                                                                    </button>
-                                                                                </h2>
-                                                                                <div id="collapsesix" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                                                    data-bs-parent="#accordionExample">
-                                                                                    <div class="accordion-body">
-                                                                                        <div class="mt-3 table-responsive">
-                                                                                            <table class="table table-bordered table-hover">
-                                                                                                <thead>
-                                                                                                    <tr>
-                                                                                                        <th>
-
-                                                                                                            Sr. No.
-
-                                                                                                        </th>
-                                                                                                        <th>
-
-                                                                                                            Name of Student
-
-                                                                                                        </th>
-                                                                                                        <th>
-
-                                                                                                            Year of Passing
-
-                                                                                                        </th>
-                                                                                                        <th>
-
-                                                                                                            Achievement Details
-
-                                                                                                        </th>
-                                                                                                    </tr>
-                                                                                                </thead>
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            01
-                                                                                                        </td>
-                                                                                                        <td>KHAIRNAR NIKHIL DEEPAK</td>
-                                                                                                        <td>
-                                                                                                            2011-12
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            SR.ASSOCIATE CONSULTANT SAP MM INFOSYS LTD.PUNE
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            02
-                                                                                                        </td>
-                                                                                                        <td>PATHAN WAJEED HAMIDKHAN</td>
-                                                                                                        <td>
-                                                                                                            2012-13
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            ASSISTANT MANAGER ,SUZUKI MOTOR GUJARAT PRIVATE LIMITED
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            03
-                                                                                                        </td>
-                                                                                                        <td>ARSUL YOGESH KAILAS</td>
-                                                                                                        <td>
-                                                                                                            2013-14
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            DY. MANAGER APPLICATION ENGINEERING (R&amp;D BUSINESS UNIT PUNE) KIRLOSKAR OIL ENGINES LIMITED
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            04
-                                                                                                        </td>
-                                                                                                        <td>SALVE KARUNA BHAGAWANRAO</td>
-                                                                                                        <td>
-                                                                                                            2013-14
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            PRODUCTION PLANNER, KONECRANES ,PUNE
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            05
-                                                                                                        </td>
-                                                                                                        <td>HARDE PRAVIN TUKARAM</td>
-                                                                                                        <td>
-                                                                                                            2013-14
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            SR. ENGINEER ( UTILITY) AT JK TYRE &amp; INDUSTRIES LTD
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            06
-                                                                                                        </td>
-                                                                                                        <td>KULKARNI ANUP ANILRAO</td>
-                                                                                                        <td>
-                                                                                                            2014-15
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            FOUNDER, SPHURIT TECHNOLOGIES , GROWTH CONSULTANT , DIGITAL MARKETING EXPERT
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            07
-                                                                                                        </td>
-                                                                                                        <td>WAKLE MANISHA SAKHAHARI</td>
-                                                                                                        <td>
-                                                                                                            2014-15
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            JE, MAHAGENCO,GOVT. OF MAHARASHTRA
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            08
-                                                                                                        </td>
-                                                                                                        <td>NAZIMUDDIN RAZIUDDIN F.</td>
-                                                                                                        <td>
-                                                                                                            2014-15
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            SALES ADMINISTRATION ,GREAVES COTTON LIMITED
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            09
-                                                                                                        </td>
-                                                                                                        <td>KARANDE SHAILESH SHIVAJI</td>
-                                                                                                        <td>
-                                                                                                            2015-16
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            DEPUTY MANAGER AT GODREJ TOOLING
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            10
-                                                                                                        </td>
-                                                                                                        <td>BORUDE ROHIT VISHNU</td>
-                                                                                                        <td>
-                                                                                                            2015-16
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            STARTED OWN IT COMPANY “SNYAM TECH SOFTWARE”
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            11
-                                                                                                        </td>
-                                                                                                        <td>WAGH YOGESH ATMARAM</td>
-                                                                                                        <td>
-                                                                                                            2015-16
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            DESIGN ENGINEER (BIW JIG &amp; FIXTURES) ROBTECH AUTOMATION &amp; SERVICES,PUNE.
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            12
-                                                                                                        </td>
-                                                                                                        <td>KALATRE KRISHNA RAMRAO</td>
-                                                                                                        <td>
-                                                                                                            2016-17
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            GRAPHICS &amp; ADVANCED GRAPHIC SPECIALIST AT JONH DEERE INDIA
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            13
-                                                                                                        </td>
-                                                                                                        <td>CHOURE POOJA SHRIHAREE</td>
-                                                                                                        <td>
-                                                                                                            2016-17
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            DESIGN ENGINEER,AT OSBORN LIPPERT PVT.LTD.
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            14
-                                                                                                        </td>
-                                                                                                        <td>SARAF AMIT ANANT</td>
-                                                                                                        <td>
-                                                                                                            2016-17
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            CUSTOMER RETENTION SPECIALIST &amp; CUSTOMER DELIGHT HEAD. UGAOO AGRI TECH.PUNE
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            15
-                                                                                                        </td>
-                                                                                                        <td>CHAWALI SACHIN BALAJI</td>
-                                                                                                        <td>
-                                                                                                            2017-18
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            SENIOR ENGINEER JCB INDIA LTD. PUNE
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            16
-                                                                                                        </td>
-                                                                                                        <td>PRATHAMESH RAJESH DHAMANE</td>
-                                                                                                        <td>
-                                                                                                            2017-18
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            EXECUTIVE AT SIEMENS ENERGY
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            17
-                                                                                                        </td>
-                                                                                                        <td>BOKIL PRASAD PRADEEPRAO</td>
-                                                                                                        <td>
-                                                                                                            2018-19
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            EQUIPMENT ENGINEER AT ITW INDIA PVT LTD
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            18
-                                                                                                        </td>
-                                                                                                        <td>KAYASTH MAYUR RAJENDRA</td>
-                                                                                                        <td>
-                                                                                                            2018-19
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            DATA ENGINEER AT TATA CONSULTANCY SERVICES,PUNE
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            19
-                                                                                                        </td>
-                                                                                                        <td>BHAVAR GANESH BABASAHEB</td>
-                                                                                                        <td>
-                                                                                                            2018-19
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            ASSOCIATE AT COGNIZANT (SAP HCM &amp; SAP ABAP CONSULTANT)
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            20
-                                                                                                        </td>
-                                                                                                        <td>BORUDE AMOL CHANGDEO</td>
-                                                                                                        <td>
-                                                                                                            2019-20
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            CEO ,HAPPAZON TECHNOLOGIES,AURANGABAD.
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            21
-                                                                                                        </td>
-                                                                                                        <td>PRADHAN SHUBHAM PRAKASH</td>
-                                                                                                        <td>
-                                                                                                            2019-20
-                                                                                                        </td>
-                                                                                                        <td>
-                                                                                                            PROJECT ENGINEER WIPRO,PUNE
-                                                                                                        </td>
-
-                                                                                                    </tr>
-
-                                                                                                </tbody>
-                                                                                            </table>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <!--six Accordion end-->
-
-                                                                            <!--seven Accordion start-->
-                                                                            <div class="accordion-item">
-                                                                                <h2 class="accordion-header p-lg-2" id="headingTwo">
-                                                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                        data-bs-target="#collapseseven" aria-expanded="false" aria-controls="collapseTwo">
-                                                                                        STUDENTS' ASSOCIATION (MESA) 2023-24:
-                                                                                    </button>
-                                                                                </h2>
-                                                                                <div id="collapseseven" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                                                    data-bs-parent="#accordionExample">
-                                                                                    <div class="accordion-body">
-                                                                                        <div class="mt-3 table-responsive">
-                                                                                            <table class="table table-bordered table-hover">
-                                                                                                <thead>
-                                                                                                    <tr>
-                                                                                                        <th>
-
-                                                                                                            Sr. No.
-
-                                                                                                        </th>
-                                                                                                        <th>
-
-                                                                                                            Name of the Candidate
-
-                                                                                                        </th>
-                                                                                                        <th>
-
-                                                                                                            Post <br>
-
-                                                                                                        </th>
-                                                                                                    </tr>
-                                                                                                </thead>
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            01
-                                                                                                        </td>
-                                                                                                        <td>MS. SHRUTI KULKARNI</td>
-                                                                                                        <td>
-                                                                                                            PRESIDENT
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            02
-                                                                                                        </td>
-                                                                                                        <td>MR. GANESH RAUT</td>
-                                                                                                        <td>
-                                                                                                            VICE PRESIDENT
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            03
-                                                                                                        </td>
-                                                                                                        <td>MR. MALVIK ZODGE</td>
-                                                                                                        <td>
-                                                                                                            SECRETARY
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            04
-                                                                                                        </td>
-                                                                                                        <td>MS. SNEHA SATPUTE</td>
-                                                                                                        <td>
-                                                                                                            EDITORIAL /DOCUMENTATION HEAD
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            05
-                                                                                                        </td>
-                                                                                                        <td>MR. AADARSH BORSE</td>
-                                                                                                        <td>
-                                                                                                            CULTURAL HEAD
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            06
-                                                                                                        </td>
-                                                                                                        <td>MR. OM TAUR</td>
-                                                                                                        <td>
-                                                                                                            SPORT HEAD
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            07
-                                                                                                        </td>
-                                                                                                        <td>MS. ANUSHKA HAMAND</td>
-                                                                                                        <td>
-                                                                                                            LADY REPRESENTATIVE
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            08
-                                                                                                        </td>
-                                                                                                        <td>MR. DUSYANT SARJE</td>
-                                                                                                        <td>
-                                                                                                            TREASURER
-                                                                                                        </td>
-
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td>
-                                                                                                            09
-                                                                                                        </td>
-                                                                                                        <td>MR. SOPAN RAUT</td>
-                                                                                                        <td>
-                                                                                                            SOCIAL ACTIVITY HEAD
-                                                                                                        </td>
-
-                                                                                                    </tr>
-
-                                                                                                </tbody>
-                                                                                            </table>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <!--seventh Accordion end-->
-                                                                            <!--eight Accordion start-->
-                                                                            <div class="accordion-item">
-                                                                                <h2 class="accordion-header p-lg-2" id="headingTwo">
-                                                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                        data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseTwo">
-                                                                                        DEPARTMENT MOU's
-                                                                                    </button>
-                                                                                </h2>
-                                                                                <div id="collapseeight" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                                                    data-bs-parent="#accordionExample">
-                                                                                    <div class="mt-3 table-responsive">
-                                                                                        <table class="table table-bordered table-hover">
-                                                                                            <thead>
-                                                                                                <tr>
-                                                                                                    <th>
-
-                                                                                                        Sr. No.
-
-                                                                                                    </th>
-                                                                                                    <th>
-
-                                                                                                        Name of Company
-
-                                                                                                    </th>
-                                                                                                </tr>
-                                                                                            </thead>
-                                                                                            <tbody>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        01
-                                                                                                    </td>
-                                                                                                    <td>Marathawada Auto Cluster, Waluj, MIDC Aurangabad.</td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        02
-                                                                                                    </td>
-                                                                                                    <td>OTTOFlame Edutech Services</td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        03
-                                                                                                    </td>
-                                                                                                    <td>Marathawada Association of Small Scale Industries and Agriculture (MASSIA), Hub Industry</td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        04
-                                                                                                    </td>
-                                                                                                    <td>DNR India Auto Tech Pvt. Ltd.</td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        05
-                                                                                                    </td>
-                                                                                                    <td>Tool Tech Tooling</td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td>
-                                                                                                        06
-                                                                                                    </td>
-                                                                                                    <td>Gangamai Industries and Constructions Ltd.</td>
-                                                                                                </tr>
-                                                                                            </tbody>
-                                                                                        </table>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <!--eight Accordion end-->
-                                                                            <!--nine Accordion start-->
-                                                                            <div class="accordion-item">
-                                                                                <h2 class="accordion-header p-lg-2" id="headingTwo">
-                                                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                        data-bs-target="#collapsenine" aria-expanded="false" aria-controls="collapseTwo">
-                                                                                        DEPARTMENT PROJECTS
-                                                                                    </button>
-                                                                                </h2>
-                                                                                <div id="collapsenine" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                                                    data-bs-parent="#accordionExample">
-                                                                                    <div class="accordion-body">
-
-                                                                                        <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2020-21</u></strong></p>
-                                                                                        <ul>
-                                                                                            <li style="list-style-type: disc;">Power Hammering Machine</li>
-                                                                                            <li style="list-style-type: disc;"> Find out Defect and maintenance with Bagga Boring Works</li>
-                                                                                            <li style="list-style-type: disc;"> Design and development of fixture with Galexy Engineering works</li>
-                                                                                            <li style="list-style-type: disc;"> Vehicle Black Box System (VBBS)</li>
-                                                                                            <li style="list-style-type: disc;"> Surface Condensor</li>
-                                                                                            <li style="list-style-type: disc;"> Impacts of jet (Experimental set up)</li>
-                                                                                            <li style="list-style-type: disc;"> Pedal Operated Hacksaw</li>
-                                                                                            <li style="list-style-type: disc;"> Development of material handling system with Abhijeet Agro Center</li>
-                                                                                            <li style="list-style-type: disc;"> Design of Burr cleaning system with Prabhakar Engineering</li>
-                                                                                            <li style="list-style-type: disc;"> Solar Tree</li>
-                                                                                            <li style="list-style-type: disc;"> Automatic Black Borad Cleaner</li>
-                                                                                        </ul>
-                                                                                        <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2021-22</u></strong></p>
-                                                                                        <ul>
-                                                                                            <li style="list-style-type: disc;">Semi Automated Floor cleaning Machine</li>
-                                                                                            <li style="list-style-type: disc;">Automatic Dog Feeder</li>
-                                                                                            <li style="list-style-type: disc;">Electrically Height adjustable Table</li>
-                                                                                            <li style="list-style-type: disc;">Pedal Power</li>
-                                                                                            <li style="list-style-type: disc;">U turn accident prevention</li>
-                                                                                            <li style="list-style-type: disc;">Obstacle Avoider Robot</li>
-                                                                                            <li style="list-style-type: disc;">LPG and CNG Gas Detector</li>
-                                                                                            <li style="list-style-type: disc;">Box Shifting Machine</li>
-                                                                                            <li style="list-style-type: disc;">Regenerative Bracking System</li>
-                                                                                            <li style="list-style-type: disc;">Singlr Axis Solar Tracker</li>
-                                                                                            <li style="list-style-type: disc;">Design And Fabrication of Agriculture sprayer</li>
-                                                                                            <li style="list-style-type: disc;">Electromagnetic Braking System</li>
-                                                                                            <li style="list-style-type: disc;">Green Energy City</li>
-
-                                                                                        </ul>
-                                                                                        <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2022-23</u></strong></p>
-                                                                                        <ul>
-                                                                                            <li style="list-style-type: disc;">Solar radiation tracking system</li>
-                                                                                            <li style="list-style-type: disc;">Solar energy operated grass cutter</li>
-                                                                                            <li style="list-style-type: disc;">Automatic spray pump</li>
-                                                                                            <li style="list-style-type: disc;">Alchohol detector</li>
-                                                                                            <li style="list-style-type: disc;">Mobile hydro-electric generator</li>
-                                                                                            <li style="list-style-type: disc;">Solar panel cleaning machine</li>
-                                                                                            <li style="list-style-type: disc;">Belt drive grinding machine</li>
-                                                                                            <li style="list-style-type: disc;">Air pollution control electrostatic precipetator</li>
-                                                                                            <li style="list-style-type: disc;">Ecofriendly road footpath cleaning machine</li>
-                                                                                            <li style="list-style-type: disc;">Smart dust bin</li>
-                                                                                            <li style="list-style-type: disc;">Solar electric vehicle</li>
-                                                                                            <li style="list-style-type: disc;">Collision mitigation adas system.</li>
-                                                                                            <li style="list-style-type: disc;">Electromagnetic breaking system</li>
-                                                                                            <li style="list-style-type: disc;">Ecofriendly pyrolysis product</li>
-
-                                                                                        </ul>
-
-                                                                                        <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2023-24</u></strong></p>
-                                                                                        <ul>
-                                                                                            <li style="list-style-type: disc;">Eye Blink Sensor Smart Irrigation System</li>
-
-                                                                                            <li style="list-style-type: disc;">Automatic bike stand</li>
-                                                                                            <li style="list-style-type: disc;">Electriciy Generation by using foot step</li>
-                                                                                            <li style="list-style-type: disc;">To find a mechanism which keeps the workpiece clamped unless the entire machining is done</li>
-                                                                                            <li style="list-style-type: disc;">Shaft Driven Bicycle</li>
-                                                                                            <li style="list-style-type: disc;">Regenerative Braking System</li>
-                                                                                            <li style="list-style-type: disc;">Solution on Blow Holes in Casting</li>
-                                                                                            <li style="list-style-type: disc;">Cut-Section of Vehicle</li>
-                                                                                            <li style="list-style-type: disc;">Air Water Heater</li>
-                                                                                            <li style="list-style-type: disc;">Steering Control Head Light </li>
-                                                                                        </ul>
-
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <!--nine Accordion end-->
-                                                                            <!--Accordin section End here-->
-                                                                        </div>
+                                                                        <!--nine Accordion end-->
+                                                                        <!--Accordin section End here-->
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </section>
-                                            </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
                                 </section>
                             </div>
                         </div>
