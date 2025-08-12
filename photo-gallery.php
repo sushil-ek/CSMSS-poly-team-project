@@ -20,7 +20,15 @@
     ?>
 
 </head>
-
+<style>
+    .sidebar{
+        position:fixed;
+        top:500px;
+        left:0;
+        width:50%;
+        z-index:1000;
+    }
+    </style>
 <body>
 
     <!-- preloader -->
@@ -72,10 +80,10 @@
 
         <!-- news sidebar -->
         <div class="department-single-area py-120">
-            <div class="container">
+            <div class="container d-flex">
                 <div class="department-single-wrapper">
                     <div class="row">
-                        <div class="col-xl-4 col-lg-4">
+                        <div class="col-xl-4 col-lg-4 sidebar">
                             <div class="department-sidebar">
                                 <div class="widget category">
                                     <h4 class="widget-title">PHOTO GALLERY</h4>

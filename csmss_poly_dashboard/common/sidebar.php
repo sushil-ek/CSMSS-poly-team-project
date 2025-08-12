@@ -105,7 +105,46 @@
                 </li>
               </ul>
             </li>
+            
+            <li class="menu-item">
+              <a href="javascript:void(0);" class="menu-link menu-toggle">
+                <i class="menu-icon tf-icons bx bx-layout"></i>
+                <div data-i18n="Layouts">News and Event</div>
+              </a>
 
+              <ul class="menu-sub">
+                <li class="menu-item">
+                  <a href="layouts-without-menu.html" class="menu-link">
+                    <div data-i18n="Without menu">News</div>
+                  </a>
+                </li>
+                <li class="menu-item">
+                  <a href="layouts-without-menu.html" class="menu-link">
+                    <div data-i18n="Without menu">Events</div>
+                  </a>
+                </li>
+                <li class="menu-item">
+                  <a href="layouts-without-menu.html" class="menu-link">
+                    <div data-i18n="Without menu">News and Media</div>
+                  </a>
+                </li>
+                <li class="menu-item">
+                  <a href="layouts-without-menu.html" class="menu-link">
+                    <div data-i18n="Without menu">Awards and Recognition</div>
+                  </a>
+                </li>
+                <li class="menu-item">
+                  <a href="../photo.php" class="menu-link">
+                    <div data-i18n="Without menu">Photo gallery</div>
+                  </a>
+                </li>
+                <li class="menu-item">
+                  <a href="video.php" class="menu-link">
+                    <div data-i18n="Without menu">Video gallery</div>
+                  </a>
+                </li>
+
+                
           
 
            
