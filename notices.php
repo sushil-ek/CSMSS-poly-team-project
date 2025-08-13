@@ -13,11 +13,10 @@
     <meta name="keywords" content="">
 
     <!-- title -->
-   
+
     <?php
     include 'common/header-link.php';
     ?>
-
 </head>
 
 <body>
@@ -62,7 +61,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Notices</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Notices</li>
                 </ul>
             </div>
@@ -102,384 +101,368 @@
                                 </div> -->
                             </div>
                         </div>
-                        <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; height: 450px; scrollbar-width: none; -ms-overflow-style: none;">
-                            <div class="accordion" id="accordionExample"> 
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true"
-                                            aria-controls="collapseOne">
-                                            Post-SSC-FY-Diploma-Admission-Notice-2024-25
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show department-download"
-                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
+                        <div class="col-xl-8 col-lg-8"
+                            style="overflow-y:scroll; height: 450px; scrollbar-width: none; -ms-overflow-style: none;">
+                            <div class="accordion" id="accordionExample">
 
-                                            Date : 27th May 2024
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\AGAINST-CAP-GENERAL-MERIT-LIST-A-Y-2022-23.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            Important documents for admission 2024-25
-                                        </button>
+                                <div class="widget event-single-info">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <h2 class="widget-title mt-5 text-center"> NOTICES</h2>
+                                    </button>
                                     </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> POST-SSC-FY-DIPLOMA-ADMISSION-NOTICE-2024-25 </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 27th May 2024</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="ol-lg-3 mt-2">
+                                                        <a href="assets\pdf\notices\AGAINST-CAP-GENERAL-MERIT-LIST-A-Y-2022-23.pdf"
+                                                            download class="download-btn ms-3">
+                                                            <i class="fa-solid fa-file-arrow-down"></i>
+                                                        </a>
+                                                </div>
+                                            </div>
 
-                                            Date : 26th April 2024
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\Important-Documents-For-Admission-2024-25.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
 
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4>IMPORTANT DOCUMENTS FOR ADMISSION 2024-25 </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 26th April 2024</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\Important-Documents-For-Admission-2024-25.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            INDUSTRIAL TRAINING OF 2ND YEAR STUDENTS WILL STARTS ON 3RD JUNE 2024
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4>INDUSTRIAL TRAINING OF 2ND YEAR STUDENTS WILL STARTS ON 3RD
+                                                            JUNE 2024 </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 04th April 2024</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\INDUSTRIAL-TRAINING-OF-2ND-YEAR-STUDENTS-WILL-STARTS-ON-3RD-JUNE-2024.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
 
-                                            Date : 04th April 2024
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\INDUSTRIAL-TRAINING-OF-2ND-YEAR-STUDENTS-WILL-STARTS-ON-3RD-JUNE-2024.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                            aria-expanded="false" aria-controls="collapseFour">
-                                            CIRCULAR FOR PWD CANDIDATES
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFour" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 21st February 2024
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\CIRCULAR-FOR-PWD-CANDIDATES.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingFive">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                            aria-expanded="false" aria-controls="collapseFive">
-                                            CLASS TEST TIME-TABLE (A.Y. 2023-24)
-                                        </button>
-                                    </h2>
-                                    <!--Download Bottom--->
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingsix">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapsesix"
-                                            aria-expanded="false" aria-controls="collapsesix">
-                                            GRIEVANCE & FEEDBACK FACILITY AVAILABLE ON AICTE WEB PORTAL
-                                        </button>
-                                    </h2>
-                                    <div id="collapsesix" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingsix" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date :30th January 2024
 
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\GRIEVANCE-&-FEEDBACK-FACILITY-AVAILABLE-ON-AICTE-WEB-PORTAL.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> CIRCULAR FOR PWD CANDIDATES </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 21st February 2024</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\CIRCULAR-FOR-PWD-CANDIDATES.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingseven">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseseven"
-                                            aria-expanded="false" aria-controls="collapseseven">
-                                            WINTER 2023 EXAMINATION PHOTOCOPY VERIFICATION SCHEDULE
-                                        </button>
-                                    </h2>
-                                    <!--Download Bottom--->
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingeight">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseeight"
-                                            aria-expanded="false" aria-controls="collapseeight">
-                                            TIME-TABLE OF WINTER 2023 THEORY EXAMINATION
-                                        </button>
-                                    </h2>
-                                    <!--Download Bottom--->
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingNine">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseNine"
-                                            aria-expanded="false" aria-controls="collapseNine">
-                                            OTO REGISTRATION CIRCULAR
-                                        </button>
-                                    </h2>
-                                    <div id="collapseNine" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingNine" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 21st August 2023
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\OTO-REGISTRATION-CIRCULAR.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> CLASS TEST TIME-TABLE (A.Y. 2023-24) </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date :30th January 2024</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="#" download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTen">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTen"
-                                            aria-expanded="false" aria-controls="collapseNine">
-                                            PHOTOCOPY SCHEDULE FOR SUMMER 2023 EXAM
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTen" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingTen" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 30th June 2023
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\PHOTOCOPY-SCHEDULE-FOR-SUMMER-2023-EXAM.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> GRIEVANCE & FEEDBACK FACILITY AVAILABLE ON AICTE WEB PORTAL
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date :30th January 2024</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\GRIEVANCE-&-FEEDBACK-FACILITY-AVAILABLE-ON-AICTE-WEB-PORTAL.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingEleven">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseEleven"
-                                            aria-expanded="false" aria-controls="collapseEleven">
-                                            FEES STRUCTURE FOR ACADEMIC YEAR 2022-23
-                                        </button>
-                                    </h2>
-                                    <div id="collapseEleven" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingEleven" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 12th August 2022
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\FEES-STRUCTURE-FOR-ACADEMIC-YEAR-2022-23.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> WINTER 2023 EXAMINATION PHOTOCOPY VERIFICATION SCHEDULE
+                                                        </h4>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="#" download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwelve">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTwelve"
-                                            aria-expanded="false" aria-controls="collapseTwelve">
-                                            AGAINST CAP GENERAL MERIT LIST A. Y. 2022-23
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwelve" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingTwelve" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : August 2022
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\AGAINST-CAP-GENERAL-MERIT-LIST-A-Y-2022-23.pdf "
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> TIME-TABLE OF WINTER 2023 THEORY EXAMINATION
+                                                        </h4>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="#" download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwelve">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThirteen"
-                                            aria-expanded="false" aria-controls="collapseThirteen">
-                                            OFFLINE CLASSES COMMENCEMENT FOR EVEN SEMESTER A.Y. 2021-22
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThirteen" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingThirteen" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 09th February 2022
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\OFFLINE-CLASSES-COMMENCEMENT-FOR-EVEN-SEMESTER-A-Y-2021-22.pdf "
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> OTO REGISTRATION CIRCULAR
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 21st August 2023</p>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\OTO-REGISTRATION-CIRCULAR.pdf" download
+                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingforteen">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseForteen"
-                                            aria-expanded="false" aria-controls="collapseForteen">
-                                            ONLINE GRIEVANCE NOTICE
-                                        </button>
-                                    </h2>
-                                    <div id="collapseForteen" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingForteen" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 31st May 2021
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\ONLINE-GRIEVANCE-NOTICE.pdf"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> PHOTOCOPY SCHEDULE FOR SUMMER 2023 EXAM
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 30th June 2023</p>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\PHOTOCOPY-SCHEDULE-FOR-SUMMER-2023-EXAM.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingfifteen">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseFifteen"
-                                            aria-expanded="false" aria-controls="collapseFifteen">
-                                            CIRCULAR FOR CONDUCTION OF WINTER 2021 EXAM
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFifteen" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingfifteen" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 07th December 2021
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingSixteen">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseSixteen"
-                                            aria-expanded="false" aria-controls="collapseSixteen">
-                                            MAHADBT APPLICATION FORM INSTRUCTIONS
-                                        </button>
-                                    </h2>
-                                    <div id="collapseSixteen" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingSixteen" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Mahadbt application form instructions. for more details contact to Mr. Atul
-                                            Shinde - 8805063099 / 9588611022 or Mr. S. C. Syed - 7387310786
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                    <div class="row">
-                                                        <div class="col-lg-3 mt-2">
-                                                            <a href="assets\pdf\notices\MAHADBT-APPLICATION-FORM-INSTRUCTIONS.jpg"
-                                                                class="btn btn-outline-primary w-100" download>
-                                                                <i class="far fa-file-pdf"></i> Download
-                                                            </a>
-                                                        </div>
-                                                    </div>
+
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> FEES STRUCTURE FOR ACADEMIC YEAR 2022-23
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 12th August 2022</p>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\FEES-STRUCTURE-FOR-ACADEMIC-YEAR-2022-23.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> AGAINST CAP GENERAL MERIT LIST A. Y. 2022-23
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : August 2022</p>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\AGAINST-CAP-GENERAL-MERIT-LIST-A-Y-2022-23.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> OFFLINE CLASSES COMMENCEMENT FOR EVEN SEMESTER A.Y.2021-22
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 09th February 2022</p>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\OFFLINE-CLASSES-COMMENCEMENT-FOR-EVEN-SEMESTER-A-Y-2021-22.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> ONLINE GRIEVANCE NOTICE
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 31st May 2021</p>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\ONLINE-GRIEVANCE-NOTICE.pdf" download
+                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> CIRCULAR FOR CONDUCTION OF WINTER 2021 EXAM
+                                                        </h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 07th December 2021</p>
+
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="#" download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> MAHADBT APPLICATION FORM INSTRUCTIONS
+                                                        </h4>
+                                                        <p class="choose-item-discription    mt-0 mb-0"> Mahadbt application form instructions. for
+                                                            more details contact to
+                                                            Mr.
+                                                            Atul
+                                                            Shinde:-8805063099 / 9588611022 or Mr.S.C.Syed:-7387310786
+                                                        </p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\notices\MAHADBT-APPLICATION-FORM-INSTRUCTIONS.jpg"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            
                                         </div>
                                     </div>
+
                                 </div>
                             </div>
                         </div>

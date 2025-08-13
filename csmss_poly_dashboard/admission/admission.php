@@ -21,7 +21,7 @@
   data-template="vertical-menu-template-free"
 >
   <?php
-    include('../common/header_link.php');
+  include('../common/header_link.php');
   ?>
  
   <body>
@@ -30,28 +30,28 @@
       <div class="layout-container">
         <!-- Menu -->
        <?php
-    include('../common/sidebar.php');
-  ?>
+       include('../common/sidebar.php');
+       ?>
         <!-- / Menu -->
 
         <!-- Layout container -->
         <div class="layout-page">
           <!-- Navbar -->
 
-         
-        <?php
-include '../common/header.php';
-?>
-          <!-- / Navbar -->
+                 <?php
+                 include '../common/header.php';
 
-          
+                 ?>
+
+
+          <!-- / Navbar -->
 
           <!-- Content wrapper -->
           <div class="content-wrapper">
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4">ADMISSION DETAILS</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4"> NOTIFICATION</h4>
 
              
 
@@ -60,7 +60,7 @@ include '../common/header.php';
               <div class="card">
                 <div class="row">
                   <div class="col-lg-6 ">
-                    <div class="h5 card-header">Admission </div>
+                    <div class="h5 card-header">NOTIFICATION</div>
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
@@ -74,16 +74,16 @@ include '../common/header.php';
                   <table class="table table-hover">
                     <thead>
                       <tr>
-                        <th>Title</th>
-                        <th>Programs</th>
+                        <th>Sr no</th>
+                        <th>Program</th>
                         <th>PDF</th>
                         <th>Actions</th>
                       </tr>
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
-                        <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
-                        <td>Albert Cook</td>
+                        <td>1</td>
+                        <td><i class="fab fa-angular fa-lg text-danger "></i> <strong>Angular Project</strong></td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                             <li
@@ -115,13 +115,11 @@ include '../common/header.php';
                             </li>
                           </ul>
 
-                         <td>17-02-2025</td>
-                          <td>kanchanvadi</td>
 
                         </td>
                         <td>
                          <div> 
-                            <a href="edit_event.php" class=" text-white">
+                            <a href="edit_admission.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 
@@ -134,161 +132,7 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
-                        <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
-                        <td>Barry Hunter</td>
-                        <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Lilian Fuller"
-                            >
-                              <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Sophia Wilkerson"
-                            >
-                              <img src="../assets/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../assets/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                          </ul>
-                         
-                           <td>18-02-2025</td>
-                            <td>kanchanvadi</td>
-                          
-                        </td>
-                   
-                        <td>
-                           <div> <a href="edit_event.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-success">
-                                  <i class="bx bx-edit-alt me-1"></i> Edit
-                                </button></a>
-                             <a  href="#" class=" text-white">
-                              <button type="button" class="btn rounded-pill btn-success"> 
-                              <i class="bx bx-trash me-1 "></i> Delete
-                              </button></a>
-                            </div>
-                          
-                        </td>
-                      </tr>
-                      <tr>
-                        <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>VueJs Project</strong></td>
-                        <td>Trevor Baker</td>
-                        <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Lilian Fuller"
-                            >
-                              <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Sophia Wilkerson"
-                            >
-                              <img src="../assets/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../assets/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                          </ul>
-                        </td>
-
-                           <td>18-02-2025</td>
-                            <td>kanchanvadi</td>
-                      
-                        <td>
-                          
-                             <div> <a href="edit_event.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-info">
-                                  <i class="bx bx-edit-alt me-1"></i> Edit
-                                </button></a> 
-                                <a  href="#" class=" text-white">
-                             <button type="button" class="btn rounded-pill btn-info"> 
-                             <i class="bx bx-trash me-1 "></i> Delete
-                              </button></a>
-                            </div>
-                          </div>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Bootstrap Project</strong>
-                        </td>
-                        <td>Jerry Milton</td>
-                        <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Lilian Fuller"
-                            >
-                              <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Sophia Wilkerson"
-                            >
-                              <img src="../assets/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../assets/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
-                            </li>
-                          </ul>
-                        </td>
-
-                           <td>18-02-2025</td>
-                            <td>kanchanvadi</td>
-                       
-                        <td>
-                         
-                              
-                            
-                            <div> <a href="edit_event.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-warning">
-                                  <i class="bx bx-edit-alt me-1"></i> Edit
-                                </button></a>
-                                <a href="#" class=" text-white">
-                             <button type="button" class="btn rounded-pill btn-warning"> 
-                              <i class="bx bx-trash me-1 "></i> Delete
-                              </button></a>
+                        
                             </div>
                           </div>
                         </td>
@@ -332,10 +176,10 @@ include '../common/header.php';
       >
     </div> -->
  <?php
-            include('../common/footer-link.php');
+ include('../common/footer-link.php');
 
 
-            ?>
+ ?>
     <!-- Core JS -->
    
   </body>

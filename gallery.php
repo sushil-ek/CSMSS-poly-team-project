@@ -13,10 +13,10 @@
     <meta name="keywords" content="">
 
     <!-- title -->
-    <title>Eduka - School, College, University And Courses HTML5 Template</title>
+   
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   
 
     <?php
     include 'common/header-link.php';
@@ -65,7 +65,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Gallery</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Gallery</li>
                 </ul>
             </div>

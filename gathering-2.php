@@ -62,7 +62,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Gallery</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Gallery</li>
                 </ul>
             </div>

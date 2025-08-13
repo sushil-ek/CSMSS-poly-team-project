@@ -60,7 +60,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Principal Desk</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Principal Desk</li>
                 </ul>
             </div>
@@ -91,7 +91,7 @@
                                     <img src="assets\img\p-desk\s-dikle.jpeg" class="w-100 h-100" alt="thumb">
                                     <h4 class="text-center mt-3"> Dr. Shashikant R. Dikle</h5>
                                     <h4 class="text-center mt-2"><small class="text-success">Principal </small></h4>
-                                    <p class="text-center mt-2">Email:-principal@csmss.com</p>
+                                    <p class="text-center mt-2">  Email:- <a href="mailto:principal@csmss.com">principal@csmss.com </a></p>
                                 </div>
                                 </div>
                                

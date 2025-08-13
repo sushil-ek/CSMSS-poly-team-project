@@ -16,7 +16,7 @@
                     >Ekatta Innovators LLP</a
                   >
                 </div>
-                <div>
+                <!-- <div>
                   <a
                     href="https://themeselection.com/license/"
                     class="footer-link me-4"
@@ -43,7 +43,7 @@
                     class="footer-link me-4"
                     >Support</a
                   >
-                </div>
+                </div> -->
               </div>
             </footer>
             <!-- / Footer -->

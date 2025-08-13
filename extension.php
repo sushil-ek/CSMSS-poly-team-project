@@ -55,7 +55,7 @@
         <div class="container">
             <h2 class="breadcrumb-title">Extension of Approval and Audit Report FY</h2>
             <ul class="breadcrumb-menu">
-                <li><a href="index-2.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li class="active">Extension of Approval and Audit Report FY</li>
             </ul>
         </div>
@@ -303,32 +303,53 @@
                     <tr>
                         <th>Sr.No.</th>
                         <th>Particulars</th>
-                        <th>Year</th>
+                        <th class="text-center">Year</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>01</td>
                         <td>Audit Report FY 2022-23</td>
-                        <td><a href="https://csmsspoly.com/pdf/ARFY22-23.pdf" target="_blank">view</a>
+                      
+                        <td class="text-center">
+                            <a href="https://csmsspoly.com/pdf/ARFY22-23.pdf" target="_blank" class="btn text-white"
+                                id="view-button">
+                                <i class="fa-regular fa-eye text-white"></i> View
+                            </a>
                         </td>
                     </tr>
                     <tr>
                         <td>02</td>
                         <td>Audit Report FY 2021-22</td>
-                        <td><a href="https://csmsspoly.com/pdf/ARFY21-22.pdf" target="_blank">view</a>
+                        
+                        <td class="text-center">
+                            <a href="https://csmsspoly.com/pdf/ARFY21-22.pdf" target="_blank" class="btn text-white"
+                                id="view-button">
+                                <i class="fa-regular fa-eye text-white"></i> View
+                            </a>
                         </td>
                     </tr>
                     <tr>
                         <td>03</td>
                         <td>Audit Report FY 2020-21</td>
-                        <td><a href="https://csmsspoly.com/pdf/ARFY20-21.pdf" target="_blank">view</a>
+                   
+                           <td class="text-center">
+                            <a href="https://csmsspoly.com/pdf/ARFY20-21.pdf" target="_blank" class="btn text-white"
+                                id="view-button">
+                                <i class="fa-regular fa-eye text-white"></i> View
+                            </a>
                         </td>
+                        
                     </tr>
                     <tr>
                         <td>04</td>
                         <td>Audit Report FY 2019-20</td>
-                        <td><a href="https://csmsspoly.com/pdf/ARFY19-20.pdf" target="_blank">view</a>
+                        
+                           <td class="text-center">
+                            <a href="https://csmsspoly.com/pdf/ARFY19-20.pdf" target="_blank" class="btn text-white"
+                                id="view-button">
+                                <i class="fa-regular fa-eye text-white"></i> View
+                            </a>
                         </td>
                     </tr>
                 </tbody>

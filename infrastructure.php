@@ -74,7 +74,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Infrastructure</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Infrastructure</li>
                 </ul>
             </div>
@@ -175,21 +175,21 @@
                             </div>
                             <div id="Girls" class="container tab-pane fade"><br>
                                 <div class="department-details-img mb-30">
-                                    <img src="assets/img/infrastructure/girls-hostel.jpg" alt="" style="height: 472px; width: 723px;">
+                                    <img src="assets/img/infrastructure/girls.jpg" alt="" style="height: 472px; width: 723px;">
                                 </div>
                                 <h3 class="mb-20">Girls Hostel</h3>
                                 <p class="mb-20">Separate hostel for girls with 24/7 security and mess facility.</p>
                             </div>
                             <div id="Boys" class="container tab-pane fade"><br>
                                 <div class="department-details-img mb-30">
-                                    <img src="assets/img/infrastructure/boys-hostel (2).jpg" alt="" style="height: 472px; width: 723px;">
+                                    <img src="assets/img/infrastructure/boys.jpg" alt="" style="height: 472px; width: 723px;">
                                 </div>
                                 <h3 class="mb-20">Boys Hostel</h3>
                                 <p class="mb-20">Separate hostel for boys with necessary amenities.</p>
                             </div>
                             <div id="Auditorium" class="container tab-pane fade"><br>
                                 <div class="department-details-img mb-30">
-                                    <img src="assets/img/infrastructure/audit.jpg" alt="" style="height: 472px; width: 723px;">
+                                    <img src="assets/img/infrastructure/auditorium.jpg" alt="" style="height: 472px; width: 723px;">
                                 </div>
                                 <h3 class="mb-20">Auditorium</h3>
                                 <p class="mb-20">A well-established auditorium with 500 seating capacity for various college functions.</p>
@@ -210,7 +210,7 @@
                             </div>
                             <div id="Bus" class="container tab-pane fade"><br>
                                 <div class="department-details-img mb-30">
-                                    <img src="assets/img/infrastructure/bus-csmss.jpg" alt="" style="height: 472px; width: 723px;">
+                                    <img src="assets/img/infrastructure/bus.jpg" alt="" style="height: 472px; width: 723px;">
                                 </div>
                                 <h3 class="mb-20">Bus</h3>
                                 <p class="mb-20">Bus facility covers all parts of the city and nearby villages.</p>

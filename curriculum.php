@@ -64,7 +64,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Curriculum</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Curriculum</li>
                 </ul>
             </div>

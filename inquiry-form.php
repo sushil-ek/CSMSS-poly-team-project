@@ -19,11 +19,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
 
 
-    <!-- title -->
-    <title>Eduka - School, College, University And Courses HTML5 Template</title>
-
-    <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+    
 
     <?php
     include 'common/header-link.php';

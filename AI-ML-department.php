@@ -16,56 +16,6 @@
     include 'common/header-link.php';
     ?>
 
-    <style>
-        /* department hod image  */
-        .department-hod-img .hod-image {
-            width: 80%;
-            height: auto;
-            border-radius: 5px;
-        }
-
-        .hod-name {
-            font-weight: bold;
-            font-size: 1.1rem;
-        }
-
-        button .accordion-button {
-            background-color: #F5F5F5;
-        }
-
-        /* department accordion start*/
-        .accordion-button {
-            font-weight: bold;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-
-        th,
-        td {
-            padding: 12px 8px;
-            border: 1px solid #ddd;
-            text-align: left;
-            vertical-align: top;
-        }
-
-        th {
-            background-color: #6EA84F;
-            color: white;
-        }
-
-        tr:nth-child(even) {
-            background-color: #F9F9F9;
-        }
-
-        .sr-col {
-            width: 60px;
-            font-weight: bold;
-        }
-    </style>
 </head>
 
 <body>
@@ -109,7 +59,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Artificial Intelligence and Machine Learning</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Artificial Intelligence and Machine Learning</li>
                 </ul>
             </div>
@@ -118,21 +68,21 @@
 
 
         <!-- department-single -->
-        <div class="department-single-area py-120">
+        <div class="department-single-area py-5">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
                         <div class="col-xl-4 col-lg-3">
                             <div class="department-sidebar">
                                 <div class="widget category">
-                                    <h4 class="widget-title">Departments</h4>
+                                    <h4 class="widget-title">Department</h4>
                                     <div class="category-list">
-                                        <a href="civil-department.php"><i class="far fa-long-arrow-right"></i>Civil Engineering</a>
-                                        <a href="electrical-department.php"><i class="far fa-long-arrow-right"></i>Electrical Engineering</a>
-                                        <a href="mechanical-department.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering</a>
-                                        <a href="electronics-telecommunication-department.php"><i class="far fa-long-arrow-right"></i>Electronics & Telecommunication Engineering</a>
-                                        <a href="computer-department.php"><i class="far fa-long-arrow-right"></i>Computer Engineering</a>
-                                        <a href="#"><i class="far fa-long-arrow-right"></i>Artificial Intelligance & Machine Learning</a>
+                                        <a href="#Artificial Intelligence and Machine Learning"><i class="far fa-long-arrow-right"></i>Introduction</a>
+                                        <a href="#Admission Intake Capacity : 60"><i class="far fa-long-arrow-right"></i>Admission Intake Capacity</a>
+                                        <a href="#Accordion-section"><i class="far fa-long-arrow-right"></i>Toppers</a>
+                                        <a href="#headingTwo"><i class="far fa-long-arrow-right"></i>Student's Achievement</a>
+                                        <a href="#headingThree"><i class="far fa-long-arrow-right"></i>List Of Laboratories</a>
+                                        <a href="#headingfour"><i class="far fa-long-arrow-right"></i>Department Mou's</a>
                                     </div>
                                 </div>
                             </div>
@@ -178,12 +128,15 @@
                                 </div>
 
                                 <!-- carousel  end -->
+                                 <div id="Artificial Intelligence and Machine Learning">
                                 <div class="department-details">
-                                    <h3 class="mb-20">Artificial Intelligence and Machine Learning</h3>
-                                    <p class="mb-20" style="text-align: justify;">
-                                        Year of commencement: A. Y. 2022-23
-                                        The inception of the department goes in the year 2022-2023. The motto of the department is to provide quality technical education & to make the students industry-ready. Our goal is to ensure that our diploma engineers are well prepared to play the pivotal roles in problem solving project leaders, entrepreneurs, and above all ethical citizens of a global society. The excellent infrastructure, dynamic teaching staff along with training and placement cell ensures a bright future to the students.
-                                        The AI & ML course emphasizes creativity and innovative thinking and is supported by passionate faculties who strive to inspire their students. We promote teamwork among students through projects and co-curricular & extracurricular activities. We are confident that our students will emerge as assets not only to the institution and to the organization they join, but to the society as well </p>
+                                    <div class="mb-4">
+                                        <h3 class="mb-20">Artificial Intelligence and Machine Learning</h3>
+                                        <p class="mb-20" style="text-align: justify;">
+                                            Year of commencement: A. Y. 2022-23
+                                            The inception of the department goes in the year 2022-2023. The motto of the department is to provide quality technical education & to make the students industry-ready. Our goal is to ensure that our diploma engineers are well prepared to play the pivotal roles in problem solving project leaders, entrepreneurs, and above all ethical citizens of a global society. The excellent infrastructure, dynamic teaching staff along with training and placement cell ensures a bright future to the students.
+                                            The AI & ML course emphasizes creativity and innovative thinking and is supported by passionate faculties who strive to inspire their students. We promote teamwork among students through projects and co-curricular & extracurricular activities. We are confident that our students will emerge as assets not only to the institution and to the organization they join, but to the society as well </p>
+                                    </div>
                                     <!-- Short-term Future Plans start -->
                                     <div class="mb-4">
                                         <h3 class="mb-3">Short-term Future Plans</h3>
@@ -197,6 +150,7 @@
                                                 <li><i class="far fa-check"></i>To be the department with zero dropout rate </li>
                                         </ul>
                                     </div>
+                                </div>
                                     <!-- Short-term Future Plans end -->
                                     <!-- Long-term Future Plans start -->
                                     <div class="mb-4">
@@ -225,8 +179,9 @@
                                     </div>
                                     <!-- PO's end -->
                                 </div>
-                                <h2 class="mb-3 ms-4 ps-1 text-black">Admission Intake Capacity : 60</h2>
-
+                                <div id="Admission Intake Capacity : 60">
+                                <h3 class="mb-3 ps-1 text-black">Admission Intake Capacity : 60</h3>
+                               
                                 <!-- Accodian start -->
                                 <div class="container my-5">
                                     <div class="accordion" id="hodAccordion">
@@ -242,7 +197,7 @@
                                                 <div class="accordion-body">
                                                     <div class="row">
                                                         <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-                                                            <center><img class="sticky" src="assets\img\department\HODAIML.jpeg" alt="HOD Image" width="150" height="200"></center>
+                                                            <center><img class="sticky" src="assets\img\department\HODAIML.jpeg" alt="HOD Image" width="150" height="200" style="border-radius:0px;"></center>
                                                             <center><b>Mrs. S. R. Borakhade</b><br><i>HOD</i></center>
                                                         </div>
                                                         <div class="col-lg-8 col-md-12">
@@ -257,11 +212,11 @@
                                             </div>
                                         </div>
                                     </div>
+                                </div>
                                     <!-- Form Section Start -->
-
                                     <!--faculty-details-->
-
                                     <!--first-table-start-->
+                              <h3 class="mb-4 ps-1 text-black mt-4">Faculty Details</h3>
                                     <div class="table-responsive">
                                         <table class=" table table-bordered table-hover">
                                             <thead>
@@ -439,10 +394,9 @@
                                     </div>
                                     <!-- first-table-end-->
                                     <!-- Form Section Ends  -->
-
                                     <!-- Accordin Main Start -->
-
                                     <!--Accordin section started here-->
+                               
                                     <section id="Accordion-section">
                                         <div class="faq-area">
 
@@ -729,14 +683,13 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-
-
                                                         <!--first Accordion end-->
 
                                                         <!--second Accordion start-->
-                                                        <div class="accordion-item">
-                                                            <h2 class="accordion-header p-lg-2" id="headingTwo">
-                                                                <button class="accordion-button border-0" type="button"
+                                
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header" id="headingTwo">
+                                                                <button class="accordion-button collapsed" type="button"
                                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                                     aria-expanded="false" aria-controls="collapseTwo">
                                                                     STUDENTS' ACHIEVEMENT
@@ -995,11 +948,12 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <!--second Accordion end-->
+                                                     <!--second Accordion end-->
                                                         <!--third Accordion start-->
-                                                        <div class="accordion-item">
-                                                            <h2 class="accordion-header p-lg-2" id="headingThree">
-                                                                <button class="accordion-button border-0" type="button"
+                               
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header " id="headingThree">
+                                                                <button class="accordion-button collapsed" type="button"
                                                                     data-bs-toggle="collapse"
                                                                     data-bs-target="#collapseThree" aria-expanded="false"
                                                                     aria-controls="collapseThree">
@@ -1092,6 +1046,7 @@
 
                                                         <!-- Accordion Start -->
                                                         <!--fourth Accordion Start-->
+                                                           
                                                         <div class=" accordion-item p-2">
                                                             <h2 class="accordion-header" id="headingfour">
                                                                 <button class="accordion-button collapsed" type="button"

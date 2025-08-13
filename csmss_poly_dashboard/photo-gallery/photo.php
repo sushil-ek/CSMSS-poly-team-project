@@ -23,6 +23,19 @@
   <?php
     include('../common/header_link.php');
   ?>
+  <style>
+    .one {
+      width: 50px;
+      height: 50px;
+    }
+    .new-para {
+  width: 300px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+    </style>
  
   <body>
     <!-- Layout wrapper -->
@@ -106,7 +119,7 @@
                     <li>
                       <a class="dropdown-item" href="#">
                         <i class="bx bx-user me-2"></i>
-                        <span class="align-middle">My Profile</span>
+                        <span class="align-middle new-para">My Profile</span>
                       </a>
                     </li>
                     <li>
@@ -130,7 +143,7 @@
                     <li>
                       <a class="dropdown-item" href="auth-login-basic.html">
                         <i class="bx bx-power-off me-2"></i>
-                        <span class="align-middle">Log Out</span>
+                        <span class="align-middle ">Log Out</span>
                       </a>
                     </li>
                   </ul>
@@ -147,7 +160,7 @@
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4">PHOTO DETAILS</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4 ">PHOTO DETAILS</h4>
 
              
 
@@ -178,7 +191,21 @@
                     <tbody class="table-border-bottom-0">
                       <tr>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>1</strong></td>
-                        <td>Campus Recruitment Drive od john Deere India Pvt.Ltd</td>
+                        <td><p  class="new-para">Campus Recruitment Drive od john Deere India Pvt.Ltd</td>
+                        <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/campus-front-board.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
                         
                         </td>
                         <td>
@@ -197,9 +224,21 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>2</strong></td>
-                        <td>Campus Recruitment Drive of Websum Software Pvt.Ltd</td>
-                       
-                          
+                        <td class="new-para" >Campus Recruitment Drive of Websum Software Pvt.Ltd</td>
+                         <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/campus-front-board.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+
                           
                         </td>
                    
@@ -218,7 +257,21 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>3</strong></td>
-                        <td>Campus Drive of Greaves Cotton Ltd. on 21st February 2025.</td>
+                        <td class="new-para">Campus Drive of Greaves Cotton Ltd. on 21st February 2025.</td>
+                         <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/college-staff.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
                         
                         </td>
 
@@ -242,7 +295,22 @@
                         <td>
                           <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>4</strong>
                         </td>
-                        <td>Campus Drive of Core Project Engineers and Consultant Pvt. Ltd. for civil engineering student</td>
+                        <td><p  class="new-para">Campus Drive of Core Project Engineers and Consultant Pvt. Ltd. for civil engineering student</p></td>
+                         <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/certificate.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
+                        
                         </td>
                           
                               
@@ -264,18 +332,32 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>5</strong></td>
-                        <td>Campus Interview of Bajaj Auto Ltd. on 8th February 2025</td>
+                        <td class="new-para">Campus Interview of Bajaj Auto Ltd. on 8th February 2025</td>
+                         <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-interview-of-bajaj-auto-Ltd/staffs.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
                         
                           
                         </td>
                    
                         <td>
                            <div> <a href="edit-photo.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-success">
+                               <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>
                              <a  href="#" class=" text-white">
-                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <button type="button" class="btn rounded-pill btn-primary"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
                             </div>
@@ -284,7 +366,21 @@
                       </tr>
                      <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>6</strong></td>
-                        <td>Campus Drive for Electrical & Mechanical Engineering students</td>
+                        <td class="new-para">Campus Drive for Electrical & Mechanical Engineering students</td>
+                         <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/interview img 2.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
                         
                           
                         </td>
@@ -304,17 +400,31 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>7</strong></td>
-                        <td>छत्रपती शाहू पॉलिटेक्निक मध्ये जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्हचे यशस्वी आयोजन-2023</td>
+                        <td class="new-para">छत्रपती शाहू पॉलिटेक्निक मध्ये जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्हचे यशस्वी आयोजन-2023</td>
+                         <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recruitment-of-john-deere-images/induction-photo.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
                         
                         </td>
                    
                         <td>
                            <div> <a href="edit-photo.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-success">
+                               <button type="button" class="btn rounded-pill btn-info">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>
                              <a  href="#" class=" text-white">
-                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <button type="button" class="btn rounded-pill btn-info"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
                             </div>
@@ -323,17 +433,31 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>8</strong></td>
-                        <td>Glimpses of annual function Poly Fest 2k23</td>
-                          
+                        <td class="new-para">Glimpses of annual function Poly Fest 2k23</td>
+                           <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/cultural-program.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
+                        
                         </td>
                    
                         <td>
                            <div> <a href="edit-photo.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-success">
+                               <button type="button" class="btn rounded-pill btn-warning">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>
                              <a  href="#" class=" text-white">
-                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
                             </div>
@@ -341,18 +465,32 @@
                         </td>
                         <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>9</strong></td>
-                        <td>Campus Interview of John Deere IndiaPvt Ltd 2019</td>
+                        <td class="new-para">Campus Interview of John Deere IndiaPvt Ltd 2019</td>
+                         <td>
+                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                            <li
+                              data-bs-toggle="tooltip"
+                              data-popup="tooltip-custom"
+                              data-bs-placement="top"
+                              class="avatar avatar-xs pull-up"
+                              title="Christina Parker"
+                            >
+                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-interview-of-john-deere/staff.jpg" alt="Avatar" class="one" />
+                            </li>
+                            
+                          </ul>
+                    
                         
             
                         </td>
                    
                         <td>
                            <div> <a href="edit-photo.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-success">
+                               <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>
                              <a  href="#" class=" text-white">
-                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <button type="button" class="btn rounded-pill btn-primary"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
                             </div>
