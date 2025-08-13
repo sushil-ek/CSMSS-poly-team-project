@@ -13,12 +13,12 @@
     <meta name="keywords" content="">
 
     
+
     <?php
     include 'common/header-link.php';
     ?>
 
 </head>
-
 <body>
 
     <!-- preloader -->
@@ -58,24 +58,25 @@
          <!-- breadcrumb -->
         <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/news/list-of-select-candid.jpeg)">
             <div class="container">
-                <h2 class="breadcrumb-title">NEWS</h2>
+                <h2 class="breadcrumb-title"> NEWS</h2>
                 <ul class="breadcrumb-menu">
                     <li><a href="index.php">Home</a></li>
-                    <li class="active">NEWS</li>
+                    <li class="active">News</li>
                 </ul>
             </div>
         </div>
 
 
         <!-- Student-Corner -->
-        <div class="department-single-area py-120 faq-area">
+        
+        <div class="department-single-area py-120">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
-                        <div class="col-xl-4 col-lg-4">
-                            <div class="department-sidebar">
+                         <div class="col-xl-4 col-lg-4 ">
+                            <div class="department-sidebar ">
                                 <div class="widget category">
-                                    <h4 class="widget-title">NEWS</h4>
+                                    <h4 class="widget-title ">EVENTS</h4>
                                     <div class="category-list">
                                         <a href="newsmechanical.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering Department Second year students got second price</a>
                                         <a href="news-refernce.php"><i class="far fa-long-arrow-right"></i>Refresher Course for Direct Second Year Students</a>
@@ -122,6 +123,7 @@
                                     </div>
                                 </div>
 
+                           
                             </div>
                             <section id="latest-news-section">
                                 <div class="container my-4">
@@ -583,27 +585,45 @@
                                     </div>
                             </section>
                         </div>
-                        <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
-                           <h1 style=" border-bottom: 3px solid orange;">NEWS</h1>
-                      
-                       <h2>CSMSS Polytechnic च्या सर्व शाखांना MSBTE कडून excellent दर्जा..</h2>   
-                       <br>          
-                            <div class="facility-details-img mb-30">
-                                    <img src="assets/img/news-and-events/news/excellent-shakha.24" class="card shadow-lg" style=" width: 100%;"   alt="thumb">
-                                </div>
+                       
+                        <div class="col-xl-8 col-lg-8">
+                            <h1 style="border-bottom: 3px solid orange;">News</h1>
+                            <h2 class="mt-4 mb-4">
+Arrangement Of Special Vaccination Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of Polytechnic</h2>                                      
+
+                            <!--icon-->
+                            <div class="row">
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic, Aurangabad 
+
+</div>
+ <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>27 oct 2021
+
+</div>
+ <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Mission Youth Vaccination drive by Government of Maharashtra conducted by CSMSS College of Polytechnic in association with Director of DTE &with special support of Aurangabad Municipal cooperation. Inaugurated by Joint Director Hon. Dr .M.D.Shivankar ,CSMSS A.O. Hon.Dr.S.G.Deshmukh,Hon.Dr.S.C.Bhoyar,Hon.Dr.U.B.Shinde,Hon.Dr.G.B.Dongre,Hon.Mr.A.B.Aher
+    <br><br><br>
+                            <div class="row">
+                                <div class="col-12 col-lg-6 col-md-6 mt-5">
+                                     <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg" card="card shadow-lg" style="height:250px; width:340px;">
+                                    
+
+</div>
+</div>
+</div>
+</div>
+                            
+</div>
+</div>
+</div>
+</div>
+</div>
 
 
- MSBTE च्या  बाह्य अवेक्षण समितीसंस्थेमध्ये असणाऱ्या सोयी सुविधा, प्राध्यापक वर्ग, शैक्षणिक कामकाज, विद्यार्थ्यांसाठीचे विविध उपक्रम, एकंदरीत वातावरण ई. बाबींचा विचार करून  शैक्षणिक वर्ष २०२१-२२ साठी CSMSS Polytechnic च्या सर्व शाखांना MSBTE कडून  excellent दर्जा दिला. 
+                            
+                            
+                                   
 
 
 
-
-
-        </div>
-                    </div>
-                </div>
-                </div>
-        </div>
         <!-- department-single end-->
 
     </main>

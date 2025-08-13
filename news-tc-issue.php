@@ -75,7 +75,7 @@
                             <div class="department-sidebar">
                                 <div class="widget category">
                                     <h4 class="widget-title">NEWS</h4>
-                                    <div class="category-list">
+                                   <div class="category-list">
                                         <a href="newsmechanical.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering Department Second year students got second price</a>
                                         <a href="news-refernce.php"><i class="far fa-long-arrow-right"></i>Refresher Course for Direct Second Year Students</a>
                                         <a href="newsinstitute.php"><i class="far fa-long-arrow-right"></i>Institute Level Admission Round 2023-24</a>
@@ -110,7 +110,7 @@
                                         <a href="news-covid-19.php"><i class="far fa-long-arrow-right"></i>Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</a>
 
                                         <a href="news-uttar-pradesh.php"><i class="far fa-long-arrow-right"></i>Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra..</a>
-
+                                        <a href="news-special-vaccine.php"><i class="far fa-long-arrow-right"></i>Arrangement of Special vaccination drive against corona virus disease (Covid-19) at CSMSS College of Polytechnic..</a>
                                         <a href="news-tc-issue.php"><i class="far fa-long-arrow-right"></i>TC Issue of Final year Pass out student</a>
                                         <a href="news-trantrashikashan-padvika.php"><i class="far fa-long-arrow-right"></i>तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</a>
                                         <a href="newspadma-vibhushan.php"><i class="far fa-long-arrow-right"></i>Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab</a>
@@ -134,7 +134,7 @@
 
                                                         <center>
                                                             <div class="department-btn ">
-                                                                <a href="event-occasion.php" class="pt-lg-4 justify-content-center">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsmechanical.php" class="pt-lg-4 justify-content-center">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -146,7 +146,7 @@
 
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-blood-donation.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-refernce.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -158,7 +158,7 @@
 
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-personality_development.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsinstitute.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -170,7 +170,7 @@
                                                         <strong class="ps-5 news">OTO Registration Circular</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-business-opp.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsoto.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -181,7 +181,7 @@
                                                         <strong class="ps-5 news">Anti-Ragging Committee</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-entrepreneurship.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsanti-ragging.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -192,7 +192,7 @@
                                                         <strong class="ps-5 news">ICC(Internal Complaint Committee) Committee</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-ISTE sponsered.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="icc-committe.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -203,7 +203,7 @@
                                                         <strong class="ps-5 news">Grievance Redressal Committee(GRC) for Faculty/Staff</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-inagu of project soft.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="grc.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -214,7 +214,7 @@
                                                         <strong class="ps-5 news">POST SSC Diploma admission circular</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-expert talk.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newspost-ssc-poly.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -225,7 +225,7 @@
                                                         <strong class="ps-5 news">Photocopy Schedule</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-national road.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsphotocopy.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -236,7 +236,7 @@
                                                         <strong class="ps-5 news">150th Birth Anniversary Celebration of Chhatrapati Rajarshi Shahu Maharaj</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-52th district.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-one-fifthen ani.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -247,7 +247,7 @@
                                                         <strong class="ps-5 news">Umesh Nagdive Sir has Visited FC Center(CSMSS COP)</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-comprehensive python.php"" class=" pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsumesh.php" class=" pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -255,10 +255,22 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
+                                                        <strong class="ps-5 news">Appointment of various posts 2023</strong>
+                                                        <center>
+                                                            <div class="department-btn">
+                                                                <a href="news-appointment.php" class=" pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="carousel-item">
+                                                <div style="min-height: 200px; ">
+                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
                                                         <strong class="ps-5 news">State Level Technical Paper Presentation Competition</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-faculty dev traning.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newspaper-prasentaion.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -270,7 +282,7 @@
                                                         <strong class="ps-5 news">List of selected candidates in John Deere India Pvt Ltd. 2022-23</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-PM vishwakarma.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-selected-candidate.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -281,7 +293,7 @@
                                                         <strong class="ps-5 news">Class test 1 time table AY 2022-23 (Even)</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-induction pro.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-timetable2022-23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -292,7 +304,7 @@
                                                         <strong class="ps-5 news">जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्ह</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-entrepreneurship-development.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newscampus-drive.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -303,7 +315,7 @@
                                                         <strong class="ps-5 news">Fees structure for academic year 2022-23</strong>
                                                                 <center>
                                                                     <div class="department-btn">
-                                                                        <a href="event-online web.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                        <a href="newsfees.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                                 </center>
                                                     </div>
                                                 </div>
@@ -314,7 +326,7 @@
                                                         <strong class="ps-5 news">Corruption Free India For a Developed Nation</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-john.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newscarpation.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -325,7 +337,7 @@
                                                         <strong class="ps-5 news">Against CAP General Merit List A.Y. 2022-23 </strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-special connect program.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsagainstcap.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -336,7 +348,7 @@
                                                         <strong class="ps-5 news">MSBTE One time opportunity (OTO) registration time table 2022-23</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-state level2k.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsmsbteoto.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -347,7 +359,7 @@
                                                         <strong class="ps-5 news">पॉलिटेक्निक शैक्षणिक वर्ष २०२२-२३ अनुत्तीर्ण विद्यार्थांना दिलासा</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-industrial devgiri.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsdilasa.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -358,7 +370,7 @@
                                                         <strong class="ps-5 news">CSMSS Polytechnic च्या सर्व शाखांना MSBTE कडून excellent दर्जा</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-polyfest2k24.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsmsbte.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -369,7 +381,7 @@
                                                         <strong class="text-center ps-5 news">छत्रपती शाहू पॉलिटेक्निक व मसिआमध्ये सामंजस्य करार</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-Hackathon.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newspolytechnic.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -380,7 +392,7 @@
                                                         <strong class="ps-5 news">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-MERI MAATI.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newssscdiploma.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -391,7 +403,7 @@
                                                         <strong class="ps-5 news">online student grievance notice</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-first year.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newsonline-stu.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -403,7 +415,7 @@
                                                         <strong class="ps-5 news">Class test 1 time table (s-2022)</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-campus drive.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-class-test(s-22).php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -414,7 +426,7 @@
                                                         <strong class="ps-5 news">छत्रपती शाहू पॉलीटेक्निकने राखली निकालाची उज्ज्वल परंपरा</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-resultsummer23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newscsmss-result.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -425,7 +437,7 @@
                                                         <strong class="ps-5 news">छत्रपती शाहू पॉलीटेकनिक मधील २४ विद्यार्थ्यांची कॅम्पस प्लेसमेंट</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-birthanniversary.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-csmss-result.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -436,7 +448,7 @@
                                                         <strong class="ps-5 news">MAGICx Interview Series Announcement for 15 January 2022!</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-eventplacement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-magicx-interview.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -447,7 +459,7 @@
                                                         <strong class="ps-5 news">Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic.</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-national con 22-23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-suryanamskar.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -458,7 +470,7 @@
                                                         <strong class="ps-5 news">Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-annual 2023.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-covid-19.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -469,7 +481,7 @@
                                                         <strong class="ps-5 news">Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra.</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-IEDSSA.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-uttar-pradesh.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -481,7 +493,7 @@
                                                         </strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-Diploma Students.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-special-vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -492,7 +504,7 @@
                                                         <strong class="ps-5 news">TC Issue of Final year Pass out student</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-Corruption.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-tc-issue.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -504,7 +516,7 @@
                                                             तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event- yoga day.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-trantrashikashan-padvika.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -515,7 +527,7 @@
                                                         <strong class="ps-5 news">Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab.</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-arrangement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="newspadma-vibhushan.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -526,7 +538,7 @@
                                                         <strong class="ps-5 news">CSMSS College of Polytechnic Fees for academic year 2017-18</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-special vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-fees-2017-18.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -537,7 +549,7 @@
                                                         <strong class="ps-5 news">MOU has signed with Nashik Engineering Cluster</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-national conference.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-signed-membership.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -548,7 +560,7 @@
                                                         <strong class="ps-5 news">Polytechnic is the best option After tenth in order to get early jobs: Dr. M. V. Mankar</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-paper pre.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-poly-is-best-option.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>

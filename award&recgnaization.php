@@ -60,7 +60,7 @@
 
     <!-- popup search end -->
     <!-- breadcrumb -->
-    <div class="site-breadcrumb" style="background-image:url(assets/img/news-and-events/Awards-and-Recognitions/Mechanical.jpg)">
+    <div class="site-breadcrumb" style="background-image:url(assets/img/news-and-events/Awards-and-Recognitions/ELectronics.jpeg); height: 550px; object-fit: contain;">
         <div class="container">
             <h2 class="breadcrumb-title">AWAREDS AND RECOGNITIONS</h2>
             <ul class="breadcrumb-menu">
@@ -123,7 +123,7 @@
                                 <div class="blog-item ">
 
                                     <div class="blog-item-img">
-                                        <img src="assets/img/news and events/Awards and Recognitions/BOARD.jpg"
+                                        <img src="assets/img/news-and-events/Awards-and-Recognitions/BOARD.jpg"
                                             alt="Thumb" style="width:320%">
                                     </div>
                                     <div class="blog-item-info">
