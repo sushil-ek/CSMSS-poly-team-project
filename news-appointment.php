@@ -112,7 +112,7 @@
                                         <a href="news-covid-19.php"><i class="far fa-long-arrow-right"></i>Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</a>
 
                                         <a href="news-uttar-pradesh.php"><i class="far fa-long-arrow-right"></i>Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra..</a>
-
+                                        <a href="news-special-vaccine.php"><i class="far fa-long-arrow-right"></i>Arrangement of Special vaccination drive against corona virus disease (Covid-19) at CSMSS College of Polytechnic..</a>
                                         <a href="news-tc-issue.php"><i class="far fa-long-arrow-right"></i>TC Issue of Final year Pass out student</a>
                                         <a href="news-trantrashikashan-padvika.php"><i class="far fa-long-arrow-right"></i>तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</a>
                                         <a href="newspadma-vibhushan.php"><i class="far fa-long-arrow-right"></i>Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab</a>

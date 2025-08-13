@@ -697,14 +697,14 @@
 </div>
                             <!--row1-->
                             <div class="row">
-                                <div class="col-12 col-lg-6 col-md-6 mt-5">
+                                <div class="col-12 col-lg-6 col-md-6 mt-2">
                                    
                                      <img src="assets/img/news-and-events/Events/death-anniversary/statue.jpg" class="card shadow-lg" style="height:200px; width:300px;">
                                  
 
 </div>
                             
- <div class="col-12 col-lg-6 col-md-6 mt-5">
+ <div class="col-12 col-lg-6 col-md-6 mt-2">
     <img src="assets/img/news-and-events/Events/death-anniversary/occasion-statue3.jpg"alt="thumb" class="card shadow-lg " style="height:200px; width:300px;">
 
 </div>
