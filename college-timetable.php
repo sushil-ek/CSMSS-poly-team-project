@@ -65,7 +65,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">College TimeTable</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">College TimeTable</li>
                 </ul>
             </div>
@@ -106,108 +106,121 @@
                                 </div> -->
                             </div>
                         </div>
-                        <div class="col-xl-8 col-lg-8" >
+                        <div class="col-xl-8 col-lg-8">
                             <div class="accordion" id="accordionExample">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true"
-                                            aria-controls="collapseOne">
-                                            A.Y. 24-25(Even Semester)
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show department-download"
-                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Timetable of all Branches(CE,CO,ME,EE,EJ,AI) for Even Semester.
-                                            <div class="container">
-                                                <div class="row mt-2">
-                                                    <div class="col-lg-3">
-                                                        <a href="assets\pdf\college-timetable\A-Y-24-25-EVEN-SEMESTER.pdf"
-                                                            class="btn btn-outline-primary w-100" download>
-                                                            <i class="far fa-file-pdf"></i> Download
-                                                        </a>
-                                                    </div>
+                                <div class="widget event-single-info">
+                                    <button class="accordion-button" data-bs-toggle="" data-bs-target="#collapseOne"
+                                        aria-expanded="true" aria-controls="collapseOne">
+                                        <h4 class="widget-title mt-5 text-center">College Timetable</h4>
+                                    </button>
+                                    <div class="row">
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\college-timetable\A-Y-24-25-EVEN-SEMESTER.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> A.Y. 24-25(Even Semester)</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
+                                                            Branches(CE,CO,ME,EE,EJ,AI) for Even Semester</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\college-timetable\A-Y-24-25-EVEN-SEMESTER.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            A.Y. 2023-2024 (EVEN SEMESTER)
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Timetable of all Branches(CE,CO,ME,EE,EJ,AI) for Even Semester
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                <div class="row mt-2">
-                                                    <div class="col-lg-3">
-                                                        <a href="assets\pdf\college-timetable\A-Y-2023-2024-EVEN-SEMESTER.pdf"
-                                                            class="btn btn-outline-primary w-100" download>
-                                                            <i class="far fa-file-pdf"></i> Download
-                                                        </a>
-                                                    </div>
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\college-timetable\A-Y-2023-2024-EVEN-SEMESTER.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> A.Y. 2023-2024 (EVEN SEMESTER)</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
+                                                            Branches(CE,CO,ME,EE,EJ,AI) for Even Semester</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\college-timetable\A-Y-2023-2024-EVEN-SEMESTER.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
                                                 </div>
                                             </div>
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\college-timetable\A-Y-2023-2024-ODD-SEMESTER.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> A.Y. 2023-2024 (ODD SEMESTER)</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
+                                                            Branches(CE,CO,ME,EE,EJ,AI) for ODD Semester</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\college-timetable\A-Y-2023-2024-ODD-SEMESTER.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            A.Y. 2023-2024 (ODD SEMESTER)
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\college-timetable\A-Y-2023-2024-ODD-SEMESTER.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4> 15-09-2021 CO-3I TIME TABLE</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
+                                                            Branches(CE,CO,ME,EE,EJ,AI) for ODD Semester</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="#" download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
 
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Timetable of all Branches(CE,CO,ME,EE,EJ,AI) for ODD Semester
-                                            <div class="container">
-                                                <div class="row mt-2">
-                                                    <div class="col-lg-3">
-                                                        <a href="assets\pdf\college-timetable\A-Y-2023-2024-ODD-SEMESTER.pdf"
-                                                            class="btn btn-outline-primary w-100" download>
-                                                            <i class="far fa-file-pdf"></i> Download
-                                                        </a>
-                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                            aria-expanded="false" aria-controls="collapseFour">
-                                            15-09-2021 CO-3I TIME TABLE
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFour" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
 
+
+
+                                            <!-- <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingFour">
+                                                    <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                                        aria-expanded="false" aria-controls="collapseFour">
+                                                        15-09-2021 CO-3I TIME TABLE
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseFour"
+                                                    class="accordion-collapse collapse department-download"
+                                                    aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+
+                                                    </div>
+                                                </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <!-- department-single end-->
+                    <!-- department-single end-->
 
     </main>
 

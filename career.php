@@ -95,8 +95,8 @@
                             <!-- Latest News Section start -->
                             <section id="latest-news-section">
                                 <div class=" my-4">
-                                    <div id="carouselExampleDark" class="carousel carousel-dark slide" style="background-color:#f2f3f5;">
-                                        <h2 class="text-white p-2 " style="background-color:#642224">Latest News</h2>
+                                    <div id="carouselExampleDark" class="carousel carousel-dark slide widget category" style="background-color:#f2f3f5;">
+                                        <h2 class="widget-title">Latest News</h2>
                                         <div class="carousel-inner">
                                             <div class="carousel-item active" data-bs-interval="10000">
                                                 <div style="min-height: 330px;">
@@ -167,29 +167,28 @@
                         <h1 class="p-3 py-lg-0">CAREER
                             <hr>
                         </h1>
-
                         <div class="faq-area mt-4">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-lg-12">
-
-                                        <div class="accordion" id="accordionExample">
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne">
-                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        <span><i class="fa-regular fa-file-lines"></i></span> Appoiment Of Various Posts Apriln 2023
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p><strong>Location :</strong> CSMSS College of Polytechnic, Kanchanwadi, Chhatrapati Sambhajinagar</p>
-                                                        <p class="pt-lg-4 pb-4">Applications are invited from the eligible candidates for the post of lecturers and lab assistants. For details refer the advertisement.</p>
-                                                        <a href="#" class="pt-lg-2 p-2 fs-5 text-Secondar rounded-pill bg-light"> DOWNLOAD ADVERTISEMENT</a>
-                                                    </div>
-                                                </div>
+                                        <div class="choose-item m-3">
+                                            <div class="choose-item-icon">
+                                                <img src="assets/img/icon/teacher-2.svg" alt="">
                                             </div>
+                                            <div class="choose-item-info d-flex align-items-center justify-content-between">
+                                                <!-- Placement Summary Text on the left -->
+                                                <a href="assets/pdf/placement_details/T&amp;Pcell.pdf" class="flex-grow-1">
+                                                    <p class="mt-0 mb-0"> Appointment of various posts April 2023</p>
+                                                </a>
+                                                <!-- Download Button on the right -->
+                                                <a href="assets/pdf/placement_details/T&amp;PCell.pdf" download="" class="download-btn ms-3 pe-4">
+                                                    <i class="fa-solid fa-file-arrow-down"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="p-3">
+                                            <p><strong>Location :</strong> CSMSS College of Polytechnic, Kanchanwadi, Chhatrapati Sambhajinagar</p>
+                                            <p class="pt-lg-4 pb-4">Applications are invited from the eligible candidates for the post of lecturers and lab assistants. For details refer the advertisement.</p>
                                         </div>
                                     </div>
                                 </div>

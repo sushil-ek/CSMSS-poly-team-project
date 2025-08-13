@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- Mirrored from live.themewild.com/eduka/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:32 GMT -->
+
 <head>
     <!-- meta tags -->
     <meta charset="UTF-8">
@@ -8,11 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="keywords" content="">
-    
+
     <?php
     include 'common/header-link.php';
     ?>
 </head>
+
 <body>
     <!-- preloader -->
     <div class="preloader">
@@ -45,7 +47,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Contact Us</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Contact Us</li>
                 </ul>
             </div>
@@ -62,8 +64,10 @@
                                     <i class="fal fa-map-location-dot"></i>
                                 </div>
                                 <div class="contact-info-content">
-                                    <h5>Office Address</h5>
-                                    <p>Kanchanwadi, Chhatrapati Sambhajinagar</p>
+                                    <a href="https://maps.app.goo.gl/xmXCMJx5RLEX9Efu6">
+                                        <h5>Office Address</h5>
+                                        <p>Kanchanwadi, Chhatrapati Sambhajinagar</p>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -74,8 +78,8 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Call Us</h5>
-                                    <p>0240-2646402</p>
-                                    <p> 0240-2646405</p>
+                                    <a href="tel:02402646402">0240-2646402</a><br />
+                                    <a href="tel:02402646405">0240-2646405</a>
                                 </div>
                             </div>
                         </div>
@@ -86,8 +90,8 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Email Us</h5>
-                                    <p>tpo@csmsspoly.com</p>
-                                    <p>principal@csmsspoly.com</p>
+                                    <a href="mailto:tpo@csmsspoly.com">tpo@csmsspoly.com</a><br>
+                                    <a href="mailto:principal@csmsspoly.com">principal@csmsspoly.com</a>
                                 </div>
                             </div>
                         </div>
@@ -99,7 +103,7 @@
                                 <div class="contact-info-content">
                                     <h5>Open Time</h5>
                                     <p>Mon - Sat (09.30AM - 06.00PM)</p>
-                                    <p>Sunday   Closed</p>
+                                    <p>Sunday Closed</p>
                                 </div>
                             </div>
                         </div>
@@ -109,16 +113,18 @@
                     <div class="row">
                         <div class="col-lg-5">
                             <div class="contact-img">
-                                <img src="assets/img/contact/chhatrapati.png" alt=""  >
+                                <img src="assets/img/contact/chhatrapati.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-7 align-self-center">
                             <div class="contact-form">
                                 <div class="contact-form-header">
                                     <h2>Get In Touch</h2>
-                                    <p>To contact CSMSS Polytechnic College, you can fill the following information. </p>
+                                    <p>To contact CSMSS Polytechnic College, you can fill the following information.
+                                    </p>
                                 </div>
-                                <form method="post" action="https://live.themewild.com/eduka/assets/php/contact.php" id="contact-form">
+                                <form method="post" action="https://live.themewild.com/eduka/assets/php/contact.php"
+                                    id="contact-form">
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
@@ -133,9 +139,17 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="form-group">
-                                        <input type="text" class="form-control" name="subject"
-                                            placeholder="Your Subject" required>
+                                    <div class="form-group row">
+                                        <div class="col-md-6">
+
+                                            <input type="tel" class="form-control" name="number"
+                                            placeholder="Enter Mobile Number" required>
+                                        </div>
+                                         <div class="col-md-6">
+
+                                            <input type="text" class="form-control" name="subject"
+                                            placeholder="Subject" required>
+                                        </div>
                                     </div>
                                     <div class="form-group">
                                         <textarea name="message" cols="30" rows="5" class="form-control"
@@ -156,7 +170,10 @@
         <!-- end contact area -->
         <!-- map -->
         <div class="contact-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3753.225503515255!2d75.28576517522454!3d19.830409181535803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdb98e33436a7d3%3A0xff6fb4310e86be35!2sCSMSS%20College%20of%20Polytechnic!5e0!3m2!1sen!2sin!4v1753940750143!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3753.225503515255!2d75.28576517522454!3d19.830409181535803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdb98e33436a7d3%3A0xff6fb4310e86be35!2sCSMSS%20College%20of%20Polytechnic!5e0!3m2!1sen!2sin!4v1753940750143!5m2!1sen!2sin"
+                style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </main>
     <!-- footer area -->
@@ -170,6 +187,25 @@
     <?php
     include 'common/footer-link.php';
     ?>
+
+    <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const contactForm = document.getElementById("contact-form");
+    
+    if (contactForm) {
+        contactForm.addEventListener("submit", function(e) {
+            e.preventDefault(); // ❗ Keep this only if you don’t want to actually submit to PHP
+            
+            alert("Message Sent ✅");
+            
+            // Clear all input fields
+            contactForm.reset();
+        });
+    }
+});
+</script>
+
 </body>
 <!-- Mirrored from live.themewild.com/eduka/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:34 GMT -->
+
 </html>

@@ -76,7 +76,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-media/news-prize.jpg); height: 490px;object-fit: contain;">
             <div class="container">
                 <h2 class="breadcrumb-title">NEWS MEDIA</h2>
                 <ul class="breadcrumb-menu">
@@ -97,14 +97,14 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                  data-src="assets/img/news-media/sakal.jpeg">
-                   <img src="assets/img/news-media/sakal.jpeg" alt="Thumb" style="height:250px;width:320px">  
+                   <img src="assets/img/news-media/sakal.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">  
                 </a>
             </div>
               <!--card 2-->
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center ">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri.jpeg ">
-                    <img src="assets/img/news-media/kesri.jpeg " alt="Thumb" style="height:250px;width:320px">
+                    <img src="assets/img/news-media/kesri.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -112,7 +112,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center ">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src=" assets/img/news-media/navbharat.jpeg">
-                     <img src=" assets/img/news-media/navbharat.jpeg" alt="Thumb" style="height:250px;width:320px">
+                     <img src=" assets/img/news-media/navbharat.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -120,21 +120,21 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center ">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/samna.jpeg">
-                    <img src="assets/img/news-media/samna.jpeg " alt="Thumb" style="height:250px;width:320px">
+                    <img src="assets/img/news-media/samna.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
               <!--card 5-->
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Chhatrapat-winter1.jpeg">
-                     <img src="assets/img/news-media/Chhatrapat-winter1.jpeg" alt="Thumb" style="height:250px;width:320px">
+                     <img src="assets/img/news-media/Chhatrapat-winter1.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
              <!--card 6-->
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/navbharat2.jpeg">
-                   <img src="assets/img/news-media/navbharat2.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/navbharat2.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -142,7 +142,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri 2.jpeg">
-                   <img src="assets/img/news-media/kesri 2.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/kesri 2.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -150,7 +150,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/navbharat2.jpeg">
-                   <img src="assets/img/news-media/navbharat2.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/navbharat2.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -158,7 +158,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/lokmat.jpeg">
-                   <img src="assets/img/news-media/lokmat.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/lokmat.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -166,7 +166,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/punay nagari.jpeg">
-                     <img src="assets/img/news-media/punay nagari.jpeg " alt="Thumb" style="height:250px;width:320px">
+                     <img src="assets/img/news-media/punay nagari.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -175,7 +175,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/labhvata.jpeg">
-                    <img src="assets/img/news-media/labhvata.jpeg " alt="Thumb" style="height:250px;width:320px">
+                    <img src="assets/img/news-media/labhvata.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -183,7 +183,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/samna2.jpeg ">
-                   <img src="assets/img/news-media/samna2.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/samna2.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -191,7 +191,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/navbharat3.jpeg ">
-                    <img src="assets/img/news-media/navbharat3.jpeg " alt="Thumb" style="height:250px;width:320px">
+                    <img src="assets/img/news-media/navbharat3.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -199,7 +199,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/lokmat2.jpeg ">
-                    <img src="assets/img/news-media/lokmat2.jpeg " alt="Thumb" style="height:250px;width:320px">
+                    <img src="assets/img/news-media/lokmat2.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -207,7 +207,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri4.jpeg">
-                   <img src="assets/img/news-media/kesri4.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/kesri4.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -215,7 +215,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri3.jpeg">
-                   <img src="assets/img/news-media/kesri3.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/kesri3.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -223,7 +223,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Indian-Army-img5.jpeg">
-                   <img src="assets/img/news-media/Indian-Army-img5.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Indian-Army-img5.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -231,7 +231,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/prasar.jpeg">
-                   <img src="assets/img/news-media/prasar.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/prasar.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -239,7 +239,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/sakal2.jpeg">
-                   <img src="assets/img/news-media/sakal2.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/sakal2.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -247,7 +247,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/sporte.jpeg">
-                   <img src="assets/img/news-media/sporte.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/sporte.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -255,7 +255,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/sport2.jpeg">
-                   <img src="assets/img/news-media/sport2.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/sport2.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -263,7 +263,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/sakal3.jpeg">
-                   <img src="assets/img/news-media/sakal3.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/sakal3.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -271,7 +271,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/navbharat4.jpeg">
-                   <img src="assets/img/news-media/navbharat4.jpeg"  alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/navbharat4.jpeg"  alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -279,7 +279,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri5.jpeg">
-                   <img src="assets/img/news-media/kesri5.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/kesri5.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -287,7 +287,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/samna3.jpeg">
-                   <img src="assets/img/news-media/samna3.jpeg " alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/samna3.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -295,7 +295,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/desh1.jpeg">
-                   <img src="assets/img/news-media/desh1.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/desh1.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -303,7 +303,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/samna4.jpeg">
-                   <img src="assets/img/news-media/samna4.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/samna4.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -311,7 +311,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/img3.jpeg">
-                   <img src="assets/img/news-media/img3.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/img3.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -319,7 +319,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri6.jpeg">
-                   <img src="assets/img/news-media/kesri6.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/kesri6.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -327,7 +327,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/prasar2.jpeg">
-                   <img src="assets/img/news-media/prasar2.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/prasar2.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -335,7 +335,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri7.jpeg">
-                   <img src="assets/img/news-media/kesri7.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/kesri7.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -343,7 +343,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/navbharat5.jpeg">
-                   <img src="assets/img/news-media/navbharat5.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/navbharat5.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -351,7 +351,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/labhvata1.jpeg">
-                   <img src="assets/img/news-media/labhvata1.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/labhvata1.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -359,7 +359,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/lokmatimgg.jpeg">
-                   <img src="assets/img/news-media/lokmatimgg.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/lokmatimgg.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -367,7 +367,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/maharashtratime.jpeg">
-                   <img src="assets/img/news-media/maharashtratime.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/maharashtratime.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -375,7 +375,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/img2.jpeg">
-                   <img src="assets/img/news-media/img2.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/img2.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -383,7 +383,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/prasar3.jpeg">
-                   <img src="assets/img/news-media/prasar3.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/prasar3.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -391,7 +391,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/iimg3.jpeg">
-                   <img src="assets/img/news-media/iimg3.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/iimg3.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -399,7 +399,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/samna5.jpeg">
-                   <img src="assets/img/news-media/samna5.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/samna5.jpeg" alt="Thumb"class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -407,7 +407,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/marathwada.jpeg">
-                   <img src="assets/img/news-media/marathwada.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/marathwada.jpeg" alt="Thumb"class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -415,7 +415,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/sakal4.jpeg">
-                   <img src="assets/img/news-media/sakal4.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/sakal4.jpeg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -423,7 +423,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/play.jpeg">
-                   <img src="assets/img/news-media/play.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/play.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -431,7 +431,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/deshnoti.jpeg">
-                   <img src="assets/img/news-media/deshnoti.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/deshnoti.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -439,7 +439,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/navbharat6.jpeg">
-                   <img src="assets/img/news-media/navbharat6.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/navbharat6.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -447,7 +447,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/kesri8.jpeg">
-                   <img src="assets/img/news-media/kesri8.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/kesri8.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -455,7 +455,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/sports-s1.jpeg">
-                   <img src="assets/img/news-media/sports-s1.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/sports-s1.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -463,7 +463,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/sportss-s2.jpeg">
-                   <img src="assets/img/news-media/sportss-s2.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/sportss-s2.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -471,7 +471,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/punay nagari1.jpeg">
-                   <img src="assets/img/news-media/punay nagari1.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/punay nagari1.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -479,7 +479,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/devgiri.jpeg">
-                   <img src="assets/img/news-media/devgiri.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/devgiri.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -487,7 +487,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/CSMSS-navbharat7.jpeg">
-                   <img src="assets/img/news-media/CSMSS-navbharat7.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/CSMSS-navbharat7.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -495,7 +495,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/CSMSS-kesri9.jpeg">
-                   <img src="assets/img/news-media/CSMSS-kesri9.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/CSMSS-kesri9.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -503,7 +503,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/CSMSS-m4.jpeg">
-                   <img src="assets/img/news-media/CSMSS-m4.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/CSMSS-m4.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -511,7 +511,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/CSMSS-desh2.jpeg">
-                   <img src="assets/img/news-media/CSMSS-desh2.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/CSMSS-desh2.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -519,7 +519,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/CSMSS-sakal5.jpeg">
-                   <img src="assets/img/news-media/CSMSS-sakal5.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/CSMSS-sakal5.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -527,7 +527,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/CSMSS-dainik.jpeg">
-                   <img src="assets/img/news-media/CSMSS-dainik.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/CSMSS-dainik.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -535,7 +535,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/National-sakal6.jpeg">
-                   <img src="assets/img/news-media/National-sakal6.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/National-sakal6.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -543,7 +543,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/National-abhiyan.jpeg">
-                   <img src="assets/img/news-media/National-abhiyan.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/National-abhiyan.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -551,7 +551,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MSBTE-d1.jpeg">
-                   <img src="assets/img/news-media/MSBTE-d1.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MSBTE-d1.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -559,7 +559,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MSBTE-m5.jpeg">
-                   <img src="assets/img/news-media/MSBTE-m5.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MSBTE-m5.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -567,7 +567,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MSBTE -m6.jpeg">
-                   <img src="assets/img/news-media/MSBTE -m6.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MSBTE -m6.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -575,7 +575,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MSBTE-m7.jpeg">
-                   <img src="assets/img/news-media/MSBTE-m7.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MSBTE-m7.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -583,7 +583,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Annual-lokmat3.jpeg">
-                   <img src="assets/img/news-media/Annual-lokmat3.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Annual-lokmat3.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -592,7 +592,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Annual-divya.jpeg">
-                   <img src="assets/img/news-media/Annual-divya.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Annual-divya.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -600,7 +600,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Excellent-s3.jpg">
-                   <img src="assets/img/news-media/Excellent-s3.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Excellent-s3.jpg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -608,7 +608,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Excellent-desh3.jpeg">
-                   <img src="assets/img/news-media/Excellent-desh3.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Excellent-desh3.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -616,7 +616,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Excellent-m8.jpeg">
-                   <img src="assets/img/news-media/Excellent-m8.jpeg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Excellent-m8.jpeg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -624,7 +624,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Excellent-dai1.jpg">
-                   <img src="assets/img/news-media/Excellent-dai1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Excellent-dai1.jpg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -632,7 +632,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Excellent-prasar4.jpg">
-                   <img src="assets/img/news-media/Excellent-prasar4.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Excellent-prasar4.jpg" alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -640,7 +640,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Remark-n1.jpg">
-                   <img src="assets/img/news-media/Remark-n1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Remark-n1.jpg" alt="Thumb"  class="shadow-lg"  style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -649,7 +649,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Remark-a3.jpg">
-                   <img src="assets/img/news-media/Remark-a3.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Remark-a3.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -658,7 +658,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Remark-d2.jpg">
-                   <img src="assets/img/news-media/Remark-d2.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Remark-d2.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -667,7 +667,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Remark-lokmat4.jpg">
-                   <img src="assets/img/news-media/Remark-lokmat4.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Remark-lokmat4.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -676,7 +676,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Remark-devgiri1.jpg">
-                   <img src="assets/img/news-media/Remark-devgiri1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Remark-devgiri1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -685,7 +685,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Remark-navbharat8.jpg">
-                   <img src="assets/img/news-media/Remark-navbharat8.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Remark-navbharat8.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -694,7 +694,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/students-sakal7.jpg">
-                   <img src="assets/img/news-media/students-sakal7.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/students-sakal7.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -703,7 +703,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/students-bharat.jpg">
-                   <img src="assets/img/news-media/students-bharat.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/students-bharat.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -712,7 +712,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/students-lokmat5.jpg">
-                   <img src="assets/img/news-media/students-lokmat5.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/students-lokmat5.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -721,7 +721,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/students-m9.jpg">
-                   <img src="assets/img/news-media/students-m9.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/students-m9.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -730,7 +730,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/students-aadar.jpg">
-                   <img src="assets/img/news-media/students-aadar.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/students-aadar.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -739,7 +739,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/students-sajvarta.jpg">
-                   <img src="assets/img/news-media/students-sajvarta.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/students-sajvarta.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -747,7 +747,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MOU-sakal8.jpg">
-                   <img src="assets/img/news-media/MOU-sakal8.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MOU-sakal8.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -756,7 +756,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MOU-maha1.jpg">
-                   <img src="assets/img/news-media/MOU-maha1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MOU-maha1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -765,7 +765,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MOU-maha2.jpg">
-                   <img src="assets/img/news-media/MOU-maha2.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MOU-maha2.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -774,7 +774,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MOU-sakal9.jpg">
-                   <img src="assets/img/news-media/MOU-sakal9.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MOU-sakal9.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -783,7 +783,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/MOU-navbharat9.jpg">
-                   <img src="assets/img/news-media/MOU-navbharat9.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/MOU-navbharat9.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -792,7 +792,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-divya1.jpg">
-                   <img src="assets/img/news-media/Placement-divya1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-divya1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -801,7 +801,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-bharat1.jpg">
-                   <img src="assets/img/news-media/Placement-bharat1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-bharat1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -810,7 +810,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-navshakti.jpg">
-                   <img src="assets/img/news-media/Placement-navshakti.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-navshakti.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -819,7 +819,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-m10.jpg">
-                   <img src="assets/img/news-media/Placement-m10.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-m10.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -828,7 +828,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-ma1.jpg">
-                   <img src="assets/img/news-media/Placement-ma1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-ma1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -837,7 +837,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-desh5.jpg">
-                   <img src="assets/img/news-media/Placement-desh5.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-desh5.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -846,7 +846,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-maharashtra1.jpg">
-                   <img src="assets/img/news-media/Placement-maharashtra1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-maharashtra1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -855,7 +855,7 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-punay1.jpg">
-                   <img src="assets/img/news-media/Placement-punay1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-punay1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
 
@@ -864,7 +864,7 @@
             <div class="col-lg-12 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/Placement-sajvarta1.jpg">
-                   <img src="assets/img/news-media/Placement-sajvarta1.jpg" alt="Thumb" style="height:250px;width:320px">
+                   <img src="assets/img/news-media/Placement-sajvarta1.jpg" alt="Thumb"  class="shadow-lg" style="height:250px;width:320px">
                 </a>
             </div>
         </div>

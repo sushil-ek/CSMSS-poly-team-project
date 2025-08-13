@@ -16,56 +16,6 @@
     include 'common/header-link.php';
     ?>
 
-    <style>
-        /* department hod image  */
-        .department-hod-img .hod-image {
-            width: 80%;
-            height: auto;
-            border-radius: 5px;
-        }
-
-        .hod-name {
-            font-weight: bold;
-            font-size: 1.1rem;
-        }
-
-        button .accordion-button {
-            background-color: #F5F5F5;
-        }
-
-        /* department accordion start*/
-        .accordion-button {
-            font-weight: bold;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-
-        th,
-        td {
-            padding: 12px 8px;
-            border: 1px solid #ddd;
-            text-align: left;
-            vertical-align: top;
-        }
-
-        th {
-            background-color: #6EA84F;
-            color: white;
-        }
-
-        tr:nth-child(even) {
-            background-color: #F9F9F9;
-        }
-
-        .sr-col {
-            width: 60px;
-            font-weight: bold;
-        }
-    </style>
 </head>
 
 <body>
@@ -109,7 +59,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Electronics & Telecommunication Engineering</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Electronics & Telecommunication Engineering</li>
                 </ul>
             </div>
@@ -118,24 +68,33 @@
 
 
         <!-- department-single -->
-        <div class="department-single-area py-120">
+        <div class="department-single-area py-5">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
                         <div class="col-xl-4 col-lg-3">
                             <div class="department-sidebar">
                                 <div class="widget category">
-                                    <h4 class="widget-title">Departments</h4>
+                                    <h4 class="widget-title">Department</h4>
                                     <div class="category-list">
-                                        <a href="civil-department.php"><i class="far fa-long-arrow-right"></i>Civil Engineering</a>
-                                        <a href="electrical-department.php"><i class="far fa-long-arrow-right"></i>Electrical Engineering</a>
-                                        <a href="mechanical-department.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering</a>
-                                        <a href="#"><i class="far fa-long-arrow-right"></i>Electronics & Telecommunication Engineering</a>
-                                        <a href="computer-department.php"><i class="far fa-long-arrow-right"></i>Computer Engineering</a>
-                                        <a href="AI-ML-department.php"><i class="far fa-long-arrow-right"></i>Artificial Intelligance & Machine Learning</a>
+                                        <a href="#E & TE"><i class="far fa-long-arrow-right"></i>Introduction</a>
+                                        <a href="#AIC"><i class="far fa-long-arrow-right"></i>Admission Intake Capacity</a>
+                                        <a href="#Accordion-section"><i class="far fa-long-arrow-right"></i>Toppers</a>
+                                        <a href="#headingTwo"><i class="far fa-long-arrow-right"></i>Student's Achievement</a>
+                                        <a href="#headingThree"><i class="far fa-long-arrow-right"></i>Department Advisory Board (DAB)</a>
+                                        <a href="#accordionExample"><i class="far fa-long-arrow-right"></i>Programmee Assessment Committee (PAC)</a>
+                                        <a href="#headingFifth"><i class="far fa-long-arrow-right"></i>List Of Laboratories</a>
+                                        <a href="#headingSixth"><i class="far fa-long-arrow-right"></i>student's Association (EESA)-2022-23</a>
+                                        <a href="#headingseven"><i class="far fa-long-arrow-right"></i>Department Mou's</a>
+                                        <a href="#headingEight"><i class="far fa-long-arrow-right"></i>Department Project</a>
                                     </div>
                                 </div>
                             </div>
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
                         </div>
                         <!-- department download -->
                         <!-- <div class="widget department-download">
@@ -193,14 +152,17 @@
                                 </div>
 
                                 <!-- carousel  end -->
-
-                                <div class="department-details">
-                                    <h3 class="mb-20">Electronics & Tele-communication Engineering</h3>
-                                    <p class="mb-20" style="text-align: justify;">
-                                        Electronics & Tele-communication Engineering department was established in 2009. It is the branch of study that has revolutionized the life style of humanity. It is a pace setter and a prime mover behind the transition to a technological society. The field of Electronics and Tele-communication Engineering encompasses all areas of human life. Radio, television, telephones, computers, automobiles, office machinery and house-hold appliances, lifesaving medical equipment’s and space vehicles represent a mere sample in the wide spectrum of application of Electronics. </p>
-                                    <p class="mb-20" style="text-align: justify;"> Electronics & Tele-communication students have unlimited opportunities in the field of terrestrial and extra terrestrial communication systems like telephones, cellular phones, television, optical fiber communication, consumer and entertainment devices. Highly rewarding and greatly satisfying opportunities await the Electronics and Communication Engineers in the field of satellite space programs, embedded technologies etc.
-                                        <!-- img in civil page -->
-                                        <!-- <div class="row">
+                                 <div id="E & TE">
+                                    <div class="department-details">
+                                        <div class="mb-4">
+                                            <h3 class="mb-20">Electronics & Tele-communication Engineering</h3>
+                                            <p class="mb-20" style="text-align: justify;">
+                                                Electronics & Tele-communication Engineering department was established in 2009. It is the branch of study that has revolutionized the life style of humanity. It is a pace setter and a prime mover behind the transition to a technological society. The field of Electronics and Tele-communication Engineering encompasses all areas of human life. Radio, television, telephones, computers, automobiles, office machinery and house-hold appliances, lifesaving medical equipment’s and space vehicles represent a mere sample in the wide spectrum of application of Electronics. </p>
+                                            <p class="mb-20" style="text-align: justify;"> Electronics & Tele-communication students have unlimited opportunities in the field of terrestrial and extra terrestrial communication systems like telephones, cellular phones, television, optical fiber communication, consumer and entertainment devices. Highly rewarding and greatly satisfying opportunities await the Electronics and Communication Engineers in the field of satellite space programs, embedded technologies etc.</p>
+                                        </div>
+                                    </div>
+                                    <!-- img in civil page -->
+                                    <!-- <div class="row">
                                         <div class="col-md-6 mb-20">
                                             <img src="assets/img/department/01.jpg" alt="">
                                         </div>
@@ -208,8 +170,8 @@
                                             <img src="assets/img/department/02.jpg" alt="">
                                         </div>
                                     </div> -->
-                                        <!-- Department Vision start -->
-                                    <div class="mb-3">
+                                    <!-- Department Vision start -->
+                                    <div class="mb-4">
                                         <h3 class="mb-3">Department Vision</h3>
                                         <p>“To become a role model department for diploma in Electronics and Tele-communication engineering by imparting value based technical education.”</p>
                                     </div>
@@ -265,290 +227,289 @@
                                         <p><b class="text-dark">PO6:Project Management:</b> Use engineering management principles individually, as a team member or a leader to manage projects and effectively communicate about well-defined engineering activities.</p>
                                         <p><b class="text-dark">PO7: Life-long learning:</b> Ability to analyze individual needs and engage in updating in the context of technological changes.</p>
                                     </div>
+                                 </div>
                                     <!-- PO's end -->
-                                </div>
-                                <h2 class="mb-3 ms-4 ps-1 text-black">Admission Intake Capacity : 60</h2>
+                                <div id="AIC">
+                                    <h3 class="mb-3 ps-1 text-black">Admission Intake Capacity : 60</h3>
 
-                                <!-- Accodian start -->
-                                <div class="container my-5">
-                                    <div class="accordion" id="hodAccordion">
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                    aria-expanded="true" aria-controls="collapseOne">
-                                                    HOD Message
-                                                </button>
-                                            </h2>
-                                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                                data-bs-parent="#hodAccordion">
-                                                <div class="accordion-body">
-                                                    <div class="row">
-                                                        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-                                                            <center><img class="sticky" src="assets\img\department\HODETC.jpeg" alt="HOD Image" width="150" height="200"></center>
-                                                            <center><b>Mr. M. D. Narangale</b><br><i>HOD</i></center>
+                                    <!-- Accodian start -->
+                                    <div class="container my-5">
+                                        <div class="accordion" id="hodAccordion">
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne">
+                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                        aria-expanded="true" aria-controls="collapseOne">
+                                                        HOD Message
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                                    data-bs-parent="#hodAccordion">
+                                                    <div class="accordion-body">
+                                                        <div class="row">
+                                                            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                                                <center><img class="sticky" src="assets\img\department\HODETC.jpeg" alt="HOD Image" width="150" height="200" style="border-radius:0px;"></center>
+                                                                <center><b>Mr. M. D. Narangale</b><br><i>HOD</i></center>
+                                                            </div>
+                                                            <div class="col-lg-8 col-md-12">
+                                                                <p style="text-align: justify">Welcome to the Department of Electronics & Telecommunication Engineering at CSMSS college of Polytechnic, Aurangabad Maharashtra. The Department has been established in the year 2009 with the intake capacity of 60 students.</p>
+                                                                <p style="text-align: justify">The M.S.B.T.E. Mumbai has conferred the ‘Excellent’ grade to the department for its academic activities, and has been certified by ISO. The Department has sufficient and good infrastructural design, and well equipped laboratories</p>
+                                                                <p style="text-align: justify">The department has a SATCOM lab which has been developed in collaboration with the I.S.T.C. Pvt. Ltd. Pune in which satellite</p>
+                                                            </div>
+                                                            <p style="text-align: justify">related practicals are conducted. It is a dynamic and exciting area that provides excellent career opportunities in various fields of technology. The departmental staff has their own You Tube Channel of the practicals which is to be conducted according to the curriculum.</p>
+                                                            <p style="text-align: justify">We motivate our students to participate in quiz, paper presentation, poster and project competition etc.</p>
                                                         </div>
-                                                        <div class="col-lg-8 col-md-12">
-                                                            <p style="text-align: justify">Welcome to the Department of Electronics & Telecommunication Engineering at CSMSS college of Polytechnic, Aurangabad Maharashtra. The Department has been established in the year 2009 with the intake capacity of 60 students.</p>
-                                                            <p style="text-align: justify">The M.S.B.T.E. Mumbai has conferred the ‘Excellent’ grade to the department for its academic activities, and has been certified by ISO. The Department has sufficient and good infrastructural design, and well equipped laboratories</p>
-                                                            <p style="text-align: justify">The department has a SATCOM lab which has been developed in collaboration with the I.S.T.C. Pvt. Ltd. Pune in which satellite</p>
-                                                        </div>
-                                                        <p style="text-align: justify">related practicals are conducted. It is a dynamic and exciting area that provides excellent career opportunities in various fields of technology. The departmental staff has their own You Tube Channel of the practicals which is to be conducted according to the curriculum.</p>
-                                                        <p style="text-align: justify">We motivate our students to participate in quiz, paper presentation, poster and project competition etc.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <!-- Form Section Start -->
+                                        <!-- Form Section Start -->
 
-                                    <!--faculty-details-->
-                                    <!--first-table-->
+                                        <!--faculty-details-->
+                                        <!--first-table-->
 
+                                        <h3 class="mb-4 ps-1 text-black mt-4">Faculty Details</h3>
+                                        <div class=" table-responsive" style="font-size: 14px;">
+                                            <table class=" table table-bordered table-hover">
+                                                <thead>
+                                                    <tr>
+                                                        <th width="10%">
 
-                                    <div class=" table-responsive" style="font-size: 14px;">
-                                        <table class=" table table-bordered table-hover">
-                                            <thead>
-                                                <tr>
-                                                    <th width="10%">
+                                                            Sr.No.
 
-                                                        Sr.No.
+                                                        </th>
+                                                        <th width="45%">
 
-                                                    </th>
-                                                    <th width="45%">
+                                                            Particuler
 
-                                                        Particuler
+                                                        </th>
+                                                        <th width="45%">
+                                                            A.Y.
+                                                        </th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody style="background-color:#eeeeee">
+                                                    <tr>
+                                                        <td rowspan="3">
+                                                            01
+                                                        </td>
+                                                        <td rowspan="3">
+                                                            FACULTY DETAILS
+                                                        </td>
+                                                        <td>
+                                                            <a href="assets\pdf\department-pdf\electronic\EJFDAY21_22.pdf">A.Y. 2021-22</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <a href="assets\pdf\department-pdf\electronic\EJFDAY22_23.pdf">A.Y. 2022-23</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <a href="assets\pdf\department-pdf\electronic\EJFDAY23_24.pdf">A.Y. 2023-24</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <!--first-table-end-->
 
-                                                    </th>
-                                                    <th width="45%">
-                                                        A.Y.
-                                                    </th>
-                                                </tr>
-                                            </thead>
-                                            <tbody style="background-color:#eeeeee">
-                                                <tr>
-                                                    <td rowspan="3">
-                                                        01
-                                                    </td>
-                                                    <td rowspan="3">
-                                                        FACULTY DETAILS
-                                                    </td>
-                                                    <td>
-                                                        <a href="">A.Y. 2021-22</a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        <a href="">A.Y. 2022-23</a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        <a href="">A.Y. 2023-24</a>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                    <!--first-table-end-->
+                                        <!-- Second table -->
 
+                                        <div class=" table-responsive" style="font-size: 14px;">
+                                            <table class=" table table-bordered table-hover">
+                                                <thead>
+                                                    <tr>
+                                                        <th>
 
+                                                            Sr.No.
 
+                                                        </th>
+                                                        <th>
 
-                                    <!-- Second table -->
+                                                            Name
 
-                                    <div class=" table-responsive" style="font-size: 14px;">
-                                        <table class=" table table-bordered table-hover">
-                                            <thead>
-                                                <tr>
-                                                    <th>
+                                                        </th>
+                                                        <th>
 
-                                                        Sr.No.
+                                                            Qualification <br>
 
-                                                    </th>
-                                                    <th>
+                                                        </th>
+                                                        <th>
 
-                                                        Name
+                                                            Designation <br>
 
-                                                    </th>
-                                                    <th>
+                                                        </th>
+                                                        <th>
 
-                                                        Qualification <br>
+                                                            Profile <br>
 
-                                                    </th>
-                                                    <th>
+                                                        </th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+                                                            01
+                                                        </td>
+                                                        <td>DR.SHASHIKANT RANGNATHRAO DIKLE</td>
+                                                        <td>
+                                                            B.E.,M.E.,Ph.D.
+                                                        </td>
+                                                        <td>
 
-                                                        Designation <br>
+                                                            <b>Principal</b>
 
-                                                    </th>
-                                                    <th>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\DR. DIKLE SIR.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            02
+                                                        </td>
+                                                        <td>Mr. NARANGALE MADHAV DATTATRAY</td>
+                                                        <td>
+                                                            B.E.,M.E.
+                                                        </td>
+                                                        <td>
 
-                                                        Profile <br>
+                                                            HOD
 
-                                                    </th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        01
-                                                    </td>
-                                                    <td>DR.SHASHIKANT RANGNATHRAO DIKLE</td>
-                                                    <td>
-                                                        B.E.,M.E.,Ph.D.
-                                                    </td>
-                                                    <td>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\Narangale Sir.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            03
+                                                        </td>
+                                                        <td>Ms. BHANDARU SWARNSANDYA HARIBABU</td>
+                                                        <td>
+                                                            B.E.,M.E.
+                                                        </td>
+                                                        <td>
 
-                                                        <b>Principal</b>
+                                                            LECTURER
 
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\DR. DIKLE SIR.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        02
-                                                    </td>
-                                                    <td>Mr. NARANGALE MADHAV DATTATRAY</td>
-                                                    <td>
-                                                        B.E.,M.E.
-                                                    </td>
-                                                    <td>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\S.H.Bhandaru.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            04
+                                                        </td>
+                                                        <td>Mr. LAMB DHANANJAY SUDAMRAO</td>
+                                                        <td>
+                                                            B.E.,M.E.
+                                                        </td>
+                                                        <td>
 
-                                                        HOD
+                                                            LECTURER
 
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\Narangale Sir.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        03
-                                                    </td>
-                                                    <td>Ms. BHANDARU SWARNSANDYA HARIBABU</td>
-                                                    <td>
-                                                        B.E.,M.E.
-                                                    </td>
-                                                    <td>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\Lamb Sir.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            05
+                                                        </td>
+                                                        <td>Mr. SHISODE VIRENDRASINH UDAYSINH</td>
+                                                        <td>
+                                                            B.E.
+                                                        </td>
+                                                        <td>
 
-                                                        LECTURER
+                                                            LECTURER
 
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\S.H.Bhandaru.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        04
-                                                    </td>
-                                                    <td>Mr. LAMB DHANANJAY SUDAMRAO</td>
-                                                    <td>
-                                                        B.E.,M.E.
-                                                    </td>
-                                                    <td>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\Shisode Sir.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            06
+                                                        </td>
+                                                        <td>Mrs. PATIL VIJAYA SAHEBRAO</td>
+                                                        <td>
+                                                            M.Tech, B.E.
+                                                        </td>
+                                                        <td>
 
-                                                        LECTURER
+                                                            LECTURER
 
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\Lamb Sir.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        05
-                                                    </td>
-                                                    <td>Mr. SHISODE VIRENDRASINH UDAYSINH</td>
-                                                    <td>
-                                                        B.E.
-                                                    </td>
-                                                    <td>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\V.S.Patil.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            07
+                                                        </td>
+                                                        <td>Mr. DHANWADE BHARAT GANGARAM</td>
+                                                        <td>
+                                                            M.A. (ENGLISH)
+                                                        </td>
+                                                        <td>
 
-                                                        LECTURER
+                                                            LECTURER
 
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\Shisode Sir.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        06
-                                                    </td>
-                                                    <td>Mrs. PATIL VIJAYA SAHEBRAO</td>
-                                                    <td>
-                                                        M.Tech, B.E.
-                                                    </td>
-                                                    <td>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\Dhanwade sir.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    <tr>
+                                                        <td>
+                                                            08
+                                                        </td>
+                                                        <td>Ms. SAKHARE MANISHA BHASKARRAO</td>
+                                                        <td>
+                                                            M.SC.(MATHS), B.ED.
+                                                        </td>
+                                                        <td>
 
-                                                        LECTURER
+                                                            LECTURER
 
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\V.S.Patil.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        07
-                                                    </td>
-                                                    <td>Mr. DHANWADE BHARAT GANGARAM</td>
-                                                    <td>
-                                                        M.A. (ENGLISH)
-                                                    </td>
-                                                    <td>
-
-                                                        LECTURER
-
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\Dhanwade sir.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                <tr>
-                                                    <td>
-                                                        08
-                                                    </td>
-                                                    <td>Ms. SAKHARE MANISHA BHASKARRAO</td>
-                                                    <td>
-                                                        M.SC.(MATHS), B.ED.
-                                                    </td>
-                                                    <td>
-
-                                                        LECTURER
-
-                                                    </td>
-                                                    <td class="text-center">
-                                                        <a href="assets\pdf\department-pdf\electronic\Sakhare Madam.pdf" target="_blank" class="btn text-white"
-                                                            id="view-button">
-                                                            <i class="fa-regular fa-eye text-white"></i> View
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                                        </td>
+                                                        <td class="text-center">
+                                                            <a href="assets\pdf\department-pdf\electronic\Sakhare Madam.pdf" target="_blank" class="btn text-white"
+                                                                id="view-button">
+                                                                <i class="fa-regular fa-eye text-white"></i> View
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
                                     </div>
                                     <!-- second-table-end-->
                                     <!-- Form Section Ends  -->
@@ -557,156 +518,159 @@
 
                                     <!--Accordin section started here-->
                                     <section id="Accordion-section">
-                                        <div class="faq-area">
+                                        <div id="topper">
 
-                                            <div class="row">
-                                                <div class="col-lg-6 w-100">
-                                                    <!--first Accordion started-->
-                                                    <div class="accordion" id="accordionExample">
-                                                        <div class="accordion-item">
-                                                            <h2 class="accordion-header p-lg-2" id="headingOne">
-                                                                <button
-                                                                    class="accordion-button collapsed border-0"
-                                                                    type="button" data-bs-toggle="collapse"
-                                                                    data-bs-target="#collapseOne"
-                                                                    aria-expanded="false"
-                                                                    aria-controls="collapseOne">
-                                                                    TOPPERS
-                                                                </button>
-                                                            </h2>
-                                                            <div id="collapseOne"
-                                                                class="accordion-collapse collapse"
-                                                                aria-labelledby="headingOne"
-                                                                data-bs-parent="#accordionExample">
-                                                                <div class="accordion-body">
+                                            <div class="faq-area">
+                                                <div class="row">
+                                                    <div class="col-lg-6 w-100">
+                                                        <!--first Accordion started-->
+                                                        <div class="accordion" id="accordionExample">
+                                                            <div class="accordion-item p-2">
+                                                                <h2 class="accordion-header " id="headingOne">
+                                                                    <button
+                                                                        class="accordion-button collapsed"
+                                                                        type="button" data-bs-toggle="collapse"
+                                                                        data-bs-target="#collapseOne"
+                                                                        aria-expanded="false"
+                                                                        aria-controls="collapseOne">
+                                                                        TOPPERS
+                                                                    </button>
+                                                                </h2>
+                                                                <div id="collapseOne"
+                                                                    class="accordion-collapse collapse"
+                                                                    aria-labelledby="headingOne"
+                                                                    data-bs-parent="#accordionExample">
+                                                                    <div class="accordion-body">
 
-                                                                    <ul>
-                                                                        <li style="list-style-type: disc;">
-                                                                            Following are the overall toppers of
-                                                                            Electronics & Telecomm.engineering department for the
-                                                                            academic year 2022-23.</li>
-                                                                    </ul>
-                                                                    <h5 style="margin-bottom: 10px;"><u>Toppers
-                                                                            of FY EJ</u></h5>
-                                                                    <!--first table started-->
-                                                                    <div class="container mt-3 table-responsive">
-                                                                        <table class="table table-bordered table-hover">
-                                                                            <thead>
-                                                                                <tr>
-                                                                                    <th>Sr.No.</th>
-                                                                                    <th>Name of Student</th>
-                                                                                    <th> Percentage</th>
-                                                                                    <th>Class Awarded</th>
-                                                                                </tr>
-                                                                            </thead>
-                                                                            <tbody>
-                                                                                <tr>
-                                                                                    <td>01</td>
-                                                                                    <td>PARADKAR RUSHIKESH PRASAD</td>
-                                                                                    <td>86.59</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>02</td>
-                                                                                    <td>SHRIKHANDE SAURABH BALKRISHNA</td>
-                                                                                    <td>84.59</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>03</td>
-                                                                                    <td>GADWE ANIKET BHAGWAN</td>
-                                                                                    <td>75.76</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-
-                                                                            </tbody>
-                                                                        </table>
-                                                                    </div>
-                                                                    <!-- first table end -->
-
-                                                                    <!-- second table start -->
-                                                                    <h5 style="margin-bottom: 10px;"><u>Toppers
-                                                                            of SY EJ</u></h5>
-                                                                    <div class="container mt-3 table-responsive">
-                                                                        <table class="table table-bordered table-hover">
-                                                                            <thead>
-                                                                                <tr>
-                                                                                    <th>Sr.No.</th>
-                                                                                    <th>Name of Student</th>
-                                                                                    <th> Percentage</th>
-                                                                                    <th>Class Awarded</th>
-                                                                                </tr>
-                                                                            </thead>
-                                                                            <tbody>
-                                                                                <tr>
-                                                                                    <td>01</td>
-                                                                                    <td>DIVE ARUNDHATI DEEPAK</td>
-                                                                                    <td>79.56</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>02</td>
-                                                                                    <td> DNYANESHWARI PATIL</td>
-                                                                                    <td>78.67</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>03</td>
-                                                                                    <td>SALUNKE RADHIKA UMESH</td>
-                                                                                    <td>78</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-
-                                                                            </tbody>
-                                                                        </table>
-                                                                        <!--second table end-->
-
-                                                                        <!--third table started-->
+                                                                        <ul>
+                                                                            <li style="list-style-type: disc;">
+                                                                                Following are the overall toppers of
+                                                                                Electronics & Telecomm.engineering department for the
+                                                                                academic year 2022-23.</li>
+                                                                        </ul>
                                                                         <h5 style="margin-bottom: 10px;"><u>Toppers
-                                                                                of TY EJ</u></h5>
-                                                                        <table class=" table table-bordered table-hover">
-                                                                            <thead>
-                                                                                <tr>
-                                                                                    <th>Sr.No.</th>
-                                                                                    <th>Name of Student</th>
-                                                                                    <th> Percentage</th>
-                                                                                    <th>Class Awarded</th>
-                                                                                </tr>
-                                                                            </thead>
-                                                                            <tbody>
-                                                                                <tr>
-                                                                                    <td>01</td>
-                                                                                    <td>BHANDARE BHAKTI GANESH</td>
-                                                                                    <td>85.29</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>02</td>
-                                                                                    <td>NAIK DIPIKA SHIVAJI</td>
-                                                                                    <td>83.18</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>03</td>
-                                                                                    <td>SOPPA SRUSHTI SUNIL</td>
-                                                                                    <td>81.06</td>
-                                                                                    <td>First Class with Distinction</td>
-                                                                                </tr>
+                                                                                of FY EJ</u></h5>
+                                                                        <!--first table started-->
+                                                                        <div class="container mt-3 table-responsive">
+                                                                            <table class="table table-bordered table-hover">
+                                                                                <thead>
+                                                                                    <tr>
+                                                                                        <th>Sr.No.</th>
+                                                                                        <th>Name of Student</th>
+                                                                                        <th> Percentage</th>
+                                                                                        <th>Class Awarded</th>
+                                                                                    </tr>
+                                                                                </thead>
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td>01</td>
+                                                                                        <td>PARADKAR RUSHIKESH PRASAD</td>
+                                                                                        <td>86.59</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td>02</td>
+                                                                                        <td>SHRIKHANDE SAURABH BALKRISHNA</td>
+                                                                                        <td>84.59</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td>03</td>
+                                                                                        <td>GADWE ANIKET BHAGWAN</td>
+                                                                                        <td>75.76</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
 
-                                                                            </tbody>
-                                                                        </table>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </div>
+                                                                        <!-- first table end -->
+
+                                                                        <!-- second table start -->
+                                                                        <h5 style="margin-bottom: 10px;"><u>Toppers
+                                                                                of SY EJ</u></h5>
+                                                                        <div class="container mt-3 table-responsive">
+                                                                            <table class="table table-bordered table-hover">
+                                                                                <thead>
+                                                                                    <tr>
+                                                                                        <th>Sr.No.</th>
+                                                                                        <th>Name of Student</th>
+                                                                                        <th> Percentage</th>
+                                                                                        <th>Class Awarded</th>
+                                                                                    </tr>
+                                                                                </thead>
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td>01</td>
+                                                                                        <td>DIVE ARUNDHATI DEEPAK</td>
+                                                                                        <td>79.56</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td>02</td>
+                                                                                        <td> DNYANESHWARI PATIL</td>
+                                                                                        <td>78.67</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td>03</td>
+                                                                                        <td>SALUNKE RADHIKA UMESH</td>
+                                                                                        <td>78</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+
+                                                                                </tbody>
+                                                                            </table>
+                                                                            <!--second table end-->
+
+                                                                            <!--third table started-->
+                                                                            <h5 style="margin-bottom: 10px;"><u>Toppers
+                                                                                    of TY EJ</u></h5>
+                                                                            <table class=" table table-bordered table-hover">
+                                                                                <thead>
+                                                                                    <tr>
+                                                                                        <th>Sr.No.</th>
+                                                                                        <th>Name of Student</th>
+                                                                                        <th> Percentage</th>
+                                                                                        <th>Class Awarded</th>
+                                                                                    </tr>
+                                                                                </thead>
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td>01</td>
+                                                                                        <td>BHANDARE BHAKTI GANESH</td>
+                                                                                        <td>85.29</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td>02</td>
+                                                                                        <td>NAIK DIPIKA SHIVAJI</td>
+                                                                                        <td>83.18</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td>03</td>
+                                                                                        <td>SOPPA SRUSHTI SUNIL</td>
+                                                                                        <td>81.06</td>
+                                                                                        <td>First Class with Distinction</td>
+                                                                                    </tr>
+
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </div>
+                                                                        <!--third table end-->
                                                                     </div>
-                                                                    <!--third table end-->
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                        
                                                         <!--first Accordion end-->
 
                                                         <!--second Accordion start-->
-                                                        <div class="accordion-item">
-                                                            <h2 class="accordion-header p-lg-2" id="headingTwo">
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header" id="headingTwo">
+                                                              
                                                                 <button
-                                                                    class="accordion-button collapsed border-0"
+                                                                    class="accordion-button collapsed"
                                                                     type="button" data-bs-toggle="collapse"
                                                                     data-bs-target="#collapseTwo"
                                                                     aria-expanded="false"
@@ -815,11 +779,11 @@
                                                         <!--second Accordion end-->
 
                                                         <!--third Accordion start-->
-                                                        <div class="accordion-item">
-                                                            <h2 class="accordion-header p-lg-2"
-                                                                id="headingThree">
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header "
+                                                                id="headingThree">  
                                                                 <button
-                                                                    class="accordion-button collapsed border-0"
+                                                                    class="accordion-button collapsed"
                                                                     type="button" data-bs-toggle="collapse"
                                                                     data-bs-target="#collapseThree"
                                                                     aria-expanded="false"
@@ -912,14 +876,12 @@
                                                         </div>
                                                         <!-- third-accordion-end -->
 
-
-
                                                         <!-- Fourth-accordion-start -->
                                                         <div class="accordion" id="accordionExample">
-                                                            <div class="accordion-item p-2 ">
+                                                            <div class="accordion-item p-2">
                                                                 <h2 class="accordion-header" id="headingFourth">
                                                                     <button
-                                                                        class="accordion-button collapsed border-0"
+                                                                        class="accordion-button collapsed"
                                                                         type="button" data-bs-toggle="collapse"
                                                                         data-bs-target="#collapsefourth"
                                                                         aria-expanded="false"
@@ -996,6 +958,7 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
+                                                        </div>
 
                                                             <!--forth-accordion-end -->
 
@@ -1003,7 +966,7 @@
                                                             <div class="accordion-item p-2">
                                                                 <h2 class="accordion-header" id="headingFifth">
                                                                     <button
-                                                                        class="accordion-button collapsed border-0"
+                                                                        class="accordion-button collapsed"
                                                                         type="button" data-bs-toggle="collapse"
                                                                         data-bs-target="#collapsefifth"
                                                                         aria-expanded="false"
@@ -1071,7 +1034,6 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-
                                                             <!-- fifth-accordion-end -->
 
 
@@ -1079,7 +1041,7 @@
                                                             <div class="accordion-item p-2">
                                                                 <h2 class="accordion-header" id="headingSixth">
                                                                     <button
-                                                                        class="accordion-button collapsed border-0"
+                                                                        class="accordion-button collapsed"
                                                                         type="button" data-bs-toggle="collapse"
                                                                         data-bs-target="#collapsesixth"
                                                                         aria-expanded="false"
@@ -1162,14 +1124,13 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-
                                                             <!-- 6TH ACCORDIN ENDS-->
-                                                            <!-- 7TH ACCORDIN STARTS-->
 
+                                                            <!-- 7TH ACCORDIN STARTS-->
                                                             <div class="accordion-item p-2">
                                                                 <h2 class="accordion-header" id="headingseven">
 
-                                                                    <button class="accordion-button collapsed border-0" type="button"
+                                                                    <button class="accordion-button collapsed" type="button"
                                                                         data-bs-toggle="collapse" data-bs-target="#collapseseven"
                                                                         aria-expanded="false" aria-controls="collapseseven">
                                                                         DEPARTMENT MOU's
@@ -1240,7 +1201,7 @@
                                                             <div class="accordion-item p-2">
                                                                 <h2 class="accordion-header" id="headingEight">
                                                                     <button
-                                                                        class="accordion-button collapsed border-0"
+                                                                        class="accordion-button collapsed"
                                                                         type="button" data-bs-toggle="collapse"
                                                                         data-bs-target="#collapseEight"
                                                                         aria-expanded="false"
@@ -1258,7 +1219,7 @@
                                                                             </div>
                                                                             <p><strong><u class="p-2">A.Y.
                                                                                         2020-21</u></strong></p>
-                                                                            <ul class="p-3 ">
+                                                                            <ul class="p-2 ">
                                                                                 <li
                                                                                     style="list-style-type: disc">
                                                                                     Universal Develoment Board for Practical</li>
@@ -1275,11 +1236,10 @@
                                                                                     Automatic temperture detector in classroom
                                                                                 </li>
 
-
                                                                             </ul>
                                                                             <p><strong><u class="p-2">A.Y.
                                                                                         2021-22</u></strong></p>
-                                                                            <ul class="p-3 ">
+                                                                            <ul class="p-2 ">
                                                                                 <li
                                                                                     style="list-style-type: disc">
                                                                                     8051 Development Board</li>
@@ -1309,7 +1269,7 @@
                                                                             </ul>
                                                                             <p><strong><u class="p-2">A.Y.
                                                                                         2022-23</u></strong></p>
-                                                                            <ul class="p-3 ">
+                                                                            <ul class="p-2 ">
                                                                                 <li
                                                                                     style="list-style-type: disc">
                                                                                     GUI for error correction in data communication using SCILAB
@@ -1342,7 +1302,7 @@
                                                                             <p><strong><u class="p-2">A.Y.
                                                                                         2023-24</u></strong></p>
                                                                             <ul
-                                                                                class="justify-content-center p-3 ">
+                                                                                class="justify-content-center p-2 ">
                                                                                 <li
                                                                                     style="list-style-type: disc">
                                                                                     Biometric Attendance system</li>
@@ -1363,7 +1323,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>    
+                                        </div>
                                     </section>
                                     <!--Accordin section End here-->
                                 </div>

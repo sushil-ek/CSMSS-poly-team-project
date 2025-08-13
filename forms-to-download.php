@@ -14,6 +14,7 @@
     <?php
     include 'common/header-link.php';
     ?>
+
 </head>
 
 <body>
@@ -48,7 +49,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Forms To Download</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Forms To Download</li>
                 </ul>
             </div>
@@ -88,42 +89,102 @@
                         </div>
                         <div class="col-xl-8 col-lg-8">
                             <div class="accordion" id="accordionExample">
-                                <div class="accordion-item mt-0">
-                                    <h2 class="accordion-header ms-2 p-3" id="headingOne">
-                                        FORMS FOR DOWNLOAD
-                                        <hr class="text">
-                                        </button>
+                                <div class="widget event-single-info">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <h4 class="widget-title mt-5 text-center">FORMS FOR DOWNLOAD</h4>
+                                    </button>
                                     </h2>
-                                    <div class="accordion-body">
-                                        <div class="w-100">
-                                            <a href="assets\pdf\forms-for-download\STUDENT-REGISTRATION-FORM.pdf"
-                                                class="w-100 mt-3" download><i class="far fa-file-pdf"></i>
-                                                <strong> Student Registration Form</strong>
-                                            </a>
-                                            <a href="assets\pdf\forms-for-download\OTO-UNDERTAKING.pdf"
-                                                class="w-100 mt-3" download><i class="far fa-file-pdf"></i>
-                                                <strong>OTO Undertaking</strong>
-                                            </a>
-                                            <a href="assets\pdf\forms-for-download\I-CARD-FORMAT.docx"
-                                                class="w-100 mt-3" download><i class="far fa-file-pdf"></i>
-                                                <strong>I Card Format</strong>
-                                            </a>
-                                            <a href="assets\pdf\forms-for-download\ALUMNI-REGISTRATION-FORM.pdf"
-                                                class="w-100 mt-3" download><i class="far fa-file-pdf"></i>
-                                                <strong>Alumni Registration Form</strong>
-                                            </a>
+                                    <div class="row">
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\forms-for-download\STUDENT-REGISTRATION-FORM.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4>Student Registration Form</h4>
+                                                    </a>
+
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\forms-for-download\STUDENT-REGISTRATION-FORM.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\forms-for-download\OTO-UNDERTAKING.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4>OTO Undertaking</h4>
+
+                                                    </a>
+
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\forms-for-download\OTO-UNDERTAKING.pdf" download
+                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\forms-for-download\I-CARD-FORMAT.docx"
+                                                        class="flex-grow-1">
+                                                        <h4>I Card Format</h4>
+
+                                                    </a>
+
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\forms-for-download\I-CARD-FORMAT.docx" download
+                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\forms-for-download\ALUMNI-REGISTRATION-FORM.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4>Alumni Registration Form</h4>
+
+                                                    </a>
+
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\forms-for-download\ALUMNI-REGISTRATION-FORM.pdf"
+                                                        download class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-        </div>
-        <!-- department-single end-->
+
+
+
+
+
+                                <!-- department-single end-->
     </main>
     <!-- footer area -->
     <?php

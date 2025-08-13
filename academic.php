@@ -60,7 +60,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Academics Department</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Academics Department</li>
                 </ul>
             </div>
@@ -99,8 +99,8 @@
                             </div>
                             <section id="latest-news-section">
                                 <div class="my-4">
-                                    <div id="carouselExampleDark" class="carousel carousel-dark slide" style="background-color:#f2f3f5;">
-                                        <h2 class="text-white p-2 " style="background-color:#642224">Latest News</h2>
+                                    <div id="carouselExampleDark" class="carousel carousel-dark slide widget category" style="background-color:#f2f3f5;">
+                                        <h2 class="widget-title">Latest News</h2>
                                         <div class="carousel-inner">
                                             <div class="carousel-item active" data-bs-interval="10000">
                                                 <div style="min-height: 330px;">
@@ -176,7 +176,7 @@
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card-1.jpg -->
                                     </div>
                                     <div class="department-info">
-                                        <h4 class="department-title pt-30"><a href="#">Civil Engineering</a></h4>
+                                        <h4 class="department-title pt-30"><a href="civil-department.php">Civil Engineering</a></h4>
                                         <div class="department-btn">
                                             <a href="civil-department.php" class="pt-lg-4">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>
@@ -192,7 +192,7 @@
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card_2.jpg -->
                                     </div>
                                     <div class="department-info">
-                                        <h4 class="department-title pt-30"><a href="#" class="pt-md-20">Electrical Engineering</a></h4>
+                                        <h4 class="department-title pt-30"><a href="electrical-department.php" class="pt-md-20">Electrical Engineering</a></h4>
                                         <div class="department-btn">
                                             <a href="electrical-department.php">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>
@@ -207,7 +207,7 @@
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card_3.jpg -->
                                     </div>
                                     <div class="department-info">
-                                        <h4 class="department-title pt-30"><a href="#">Mechanical Engineering</a></h4>
+                                        <h4 class="department-title pt-30"><a href="mechanical-department.php">Mechanical Engineering</a></h4>
                                         <div class="department-btn">
                                             <a href="mechanical-department.php">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>
@@ -222,7 +222,7 @@
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card_5.jpg -->
                                     </div>
                                     <div class="department-info">
-                                        <h4 class="department-title pt-30"><a href="#">Computer Engineering</a></h4>
+                                        <h4 class="department-title pt-30"><a href="computer-department.php">Computer Engineering</a></h4>
                                         <div class="department-btn">
                                             <a href="computer-department.php" class="pt-lg-4">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>
@@ -237,7 +237,7 @@
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card_4.jpg -->
                                     </div>
                                     <div class="department-info">
-                                        <h4 class="department-title pt-30"><a href="#">Electronics & Telecommunication Engineering</a></h4>
+                                        <h4 class="department-title pt-30"><a href="electronics-telecommunication-department.php">Electronics & Telecommunication Engineering</a></h4>
                                         <div class="department-btn">
                                             <a href="electronics-telecommunication-department.php">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>
@@ -252,7 +252,7 @@
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card_6.jpg -->
                                     </div>
                                     <div class="department-info">
-                                        <h4 class="department-title pt-30"><a href="#">Artificial Intelligence & Machine Learning</a></h4>
+                                        <h4 class="department-title pt-30"><a href="AI-ML-department.php">Artificial Intelligence & Machine Learning</a></h4>
                                         <div class="department-btn mt-sm-4">
                                             <a href="AI-ML-department.php">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>

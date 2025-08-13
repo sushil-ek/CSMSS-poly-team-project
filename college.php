@@ -70,7 +70,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">College</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">College</li>
                 </ul>
             </div>
@@ -782,7 +782,7 @@
                                     <div class="circle">01</div>
                                 </div>
                                 <h3>VISION</h3>
-                                <p> <b>v1: </b> To provide value-based technical education so as to meet the needs
+                                <p class="text-start"> <b>v1: </b> To provide value-based technical education so as to meet the needs
                                     of industry and society.<br>
                                     <b>v2: </b> The college envisions delivering technical education rooted in strong values.<br>
                                     <b>v3: </b> It aims to equip students with knowledge that goes beyond textbooks.<br>
@@ -803,7 +803,7 @@
                                     <div class="circle">02</div>
                                 </div>
                                 <h3>MISSION</h3>
-                                <p>
+                                <p class="text-start">
                                     <b>M1:</b> Imparting the technical knowledge and skills through
                                     effective implementation of teaching and learning.<br>
                                     <b>M2:</b> Strengthening interaction between industry and institute

@@ -120,11 +120,11 @@
                             <ul class="footer-list">
                                 <li><a href="index.php"><i class="fas fa-caret-right"></i> Home</a></li>
                                 <li><a href="admission.php"><i class="fas fa-caret-right"></i> Addmission</a></li>
-                                <li><a href="department.php"><i class="fas fa-caret-right"></i> Department</a></li>
+                                <li><a href="academic.php"><i class="fas fa-caret-right"></i> Department</a></li>
                                 <li><a href="infrastructure.php"><i class="fas fa-caret-right"></i> Infrastructure</a></li>
                                 <li><a href="event.php"><i class="fas fa-caret-right"></i> News & Events</a></li>
-                                <li><a href="notices.php"><i class="fas fa-caret-right"></i> Student Corner</a></li>
-                                <li><a href="about.php"><i class="fas fa-caret-right"></i> About Us</a></li>
+                                <li><a href="notices.php"><i class="fas fa-caret-right"></i> Notices</a></li>
+                                <li><a href="career.php"><i class="fas fa-caret-right"></i> Career</a></li>
                             </ul>
                         </div>
                     </div>
@@ -134,10 +134,10 @@
                             <ul class="footer-list">
                                 <li><a href="forms-to-download.php"><i class="fas fa-caret-right"></i> Forms To Download</a></li>
                                 <li><a href="assets/pdf/privacypolicy/PolicyProc.pdf"><i class="fas fa-caret-right"></i> Policy Procedure</a></li>
-                                <li><a href="#"><i class="fas fa-caret-right"></i> Library Website</a></li>
+                                <li><a href="placement-details.php"><i class="fas fa-caret-right"></i> Placement Details </a></li>
                                 <li><a href="college.php"><i class="fas fa-caret-right"></i> College</a></li>
-                                <li><a href="#"><i class="fas fa-caret-right"></i> Awards and Recognitions</a></li>
-                                <li><a href="#"><i class="fas fa-caret-right"></i> News</a></li>
+                                <li><a href="award&recgnaization.php"><i class="fas fa-caret-right"></i> Awards and Recognitions</a></li>
+                                <li><a href="news.php"><i class="fas fa-caret-right"></i> News</a></li>
                                 <li><a href="contact.php"><i class="fas fa-caret-right"></i> Contact Us</a></li>
                             </ul>
                         </div>
@@ -219,7 +219,7 @@
                         <a href="disclosur.php" class="mid-four text-center  fw-bold">Disclouser</a>
                     </div>
                      <div class="fixed-text enq">
-                        <a href="enqury-form.php" class="enquiry text-white fw-bold">Enquiry</a>
+                        <a href="inquiry-form.php" class="enquiry text-white fw-bold">Enquiry</a>
                     </div>
                     
                 </div>

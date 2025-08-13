@@ -12,12 +12,8 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <!-- title -->
-    
 
     <!-- favicon -->
-    
-    
     <?php
     include 'common/header-link.php';
     ?>
@@ -65,7 +61,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Academic Schedule</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Academic Schedule</li>
                 </ul>
             </div>
@@ -108,99 +104,83 @@
                         </div>
                         <div class="col-xl-8 col-lg-8">
                             <div class="accordion" id="accordionExample">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true"
-                                            aria-controls="collapseOne">
-                                            MSBTE ACADEMIC CALENDER AY 2025-26
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show  department-download"
-                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 2025-26
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                <div class="row mt-2">
-                                                    <div class="col-lg-3">
-                                                        <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2025-26.pdf"
-                                                            class="btn btn-outline-primary w-100" download>
-                                                            <i class="far fa-file-pdf"></i> Download
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            MSBTE ACADEMIC CALENDER AY 2024-25
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse department-download"
-                                        aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 2024-25
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                <div class="row mt-2">
-                                                    <div class="col-lg-3">
-                                                        <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2024-25.pdf"
-                                                            class="btn btn-outline-primary w-100" download>
-                                                            <i class="far fa-file-pdf"></i> Download
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            MSBTE ACADEMIC CALENDER AY 2023-24
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse  department-download"
-                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Date : 2023-24
-                                            <div class="mt-1">
-                                                <div class="container">
-                                                <div class="row mt-2">
-                                                    <div class="col-lg-3">
-                                                        <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2023-24.pdf"
-                                                            class="btn btn-outline-primary w-100" download>
-                                                            <i class="far fa-file-pdf"></i> Download
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                               
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- department-single end-->
+                                <div class="widget event-single-info">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <h2 class="widget-title mt-5 text-center">ACADEMIC SCHEDULE</h2>
+                                    </button>
+                                    </h2>
+                                    <div class="row">
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2025-26.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4 >MSBTE ACADEMIC CALENDAR AY 2025-26</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 2025-26</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2025-26.pdf" download
+                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2024-25.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4 >MSBTE ACADEMIC CALENDAR AY 2024-25</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 2024-25</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2024-25.pdf" download
+                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2023-24.pdf"
+                                                        class="flex-grow-1">
+                                                        <h4 >MSBTE ACADEMIC CALENDAR AY 2023-24</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 2023-24</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\academic-schedule\MSBTE-ACADEMIC-CALENDAR-AY-2023-24.pdf" download
+                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    
+            <!-- department-single end-->
 
     </main>
-
-
 
     <!-- footer area -->
     <?php
@@ -208,13 +188,9 @@
     ?>
     <!-- footer area end -->
 
-
-
-
     <!-- scroll-top -->
     <a href="#" id="scroll-top"><i class="far fa-arrow-up-from-arc"></i></a>
     <!-- scroll-top end -->
-
 
     <?php
     include 'common/footer-link.php';

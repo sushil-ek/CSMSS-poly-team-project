@@ -16,23 +16,6 @@
     include 'common/header-link.php';
     ?>
 
-    <style>
-        /* department hod image  */
-        .department-hod-img .hod-image {
-            width: 80%;
-            height: auto;
-            border-radius: 5px;
-        }
-
-        .hod-name {
-            font-weight: bold;
-            font-size: 1.1rem;
-        }
-
-        button .accordion-button {
-            background-color: #F5F5F5;
-        }
-    </style>
 </head>
 
 <body>
@@ -76,7 +59,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Civil Engineering</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Civil Engineering</li>
                 </ul>
             </div>
@@ -85,7 +68,7 @@
 
 
         <!-- department-single -->
-        <div class="department-single-area py-120">
+        <div class="department-single-area py-5">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
@@ -94,13 +77,18 @@
                                 <div class="widget category">
                                     <h4 class="widget-title">Departments</h4>
                                     <div class="category-list">
-                                        <a href="#"><i class="far fa-long-arrow-right"></i>Civil Engineering</a>
-                                        <a href="electrical-department.php"><i class="far fa-long-arrow-right"></i>Electrical Engineering</a>
-                                        <a href="mechanical-department.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering</a>
-                                        <a href="electronics-telecommunication-department.php"><i class="far fa-long-arrow-right"></i>Electronics & Telecommunication Engineering</a>
-                                        <a href="computer-department.php"><i class="far fa-long-arrow-right"></i>Computer Engineering</a>
-                                        <a href="AI-ML-department.php"><i class="far fa-long-arrow-right"></i>Artificial Intelligance & Machine Learning</a>
-
+                                        <a href="#introduction"><i class="far fa-long-arrow-right"></i>Introduction</a>
+                                        <a href="#intake"><i class="far fa-long-arrow-right"></i>Admission Intake Capacity</a>
+                                        <a href="#faculty"><i class="far fa-long-arrow-right"></i>Faculty Details</a>
+                                        <a href="#headingOne"><i class="far fa-long-arrow-right"></i>Toppers</a>
+                                        <a href="#headingTwo"><i class="far fa-long-arrow-right"></i>Student's achievements</a>
+                                        <a href="#headingThree"><i class="far fa-long-arrow-right"></i>Department Advisory Board (DAB)</a>
+                                        <a href="#headingFourth"><i class="far fa-long-arrow-right"></i>Programme Assessment Committee (PAC)</a>
+                                        <a href="#headingFifth"><i class="far fa-long-arrow-right"></i> List of Laborotories</a>
+                                        <a href="#headingSixth"><i class="far fa-long-arrow-right"></i>Our Alumni</a>
+                                        <a href="#headingseventh"><i class="far fa-long-arrow-right"></i>Student's Association (CESA)-2022-23</a>
+                                        <a href="#headingeight"><i class="far fa-long-arrow-right"></i>Department Mou's</a>
+                                        <a href="#headingnine"><i class="far fa-long-arrow-right"></i>Department Project</a>
                                     </div>
                                 </div>
                             </div>
@@ -144,15 +132,17 @@
                                     </div>
                                 </div>
                                 <!-- carousel  end -->
-                                <div class="department-details">
-                                    <h3 class="mb-20">Civil Engineering</h3>
-                                    <p class="mb-20" style="text-align: justify;">
-                                        Civil Engineering is a professional engineering discipline that deals with the construction and design of public and private sector works such as bridges, roads, dams and buildings. The Department of Civil Engineering established in the year 2009.The department runs three year full time Diploma course in Civil Engineering offered by Maharashtra state Board of Technical Education, Mumbai.
-                                        The department consists of full equipped labs an well maintained instruments. </p>
-                                    <p class="mb-20" style="text-align: justify;">The department is fulfilled with highly qualified and experienced faculties and students are intelligent, hardworking and disciplined; results in outstanding results at state level. I am really proud of them.
 
-                                        <!-- img in civil page -->
-                                        <!-- <div class="row">
+                                <div class="department-details">
+                                    <section id="introduction">
+                                        <h3 class="mb-20">Civil Engineering</h3>
+                                        <p class="mb-20" style="text-align: justify;">
+                                            Civil Engineering is a professional engineering discipline that deals with the construction and design of public and private sector works such as bridges, roads, dams and buildings. The Department of Civil Engineering established in the year 2009.The department runs three year full time Diploma course in Civil Engineering offered by Maharashtra state Board of Technical Education, Mumbai.
+                                            The department consists of full equipped labs an well maintained instruments. </p>
+                                        <p class="mb-20" style="text-align: justify;">The department is fulfilled with highly qualified and experienced faculties and students are intelligent, hardworking and disciplined; results in outstanding results at state level. I am really proud of them.
+
+                                            <!-- img in civil page -->
+                                            <!-- <div class="row">
                                         <div class="col-md-6 mb-20">
                                             <img src="assets/img/department/01.jpg" alt="">
                                         </div>
@@ -160,327 +150,333 @@
                                             <img src="assets/img/department/02.jpg" alt="">
                                         </div>
                                     </div> -->
-                                    <p class="mb-20" style="text-align: justify;">
-                                        Civil engineers can find job in Government sector; private and public sector industries, research and teaching institutions etc. job opportunities for civil engineers are expected to increase as fast as the average for all jobs, although the construction industry is vulnerable to fluctuations in the economy. Civil engineers will always be needed to maintain and repair existing facilities and structures and to construct new ones. In civil engineering one can look for jobs in road projects, building work, consultancy firms, quality testing laboratories or housing societies. The experts say there is a high demand for experienced civil engineers in developed countries.
-                                    </p>
-                                    <!-- Department Vision start -->
-                                    <div class="mb-3">
-                                        <h3 class="mb-3">Department Vision</h3>
-                                        <p>"To become a leading department that provides civil engineers with technical competency to meet the requirements of industry and society"</p>
-                                    </div>
-                                    <!-- Department Vision end -->
-                                    <!-- Department Mission start -->
-                                    <div class="mb-4">
-                                        <h3 class="mb-3">Department Mission</h3>
-                                        <ul class="department-single-list">
-                                            <li><i class="far fa-check"></i>Develop knowledge and skills in civil engineering discipline through advanced teaching learning process</li>
-                                            <li><i class="far fa-check"></i>To provide quality education which helps to fulfill the needs of industry through academics</li>
-                                            <li><i class="far fa-check"></i>Inculcate ethical values among the students as civil engineers with social commitment
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <!-- Department Mission end -->
-                                    <!-- Future Plan Start -->
-                                    <div class="mb-4">
-                                        <h3 class="mb-3">Future Plan</h3>
-                                        <ul class="department-single-list">
-                                            <li><i class="far fa-check"></i>To motivate faculty for industry interaction with obiectives to get sponsored projects and placement of students</li>
-                                            <li><i class="far fa-check"></i>To encourage and motivate the students for competitive exams like MPSC</li>
-                                            <li><i class="far fa-check"></i>To increase the consultancy in Testing of materials, raw water as well as Waste water for construction and agricultural use </li>
-                                            <li><i class="far fa-check"></i>To sign with Industries to get industry sponsored Projects and internship, Training of students</li>
-                                            <li><i class="far fa-check"></i>To start Project Management Consultancy</li>
-                                        </ul>
-                                    </div>
-                                    <!-- Future Plan Start -->
-                                    <!-- PEO's start -->
-                                    <div class="my-4">
-                                        <h3 class="mb-3">Program Educational Objectives(PEO's)</h3>
-                                        <p><b class="text-dark">PEO 1:</b> Excel in technician diploma programs and to
-                                            succeed in their working/ technical professional through global, rigorous
-                                            education.</p>
-                                        <p> <b class="text-dark">PEO 2:</b> Fundamental knowledge of Mathematical,
-                                            scientific and engineering science required to solve engineering problems
-                                            and also to pursue higher studies.</p>
-                                        <p><b class="text-dark">PEO 3:</b> Good scientific and engineering breadth so as
-                                            to comprehend, analyzes, design, and create novel products and solutions for
-                                            the real life problems.</p>
-                                        <p><b class="text-dark">PEO 4:</b> Inculcate in students professional skills and
-                                            ethics for the benefit of society and profession.</p>
-                                    </div>
-                                    <!--PEO's end  -->
-                                    <!-- PSO start -->
-                                    <div class="my-4">
-                                        <h3 class="mb-3">Program Specific Outcomes(PSO's)</h3>
-                                        <p><b class="text-dark">PSO1:</b> Civil Engineering Software and Equipment
-                                            Usage: Use state-of-the-art technologies for operation and application of
-                                            Civil Engineering software and Equipment.</p>
-                                        <p><b class="text-dark">PSO2:</b> Civil Engineering Maintenance: Maintain civil
-                                            engineering related infrastructure and instruments.</p>
-                                    </div>
-                                    <!-- PSO's end -->
-                                    <!-- PO's start  -->
-                                    <div class="my-4">
-                                        <h3 class="mb-3">Program Outcome(PO's)</h3>
-                                        <p><b class="text-dark">PO1:</b> Basic and Discipline specific knowledge: Apply
-                                            knowledge of basic mathematics, science and engineering fundamentals and
-                                            engineering specialization to solve the engineering problems.
-                                        <p>
-                                        <p><b class="text-dark">PO2:</b> Problem analysis: Identify and analyze
-                                            well-defined engineering problems using codified standard methods.</p>
-                                        <p><b class="text-dark">PO3:</b> Design/ development of solutions: Design
-                                            solutions for well-defined technical problems and assist with the design of
-                                            systems components or processes to meet specified needs.
-                                        <p>
-                                        <p><b class="text-dark">PO4:</b> Engineering Tools, Experimentation and Testing:
-                                            Apply modern engineering tools and appropriate technique to conduct standard
-                                            tests and measurements.</p>
-                                        <p><b class="text-dark">PO5:</b> Engineering practices for society,
-                                            sustainability and environment: Apply appropriate technology in context of
-                                            society, sustainability, environment and ethical practices.</p>
-                                        <p><b class="text-dark">PO6:</b> Project Management: Use engineering management
-                                            principles individually, as a team member or a leader to manage projects and
-                                            effectively communicate about well-defined engineering activities.</p>
-                                        <p><b class="text-dark">PO7:</b> Life-long learning: Ability to analyze
-                                            individual needs and engage in updating in the context of technological
-                                            changes.</p>
-                                    </div>
-                                    <!-- PO's end -->
+                                        <div class="mb-4">
+                                            <p class="mb-20" style="text-align: justify;">
+                                                Civil engineers can find job in Government sector; private and public sector industries, research and teaching institutions etc. job opportunities for civil engineers are expected to increase as fast as the average for all jobs, although the construction industry is vulnerable to fluctuations in the economy. Civil engineers will always be needed to maintain and repair existing facilities and structures and to construct new ones. In civil engineering one can look for jobs in road projects, building work, consultancy firms, quality testing laboratories or housing societies. The experts say there is a high demand for experienced civil engineers in developed countries.
+                                            </p>
+                                        </div>
+                                        <!-- Department Vision start -->
+                                        <div class="mb-4">
+                                            <h3 class="mb-3">Department Vision</h3>
+                                            <p>"To become a leading department that provides civil engineers with technical competency to meet the requirements of industry and society"</p>
+                                        </div>
+                                        <!-- Department Vision end -->
+                                        <!-- Department Mission start -->
+                                        <div class="mb-4">
+                                            <h3 class="mb-3">Department Mission</h3>
+                                            <ul class="department-single-list">
+                                                <li><i class="far fa-check"></i>Develop knowledge and skills in civil engineering discipline through advanced teaching learning process</li>
+                                                <li><i class="far fa-check"></i>To provide quality education which helps to fulfill the needs of industry through academics</li>
+                                                <li><i class="far fa-check"></i>Inculcate ethical values among the students as civil engineers with social commitment
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <!-- Department Mission end -->
+                                        <!-- Future Plan Start -->
+                                        <div class="mb-4">
+                                            <h3 class="mb-3">Future Plan</h3>
+                                            <ul class="department-single-list">
+                                                <li><i class="far fa-check"></i>To motivate faculty for industry interaction with obiectives to get sponsored projects and placement of students</li>
+                                                <li><i class="far fa-check"></i>To encourage and motivate the students for competitive exams like MPSC</li>
+                                                <li><i class="far fa-check"></i>To increase the consultancy in Testing of materials, raw water as well as Waste water for construction and agricultural use </li>
+                                                <li><i class="far fa-check"></i>To sign with Industries to get industry sponsored Projects and internship, Training of students</li>
+                                                <li><i class="far fa-check"></i>To start Project Management Consultancy</li>
+                                            </ul>
+                                        </div>
+                                        <!-- Future Plan Start -->
+                                        <!-- PEO's start -->
+                                        <div class="my-4">
+                                            <h3 class="mb-3">Program Educational Objectives(PEO's)</h3>
+                                            <p><b class="text-dark">PEO 1:</b> Excel in technician diploma programs and to
+                                                succeed in their working/ technical professional through global, rigorous
+                                                education.</p>
+                                            <p> <b class="text-dark">PEO 2:</b> Fundamental knowledge of Mathematical,
+                                                scientific and engineering science required to solve engineering problems
+                                                and also to pursue higher studies.</p>
+                                            <p><b class="text-dark">PEO 3:</b> Good scientific and engineering breadth so as
+                                                to comprehend, analyzes, design, and create novel products and solutions for
+                                                the real life problems.</p>
+                                            <p><b class="text-dark">PEO 4:</b> Inculcate in students professional skills and
+                                                ethics for the benefit of society and profession.</p>
+                                        </div>
+                                        <!--PEO's end  -->
+                                        <!-- PSO start -->
+                                        <div class="my-4">
+                                            <h3 class="mb-3">Program Specific Outcomes(PSO's)</h3>
+                                            <p><b class="text-dark">PSO1:</b> Civil Engineering Software and Equipment
+                                                Usage: Use state-of-the-art technologies for operation and application of
+                                                Civil Engineering software and Equipment.</p>
+                                            <p><b class="text-dark">PSO2:</b> Civil Engineering Maintenance: Maintain civil
+                                                engineering related infrastructure and instruments.</p>
+                                        </div>
+                                        <!-- PSO's end -->
+                                        <!-- PO's start  -->
+                                        <div class="my-4">
+                                            <h3 class="mb-3">Program Outcome(PO's)</h3>
+                                            <p><b class="text-dark">PO1:</b> Basic and Discipline specific knowledge: Apply
+                                                knowledge of basic mathematics, science and engineering fundamentals and
+                                                engineering specialization to solve the engineering problems.
+                                            <p>
+                                            <p><b class="text-dark">PO2:</b> Problem analysis: Identify and analyze
+                                                well-defined engineering problems using codified standard methods.</p>
+                                            <p><b class="text-dark">PO3:</b> Design/ development of solutions: Design
+                                                solutions for well-defined technical problems and assist with the design of
+                                                systems components or processes to meet specified needs.
+                                            <p>
+                                            <p><b class="text-dark">PO4:</b> Engineering Tools, Experimentation and Testing:
+                                                Apply modern engineering tools and appropriate technique to conduct standard
+                                                tests and measurements.</p>
+                                            <p><b class="text-dark">PO5:</b> Engineering practices for society,
+                                                sustainability and environment: Apply appropriate technology in context of
+                                                society, sustainability, environment and ethical practices.</p>
+                                            <p><b class="text-dark">PO6:</b> Project Management: Use engineering management
+                                                principles individually, as a team member or a leader to manage projects and
+                                                effectively communicate about well-defined engineering activities.</p>
+                                            <p><b class="text-dark">PO7:</b> Life-long learning: Ability to analyze
+                                                individual needs and engage in updating in the context of technological
+                                                changes.</p>
+                                        </div>
+                                        <!-- PO's end -->
+                                    </section>
                                 </div>
                             </div>
-                            <h2 class="mb-3 ms-4 ps-1 text-black">Admission Intake Capacity : 60</h2>
+
+                            <h3 class="mb-2 ps-1 text-black">Admission Intake Capacity : 60</h3>
                             <!-- Accodian start -->
                             <div class="container my-5">
-                                <div class="accordion" id="hodAccordion">
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingOne">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                aria-expanded="true" aria-controls="collapseOne">
-                                                HOD Message
-                                            </button>
-                                        </h2>
-                                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                            data-bs-parent="#hodAccordion">
-                                            <div class="accordion-body">
-                                                <div class="row">
-                                                    <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-                                                        <center><img class="sticky" src="assets/img/department/HODCE.jpeg" alt="HOD Image" width="150" height="200"></center>
-                                                        <center><b>Mr. M. R. More</b><br><i>HOD</i></center>
+                                <section id=intake>
+                                    <div class="accordion" id="hodAccordion">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingintake">
+                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                    HOD Message
+                                                </button>
+                                            </h2>
+                                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingintake"
+                                                data-bs-parent="#hodAccordion">
+                                                <div class="accordion-body">
+                                                    <div class="row">
+                                                        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                                            <center><img class="sticky" src="assets/img/department/HODCE.jpeg" alt="HOD Image" width="150" height="200" style="border-radius:0px;"></center>
+                                                            <center><b>Mr. M. R. More</b><br><i>HOD</i></center>
+                                                        </div>
+                                                        <div class="col-lg-8 col-md-12">
+                                                            <p style="text-align: justify">I am delighted to extend a warm welcome in the Department of Civil Engineering, CSMSS College of Polytechnic. The department has been established in 2009 with intake capacity of 60 students, has a good tradition of academic achievements and has got ‘Excellent’ grade by MSBTE Mumbai. As the backbone of civilization, Civil Engineering shapes the physical infrastructure around us and responds to the problems of the world that are constantly changing. The job of Civil Engineers is important and broad; ranging from managing water resources, reducing environmental consequences to developing sustainable buildings and transportation systems. with</p>
+                                                        </div>
+                                                        <p style="text-align: justify"> an aim to developMechanical Engineers to serve the industry and society.</p>
+                                                        <p style="text-align: justify">Beyond the classroom, we encourage you to engage with the broader Civil Engineering community. To attend conferences, participate in student organizations and seek out internships and opportunities to gain real-world experience and expand your professional growth.</p>
+                                                        <p style="text-align: justify">As a future Civil Engineer, you have the power to shape the world. Whether you're designing resilient infrastructure, promoting sustainability, or improving public health and safety, your contributions will have a lasting impact on society.</p>
+                                                        <p style="text-align: justify">I wish you all the best as you embark on this exciting journey.</p>
+                                                        <p style="text-align: justify">With warm regards!</p>
                                                     </div>
-                                                    <div class="col-lg-8 col-md-12">
-                                                        <p style="text-align: justify">I am delighted to extend a warm welcome in the Department of Civil Engineering, CSMSS College of Polytechnic. The department has been established in 2009 with intake capacity of 60 students, has a good tradition of academic achievements and has got ‘Excellent’ grade by MSBTE Mumbai. As the backbone of civilization, Civil Engineering shapes the physical infrastructure around us and responds to the problems of the world that are constantly changing. The job of Civil Engineers is important and broad; ranging from managing water resources, reducing environmental consequences to developing sustainable buildings and transportation systems. with</p>
-                                                    </div>
-                                                    <p style="text-align: justify"> an aim to developMechanical Engineers to serve the industry and society.</p>
-                                                    <p style="text-align: justify">Beyond the classroom, we encourage you to engage with the broader Civil Engineering community. To attend conferences, participate in student organizations and seek out internships and opportunities to gain real-world experience and expand your professional growth.</p>
-                                                    <p style="text-align: justify">As a future Civil Engineer, you have the power to shape the world. Whether you're designing resilient infrastructure, promoting sustainability, or improving public health and safety, your contributions will have a lasting impact on society.</p>
-                                                    <p style="text-align: justify">I wish you all the best as you embark on this exciting journey.</p>
-                                                    <p style="text-align: justify">With warm regards!</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </section>
                                 <!-- Form Section Start -->
 
                                 <!--faculty-details-->
-
-                                <p class="pt-10">
-                                    <strong class="text-dark">Faculty Details</strong>
-                                </p>
-                                <!--first-table-->
-                                <div class="table-responsive">
-                                    <table class="table table-bordered table-hover">
-                                        <thead>
-                                            <tr>
-                                                <th>
-                                                    Sr.No.
-                                                </th>
-                                                <th>
-                                                    Particuler
-                                                </th>
-                                                <th>
-                                                    A.Y.
-                                                </th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td rowspan="3">
-                                                    01
-                                                </td>
-                                                <td rowspan="3">
-                                                    FACULTY DETAILS
-                                                </td>
-                                                <td>
-                                                    <a href="">A.Y. 2021-22</a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <a href="">A.Y. 2022-23</a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <a href="">A.Y. 2021-22</a>
-                                                </td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <!--first-table-end-->
-                                <!--Second table-->
-                                <div class="table-responsive">
-                                    <table class=" table table-bordered table-hover">
-                                        <thead>
-                                            <tr>
-                                                <th>
-                                                    Sr.No.
-                                                </th>
-                                                <th>
-                                                    Name
-                                                    </font>
-                                                </th>
-                                                <th>
-                                                    Qualification <br>
-                                                </th>
-                                                <th>
-                                                    Designation <br>
-                                                </th>
-                                                <th>
-                                                    Profile <br>
-                                                </th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td rowspan="1">
-                                                    01
-                                                </td>
-                                                <td rowspan="1">Mr.MORE MAHESH RAMESHRAO</td>
-                                                <td>
-                                                    B.E.,M.E.
-                                                </td>
-                                                <td>
-                                                    <b>HOD</b>
-                                                </td>
-                                                <td class="text-center">
-                                                    <a href="assets\pdf\department-pdf\Civil pdf\More Sir.pdf" target="_blank" class="btn text-white"
-                                                        id="view-button">
-                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                    </a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="1">
-                                                    02
-                                                </td>
-                                                <td rowspan="1">Mr.JADHAV VIKAS ABASAHEB</td>
-                                                <td>
-                                                    B.E.,M.E.
-                                                </td>
-                                                <td>
-                                                    LECTURER
-                                                </td>
-                                                <td class="text-center">
-                                                    <a href="assets\pdf\department-pdf\Civil pdf\V.A.Jadhav.pdf" target="_blank" class="btn text-white"
-                                                        id="view-button">
-                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                    </a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="1">
-                                                    03
-                                                </td>
-                                                <td rowspan="1">Mr.GORE RAJENDRA HAUSHIRAM</td>
-                                                <td>
-                                                    B.E.,M.E.
-                                                </td>
-                                                <td>
-                                                    LECTURER
-                                                </td>
-                                                <td class="text-center">
-                                                    <a href="assets\pdf\department-pdf\Civil pdf\Gore Sir.pdf" target="_blank" class="btn text-white"
-                                                        id="view-button">
-                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                    </a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="1">
-                                                    04
-                                                </td>
-                                                <td rowspan="1">Mrs.SHETE AMRUTA SUNILKUMAR</td>
-                                                <td>
-                                                    B.E.
-                                                </td>
-                                                <td>
-                                                    LECTURER
-                                                </td>
-                                                <td class="text-center">
-                                                    <a href="assets\pdf\department-pdf\Civil pdf\A.S.Shete.pdf" target="_blank" class="btn text-white"
-                                                        id="view-button">
-                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                    </a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="1">
-                                                    05
-                                                </td>
-                                                <td rowspan="1">Mr.NAGARGOJE SADHU BAJIRAO</td>
-                                                <td>
-                                                    B.E.,M.E.
-                                                </td>
-                                                <td>
-                                                    LECTURER
-                                                </td>
-                                                <td class="text-center">
-                                                    <a href="assets\pdf\department-pdf\Civil pdf\S.B.Nagargoge.pdf" target="_blank" class="btn text-white"
-                                                        id="view-button">
-                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                    </a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="1">
-                                                    06
-                                                </td>
-                                                <td rowspan="1">Mrs.RUDRAKANTHWAR AKANKSHA SATISH</td>
-                                                <td>
-                                                    B.E.
-                                                </td>
-                                                <td>
-                                                    LECTURER
-                                                </td>
-                                                <td class="text-center">
-                                                    <a href="assets\pdf\department-pdf\Civil pdf\rudrakanthwar.pdf" target="_blank" class="btn text-white"
-                                                        id="view-button">
-                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                    </a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="1">
-                                                    07
-                                                </td>
-                                                <td rowspan="1">Dr.TAYDE AMIT PANJABRAO</td>
-                                                <td>
-                                                    M.Sc.,Ph.D.
-                                                </td>
-                                                <td>
-                                                    LECTURER
-                                                </td>
-                                                <td class="text-center">
-                                                    <a href="assets\pdf\department-pdf\Civil pdf\Dr. A.P.Tyde.pdf" target="_blank" class="btn text-white"
-                                                        id="view-button">
-                                                        <i class="fa-regular fa-eye text-white"></i> View
-                                                    </a>
-                                                </td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                <section id="faculty">
+                                    <h3 class="pt-10 mb-3 mt-3">
+                                        Faculty Details
+                                    </h3>
+                                    <!--first-table-->
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        Sr.No.
+                                                    </th>
+                                                    <th>
+                                                        Particuler
+                                                    </th>
+                                                    <th>
+                                                        A.Y.
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td rowspan="3">
+                                                        01
+                                                    </td>
+                                                    <td rowspan="3">
+                                                        FACULTY DETAILS
+                                                    </td>
+                                                    <td>
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\CEFDAY21_22.pdf">A.Y. 2021-22</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\CEFDAY22_23.pdf">A.Y. 2022-23</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\CEFDAY23_24.pdf">A.Y. 2023-24</a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <!--first-table-end-->
+                                    <!--Second table-->
+                                    <div class="table-responsive">
+                                        <table class=" table table-bordered table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        Sr.No.
+                                                    </th>
+                                                    <th>
+                                                        Name
+                                                    </th>
+                                                    <th>
+                                                        Qualification <br>
+                                                    </th>
+                                                    <th>
+                                                        Designation <br>
+                                                    </th>
+                                                    <th>
+                                                        Profile <br>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        01
+                                                    </td>
+                                                    <td>Mr.MORE MAHESH RAMESHRAO</td>
+                                                    <td>
+                                                        B.E.,M.E.
+                                                    </td>
+                                                    <td>
+                                                        <b>HOD</b>
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\More Sir.pdf" target="_blank" class="btn text-white"
+                                                            id="view-button">
+                                                            <i class="fa-regular fa-eye text-white"></i> View
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        02
+                                                    </td>
+                                                    <td>Mr.JADHAV VIKAS ABASAHEB</td>
+                                                    <td>
+                                                        B.E.,M.E.
+                                                    </td>
+                                                    <td>
+                                                        LECTURER
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\V.A.Jadhav.pdf" target="_blank" class="btn text-white"
+                                                            id="view-button">
+                                                            <i class="fa-regular fa-eye text-white"></i> View
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        03
+                                                    </td>
+                                                    <td>Mr.GORE RAJENDRA HAUSHIRAM</td>
+                                                    <td>
+                                                        B.E.,M.E.
+                                                    </td>
+                                                    <td>
+                                                        LECTURER
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\Gore Sir.pdf" target="_blank" class="btn text-white"
+                                                            id="view-button">
+                                                            <i class="fa-regular fa-eye text-white"></i> View
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        04
+                                                    </td>
+                                                    <td>Mrs.SHETE AMRUTA SUNILKUMAR</td>
+                                                    <td>
+                                                        B.E.
+                                                    </td>
+                                                    <td>
+                                                        LECTURER
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\A.S.Shete.pdf" target="_blank" class="btn text-white"
+                                                            id="view-button">
+                                                            <i class="fa-regular fa-eye text-white"></i> View
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        05
+                                                    </td>
+                                                    <td>Mr.NAGARGOJE SADHU BAJIRAO</td>
+                                                    <td>
+                                                        B.E.,M.E.
+                                                    </td>
+                                                    <td>
+                                                        LECTURER
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\S.B.Nagargoge.pdf" target="_blank" class="btn text-white"
+                                                            id="view-button">
+                                                            <i class="fa-regular fa-eye text-white"></i> View
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        06
+                                                    </td>
+                                                    <td>Mrs.RUDRAKANTHWAR AKANKSHA SATISH</td>
+                                                    <td>
+                                                        B.E.
+                                                    </td>
+                                                    <td>
+                                                        LECTURER
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\rudrakanthwar.pdf" target="_blank" class="btn text-white"
+                                                            id="view-button">
+                                                            <i class="fa-regular fa-eye text-white"></i> View
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        07
+                                                    </td>
+                                                    <td>Dr.TAYDE AMIT PANJABRAO</td>
+                                                    <td>
+                                                        M.Sc.,Ph.D.
+                                                    </td>
+                                                    <td>
+                                                        LECTURER
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <a href="assets\pdf\department-pdf\Civil pdf\Dr. A.P.Tyde.pdf" target="_blank" class="btn text-white"
+                                                            id="view-button">
+                                                            <i class="fa-regular fa-eye text-white"></i> View
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </section>
                                 <!-- second-table-end-->
                                 <!--Accordin section started here-->
                                 <section id="Accordion-section">
@@ -508,7 +504,7 @@
                                                             class="accordion-collapse collapse"
                                                             aria-labelledby="headingOne"
                                                             data-bs-parent="#accordionExample">
-                                                            <div class="accordion-body" style="overflow-x: scroll">
+                                                            <div class="accordion-body">
                                                                 <ul>
                                                                     <li style="list-style-type: disc">
                                                                         Following are the overall toppers of civil engineering department for
@@ -552,10 +548,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     02
                                                                                 </td>
-                                                                                <td rowspan="1">DESHMUKH KRUSHNA YOGRAJ</td>
+                                                                                <td>DESHMUKH KRUSHNA YOGRAJ</td>
                                                                                 <td>
                                                                                     82.12
                                                                                 </td>
@@ -564,10 +560,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     03
                                                                                 </td>
-                                                                                <td rowspan="1">THORAT SAKSHI EKNATH</td>
+                                                                                <td>THORAT SAKSHI EKNATH</td>
                                                                                 <td>
                                                                                     81.29
                                                                                 </td>
@@ -605,10 +601,10 @@
                                                                         </thead>
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     01
                                                                                 </td>
-                                                                                <td rowspan="1">BANKAR RUSHIKESH DEEPAK</td>
+                                                                                <td>BANKAR RUSHIKESH DEEPAK</td>
                                                                                 <td>
                                                                                     83.67
                                                                                 </td>
@@ -617,10 +613,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     02
                                                                                 </td>
-                                                                                <td rowspan="1">PATIL PARESH GULAB</td>
+                                                                                <td>PATIL PARESH GULAB</td>
                                                                                 <td>
                                                                                     81.78
                                                                                 </td>
@@ -629,10 +625,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     03
                                                                                 </td>
-                                                                                <td rowspan="1">PATIL DHANESH SHYAM</td>
+                                                                                <td>PATIL DHANESH SHYAM</td>
                                                                                 <td>
                                                                                     75.89
                                                                                 </td>
@@ -670,10 +666,10 @@
                                                                         </thead>
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     01
                                                                                 </td>
-                                                                                <td rowspan="1">LOKHANDE PAWAN APPARAO</td>
+                                                                                <td>LOKHANDE PAWAN APPARAO</td>
                                                                                 <td>
                                                                                     93.3
                                                                                 </td>
@@ -682,10 +678,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     02
                                                                                 </td>
-                                                                                <td rowspan="1">PATHAN ADIL AMJAD</td>
+                                                                                <td>PATHAN ADIL AMJAD</td>
                                                                                 <td>
                                                                                     92.9
                                                                                 </td>
@@ -694,10 +690,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     03
                                                                                 </td>
-                                                                                <td rowspan="1">ADAV OMKAR SAMBHAJI</td>
+                                                                                <td>ADAV OMKAR SAMBHAJI</td>
                                                                                 <td>
                                                                                     90.8
                                                                                 </td>
@@ -733,7 +729,7 @@
                                                             class="accordion-collapse collapse"
                                                             aria-labelledby="headingTwo"
                                                             data-bs-parent="#accordionExample">
-                                                            <div class="accordion-body" style="overflow-x: scroll">
+                                                            <div class="accordion-body">
                                                                 <!--First table started-->
 
                                                                 <div class="table-responsive">
@@ -762,10 +758,10 @@
                                                                         </thead>
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     01
                                                                                 </td>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     Indian Society for Technical Education (ISTE), New Delhi.
                                                                                 </td>
                                                                                 <td>
@@ -782,10 +778,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     02
                                                                                 </td>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     IEDSSA (Inter Engineering Diploma Students Sport Association.)
                                                                                     in Football
                                                                                 </td>
@@ -805,10 +801,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     03
                                                                                 </td>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     IEDSSA (Inter Engineering Diploma Students Sport Association.)
                                                                                     in Table Tennis
                                                                                 </td>
@@ -826,10 +822,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     04
                                                                                 </td>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     IEDSSA (Inter Engineering Diploma Students Sport Association.)
                                                                                     in 100M Running
                                                                                 </td>
@@ -847,10 +843,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     05
                                                                                 </td>
-                                                                                <td rowspan="1">MSBTE Final year Exam</td>
+                                                                                <td>MSBTE Final year Exam</td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -865,10 +861,10 @@
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     06
                                                                                 </td>
-                                                                                <td rowspan="1">NASCENT 2024</td>
+                                                                                <td>NASCENT 2024</td>
                                                                                 <td>
                                                                                     2023-24
                                                                                 </td>
@@ -909,7 +905,7 @@
                                                             class="accordion-collapse collapse"
                                                             aria-labelledby="headingThree"
                                                             data-bs-parent="#accordionExample">
-                                                            <div class="accordion-body" style="overflow-x: scroll">
+                                                            <div class="accordion-body">
                                                                 <div class="table-responsive">
                                                                     <table class="table table-bordered table-hover">
                                                                         <thead>
@@ -927,100 +923,100 @@
                                                                         </thead>
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     01
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. M. R. More</td>
+                                                                                <td>Mr. M. R. More</td>
                                                                                 <td>
                                                                                     HOD
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     02
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. S. B. Nagargoje</td>
+                                                                                <td>Mr. S. B. Nagargoje</td>
                                                                                 <td>
                                                                                     Sr.Faculty
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     03
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. V. A. Jadhav</td>
+                                                                                <td>Mr. V. A. Jadhav</td>
                                                                                 <td>
                                                                                     Sr.Faculty
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     04
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Pushpak Dabhade</td>
+                                                                                <td>Mr. Pushpak Dabhade</td>
                                                                                 <td>
                                                                                     Academician
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     05
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Sohail Ali</td>
+                                                                                <td>Mr. Sohail Ali</td>
                                                                                 <td>
                                                                                     Academician
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     06
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Sanket Kulkarni</td>
+                                                                                <td>Mr. Sanket Kulkarni</td>
                                                                                 <td>
                                                                                     Employer (Industry Representative)
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     07
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Avinash Chate</td>
+                                                                                <td>Mr. Avinash Chate</td>
                                                                                 <td>
                                                                                     Employer (Industry Representative)
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     08
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Maruti Hud</td>
+                                                                                <td>Mr. Maruti Hud</td>
                                                                                 <td>
                                                                                     Alumni Representative
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     09
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Hitesh Shinde</td>
+                                                                                <td>Mr. Hitesh Shinde</td>
                                                                                 <td>
                                                                                     Alumni Representative
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     10
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Pralhad Pardhi</td>
+                                                                                <td>Mr. Pralhad Pardhi</td>
                                                                                 <td>
                                                                                     Parents Representative
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     11
                                                                                 </td>
-                                                                                <td rowspan="1">Mr. Amjad Pathan</td>
+                                                                                <td>Mr. Amjad Pathan</td>
                                                                                 <td>
                                                                                     Parents Representative
                                                                                 </td>
@@ -1052,7 +1048,7 @@
                                                                 class="accordion-collapse collapse"
                                                                 aria-labelledby="headingOne"
                                                                 data-bs-parent="#accordionExample">
-                                                                <div class="accordion-body" style="overflow-x: scroll">
+                                                                <div class="accordion-body">
                                                                     <div class="table-responsive">
                                                                         <table class="table table-bordered table-hover">
                                                                             <thead>
@@ -1076,7 +1072,7 @@
                                                                                     <td>
                                                                                         01
                                                                                     </td>
-                                                                                    <td rowspan="1">Mr.M.R. More</td>
+                                                                                    <td>Mr.M.R. More</td>
                                                                                     <td>
                                                                                         Chairman
                                                                                     </td>
@@ -1086,10 +1082,10 @@
                                                                                 </tr>
 
                                                                                 <tr>
-                                                                                    <td rowspan="1">
+                                                                                    <td>
                                                                                         02
                                                                                     </td>
-                                                                                    <td rowspan="1">Mr.S. B. Nagargoje</td>
+                                                                                    <td>Mr.S. B. Nagargoje</td>
                                                                                     <td>
                                                                                         Member
                                                                                     </td>
@@ -1099,10 +1095,10 @@
                                                                                 </tr>
 
                                                                                 <tr>
-                                                                                    <td rowspan="1">
+                                                                                    <td>
                                                                                         03
                                                                                     </td>
-                                                                                    <td rowspan="1">Mr.V. A. Jadhav</td>
+                                                                                    <td>Mr.V. A. Jadhav</td>
                                                                                     <td>
                                                                                         Member
                                                                                     </td>
@@ -1112,10 +1108,10 @@
                                                                                 </tr>
 
                                                                                 <tr>
-                                                                                    <td rowspan="1">
+                                                                                    <td>
                                                                                         04
                                                                                     </td>
-                                                                                    <td rowspan="1">Mr. R. H. Gore</td>
+                                                                                    <td>Mr. R. H. Gore</td>
                                                                                     <td>
                                                                                         Member
                                                                                     </td>
@@ -1125,10 +1121,10 @@
                                                                                 </tr>
 
                                                                                 <tr>
-                                                                                    <td rowspan="1">
+                                                                                    <td>
                                                                                         05
                                                                                     </td>
-                                                                                    <td rowspan="1">Mrs.A.S.Shete</td>
+                                                                                    <td>Mrs.A.S.Shete</td>
                                                                                     <td>
                                                                                         Member
                                                                                     </td>
@@ -1138,10 +1134,10 @@
                                                                                 </tr>
 
                                                                                 <tr>
-                                                                                    <td rowspan="1">
+                                                                                    <td>
                                                                                         06
                                                                                     </td>
-                                                                                    <td rowspan="1">Dr.A.P.Tayde</td>
+                                                                                    <td>Dr.A.P.Tayde</td>
                                                                                     <td>
                                                                                         Member
                                                                                     </td>
@@ -1151,10 +1147,10 @@
                                                                                 </tr>
 
                                                                                 <tr>
-                                                                                    <td rowspan="1">
+                                                                                    <td>
                                                                                         07
                                                                                     </td>
-                                                                                    <td rowspan="1">Mrs.A.S.Rudrakanthwar</td>
+                                                                                    <td>Mrs.A.S.Rudrakanthwar</td>
                                                                                     <td>
                                                                                         Member
                                                                                     </td>
@@ -1190,7 +1186,7 @@
                                                             class="accordion-collapse collapse"
                                                             aria-labelledby="headingTwo"
                                                             data-bs-parent="#accordionExample">
-                                                            <div class="accordion-body" style="overflow-x: scroll">
+                                                            <div class="accordion-body">
                                                                 <!--first table started-->
                                                                 <div class="table-responsive">
                                                                     <table class="table table-bordered table-hover">
@@ -1219,10 +1215,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     02
                                                                                 </td>
-                                                                                <td rowspan="1">Concrete Technology</td>
+                                                                                <td>Concrete Technology</td>
                                                                                 <td>
                                                                                     303840
                                                                                 </td>
@@ -1232,63 +1228,63 @@
                                                                                 <td>
                                                                                     03
                                                                                 </td>
-                                                                                <td rowspan="1">Mechanics of Structure</td>
+                                                                                <td>Mechanics of Structure</td>
                                                                                 <td>
                                                                                     703205
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     04
                                                                                 </td>
-                                                                                <td rowspan="1">Geotechnical Engineering</td>
+                                                                                <td>Geotechnical Engineering</td>
                                                                                 <td>
                                                                                     256594
                                                                                 </td>
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     05
                                                                                 </td>
-                                                                                <td rowspan="1">Public Health Engineering</td>
+                                                                                <td>Public Health Engineering</td>
                                                                                 <td>
                                                                                     230431
                                                                                 </td>
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     06
                                                                                 </td>
-                                                                                <td rowspan="1">Model Room</td>
+                                                                                <td>Model Room</td>
                                                                                 <td>
                                                                                     12480
                                                                                 </td>
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     07
                                                                                 </td>
-                                                                                <td rowspan="1">Civil Workshop</td>
+                                                                                <td>Civil Workshop</td>
                                                                                 <td>
                                                                                     4160
                                                                                 </td>
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     08
                                                                                 </td>
-                                                                                <td rowspan="1">Highway Engineering</td>
+                                                                                <td>Highway Engineering</td>
                                                                                 <td>
                                                                                     11500
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1"></td>
-                                                                                <td rowspan="1"><b>Total</b></td>
+                                                                                <td></td>
+                                                                                <td><b>Total</b></td>
                                                                                 <td>
                                                                                     <b>2183805</b>
                                                                                 </td>
@@ -1312,7 +1308,7 @@
                                                         </h2>
                                                         <div id="collapsesixth" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                                             data-bs-parent="#accordionExample">
-                                                            <div class="accordion-body" style="overflow-x: scroll;">
+                                                            <div class="accordion-body">
                                                                 <!--first table started-->
                                                                 <div class="table-responsive">
                                                                     <table class=" table table-bordered table-hover">
@@ -1342,10 +1338,10 @@
                                                                         </thead>
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     01
                                                                                 </td>
-                                                                                <td rowspan="1">HANUMANT RANGNATH GADE </td>
+                                                                                <td>HANUMANT RANGNATH GADE </td>
                                                                                 <td>
                                                                                     2011-12
                                                                                 </td>
@@ -1355,10 +1351,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     02
                                                                                 </td>
-                                                                                <td rowspan="1">VISHAL AMARSINGH BANSWAL</td>
+                                                                                <td>VISHAL AMARSINGH BANSWAL</td>
                                                                                 <td>
                                                                                     2012-13
                                                                                 </td>
@@ -1368,10 +1364,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     03
                                                                                 </td>
-                                                                                <td rowspan="1">MAYUR ASARAM SATHE </td>
+                                                                                <td>MAYUR ASARAM SATHE </td>
                                                                                 <td>
                                                                                     2015-16
                                                                                 </td>
@@ -1382,10 +1378,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     04
                                                                                 </td>
-                                                                                <td rowspan="1"> ROSHAN UTTAM BAHIRAV </td>
+                                                                                <td> ROSHAN UTTAM BAHIRAV </td>
                                                                                 <td>
                                                                                     2015-16
                                                                                 </td>
@@ -1396,10 +1392,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     05
                                                                                 </td>
-                                                                                <td rowspan="1"> SARANG WAGHMARE </td>
+                                                                                <td> SARANG WAGHMARE </td>
                                                                                 <td>
                                                                                     2015-16
                                                                                 </td>
@@ -1410,10 +1406,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     06
                                                                                 </td>
-                                                                                <td rowspan="1">MARUTI SUDAM HUD </td>
+                                                                                <td>MARUTI SUDAM HUD </td>
                                                                                 <td>
                                                                                     2016-17
                                                                                 </td>
@@ -1424,10 +1420,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     07
                                                                                 </td>
-                                                                                <td rowspan="1">JAHIR KIRAN MALHARI </td>
+                                                                                <td>JAHIR KIRAN MALHARI </td>
                                                                                 <td>
                                                                                     2016-17
                                                                                 </td>
@@ -1438,10 +1434,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     08
                                                                                 </td>
-                                                                                <td rowspan="1">FAIZAN ZAKER QURESHI</td>
+                                                                                <td>FAIZAN ZAKER QURESHI</td>
                                                                                 <td>
                                                                                     2016-17
                                                                                 </td>
@@ -1452,10 +1448,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     09
                                                                                 </td>
-                                                                                <td rowspan="1"> TUSHAR ANNASAHEB PAGORE</td>
+                                                                                <td> TUSHAR ANNASAHEB PAGORE</td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -1466,10 +1462,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     10
                                                                                 </td>
-                                                                                <td rowspan="1"> MANISH GORAKSHA ATAWANE </td>
+                                                                                <td> MANISH GORAKSHA ATAWANE </td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -1480,10 +1476,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     11
                                                                                 </td>
-                                                                                <td rowspan="1">MAYUR ASARAM SATHE </td>
+                                                                                <td>MAYUR ASARAM SATHE </td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -1494,10 +1490,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     12
                                                                                 </td>
-                                                                                <td rowspan="1"> KARHALE UMESH KASHINATH </td>
+                                                                                <td> KARHALE UMESH KASHINATH </td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -1508,10 +1504,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     13
                                                                                 </td>
-                                                                                <td rowspan="1">SAURABH SOMINATH RITHE </td>
+                                                                                <td>SAURABH SOMINATH RITHE </td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -1522,10 +1518,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     14
                                                                                 </td>
-                                                                                <td rowspan="1">SHIRISH SHESERAO SALUNKE </td>
+                                                                                <td>SHIRISH SHESERAO SALUNKE </td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -1535,10 +1531,10 @@
 
                                                                             </tr>
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     15
                                                                                 </td>
-                                                                                <td rowspan="1">SANDIP BHANUDAS DHEPLE </td>
+                                                                                <td>SANDIP BHANUDAS DHEPLE </td>
                                                                                 <td>
                                                                                     2017-18
                                                                                 </td>
@@ -1549,10 +1545,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     16
                                                                                 </td>
-                                                                                <td rowspan="1">SHAFEY KHAN </td>
+                                                                                <td>SHAFEY KHAN </td>
                                                                                 <td>
                                                                                     2018-19
                                                                                 </td>
@@ -1563,10 +1559,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     17
                                                                                 </td>
-                                                                                <td rowspan="1"> ADARSH UDAY DUBEY </td>
+                                                                                <td> ADARSH UDAY DUBEY </td>
                                                                                 <td>
                                                                                     2018-19
                                                                                 </td>
@@ -1577,10 +1573,10 @@
                                                                             </tr>
 
                                                                             <tr>
-                                                                                <td rowspan="1">
+                                                                                <td>
                                                                                     18
                                                                                 </td>
-                                                                                <td rowspan="1"> HITESH RAMESHWAR SHINDE </td>
+                                                                                <td> HITESH RAMESHWAR SHINDE </td>
                                                                                 <td>
                                                                                     2018-19
                                                                                 </td>
@@ -1609,7 +1605,7 @@
                                                         </h2>
                                                         <div id="collapseseventh" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                                             data-bs-parent="#accordionExample">
-                                                            <div class="accordion-body" style="overflow-x: scroll;">
+                                                            <div class="accordion-body">
                                                                 <div class="table-responsive">
                                                                     <table class=" table table-bordered table-hover">
                                                                         <thead>
@@ -1701,7 +1697,7 @@
                                                         </h2>
                                                         <div id="collapseeight" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                                             data-bs-parent="#accordionExample">
-                                                            <div class="accordion-body" style="overflow-x: scroll;">
+                                                            <div class="accordion-body">
                                                                 <div class="table-responsive">
                                                                     <table class=" table table-bordered table-hover">
                                                                         <thead>

@@ -208,7 +208,7 @@ margin-top:-310px;
             <div class="container">
                 <h2 class="breadcrumb-title">Placement Details</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">Placement Details</li>
                 </ul>
             </div>

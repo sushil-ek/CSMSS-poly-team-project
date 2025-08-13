@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from live.themewild.com/eduka/academic-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:27 GMT -->
+
 <head>
     <!-- meta tags -->
     <meta charset="UTF-8">
@@ -11,12 +12,20 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-   
 
-   <?php
+
+    <?php
     include 'common/header-link.php';
     ?>
-
+    <style>
+.news{
+  width: 180px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+</style>
 </head>
 
 <body>
@@ -33,7 +42,7 @@
 
 
     <!-- header area -->
-     <?php
+    <?php
     include 'common/header.php';
     ?>
     <!-- header area end -->
@@ -56,7 +65,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/news/list-of-select-candid.jpeg)">
             <div class="container">
                 <h2 class="breadcrumb-title">NEWS</h2>
                 <ul class="breadcrumb-menu">
@@ -75,24 +84,24 @@
                         <div class="col-xl-4 col-lg-4">
                             <div class="department-sidebar">
                                 <div class="widget category">
-                                    <h4 class="widget-title" >NEWS</h4>
+                                    <h4 class="widget-title">NEWS</h4>
                                     <div class="category-list">
                                         <a href="newsmechanical.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering Department Second year students got second price</a>
-                                        <a href="news refernce.php"><i class="far fa-long-arrow-right"></i>Refresher Course for Direct Second Year Students</a>
+                                        <a href="news-refernce.php"><i class="far fa-long-arrow-right"></i>Refresher Course for Direct Second Year Students</a>
                                         <a href="newsinstitute.php"><i class="far fa-long-arrow-right"></i>Institute Level Admission Round 2023-24</a>
                                         <a href="newsoto.php"><i class="far fa-long-arrow-right"></i>OTO Registration Circular</a>
-                                        <a href="anti-ragging.php"><i class="far fa-long-arrow-right"></i>Anti-Ragging Committee</a>
+                                        <a href="newsanti-ragging.php"><i class="far fa-long-arrow-right"></i>Anti-Ragging Committee</a>
                                         <a href="icc-committe.php"><i class="far fa-long-arrow-right"></i>ICC(Internal Complaint Committee) Committee</a>
                                         <a href="grc.php"><i class="far fa-long-arrow-right"></i>Grievance Redressal Committee(GRC) for Faculty/Staff</a>
-                                        <a href="newspost-ssc poly.php"><i class="far fa-long-arrow-right"></i>POST SSC Diploma admission circular</a>
+                                        <a href="newspost-ssc-poly.php"><i class="far fa-long-arrow-right"></i>POST SSC Diploma admission circular</a>
                                         <a href="newsphotocopy.php"><i class="far fa-long-arrow-right"></i>Photocopy Schedule</a>
-                                        <a href="news one fifthen ani.php"><i class="far fa-long-arrow-right"></i>150th Birth Anniversary Celebration of Chhatrapati Rajarshi Shahu Maharaj</a>
+                                        <a href="news-one-fifthen ani.php"><i class="far fa-long-arrow-right"></i>150th Birth Anniversary Celebration of Chhatrapati Rajarshi Shahu Maharaj</a>
                                         <a href="newsumesh.php"><i class="far fa-long-arrow-right"></i>Umesh Nagdive Sir has Visited FC Center(CSMSS COP)</a>
                                         <a href="news-appointment.php"><i class="far fa-long-arrow-right"></i>Appointment of various posts 2023</a>
                                         <a href="newspaper-prasentaion.php"><i class="far fa-long-arrow-right"></i>State Level Technical Paper Presentation Competition</a>
-                                        <a href="news selected-candidate.php"><i class="far fa-long-arrow-right"></i>List of selected candidates in John Deere India Pvt Ltd. 2022-23</a>
-                                        <a href="news timetable2022-23.php"><i class="far fa-long-arrow-right"></i>Class test 1 time table AY 2022-23 (Even)</a>
-                                        <a href="newscampus drive.php"><i class="far fa-long-arrow-right"></i>जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्ह</a>
+                                        <a href="news-selected-candidate.php"><i class="far fa-long-arrow-right"></i>List of selected candidates in John Deere India Pvt Ltd. 2022-23</a>
+                                        <a href="news-timetable2022-23.php"><i class="far fa-long-arrow-right"></i>Class test 1 time table AY 2022-23 (Even)</a>
+                                        <a href="newscampus-drive.php"><i class="far fa-long-arrow-right"></i>जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्ह</a>
                                         <a href="newsfees.php"><i class="far fa-long-arrow-right"></i>Fees structure for academic year 2022-23</a>
                                         <a href="newscarpation.php"><i class="far fa-long-arrow-right"></i>Corruption Free India For a Developed Nation</a>
                                         <a href="newsagainstcap.php"><i class="far fa-long-arrow-right"></i>Against CAP General Merit List A.Y. 2022-23</a>
@@ -100,39 +109,39 @@
                                         <a href="newsdilasa.php"><i class="far fa-long-arrow-right"></i>पॉलिटेक्निक शैक्षणिक वर्ष २०२२-२३ अनुत्तीर्ण विद्यार्थांना दिलासा</a>
                                         <a href="newsmsbte.php"><i class="far fa-long-arrow-right"></i>CSMSS Polytechnic च्या सर्व शाखांना MSBTE कडून excellent दर्जा</a>
                                         <a href="newspolytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती शाहू पॉलिटेक्निक व मसिआमध्ये सामंजस्य करार</a>
-                                        
+
                                         <a href="newssscdiploma.php"><i class="far fa-long-arrow-right"></i>Post SSC Diploma/Polytechnic admissions Facilitation Center 2176</a>
-                                        <a href="newsonline stu.php"><i class="far fa-long-arrow-right"></i>online student grievance notice</a>
-                                        <a href="news class-test(s-22).php"><i class="far fa-long-arrow-right"></i>Class test 1 time table (s-2022)</a>
+                                        <a href="newsonline-stu.php"><i class="far fa-long-arrow-right"></i>online student grievance notice</a>
+                                        <a href="news-class-test(s-22).php"><i class="far fa-long-arrow-right"></i>Class test 1 time table (s-2022)</a>
                                         <a href="newscsmss-result.php"><i class="far fa-long-arrow-right"></i>छत्रपती शाहू पॉलीटेक्निकने राखली निकालाची उज्ज्वल परंपरा</a>
                                         <a href="news-csmss-result.php"><i class="far fa-long-arrow-right"></i>छत्रपती शाहू पॉलीटेकनिक मधील २४ विद्यार्थ्यांची कॅम्पस प्लेसमेंट</a>
-                                        <a href="news magicx interview.php"><i class="far fa-long-arrow-right"></i>MAGICx Interview Series Announcement for 15 January 2022!</a>
-                                        <a href="news suryanamskar.php"><i class="far fa-long-arrow-right"></i>Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic.</a>
-                                         <a href="news covid-19.php"><i class="far fa-long-arrow-right"></i>Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</a>
-                                        
-                                        <a href="news uttar-pradesh.php"><i class="far fa-long-arrow-right"></i>Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra..</a>
-                                        
-                                        <a href="news tc issue.php"><i class="far fa-long-arrow-right"></i>TC Issue of Final year Pass out student</a>
-                                        <a href="news trantrashikashan padvika.php"><i class="far fa-long-arrow-right"></i>तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</a>
+                                        <a href="news-magicx-interview.php"><i class="far fa-long-arrow-right"></i>MAGICx Interview Series Announcement for 15 January 2022!</a>
+                                        <a href="news-suryanamskar.php"><i class="far fa-long-arrow-right"></i>Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic.</a>
+                                        <a href="news-covid-19.php"><i class="far fa-long-arrow-right"></i>Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</a>
+
+                                        <a href="news-uttar-pradesh.php"><i class="far fa-long-arrow-right"></i>Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra..</a>
+
+                                        <a href="news-tc-issue.php"><i class="far fa-long-arrow-right"></i>TC Issue of Final year Pass out student</a>
+                                        <a href="news-trantrashikashan-padvika.php"><i class="far fa-long-arrow-right"></i>तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</a>
                                         <a href="newspadma-vibhushan.php"><i class="far fa-long-arrow-right"></i>Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab</a>
-                                        <a href="news fees 2017-18.php"><i class="far fa-long-arrow-right"></i>CSMSS College of Polytechnic Fees for academic year 2017-18</a>
-                                        <a href="news signed membership.php"><i class="far fa-long-arrow-right"></i>MOU has signed with Nashik Engineering Cluster</a>
-                                        <a href="news poly is best option.php"><i class="far fa-long-arrow-right"></i>Polytechnic is the best option After tenth in order to get early jobs:  Dr. M. V. Mankar</a>
-                                        
+                                        <a href="news-fees-2017-18.php"><i class="far fa-long-arrow-right"></i>CSMSS College of Polytechnic Fees for academic year 2017-18</a>
+                                        <a href="news-signed-membership.php"><i class="far fa-long-arrow-right"></i>MOU has signed with Nashik Engineering Cluster</a>
+                                        <a href="news-poly-is-best-option.php"><i class="far fa-long-arrow-right"></i>Polytechnic is the best option After tenth in order to get early jobs: Dr. M. V. Mankar</a>
+
                                     </div>
                                 </div>
-                                
+
                             </div>
                             <section id="latest-news-section">
                                 <div class="container my-4">
-                                    <div id="carouselExampleDark" class="carousel carousel-dark slide" style="background-color:#f2f3f5;">
-                                        <h2 class="bg-success text-white p-2 ">Latest News</h2>
+                                    <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
+                                        <h2 class=" widget-title ">Latest News</h2>
                                         <div class="carousel-inner">
                                             <div class="carousel-item active" data-bs-interval="10000">
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-3">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</strong>
-                                            
+                                                        <strong class="ps-5 news">Mechanical Engineering Department Second year students got second price</strong>
+
                                                         <center>
                                                             <div class="department-btn ">
                                                                 <a href="event-occasion.php" class="pt-lg-4 justify-content-center">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -143,10 +152,8 @@
                                             <div class="carousel-item" data-bs-interval="10000">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Blood
-                                            Donation Camp on the Occasion of the Birthday of Hon. Secretary Padmakarji
-                                            Mulay Sir</strong>
-                                                        
+                                                        <strong class="ps-5 news">Refresher Course for Direct Second Year Students</strong>
+
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-blood-donation.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -157,9 +164,8 @@
                                             <div class="carousel-item" data-bs-interval="10000">
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start pt-5" style=" font-size: 15px">
-                                                        <strong class="">Expert Talk on "Personality
-                                            Development</strong>
-                                                        
+                                                        <strong class="ps-5 news">Institute Level Admission Round 2023-24</strong>
+
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-personality_development.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -171,8 +177,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Expert
-                                            Talk on "Business Opportunities and Product Selection</strong>
+                                                        <strong class="ps-5 news">OTO Registration Circular</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-business-opp.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -183,8 +188,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Expert Talk on "Entrepreneurship as
-                                            a Career Choice</strong>
+                                                        <strong class="ps-5 news">Anti-Ragging Committee</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-entrepreneurship.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -195,8 +199,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">ISTE
-                                            Sponsored State Level Technical Paper Presentation and Quiz Competition</strong>
+                                                        <strong class="ps-5 news">ICC(Internal Complaint Committee) Committee</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-ISTE sponsered.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -207,8 +210,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Inaugration of Project lab and
-                                            Software development lab</strong>
+                                                        <strong class="ps-5 news">Grievance Redressal Committee(GRC) for Faculty/Staff</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-inagu of project soft.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -219,8 +221,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Expert
-                                            talk on "Employability in Defence Services</strong>
+                                                        <strong class="ps-5 news">POST SSC Diploma admission circular</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-expert talk.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -231,7 +232,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">National Road Safety Week</strong>
+                                                        <strong class="ps-5 news">Photocopy Schedule</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national road.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -242,8 +243,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">52th
-                                            District Level Science Exhibition</strong>
+                                                        <strong class="ps-5 news">150th Birth Anniversary Celebration of Chhatrapati Rajarshi Shahu Maharaj</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-52th district.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -254,11 +254,10 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Faculty Development Training Program
-                                            on "Comprehensive Python and Machine Learning "</strong>
+                                                        <strong class="ps-5 news">Umesh Nagdive Sir has Visited FC Center(CSMSS COP)</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="event-comprehensive python.php"" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="event-comprehensive python.php"" class=" pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -266,8 +265,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Faculty Development Training
-                                            program</strong>
+                                                        <strong class="ps-5 news">State Level Technical Paper Presentation Competition</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-faculty dev traning.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -275,12 +273,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">PM
-                                            Vishawkarma Program</strong>
+                                                        <strong class="ps-5 news">List of selected candidates in John Deere India Pvt Ltd. 2022-23</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-PM vishwakarma.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -291,8 +288,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">First
-                                            Year Induction Program 2024-25</strong>
+                                                        <strong class="ps-5 news">Class test 1 time table AY 2022-23 (Even)</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-induction pro.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -303,8 +299,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Entrepreneurship development
-                                            Program</strong>
+                                                        <strong class="ps-5 news">जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्ह</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-entrepreneurship-development.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -315,20 +310,18 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Online
-                                            webinar on 100% Free Education for Girls</strong>
-                                                        <center>
-                                                            <div class="department-btn">
-                                                                <a href="event-online web.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
-                                                        </center>
+                                                        <strong class="ps-5 news">Fees structure for academic year 2022-23</strong>
+                                                                <center>
+                                                                    <div class="department-btn">
+                                                                        <a href="event-online web.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                </center>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">John Deere
-                                            Campus Drive</strong>
+                                                        <strong class="ps-5 news">Corruption Free India For a Developed Nation</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-john.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -339,7 +332,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">School Connect Program</strong>
+                                                        <strong class="ps-5 news">Against CAP General Merit List A.Y. 2022-23 </strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-special connect program.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -350,8 +343,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">State
-                                            level Technical Event 2k24</strong>
+                                                        <strong class="ps-5 news">MSBTE One time opportunity (OTO) registration time table 2022-23</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-state level2k.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -362,8 +354,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">industrial visit to Devgiri Mahanand
-                                            Dairy Gandheli Chhatrapati Sambhajinagar</strong>
+                                                        <strong class="ps-5 news">पॉलिटेक्निक शैक्षणिक वर्ष २०२२-२३ अनुत्तीर्ण विद्यार्थांना दिलासा</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-industrial devgiri.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -374,8 +365,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Annual
-                                            Social Gathering Polyfest 2k24</strong>
+                                                        <strong class="ps-5 news">CSMSS Polytechnic च्या सर्व शाखांना MSBTE कडून excellent दर्जा</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-polyfest2k24.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -386,7 +376,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="text-center">Hackathon-2023</strong>
+                                                        <strong class="text-center ps-5 news">छत्रपती शाहू पॉलिटेक्निक व मसिआमध्ये सामंजस्य करार</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Hackathon.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -397,8 +387,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">MERI MATI
-                                            MERA DESH ABHIYAAN</strong>
+                                                        <strong class="ps-5 news">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-MERI MAATI.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -409,8 +398,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">First year
-                                            induction program</strong>
+                                                        <strong class="ps-5 news">online student grievance notice</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-first year.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -418,13 +406,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Campus
-                                            Drive for Electrical & Mechanical Engineering students By Gangamai
-                                            Industries and Constructions Ltd</strong>
+                                                        <strong class="ps-5 news">Class test 1 time table (s-2022)</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-campus drive.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -435,8 +421,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Result
-                                            Summer 2023</strong>
+                                                        <strong class="ps-5 news">छत्रपती शाहू पॉलीटेक्निकने राखली निकालाची उज्ज्वल परंपरा</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-resultsummer23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -447,8 +432,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">CSMSS Celebrates 150th Birth
-                                            Anniversary of Rajarshri Chhatrapati shivaji Maharaj</strong>
+                                                        <strong class="ps-5 news">छत्रपती शाहू पॉलीटेकनिक मधील २४ विद्यार्थ्यांची कॅम्पस प्लेसमेंट</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-birthanniversary.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -459,7 +443,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Placement in Forbes and Company</strong>
+                                                        <strong class="ps-5 news">MAGICx Interview Series Announcement for 15 January 2022!</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-eventplacement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -470,7 +454,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">National Conference 2022-23</strong>
+                                                        <strong class="ps-5 news">Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic.</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national con 22-23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -481,8 +465,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Annual
-                                            social gathering 2023</strong>
+                                                        <strong class="ps-5 news">Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-annual 2023.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -493,7 +476,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">IEDSSA 2022-23 G-1 ZONE GLIMPSE</strong>
+                                                        <strong class="ps-5 news">Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra.</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-IEDSSA.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -504,8 +487,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Inter Engineering Diploma Students
-                                            Sports Association (IEDSSA) Kabaddi Matches</strong>
+                                                        <strong class="ps-5 news">Arrangement of Special vaccination drive against corona virus disease (Covid-19) at CSMSS College of Polytechnic
+                                                        </strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Diploma Students.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -516,8 +499,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Corruption
-                                            Free India for a Developed Nation</strong>
+                                                        <strong class="ps-5 news">TC Issue of Final year Pass out student</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Corruption.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -528,8 +510,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">8th
-                                            International Yoga Day Celebration at CSMSS College of Polytechnic</strong>
+                                                        <strong class="ps-5 news">8th
+                                                            तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event- yoga day.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -540,9 +522,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 270px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Arrangement Of Covid-19 Mega
-                                            Vaccination Drive For All The Students Who Are Above 15 Years Old On The
-                                            Occasion Of National Youth Day January 12, 2022.</strong>
+                                                        <strong class="ps-5 news">Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab.</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-arrangement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -553,9 +533,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Arrangement Of Special Vaccination
-                                            Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of
-                                            Polytechnic</strong>
+                                                        <strong class="ps-5 news">CSMSS College of Polytechnic Fees for academic year 2017-18</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-special vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -566,8 +544,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">National Conference on Emerging
-                                            Areas in Engineering and Technology</strong>
+                                                        <strong class="ps-5 news">MOU has signed with Nashik Engineering Cluster</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national conference.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -578,8 +555,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">A State
-                                            Level Technical Paper Presentation Competition (Electronics Group)</strong>
+                                                        <strong class="ps-5 news">Polytechnic is the best option After tenth in order to get early jobs: Dr. M. V. Mankar</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-paper pre.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -587,23 +563,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="carousel-item">
-                                                <div style="min-height: 200px; ">
-                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Two days
-                                            state level workshop on "NBA Accreditation for polytechnic" on 08-04-2019 to
-                                            09-04-2019</strong>
-                                                        <center>
-                                                            <div class="department-btn">
-                                                                <a href="event-NBA workshop.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
-                                                        </center>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                            
-                                            
-                                            
+
+
+
+
+
                                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
                                                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                                 <span class="visually-hidden">Previous</span>
@@ -617,752 +581,754 @@
                             </section>
                         </div>
 
-            <div class="col-xl-8 col-lg-8">
-              <div class="row">
-                    <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">News</h1>
-                    <!-- CARD ONE  -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 25 March 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets\img\blog\new1.jpg"  alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    
-                                    <a href="newsmechanical.php">Mechanical Engineering Department Second year students...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsmechanical.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- CARD TWO  -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 07 September 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/refresher.15" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news refernce.php">Refresher Course for Direct Second Year Students...</a>
-                                </h4>
-                                
-                                <a class="theme-btn" href="news refernce.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
+                        <div class="col-xl-8 col-lg-8">
+                            
+                                <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">News</h1>
+                                <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
+                                <!-- CARD ONE  -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 25 March 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets\img\blog\new1.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+
+                                                <a href="newsmechanical.php">Mechanical Engineering Department Second year students...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsmechanical.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- CARD TWO  -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 07 September 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/refresher.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-refernce.php">Refresher Course for Direct Second Year Students...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-refernce.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card three -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 01 September 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/institute-level.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="eventpage1.php">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsinstitute.php">Institute Level Admission Round 2023-24....</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsinstitute.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--card four -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 21 August 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/oto-registration.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsoto.php">OTO Registration Circular...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsoto.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/anti-ragging.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="anti-ragging.php">Anti-Ragging Committee...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="anti-ragging.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/icc-committee.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="icc-committe.php">ICC(Internal Complaint Committee) Committee...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="icc-committe.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!--card five -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/photocopy-schedule.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsphotocopy.php">PHOTOCOPY SCHEDULE ....</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsphotocopy.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card six -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/post-ssc.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newspost-ssc-poly.php">POST SSC Diploma admission circular...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newspost-ssc-poly.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card seven -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/grc.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="grc.php">Grievance Redressal Committee(GRC) for Faculty/Staff...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="grc.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card eight -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 26 June 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/150th-birth.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-one-fifthen-ani.php">150th Birth Anniversary Celebration of Chhatrapati...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-one-fifthen-ani.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card nine -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 21 June 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/umesha-sir.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsumesh.php">Umesh Nagdive Sir has Visited FC Center(CSMSS COP)...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsumesh.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card ten -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 01 April 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/appoitment-2023.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-appointment.php">Appointment of various posts 2023...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-appointment.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--card 11 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 18 March 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/paper-presentation.png" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newspaper-prasentaion.php">STATE LEVEL TECHNICAL PAPER PRESENTATION COMPETITION...</a>
+                                            </h4>
+                                            <a class="theme-btn" href="newspaper-prasentaion.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 12 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i>18 March 2023
+                                        </div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/list-of-select-candid.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-selected-candidate.php">List of selected candidates in John Deere India Pvt Ltd. 2022-23...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-selected-candidate.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 13 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 14 March 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/class-test-1-s-2022.png" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-class-test(s-22).php">Class test 1 time table AY 2022-23 (Even)...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-class-test(s-22).php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 14 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 14 March 2023</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/jon-dear.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newscampus-drive.php">जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्ह...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newscampus-drive.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 15 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 05 November 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/fees-structure-22-23.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsfees.php">Fees structure for academic year 2022-23...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsfees.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 16 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 05 November 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/corruption-free.png" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newscarpation.php">CORRUPTION FREE INDIA FOR A DEVELOPED NATION...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newscarpation.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!--card 17 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 27 September 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/against-cap-list-22-23.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsagainstcap.php">Against CAP General Merit List A.Y. 2022-23...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsagainstcap.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 18 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i>02 September 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/oto-registration.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsmsbteoto.php">MSBTE One time opportunity (OTO) registration time table 2022-23...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsmsbteoto.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 19 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 August 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/polytechnic-year-22-23.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsdilasa.php">पॉलिटेक्निक शैक्षणिक वर्ष २०२२-२३ अनुत्तीर्ण विद्यार्थांना दिलासा...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsdilasa.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 20 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 25 August 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/excellent-shakha.24" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsmsbte.php">CSMSS Polytechnic च्या सर्व शाखांना MSBTE कडून excellent दर्जा...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsmsbte.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!--card 21 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 12 August 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/csmss-masiaam-karar.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newspolytechnic.php">छत्रपती शाहू पॉलिटेक्निक व मसिआमध्ये सामंजस्य करार...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newspolytechnic.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 22 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 05 July 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/post-ssc-admission-center2176.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newssscdiploma.php">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newssscdiploma.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!--card 23 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i>24 June 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/online-grievance-notice.png" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newsonline-stu.php">online student grievance notice...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newsonline-stu.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 24 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/class-test-1.png" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-timetable2022-23.php">Class test 1 time table (s-2022)...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-timetable2022-23.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!--card 25 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/news-result-parampare.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newscsmss-result.php">छत्रपती शाहू पॉलीटेक्निकने राखली निकालाची उज्ज्वल परंपरा...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newscsmss-result.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 26 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/csmss-24-stu-campus-placement.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-csmss-result.php">छत्रपती शाहू पॉलीटेकनिक मधील २४ विद्यार्थ्यांची कॅम्पस प्लेसमेंट...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-csmss-result.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 27 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/magicx-interview-15th-jan.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-magicx-interview.php">MAGICx Interview Series Announcement for 15 January 2022!...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-magicx-interview.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 28 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 21 June 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/org-surya-namskar.51" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-suryanamskar.php">Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-suryanamskar.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!--card 29 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/vaccination-drive-covid-19.jpeg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-covid-19.php">Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022...</a>
+                                            </h4>
+
+
+                                            </p>
+                                            <a class="theme-btn" href="news-covid-19.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 13 January 2022</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/visit-delegation-uttar-pradesh.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-uttar-pradesh.php">Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra...</a>
+                                            </h4>
+
+                                            </p>
+                                            <a class="theme-btn" href="news-uttar-pradesh.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!--card 30 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 17 December 2021</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/tc-issue-final-year-student.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-tc-issue.php">TC Issue of Final year Pass out student...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-tc-issue.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 31 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i>27 October 2021
+                                        </div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/tantrashikshan-padavika.png" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-trantrashikashan-padvika.php">तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-trantrashikashan-padvika.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 32 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> 01 February 2018</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/padma-vibhushan.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="newspadma-vibhushan.php">Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="newspadma-vibhushan.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 33 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/csmss-poly-fees-2017-18.png" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-fees-2017-18.php">CSMSS College of Polytechnic Fees for academic year 2017-18...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-fees 2017-18.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--card 34 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/mou-nashik-cluster.jpg " alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-signed-membership.php">MOU has signed with Nashik Engineering Cluster...</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-signed-membership.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="blog-item ">
+                                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
+                                        <div class="blog-item-img">
+                                            <img src="assets/img/news-and-events/news/poly-best-option-after-10th.jpg" alt="Thumb" style="height:250px;width:320px">
+                                        </div>
+                                        <div class="blog-item-info">
+                                            <hr>
+                                            <h4 class="blog-title">
+                                                <a href="news-poly-is-best-option.php">Polytechnic is the best option After tenth in order to get early jobs: Dr. M. V. Mankar</a>
+                                            </h4>
+
+                                            <a class="theme-btn" href="news-poly-is-best-option.php">Read More<i
+                                                    class="fas fa-arrow-right-long"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
                             </div>
                         </div>
                     </div>
 
-                    <!--card three -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 01 September 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/institute level.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="eventpage1.php">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsinstitute.php">Institute Level Admission Round 2023-24....</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsinstitute.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card four -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 21 August 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/oto-registration.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsoto.php">OTO Registration Circular...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsoto.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/anti-ragging.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="anti-ragging.php">Anti-Ragging Committee...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="anti-ragging.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/icc committee.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="icc-committe.php">ICC(Internal Complaint Committee) Committee...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="icc-committe.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-
-                    <!--card five -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/photocopy schedule.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsphotocopy.php">PHOTOCOPY SCHEDULE ....</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsphotocopy.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--card six -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/post ssc.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newspost-ssc poly.php">POST SSC Diploma admission circular...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newspost-ssc poly.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--card seven -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 June 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/grc.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="grc.php">Grievance Redressal Committee(GRC) for Faculty/Staff...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="grc.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!--card eight -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 26 June 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/150th birth.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news one fifthen ani.php">150th Birth Anniversary Celebration of Chhatrapati...</a>
-                                </h4>
-                             
-                                <a class="theme-btn" href="news one fifthen ani.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--card nine -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 21 June 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/umesha sir.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsumesh.php">Umesh Nagdive Sir has Visited FC Center(CSMSS COP)...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsumesh.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                        <!--card ten -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 01 April 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/appoitment 2023.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news-appointment.php">Appointment of various posts 2023...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="news-appointment.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card 11 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 18 March 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/paper presentation.png" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newspaper-prasentaion.php">STATE LEVEL TECHNICAL PAPER PRESENTATION COMPETITION...</a>
-                                </h4>
-                               <a class="theme-btn" href="newspaper-prasentaion.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
- 
-                      <!--card 12 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i>18 March 2023
- </div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/list of select candid.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news selected-candidate.php">List of selected candidates in John Deere India Pvt Ltd. 2022-23...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="news%20selected-candidate.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--card 13 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 14 March 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/class test 1 s-2022.png" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news class-test(s-22).php">Class test 1 time table AY 2022-23 (Even)...</a>
-                                </h4>
-                              
-                                <a class="theme-btn" href="news class-test(s-22).php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 14 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 14 March 2023</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/jon dear.45" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newscampus drive.php">जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्ह...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newscampus drive.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                      
-                    <!--card 15 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 05 November 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/fees structure 22-23.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsfees.php">Fees structure for academic year 2022-23...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsfees.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                       <!--card 16 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 05 November 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/corruption free.png" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newscarpation.php">CORRUPTION FREE INDIA FOR A DEVELOPED NATION...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newscarpation.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                     <!--card 17 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 27 September 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/against cap list 22-23.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsagainstcap.php">Against CAP General Merit List A.Y. 2022-23...</a>
-                                </h4>
-                                
-                                <a class="theme-btn" href="newsagainstcap.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 18 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i>02 September 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/oto-registration.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsmsbteoto.php">MSBTE One time opportunity (OTO) registration time table 2022-23...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsmsbteoto.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                          <!--card 19 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 30 August 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/polytechnic year 22-23.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsdilasa.php">पॉलिटेक्निक शैक्षणिक वर्ष २०२२-२३ अनुत्तीर्ण विद्यार्थांना दिलासा...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsdilasa.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 20 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 25 August 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/excellent shakha.24" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsmsbte.php">CSMSS Polytechnic च्या सर्व शाखांना MSBTE कडून excellent दर्जा...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsmsbte.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                       <!--card 21 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 12 August 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/csmss masiaam karar.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newspolytechnic.php">छत्रपती शाहू पॉलिटेक्निक व मसिआमध्ये सामंजस्य करार...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newspolytechnic.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                       <!--card 22 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 05 July 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/post ssc admission  center2176.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newssscdiploma.php">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176...</a>
-                                </h4>
-                                
-                                <a class="theme-btn" href="newssscdiploma.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                      <!--card 23 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i>24 June 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/online grievance notice.png" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newsonline stu.php">online student grievance notice...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newsonline stu.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--card 24 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/class test 1.png" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news timetable2022-23.php">Class test 1 time table (s-2022)...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="news timetable2022-23.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <!--card 25 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/news result parampare.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newscsmss-result.php">छत्रपती शाहू पॉलीटेक्निकने राखली निकालाची उज्ज्वल परंपरा...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newscsmss-result.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
- 
-                    <!--card 26 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/against cap list 22-23.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news-csmss-result.php">छत्रपती शाहू पॉलीटेकनिक मधील २४ विद्यार्थ्यांची कॅम्पस प्लेसमेंट...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="news-csmss-result.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-  
-                    <!--card 27 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/magicx interview 15th jan.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news magicx interview.php">MAGICx Interview Series Announcement for 15 January 2022!...</a>
-                                </h4>
-                                
-                                <a class="theme-btn" href="news magicx interview.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 28 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 21 June 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/org surya namskar.51" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news suryanamskar.php">Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic...</a>
-                                </h4>
-                                
-                                <a class="theme-btn" href="news suryanamskar.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                     <!--card 29 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/vaccination drive covid-19.jpeg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news covid-19.php">Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022...</a>
-                                </h4>
-                               
-
- </p>
-                                <a class="theme-btn" href="news covid-19.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-<div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 13 January 2022</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/visit delegation uttar pradesh.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news uttar-pradesh.php">Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra...</a>
-                                </h4>
-                                
- </p>
-                                <a class="theme-btn" href="news uttar-pradesh.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                        
-                     <!--card 30 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 17 December 2021</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/tc issue final year student.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news tc issue.php">TC Issue of Final year Pass out student...</a>
-                                </h4>
-                              
-                                <a class="theme-btn" href="news tc issue.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 31 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i>27 October 2021
-</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/tantrashikshan padavika.png" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news trantrashikashan padvika.php">तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती...</a>
-                                </h4>
-                              
-                                <a class="theme-btn" href="news trantrashikashan padvika.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 32 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> 01 February 2018</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/padma-vibhushan.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="newspadma-vibhushan.php">Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab...</a>
-                                </h4>
-                               
-                                <a class="theme-btn" href="newspadma-vibhushan.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 33 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/csmss poly fees 2017-18.png" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news fees 2017-18.php">CSMSS College of Polytechnic Fees for academic year 2017-18...</a>
-                                </h4>
-                                
-                                <a class="theme-btn" href="news fees 2017-18.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!--card 34 -->
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/mou nashik cluster.jpg " alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news signed membership.php">MOU has signed with Nashik Engineering Cluster...</a>
-                                </h4>
-                              
-                                <a class="theme-btn" href="news signed membership.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6">
-                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> sep 07, 2025</div>
-                            <div class="blog-item-img">
-                                <img src="assets/img/news and events/news/poly best option after 10th.jpg" alt="Thumb" style="height:250px;width:320px">
-                            </div>
-                            <div class="blog-item-info">
-                               <hr>
-                                <h4 class="blog-title">
-                                    <a href="news poly is best option.php">Polytechnic is the best option After tenth in order to get early jobs:  Dr. M. V. Mankar</a>
-                                </h4>
-                                
-                                <a class="theme-btn" href="news poly is best option.php">Read More<i
-                                        class="fas fa-arrow-right-long"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    
-        </div>
-        </div>
-        </div>
-        
+                </div>
             </div>
         </div>
-                      
-         
 
-        
-        
+
+
+
+
 
     </main>
 
 
 
     <!-- footer area -->
-      <?php
+    <?php
     include 'common/footer.php';
     ?>
     <!-- footer area end -->
@@ -1375,7 +1341,7 @@
     <!-- scroll-top end -->
 
 
-     <?php
+    <?php
     include 'common/footer-link.php';
     ?>
 
@@ -1383,4 +1349,5 @@
 
 
 <!-- Mirrored from live.themewild.com/eduka/academic-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:32 GMT -->
+
 </html>
