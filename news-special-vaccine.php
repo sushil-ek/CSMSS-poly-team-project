@@ -588,7 +588,7 @@
                        
                         <div class="col-xl-8 col-lg-8">
                             <h1 style="border-bottom: 3px solid orange;">News</h1>
-                            <h2 class="mt-4 mb-4">
+                            <h2 class="mt-4">
 Arrangement Of Special Vaccination Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of Polytechnic</h2>                                      
 
                             <!--icon-->

@@ -584,7 +584,7 @@
                         <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                              <h1 style=" border-bottom: 3px solid orange;">NEWS</h1 >
                             <div class="department-details mt-4 ">
-                                <h2 class="mb-4">Polytechnic is the best option After tenth in order to get early jobs:  Dr. M. V. Mankar..</h2>
+                                <h2 class="mt-4">Polytechnic is the best option After tenth in order to get early jobs:  Dr. M. V. Mankar..</h2>
                                 <div class="department-details-img mb-30">
                                    <img src="assets/img/news-and-events/news/poly-best-option-after-10th.jpg" class="card shadow-lg" style=" width: 100%;" >
                                 </div>

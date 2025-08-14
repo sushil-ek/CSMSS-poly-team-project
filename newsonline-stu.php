@@ -588,7 +588,7 @@
                          <div class="facility-details-img mb-30">
                             <h1 style=" border-bottom: 3px solid orange;">NEWS</h1>
                            
-<h2 class="mt-3">online student grievance notice..</h2><br>
+<h2 class="mt-4">online student grievance notice..</h2><br>
                             
                                     <img src="assets/img/news-and-events/news/online-grievance-notice.png"alt="thumb" class="card shadow-lg" style=" width: 100%;" ><br><br>
                                    online student grievance notice.

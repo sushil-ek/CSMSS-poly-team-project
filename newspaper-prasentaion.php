@@ -587,7 +587,7 @@
                         <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                              <h1 style=" border-bottom: 3px solid orange;">NEWS</h1 >
                             <div class="department-details mt-4 mb-4">
-                                <h2 class="mb-4">STATE LEVEL TECHNICAL PAPER PRESENTATION COMPETITION..</h2>
+                                <h2 class="mt-4">STATE LEVEL TECHNICAL PAPER PRESENTATION COMPETITION..</h2>
                                 <div class="department-details-img mb-30">
                                    <img src="assets/img/news-and-events/news/paper-presentation.png" class="card shadow-lg" style=" width: 100%;" >
                                 </div>

@@ -584,7 +584,7 @@
                         <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                             <h1 style=" border-bottom: 3px solid orange;">NEWS</h1 >
                             <div class="department-details mt-4">
-                                <h2>तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती..</h2>
+                                <h2 class="mt-4">तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती..</h2>
                                 <div class="department-details-img mb-30">
                                    <img src="assets/img/news-and-events/news/tantrashikshan-padavika.png" class="card shadow-lg" style=" width: 100%;" >
                                 </div>

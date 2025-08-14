@@ -588,7 +588,7 @@
                         <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                            <h1 style=" border-bottom: 3px solid orange;">NEWS</h1>
                      
-                       <h2 class="mt-3">पॉलिटेक्निक शैक्षणिक वर्ष २०२२-२३ अनुत्तीर्ण विद्यार्थांना दिलासा..</h2>   
+                       <h2 class="mt-4">पॉलिटेक्निक शैक्षणिक वर्ष २०२२-२३ अनुत्तीर्ण विद्यार्थांना दिलासा..</h2>   
                        <br>          
                             <div class="facility-details-img mb-30">
                                     <img src="assets/img/news-and-events/news/polytechnic-year-22-23.jpg" class="card shadow-lg" style=" width: 100%;"   alt="thumb">
