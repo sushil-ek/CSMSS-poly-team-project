@@ -683,44 +683,44 @@
                             Annual Social Gathering Polyfest 2k24</h2>
                            
                             <div class="row">
-                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot text-primary"></i> Chhatrapati Sambhajinagar
+                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot "style="color: orange"></i> Chhatrapati Sambhajinagar
 
 </div>
- <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days text-primary"></i> 19 Feb 2024
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days "style="color: orange"></i> 19 Feb 2024
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>19th February birth anniversary of Chhatrapati Shivaji Maharaj is celebrated at CSMSS which holds great significance in Maharashtra and across India This day is celebrated with joy and happiness
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars  pe-2"style="color: orange"></i>19th February birth anniversary of Chhatrapati Shivaji Maharaj is celebrated at CSMSS which holds great significance in Maharashtra and across India This day is celebrated with joy and happiness
 
 </div>
 </div>
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/badminton3.jpg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/badminton3.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5 ">
-    <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/carrom2.jpg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/carrom2.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/chess1.jpg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/chess1.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6 pt-4 mt-5">
-                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance4.jpg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance4.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance6.jpg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance6.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/ganesh vandana5.jpg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/ganesh vandana5.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 

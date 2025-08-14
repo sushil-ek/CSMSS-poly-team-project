@@ -685,21 +685,21 @@
                             <hr class="text-danger"><br>
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i> Narveer Tanaji Malusare sports complex, CSMSS College of Polytechnic, Aurangabad
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i> Narveer Tanaji Malusare sports complex, CSMSS College of Polytechnic, Aurangabad
 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>19 Nov 2022
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>19 Nov 2022
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>Schedule Day 2
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>Schedule Day 2
 
 </div>
 </div><br>
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/Inter-Engineering-Diploma-Students-Sports-Association/(IEDSSA)-Kabaddi-Matches-1.jpg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/Inter-Engineering-Diploma-Students-Sports-Association/(IEDSSA)-Kabaddi-Matches-1.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>

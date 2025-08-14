@@ -694,25 +694,24 @@
                                     
                             <!--icon-->
                             <div class="row ">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic, Aurangabad </div>
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic, Aurangabad </div>
 
 
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>21 Sep 2019 
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>21 Sep 2019 
 
 </div>
- <div class="col-12 "><i class="fa-thin fa-bars text-primary"></i>A State Level Technical Paper Presentation Competition (Electronics Group) Sponsored by MSBTE Maharashtra State Board of Technical Education, Mumbai On 21th Sept’ 2019
+ <div class="col-12 "><i class="fa-thin fa-bars "style="color: orange"></i>A State Level Technical Paper Presentation Competition (Electronics Group) Sponsored by MSBTE Maharashtra State Board of Technical Education, Mumbai On 21th Sept’ 2019
 </div>
 
                             <div class="row ">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events1.jpeg"class="card shadow-lg g-5" style="height:220px; width:450px  justify-content-center">
+                                     <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events1.jpeg"class="w-100 card shadow-lg g-5" style="height:220px;  ">
                                 </div>
                                <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                    <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events2.jpeg"alt="thumb" class="card shadow-lg g-5"style="height:220px; width:450px justify-content-center">
-                                </div>
+                                    <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events2.jpeg"alt="thumb" class="w-100 card shadow-lg g-5"style="height:220px; ">
 </div>
 <div class="row  mt-4 ">   
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events3.jpeg"alt="thumb" class="card shadow-lg g-2"style="height:220px; width:450px">
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events3.jpeg"alt="thumb" class="w-100 card shadow-lg g-2"style="height:220px;">
 
 </div>
 </div>

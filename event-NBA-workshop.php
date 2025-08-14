@@ -683,19 +683,19 @@
                                     
                             <!--icon-->
                             <div class="row ">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic, Aurangabad </div>
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic, Aurangabad </div>
 
 
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>08 Apr 2019 
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>08 Apr 2019 
 
 </div>
- <div class="col-12 "><i class="fa-thin fa-bars text-primary"></i> Two days state level workshop on "NBA Accreditation for polytechnic" on 08-04-2019 to 09-04-2019
+ <div class="col-12 "><i class="fa-thin fa-bars "style="color: orange"></i> Two days state level workshop on "NBA Accreditation for polytechnic" on 08-04-2019 to 09-04-2019
                             <div class="row ">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/Two-days-state-level-workshop-on-NBA-Accreditation-for-polytechnic-on-08-04-2019to09-04-2019/two1.jpg"class="card shadow-lg " style="height:220px; width:400px">
+                                     <img src="assets/img/news-and-events/Events/Two-days-state-level-workshop-on-NBA-Accreditation-for-polytechnic-on-08-04-2019to09-04-2019/two1.jpg"class="w-100 card shadow-lg " style="height:220px; ">
                                 </div>
                                <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                    <img src="assets/img/news-and-events/Events/Two-days-state-level-workshop-on-NBA-Accreditation-for-polytechnic-on-08-04-2019to09-04-2019/two2.jpg"alt="thumb" class="card shadow-lg "style="height:220px; width:400px">
+                                    <img src="assets/img/news-and-events/Events/Two-days-state-level-workshop-on-NBA-Accreditation-for-polytechnic-on-08-04-2019to09-04-2019/two2.jpg"alt="thumb" class="w-100 card shadow-lg "style="height:220px; ">
                                 </div>
 </div>
 

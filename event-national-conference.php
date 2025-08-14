@@ -682,18 +682,18 @@ National Conference on Emerging Areas in Engineering and Technology </h2>
 
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic, Aurangabad 
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic, Aurangabad 
 
 </div>
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>19 jun 2022 
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>19 jun 2022 
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> National Conference on Emerging Areas in Engineering and Technology
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> National Conference on Emerging Areas in Engineering and Technology
  <!--row1-->
     
                             <div class="row">
                                 <DIV class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/National-Conference-on-Emerging-Areas-in-Engineering-and-Technology/National-Conference.jpg" card="card shadoe-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/National-Conference-on-Emerging-Areas-in-Engineering-and-Technology/National-Conference.jpg" card="w-100 cardcard shadoe-lg" style="height:200px; ">
                                     
 
 

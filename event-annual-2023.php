@@ -678,32 +678,32 @@
                          <div class="facility-details-img mb-30">
                             <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
                             <h2 class="mt-4 mb-4">Annual social gathering 2023</h2>
-                            <hr class="text-danger"><br>
+                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS College of Polytechnic, Aurangabad
+                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot " style="color: orange"></i> CSMSS College of Polytechnic, Aurangabad
 
 </div>
                                 
- <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days text-primary"></i> 2 Feb 2023
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days " style="color: orange"></i> 2 Feb 2023
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>Annual social gathering 2023
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars  pe-2" style="color: orange"></i>Annual social gathering 2023
 </div>
 <!--row1-->
                             <div class="row">
                                 <div class=" col-12 col-lg-6 col-md-6 mt-5 ">
-                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/badminton3.jpg"class=" card shadow-lg" style="height:260px; width:350px;">
+                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/badminton3.jpg"class="w-100 card shadow-lg" style="height:260px;">
                                     
 
 </div>
                             
  <div class=" col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/carrom2.jpg"alt="thumb"class=" card shadow-lg" style="height:260px; width:350px;">
+    <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/carrom2.jpg"alt="thumb"class="w-100 card shadow-lg" style="height:260px; ">
 
 </div>
  <div class=" col-12 col-lg-6 col-md-6 mt-5 "> 
-    <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/chess1.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px; margin-bottom: -45px;">
+    <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/chess1.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; margin-bottom: -45px;">
 
 </div>
 
@@ -712,17 +712,17 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance4.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance4.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance6.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance6.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/ganesh vandana5.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/ganesh vandana5.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>

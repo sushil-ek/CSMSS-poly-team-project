@@ -683,17 +683,17 @@ Arrangement Of Special Vaccination Drive Against Corona Virus Disease (Covid-19)
 
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic, Aurangabad 
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot"style="color: orange"></i>CSMSS College of Polytechnic, Aurangabad 
 
 </div>
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>27 oct 2021
+ <div class="col-6 "><i class="fa-solid fa-calendar-days"style="color: orange"></i>27 oct 2021
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Mission Youth Vaccination drive by Government of Maharashtra conducted by CSMSS College of Polytechnic in association with Director of DTE &with special support of Aurangabad Municipal cooperation. Inaugurated by Joint Director Hon. Dr .M.D.Shivankar ,CSMSS A.O. Hon.Dr.S.G.Deshmukh,Hon.Dr.S.C.Bhoyar,Hon.Dr.U.B.Shinde,Hon.Dr.G.B.Dongre,Hon.Mr.A.B.Aher
+ <div class="col-12"><i class="fa-thin fa-bars"style="color: orange"></i> Mission Youth Vaccination drive by Government of Maharashtra conducted by CSMSS College of Polytechnic in association with Director of DTE &with special support of Aurangabad Municipal cooperation. Inaugurated by Joint Director Hon. Dr .M.D.Shivankar ,CSMSS A.O. Hon.Dr.S.G.Deshmukh,Hon.Dr.S.C.Bhoyar,Hon.Dr.U.B.Shinde,Hon.Dr.G.B.Dongre,Hon.Mr.A.B.Aher
     <br><br><br>
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg" card="card shadow-lg" style="height:250px; width:340px;">
+                                     <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg" card=" w-100 card shadow-lg" style="height:250px; ">
                                     
 
 </div>

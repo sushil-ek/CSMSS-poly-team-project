@@ -685,13 +685,13 @@
                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>20 Sep 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>20 Sep 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>   
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>   
  
  
 PM Vishawkarma Program
@@ -701,33 +701,33 @@ PM Vishawkarma Program
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM1.jpg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM1.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM2.jpg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px; ">
+    <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM2.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;  ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM3.jpg"alt="thumb" class="card shadow-lg" style="height:200px;  width:300px; ">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM3.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;   ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM4.jpg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM4.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
 
-        <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM5.jpg"alt="thumb" class="card shadow-lg" style="height:200px;  width:300px; ">
+        <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM5.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;   ">
 
 </div>    
               
  
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM6.jpg"alt="thumb" class="card shadow-lg" style="height:200px;  width:300px; ">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM6.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;   ">
 
 </div>    
  

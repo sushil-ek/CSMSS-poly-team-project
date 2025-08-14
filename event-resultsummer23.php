@@ -682,26 +682,26 @@
                             <!--icon-->
                             <div class="row">
                                 
- <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days text-primary"></i> 1 Jul 2023
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days "style="color: orange"></i> 1 Jul 2023
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>TOPPERS OF COMPUTER ENGINEERING DEPARTMENT,CIVIL ENGINEERING DEPARTMENT,ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,MECHANICAL ENGINEERING,ELECTRICAL ENGINEERING
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars pe-2"style="color: orange"></i>TOPPERS OF COMPUTER ENGINEERING DEPARTMENT,CIVIL ENGINEERING DEPARTMENT,ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,MECHANICAL ENGINEERING,ELECTRICAL ENGINEERING
 </div>
 </div>
 <!--row1-->
                             <div class="row">
                                 <div class=" col-12 col-lg-6 col-md-6 mt-5 ">
-                                     <img src="assets/img/news-and-events/Events/result-summer-2023/result1.jpg"class=" card shadow-lg" style="height:260px; width:350px;">
+                                     <img src="assets/img/news-and-events/Events/result-summer-2023/result1.jpg"class=" w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
                             
  <div class=" col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/result-summer-2023/result2.jpg"alt="thumb"class=" card shadow-lg" style="height:260px; width:350px;">
+    <img src="assets/img/news-and-events/Events/result-summer-2023/result2.jpg"alt="thumb"class=" w-100 card shadow-lg" style="height:260px; ">
 
 </div>
  <div class=" col-12 col-lg-6 col-md-6 mt-5 "> 
-    <img src="assets/img/news-and-events/Events/result-summer-2023/result3.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px; margin-bottom: -45px;">
+    <img src="assets/img/news-and-events/Events/result-summer-2023/result3.jpg"alt="thumb" class=" w-100 card shadow-lg" style="height:260px;  margin-bottom: -45px;">
 
 </div>
 
@@ -710,12 +710,12 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/result-summer-2023/result4.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/result-summer-2023/result4.jpg"alt="thumb" class=" w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/result-summer-2023/result6.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/result-summer-2023/result6.jpg"alt="thumb" class=" w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>

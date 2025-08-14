@@ -685,14 +685,14 @@
                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS College of Polytechnic,Aurangabad
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i> CSMSS College of Polytechnic,Aurangabad
 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>22 Nov 2022
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>22 Nov 2022
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>IEDSSA 2022-23 G-1 ZONE GLIMPSE 
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>IEDSSA 2022-23 G-1 ZONE GLIMPSE 
 
 
 </div>
@@ -700,34 +700,34 @@
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE -1.png"alt="thumb"  class="card shadow-lg"style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE -1.png"alt="thumb"  class="w-100 card shadow-lg"style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 2.jpeg" alt="thumb" class="card shadow-lg" style="height:200px; width:300px; ">
+    <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 2.jpeg" alt="thumb" class="w-100 card shadow-lg" style="height:200px;  ">
 
 </div>
  <div class="col-12 col-lg-6 col-md-6 mt-5"> 
-    <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 3.png"alt="thumb"  class="card shadow-lg"style="height:200px;  width:300px; ">
+    <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 3.png"alt="thumb"  class="w-100 card shadow-lg"style="height:200px;   ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 4.jpg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 4.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 5.jpg" class="card shadow-lg"  alt="thumb" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 5.jpg" class="w-100 card shadow-lg"  alt="thumb" style="height:200px; ">
 
 </div>
            
            <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 6.jpg" class="card shadow-lg" alt="thumb" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE 6.jpg" class="w-100 card shadow-lg" alt="thumb" style="height:200px; ">
 
 </div>
          <!--row3-->

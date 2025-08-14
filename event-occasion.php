@@ -685,13 +685,13 @@
                             <!--icon-->
                             <div class="row">
                                 
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS 
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>6 May 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>6 May 2025
 
 </div>
- <div class="col-12 mb-4"><i class="fa-thin fa-bars text-primary"></i> On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.
+ <div class="col-12 mb-4"><i class="fa-thin fa-bars "style="color: orange"></i> On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.
 <br><br>
 </div>
 </div>
@@ -699,17 +699,17 @@
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6 mt-2">
                                    
-                                     <img src="assets/img/news-and-events/Events/death-anniversary/statue.jpg" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/death-anniversary/statue.jpg" class="w-100 card shadow-lg" style="height:200px; ">
                                  
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-2">
-    <img src="assets/img/news-and-events/Events/death-anniversary/occasion-statue3.jpg"alt="thumb" class="card shadow-lg " style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/death-anniversary/occasion-statue3.jpg"alt="thumb" class="w-100 card shadow-lg " style="height:200px; ">
 
 </div>
  <div class="col-12 col-lg-6 col-md-6 mt-5"> 
-    <img src="assets/img/news-and-events/Events/death-anniversary/occasion-statue2.jpg"alt="thumb" class="card shadow-lg " style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/death-anniversary/occasion-statue2.jpg"alt="thumb" class="w-100 card shadow-lg " style="height:200px; ">
 
 </div>
 
@@ -718,13 +718,13 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/death-anniversary/occa-statue5.jpg"alt="thumb" class="card shadow-lg " style="height:200px; width:300px;">
+ <img src="assets/img/news-and-events/Events/death-anniversary/occa-statue5.jpg"alt="thumb" class="w-100 card shadow-lg " style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/death-anniversary/occa-statue4.jpg"alt="thumb" class="card shadow-lg " style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/death-anniversary/occa-statue4.jpg"alt="thumb" class="w-100 card shadow-lg " style="height:200px; ">
 
 </div>
                   

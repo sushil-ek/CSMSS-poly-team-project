@@ -684,39 +684,39 @@
                             
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>7 mar 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>7 mar 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>ISTE Sponsored State Level Technical Paper Presentation and Quiz Competition
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>ISTE Sponsored State Level Technical Paper Presentation and Quiz Competition
 
 </div>
 </div><br>
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED.png"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED.png"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-    <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED1.png"alt="thumb"  class="card shadow-lg"style="height:200px; width:300px; ">
+    <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED1.png"alt="thumb"  class="w-100 card shadow-lg"style="height:200px;  ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED3.png"alt="thumb" class="card shadow-lg" style="height:200px;  width:300px; ">
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED3.png"alt="thumb" class="w-100 card shadow-lg" style="height:200px;   ">
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6  mt-5">  
- <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED4.png" alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+ <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED4.png" alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-     <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED5.png"alt="thumb"  class="card shadow-lg"style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/SPONSORED5.png"alt="thumb"  class="w-100 card shadow-lg"style="height:200px; ">
 
 </div>
            

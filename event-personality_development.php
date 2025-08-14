@@ -683,29 +683,29 @@
                             
                             <!--icon-->
                             <div class="row">
-                                <div class="col-8 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic,Chh. Sambhajinagar
+                                <div class="col-8 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic,Chh. Sambhajinagar
 
 </div>
- <div class="col-4"><i class="fa-solid fa-calendar-days text-primary"></i>4 Apr 2025
+ <div class="col-4"><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Expert Talk on "Personality Development" by Mr. Vishwanath Sakhare(Plant head, MASCOR Precision Pvt. Ltd. )
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> Expert Talk on "Personality Development" by Mr. Vishwanath Sakhare(Plant head, MASCOR Precision Pvt. Ltd. )
 <br><br>
 </div>
 </div>
  <!--row1-->
 <div class="row">
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-<img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality1.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+<img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality1.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality2.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality2.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality3.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality3.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
@@ -714,7 +714,7 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-  <img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality4.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+  <img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality4.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>

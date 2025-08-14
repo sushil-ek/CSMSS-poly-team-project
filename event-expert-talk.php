@@ -685,36 +685,36 @@
                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>17 jan 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>17 jan 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Conduction of an expert talk on "Employability in Defence Services" by Lieutenant Colonel Parshuram Wagh.
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> Conduction of an expert talk on "Employability in Defence Services" by Lieutenant Colonel Parshuram Wagh.
 
 </div>
 </div><br>
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-    <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility2.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px; "><br>
+    <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility2.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px;  "><br>
 
 </div>
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-     <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility3.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px;  width:300px; ">
+     <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility3.jpeg"alt="thumb"  class=" w-100 card shadow-lg" style="height:200px;   ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility4.jpeg"alt="thumb"   class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility4.jpeg"alt="thumb"   class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>

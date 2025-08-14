@@ -683,16 +683,16 @@
                             <!--icon-->
                             <div class="row">
                                 
- <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days text-primary"></i> 28 Jun 2023
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days "style="color: orange"></i> 28 Jun 2023
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>one of the student from Mechanical Engineering got selected in Forbes and Company with 2.26 PA
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars  pe-2"style="color: orange"></i>one of the student from Mechanical Engineering got selected in Forbes and Company with 2.26 PA
 </div>
 </div>
 <!--row1-->
                             <div class="row">
                                 <div class=" col-12 col-lg-6 col-md-6 mt-5 ">
-                                     <img src="assets/img/news-and-events/Events/placement-in-forbase/placement.jpg"class=" card shadow-lg" style="height:260px; width:350px;">
+                                     <img src="assets/img/news-and-events/Events/placement-in-forbase/placement.jpg"class="w-100  card shadow-lg" style="height:260px;">
                                     
 
 </div>

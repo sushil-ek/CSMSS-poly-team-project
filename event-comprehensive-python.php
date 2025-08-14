@@ -684,14 +684,14 @@
                             
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS College of Polytechnic,Aurangabad
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i> CSMSS College of Polytechnic,Aurangabad
 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>22 Nov 2022
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>22 Nov 2022
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>Faculty Development Training program sponsored by the Ministry of Electronics and Information Technology Government of India ,National Institute of Electronics and Information Technology (NIELIT)Aurangabad organized by CSMSS College of Polytechnic on "Comprehensive Python and Machine Learning " held from 29 /11/2024 to 3/12/2024
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>Faculty Development Training program sponsored by the Ministry of Electronics and Information Technology Government of India ,National Institute of Electronics and Information Technology (NIELIT)Aurangabad organized by CSMSS College of Polytechnic on "Comprehensive Python and Machine Learning " held from 29 /11/2024 to 3/12/2024
 
 
 </div>
@@ -699,50 +699,50 @@
                             <!--row1-->
                             <div class="row mt-5">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty1.jpeg" class="card shadow-lg"alt="thumb" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty1.jpeg" class="w-100 card shadow-lg"alt="thumb" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-    <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty2.jpeg"alt="thumb"  class="card shadow-lg"style="height:200px; width:300px; ">
+    <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty2.jpeg"alt="thumb"  class=" w-100 card shadow-lg"style="height:200px;  ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty3.jpeg"alt="thumb"class="card shadow-lg" style="height:200px;  width:300px; ">
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty3.jpeg"alt="thumb"class=" w-100 card shadow-lg" style="height:200px;   ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty4.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty4.jpeg"alt="thumb"class=" w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty5.jpeg"  alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty5.jpeg"  alt="thumb"class=" w-100 card shadow-lg" style="height:200px; ">
 
 </div>
            
            <div class="col-12 col-lg-6 col-md-6  mt-5">
-     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty6.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty6.jpeg"alt="thumb"class=" w-100 card shadow-lg" style="height:200px; ">
 
 </div>
          <!--row3-->
           <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty7.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty7.jpeg"alt="thumb"class=" w-100 card shadow-lg" style="height:200px; ">
 
 </div>
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty8.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty8.jpeg"alt="thumb"class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty9.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty9.jpeg"alt="thumb"class=" w-100 card shadow-lg" style="height:200px; ">
 
 </div>
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty10.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty10.jpeg"alt="thumb"class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 

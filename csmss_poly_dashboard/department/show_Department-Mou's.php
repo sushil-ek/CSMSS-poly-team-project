@@ -245,7 +245,8 @@ include('../common/header_link.php');
                                                 </tr>
                                                 <tr>
                                                     <td>02</td>
-                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Marahtawada Association Of Small Scale Industries And Agriculture , Chikalthana Midc Chhatrapati Sambhajinagar </strong></td>
+                                                    <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;"><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Marahtawada Association Of Small Scale Industries And Agriculture , Chikalthana Midc Chhatrapati Sambhajinagar </strong>
+                                                </td>
                                                     <td>8/27/2021 </td>
                                                     <td>8/27/2025</td>
 

@@ -689,45 +689,45 @@
                                     
                             <!--icon-->
                             <div class="row ">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>Chhatrapati Sambhajinagar</div>
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>Chhatrapati Sambhajinagar</div>
 
 
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>15 Dec 2023 
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>15 Dec 2023 
 
 </div>
- <div class="col-12 "><i class="fa-thin fa-bars text-primary"></i> To aware about technical education to the students through school connect program conducted
+ <div class="col-12 "><i class="fa-thin fa-bars "style="color: orange"></i> To aware about technical education to the students through school connect program conducted
 </div>
 </div>
                             <!--row1-->
 <div class="row">
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-<img src="assets/img/news-and-events/Events/school-connect-program/school1.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+<img src="assets/img/news-and-events/Events/school-connect-program/school1.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/school-connect-program/school2.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/school-connect-program/school2.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 </div>
 <div class="row">
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/school-connect-program/school3.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/school-connect-program/school3.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
 
 
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-  <img src="assets/img/news-and-events/Events/school-connect-program/school4.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+  <img src="assets/img/news-and-events/Events/school-connect-program/school4.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-  <img src="assets/img/news-and-events/Events/school-connect-program/school5.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+  <img src="assets/img/news-and-events/Events/school-connect-program/school5.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-  <img src="assets/img/news-and-events/Events/school-connect-program/school6.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+  <img src="assets/img/news-and-events/Events/school-connect-program/school6.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 </div>
 </div>

@@ -88,7 +88,7 @@
                       <button type="submit" class="btn btn-primary">Update</button>
                       <button type="submit" class="btn btn-primary text-white">
                         <a href="civil_engineering.php" class="text-white">
-                          BACK
+                          Back
                         </a>
                       </button>
                     </div>

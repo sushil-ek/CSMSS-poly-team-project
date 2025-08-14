@@ -674,13 +674,13 @@
                             
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>9 Sep 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>9 Sep 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>   
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>   
  
  Induction program is organized for first year newly admitted students on 9th to 14th Sept 2024.
 
@@ -690,22 +690,22 @@
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction1.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction1.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-    <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction2.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px; ">
+    <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction2.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px;  ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction3.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px;  width:300px; ">
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction3.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px;   ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction4.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px; ">
+                                     <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction4.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px;  ">
                                     
 
 </div>

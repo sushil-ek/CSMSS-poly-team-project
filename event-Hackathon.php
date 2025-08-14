@@ -684,13 +684,13 @@
                             
                             <!--icon-->
                             <div class="row">
-                                <div class="col-8 text-dark"> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic(Computer Engineering Department FF-11)
+                                <div class="col-8 text-dark"> <i class="fa-solid fa-location-dot"style="color: orange"></i>CSMSS College of Polytechnic(Computer Engineering Department FF-11)
 
 </div>
- <div class="col-4 text-dark"><i class="fa-solid fa-calendar-days text-primary "></i>26 Oct 2023
+ <div class="col-4 text-dark"><i class="fa-solid fa-calendar-days "style="color: orange"></i>26 Oct 2023
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2" ></i>Conduction of internal Hackathon -2023
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars pe-2"style="color: orange" ></i>Conduction of internal Hackathon -2023
 
 </div>
 </div>
@@ -698,7 +698,7 @@
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-  mt-56">
-                                     <img src="assets/img/news-and-events/Events/hacathon/hacathon.jpg" class="card shadow-lg"alt="thumb" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/hacathon/hacathon.jpg" class="w-100 card shadow-lg"alt="thumb" style="height:200px; ">
                                     
 
 </div>

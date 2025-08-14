@@ -685,29 +685,29 @@
                             
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS Cop
+                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dotstyle="color: orange""></i> CSMSS Cop
 
 </div>
                                 
- <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days text-primary"></i> 18 Apr 2023
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-daysstyle="color: orange""></i> 18 Apr 2023
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>National Conference 2022-23
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars pe-2"style="color: orange"></i>National Conference 2022-23
 </div>
 <!--row1-->
                             <div class="row">
                                 <div class=" col-12 col-lg-6 col-md-6 mt-5 ">
-                                     <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23 2.png"class=" card shadow-lg" style="height:260px; width:350px;">
+                                     <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23 2.png"class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
                             
  <div class=" col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23 3.png"alt="thumb"class=" card shadow-lg" style="height:260px; width:350px;">
+    <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23 3.png"alt="thumb"class="w-100 card shadow-lg" style="height:260px; ">
 
 </div>
  <div class=" col-12 col-lg-6 col-md-6 mt-5 "> 
-    <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23 9.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px; margin-bottom: -45px;">
+    <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23 9.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:260px;  margin-bottom: -45px;">
 
 </div>
 
@@ -716,17 +716,17 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23-1.png"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23-1.png"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23-4.png"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23-4.png"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23-6.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+ <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23-6.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>

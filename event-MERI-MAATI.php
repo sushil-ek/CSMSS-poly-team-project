@@ -684,26 +684,26 @@
                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-12 col-lg-6 col-md-6 text-dark "> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS College of Polytechnic
+                                <div class="col-12 col-lg-6 col-md-6 text-dark "> <i class="fa-solid fa-location-dot "style="color: orange"></i> CSMSS College of Polytechnic
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 text-dark"><i class="fa-solid fa-calendar-days text-primary"></i> 14 oct 2023
+ <div class="col-12 col-lg-6 col-md-6 text-dark"><i class="fa-solid fa-calendar-days "style="color: orange"></i> 14 oct 2023
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>The NSS volunteers and students of college organized kalash Yatra on 14 October 2023 from the College main entrance to Amrut Vatika by holding soil in one hand . The Kalash yatra started at 11:15 am and ended at 1:00 pm. During the rally students recited various patriotic slogans. A total of 108 students participated for the same. The activity was coordinated by Mr Mitkar A.H, NSS PO-Incharge under the guidance of Hon Principal Dr G.B.Dongre and Vice Principal Respected Rahane C.V.
+ <div class="col-12 col-lg-6 col-md-6 text-dark pb-3"><i class="fa-thin fa-bars  pe-2"style="color: orange"></i>The NSS volunteers and students of college organized kalash Yatra on 14 October 2023 from the College main entrance to Amrut Vatika by holding soil in one hand . The Kalash yatra started at 11:15 am and ended at 1:00 pm. During the rally students recited various patriotic slogans. A total of 108 students participated for the same. The activity was coordinated by Mr Mitkar A.H, NSS PO-Incharge under the guidance of Hon Principal Dr G.B.Dongre and Vice Principal Respected Rahane C.V.
 
 </div>
 </div>
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/meri-mathi-mera-desh/meri-mati.png"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/meri-mathi-mera-desh/meri-mati.png"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-    <img src="assets/img/news-and-events/Events/meri-mathi-mera-desh/meri-mati2.png"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/meri-mathi-mera-desh/meri-mati2.png"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
               

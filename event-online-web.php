@@ -694,13 +694,13 @@
                             <!--icon-->
                             <div class="row">
                                 
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS 
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>4 Apr 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Pool Campus Drive conducted for John Deere India Pvt Ltd Pune on 2nd April 2024
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> Pool Campus Drive conducted for John Deere India Pvt Ltd Pune on 2nd April 2024
 <br><br>
 </div>
 </div>
@@ -708,16 +708,16 @@
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
                                    
-                                     <img src="assets/img/news-and-events/Events/online-webinar/webinar1.png" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/online-webinar/webinar1.png" class="w-100 card shadow-lg" style="height:200px; ">
                               
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/online-webinar/webinar2.jpeg" class="card shadow-lg" alt="thumb" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/online-webinar/webinar2.jpeg" class="w-100 card shadow-lg" alt="thumb" style="height:200px; ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/online-webinar/webinar3.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/online-webinar/webinar3.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
@@ -726,13 +726,13 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/online-webinar/webinar4.jpeg"alt="thumb" class="card shadow-lg"   style="height:200px; width:300px;">
+ <img src="assets/img/news-and-events/Events/online-webinar/webinar4.jpeg"alt="thumb" class="w-100 card shadow-lg"   style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/online-webinar/webinar5.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/online-webinar/webinar5.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 

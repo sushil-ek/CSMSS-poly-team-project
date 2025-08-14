@@ -697,13 +697,13 @@
                             <!--icon-->
                             <div class="row">
                                 
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS 
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>4 Apr 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Pool Campus Drive conducted for John Deere India Pvt Ltd Pune on 2nd April 2024
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> Pool Campus Drive conducted for John Deere India Pvt Ltd Pune on 2nd April 2024
 <br><br>
 </div>
 </div>
@@ -711,16 +711,16 @@
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
                                     <div class="card shadow-lg">
-                                     <img src="assets/img/news-and-events/Events/john-deere/john1.jpeg" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/john-deere/john1.jpeg" class="w-100 card shadow-lg" style="height:200px; ">
                            </div>         
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john2.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/john-deere/john2.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/john-deere/john3.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/john-deere/john3.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
@@ -729,29 +729,20 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/john-deere/john4.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+ <img src="assets/img/news-and-events/Events/john-deere/john4.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john5.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/john-deere/john5.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
 
 
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john6.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
-
-</div>
-
-
-
-
-
-<div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john7.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/john-deere/john6.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
@@ -759,10 +750,19 @@
 
 
 
+<div class="col-12 col-lg-6 col-md-6 mt-5">
+    <img src="assets/img/news-and-events/Events/john-deere/john7.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; ">
+
+</div>
+
+
+
+
+
 
 
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john8.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/john-deere/john8.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; ">
 
 </div>
 
@@ -770,7 +770,7 @@
 
 
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john9.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/john-deere/john9.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; ">
 
 </div>
 

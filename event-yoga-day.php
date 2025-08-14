@@ -684,26 +684,26 @@
                                     
                             <!--icon-->
                             <div class="row ">
-                                <div class="col-6"> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic, Aurangabad </div>
+                                <div class="col-6"> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic, Aurangabad </div>
 
 
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>21 jun 2022 
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>21 jun 2022 
 
 </div>
- <div class="col-12 "><i class="fa-thin fa-bars text-primary"></i>Under the theme “YOGA FOR HUMANITY” 8th International Yoga day was celebrated by the students and the teachers of Chhatrapati Shahu Maharaj Shikshan Sanstha’s College of Polytechnic, Aurangabad on 21st June 2022
+ <div class="col-12 "><i class="fa-thin fa-bars "style="color: orange"></i>Under the theme “YOGA FOR HUMANITY” 8th International Yoga day was celebrated by the students and the teachers of Chhatrapati Shahu Maharaj Shikshan Sanstha’s College of Polytechnic, Aurangabad on 21st June 2022
 </div>
 </div>
                             <!--row1-->
                             <div class="row g-3">
                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th1.jpeg"class="card shadow-lg" style="height:200px; width:500px ">
+                                     <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th1.jpeg"class="w-100 card shadow-lg" style="height:200px;  ">
                                 </div>
                                <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                    <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th2.jpeg"alt="thumb" class="card shadow-lg"style="height:200px; width:500px">
+                                    <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th2.jpeg"alt="thumb" class="w-100 card shadow-lg"style="height:200px; ">
                                 </div>
 </div>
 <div class="row  mt-1 g-3">   
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th3.jpeg"alt="thumb" class="card shadow-lg"style="height:200px; width:600px ">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th3.jpeg"alt="thumb" class="w-100 card shadow-lg"style="height:200px;  ">
 
 </div>
 
@@ -712,7 +712,7 @@
 
 
 <div class="col-12 col-lg-6 col-md-6  mt-5">
- <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th4.jpeg"alt="thumb" class="card shadow-lg"style="height:200px; width:500px">
+ <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th4.jpeg"alt="thumb" class="w-100 card shadow-lg"style="height:200px; ">
                                     
 
 </div>

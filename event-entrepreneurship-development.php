@@ -682,29 +682,29 @@
                             
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS 
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>4 Apr 2025
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Entrepreneurship development Program conducted for SC/ST Students.
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> Entrepreneurship development Program conducted for SC/ST Students.
 <br><br>
 </div>
 </div>
 <!--row1-->
 <div class="row">
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship1.jpeg"alt="thumb" class="card shadow-lg"style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship1.jpeg"alt="thumb" class=" w-100 card shadow-lg"style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship2.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship2.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship3.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship3.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
@@ -713,27 +713,27 @@
 
 <!--row3-->
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship4.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship4.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship5.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship5.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship6.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship6.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship7.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px;">
+                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship7.jpeg"alt="thumb"class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship8.jpeg"alt="thumb" class="card shadow-lg"style="height:200px; width:300px;">
+                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship8.jpeg"alt="thumb" class="w-100 card shadow-lg"style="height:200px; ">
                                     
 
 </div>

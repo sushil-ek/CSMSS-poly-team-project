@@ -51,7 +51,7 @@
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">EDIT Mechanical Engineering</h5>
+              <h5 class="card-header">EDIT MECHANICAL ENGINEERING</h5>
               <div class="card-body">
                 <div class="container mt-3">
                   <form>
