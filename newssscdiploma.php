@@ -587,7 +587,7 @@
                         <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                            <h1 style=" border-bottom: 3px solid orange;">NEWS</h1>
                      
-                       <h2 class="mt-5">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176..</h2>   
+                       <h2 class="mt-4">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176..</h2>   
                        <br>          
                             <div class="facility-details-img mb-30">
                                     <img src="assets/img/news-and-events/news/post-ssc-admission-center2176.jpg " class="card shadow-lg" style=" width: 100%;"   alt="thumb">

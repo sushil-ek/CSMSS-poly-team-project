@@ -590,7 +590,7 @@
                       <div class="text-danger">
                       
                        </div>
-                       <h2 class="mt-3">Class test 1 time table (s-2022)..</h2>   
+                       <h2 class="mt-4">Class test 1 time table (s-2022)..</h2>   
                        <br>          
                             <div class="facility-details-img mb-30">
                                     <img src="assets/img/news-and-events/news/class-test-1.png" class="card shadow-lg" style="height:356px; width:880px"  alt="thumb">

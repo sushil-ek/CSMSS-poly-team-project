@@ -585,7 +585,7 @@
                         <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                              <h1 style=" border-bottom: 3px solid orange;">NEWS</h1 >
                             <div class="department-details mt-4 mb-">
-                                <h2 class="mb-4">List of selected candidates in John Deere India Pvt Ltd. 2022-23..</h2>
+                                <h2 class="mt-4">List of selected candidates in John Deere India Pvt Ltd. 2022-23..</h2>
                                 <div class="department-details-img mb-30">
                                    <img src="assets/img/news-and-events/news/list-of-select-candid.jpeg" class="card shadow-lg" style=" width: 100%" >
                                 </div>

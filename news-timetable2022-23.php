@@ -587,7 +587,7 @@
                         <div class="col-xl-8 col-lg-8">
                              <h1 style=" border-bottom: 3px solid orange;">NEWS</h1 >
                             <div class="department-details mt-4 mb-">
-                                <h2 class="mb-4">Class test 1 time table AY 2022-23 (Even)..</h2>
+                                <h2 class="mt-4">Class test 1 time table AY 2022-23 (Even)..</h2>
                                 <div class="department-details-img mb-30">
                                    <img src="assets/img/news-and-events/news/class-test-1-s-2022.png" class="card shadow-lg" style=" width: 100%;" >
                                 </div>

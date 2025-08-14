@@ -246,7 +246,7 @@
                                                         <strong class="ps-5 news">150th Birth Anniversary Celebration of Chhatrapati Rajarshi Shahu Maharaj</strong>
                                                         <center>
                                                             <div class="department-btn">
-                                                                <a href="news-one-fifthen ani.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
+                                                                <a href="news-one-fifthen-ani.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -680,10 +680,10 @@
                                         <div class="blog-item-info">
                                             <hr>
                                             <h4 class="blog-title">
-                                                <a href="anti-ragging.php">Anti-Ragging Committee...</a>
+                                                <a href="newsanti-ragging.php">Anti-Ragging Committee...</a>
                                             </h4>
 
-                                            <a class="theme-btn" href="anti-ragging.php">Read More<i
+                                            <a class="theme-btn" href="newsanti-ragging.php">Read More<i
                                                     class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
@@ -774,10 +774,10 @@
                                         <div class="blog-item-info">
                                             <hr>
                                             <h4 class="blog-title">
-                                                <a href="news-one-fifthen-ani.php">150th Birth Anniversary Celebration of Chhatrapati...</a>
+                                                <a href="news-one-fifthen ani.php">150th Birth Anniversary Celebration of Chhatrapati...</a>
                                             </h4>
 
-                                            <a class="theme-btn" href="news-one-fifthen-ani.php">Read More<i
+                                            <a class="theme-btn" href="news-one-fifthen ani.php">Read More<i
                                                     class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
@@ -1294,7 +1294,7 @@
                                                 <a href="news-fees-2017-18.php">CSMSS College of Polytechnic Fees for academic year 2017-18...</a>
                                             </h4>
 
-                                            <a class="theme-btn" href="news-fees 2017-18.php">Read More<i
+                                            <a class="theme-btn" href="news-fees-2017-18.php">Read More<i
                                                     class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
