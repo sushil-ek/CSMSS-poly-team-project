@@ -32,6 +32,9 @@
         overflow: hidden;
         padding-left: 25px; 
     }
+    .center{
+        justify-content: center !important;
+    }
     </style>
 </head>
 
@@ -196,7 +199,7 @@
 
 
                             </div>
-                            <section id="latest-news-section">
+                            <section id="latest-news-section text-centar">
                                 <div class="container my-4">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
                                         <h2 class="widget-title">Latest News</h2>
@@ -205,7 +208,7 @@
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class=" news">On the occasion of the
+                                                        <strong class="center">On the occasion of the
                                                             death anniversary, a heartfelt tribute to Chhatrapati Shahu
                                                             Maharaj.</strong>
 
@@ -222,7 +225,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ">Blood
+                                                        <strong  class="center">Blood
                                                             Donation Camp on the Occasion of the Birthday of Hon.
                                                             Secretary Padmakarji
                                                             Mulay Sir</strong>
@@ -239,7 +242,7 @@
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start pt-5"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Expert Talk on "Personality
+                                                        <strong  class="center" >Expert Talk on "Personality
                                                             Development</strong>
 
                                                         <center>
@@ -256,7 +259,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Expert
+                                                        <strong  class="center" >Expert
                                                             Talk on "Business Opportunities and Product
                                                             Selection</strong>
                                                         <center>
@@ -271,7 +274,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Expert Talk on "Entrepreneurship as
+                                                        <strong  class="center" >Expert Talk on "Entrepreneurship as
                                                             a Career Choice</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -286,7 +289,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">ISTE
+                                                        <strong  class="center" >ISTE
                                                             Sponsored State Level Technical Paper Presentation and Quiz
                                                             Competition</strong>
                                                         <center>
@@ -301,7 +304,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Inaugration of Project lab and
+                                                        <strong  class="center" >Inaugration of Project lab and
                                                             Software development lab</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -316,7 +319,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Expert
+                                                        <strong  class="center" >Expert
                                                             talk on "Employability in Defence Services</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -330,7 +333,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">National Road Safety Week</strong>
+                                                        <strong  class="center" >National Road Safety Week</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national-road.php" class="pt-lg-4">READ
@@ -343,7 +346,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">52th
+                                                        <strong  class="center" >52th
                                                             District Level Science Exhibition</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -357,7 +360,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Faculty Development Training Program
+                                                        <strong  class="center" >Faculty Development Training Program
                                                             on "Comprehensive Python and Machine Learning "</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -372,7 +375,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Faculty Development Training
+                                                        <strong  class="center">Faculty Development Training
                                                             program</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -388,7 +391,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">PM
+                                                        <strong  class="center" >PM
                                                             Vishawkarma Program</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -402,7 +405,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">First
+                                                        <strong  class="center" >First
                                                             Year Induction Program 2024-25</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -416,7 +419,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Entrepreneurship development
+                                                        <strong  class="center">Entrepreneurship development
                                                             Program</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -431,7 +434,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Online
+                                                        <strong  class="center" >Online
                                                             webinar on 100% Free Education for Girls</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -445,7 +448,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">John Deere
+                                                        <strong  class="center" >John Deere
                                                             Campus Drive</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -459,7 +462,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">School Connect Program</strong>
+                                                        <strong  class="center">School Connect Program</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-special connect program.php"
@@ -473,7 +476,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">State
+                                                        <strong  class="center">State
                                                             level Technical Event 2k24</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -487,7 +490,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">industrial visit to Devgiri Mahanand
+                                                        <strong  class="center">industrial visit to Devgiri Mahanand
                                                             Dairy Gandheli Chhatrapati Sambhajinagar</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -502,7 +505,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Annual
+                                                        <strong  class="center">Annual
                                                             Social Gathering Polyfest 2k24</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -516,7 +519,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="text-center ps-5 news">Hackathon-2023</strong>
+                                                        <strong  class="center" >Hackathon-2023</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Hackathon.php" class="pt-lg-4">READ
@@ -529,7 +532,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">MERI MATI
+                                                        <strong  class="center" >MERI MATI
                                                             MERA DESH ABHIYAAN</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -543,7 +546,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">First year
+                                                        <strong  class="center" >First year
                                                             induction program</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -558,7 +561,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Campus
+                                                        <strong  class="center">Campus
                                                             Drive for Electrical & Mechanical Engineering students By
                                                             Gangamai
                                                             Industries and Constructions Ltd</strong>
@@ -574,7 +577,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Result
+                                                        <strong  class="center">Result
                                                             Summer 2023</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -588,7 +591,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">CSMSS Celebrates 150th Birth
+                                                        <strong  class="center">CSMSS Celebrates 150th Birth
                                                             Anniversary of Rajarshri Chhatrapati shivaji
                                                             Maharaj</strong>
                                                         <center>
@@ -604,7 +607,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Placement in Forbes and
+                                                        <strong  class="center" >Placement in Forbes and
                                                             Company</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -618,7 +621,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">National Conference 2022-23</strong>
+                                                        <strong  class="center" >National Conference 2022-23</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national-con-22-23.php"
@@ -632,7 +635,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Annual
+                                                        <strong  class="center" >Annual
                                                             social gathering 2023</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -646,7 +649,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">IEDSSA 2022-23 G-1 ZONE
+                                                        <strong  class="center" >IEDSSA 2022-23 G-1 ZONE
                                                             GLIMPSE</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -660,7 +663,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Inter Engineering Diploma Students
+                                                        <strong  class="center">Inter Engineering Diploma Students
                                                             Sports Association (IEDSSA) Kabaddi Matches</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -675,7 +678,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Corruption
+                                                        <strong  class="justify-content-center">Corruption
                                                             Free India for a Developed Nation</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -689,7 +692,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">8th
+                                                        <strong  class="justify-content-center">8th
                                                             International Yoga Day Celebration at CSMSS College of
                                                             Polytechnic</strong>
                                                         <center>
@@ -704,7 +707,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Arrangement Of Covid-19 Mega
+                                                        <strong  class="justify-content-center" >Arrangement Of Covid-19 Mega
                                                             Vaccination Drive For All The Students Who Are Above 15
                                                             Years Old On The
                                                             Occasion Of National Youth Day January 12, 2022.</strong>
@@ -720,7 +723,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Arrangement Of Special Vaccination
+                                                        <strong  class="justify-content-center">Arrangement Of Special Vaccination
                                                             Drive Against Corona Virus Disease (Covid-19) At CSMSS
                                                             College Of
                                                             Polytechnic</strong>
@@ -736,7 +739,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">National Conference on Emerging
+                                                        <strong  class="justify-content-center">National Conference on Emerging
                                                             Areas in Engineering and Technology</strong>
                                                         <center>
                                                             <div class="department-btn">
@@ -751,7 +754,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">A State
+                                                        <strong  class="justify-content-center">A State
                                                             Level Technical Paper Presentation Competition (Electronics
                                                             Group)</strong>
                                                         <center>
@@ -766,7 +769,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5">Two days
+                                                        <strong  class="justify-content-center" >Two days
                                                             state level workshop on "NBA Accreditation for polytechnic"
                                                             on 08-04-2019 to
                                                             09-04-2019</strong>
@@ -808,7 +811,7 @@
                                     <div class="blog-item" data-wow-delay=".50s">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/death-anniversary/statue.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -828,8 +831,8 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item">
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news-and-events/Events/blood-don.jpg" alt="Thumb"
-                                                style="width:px">
+                                            <img src="assets/img/news-and-events/Events/blood-don.jpg" alt="thumb" class="w-100"
+                                                style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -849,7 +852,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Exepert-talk-personality-development/personality1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -869,7 +872,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Exepert-talk-business-oportunity/bisness1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -889,7 +892,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Expert-talk-entrepreneurship/career1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -909,7 +912,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/ISTE-Sponsored-State-Level/exam-hall.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -929,7 +932,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/INAUGRATION-PROJECT-LAB/lab1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -949,7 +952,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -970,7 +973,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/National-road-safeety/national1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -989,7 +992,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/52th-district-level-science/district1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1008,7 +1011,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Faculty-development-training/faculty1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1028,7 +1031,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/ministry-electronic-faculty-development/faculty-train-1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1047,7 +1050,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/PM-vishavkarma/PM1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1065,7 +1068,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1085,7 +1088,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1105,7 +1108,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/online-webinar/webinar1.png"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1125,7 +1128,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/john-deere/john1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1143,7 +1146,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events2.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1165,7 +1168,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Annual-social-gathering/annual7.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1184,7 +1187,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/school-connect-program/school1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1203,7 +1206,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/hacathon/hacathon.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1221,7 +1224,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/meri-mathi-mera-desh/meri-mati.png"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1239,7 +1242,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri2.png"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1258,7 +1261,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1276,7 +1279,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/dreive4.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1296,7 +1299,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/result-summer-2023/result1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1315,7 +1318,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/placement-in-forbase/placement.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1334,7 +1337,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/csmss-celebrate-150th/15th1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1353,7 +1356,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23 2.png"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1372,7 +1375,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Annual-social-gathering/annual1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1390,7 +1393,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/IEDSSA-2022-23 G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ZONE-GLIMPSE -1.png"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1408,7 +1411,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/2Inter-Engineering-Diploma-Students-Sports-Association (IEDSSA)-Kabaddi-Matches/matches1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1428,7 +1431,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Inter-Engineering-Diploma-Students-Sports-Association/(IEDSSA)-Kabaddi-Matches-1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1448,7 +1451,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Corruption-Free-India-for-a-Developed-Nation/corruption.png"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1467,7 +1470,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th1.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1487,7 +1490,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1508,7 +1511,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1530,7 +1533,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/National-Conference-on-Emerging-Areas-in-Engineering-and-Technology/National-Conference.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1550,7 +1553,7 @@
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/A-State-Level-Technical-Paper-Presentation-Competition-(Electronics Group)/a state2.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
@@ -1569,7 +1572,7 @@
                                     <div class="blog-item">
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/Events/Two-days-state-level-workshop-on-NBA-Accreditation-for-polytechnic-on-08-04-2019to09-04-2019/two1.jpg"
-                                                alt="Thumb" style="height:250px;width:350px">
+                                                alt="thumb" class="w-100" class="w-100" style="height:250px;">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>

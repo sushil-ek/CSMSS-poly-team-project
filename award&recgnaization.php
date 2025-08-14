@@ -60,7 +60,7 @@
 
     <!-- popup search end -->
     <!-- breadcrumb -->
-    <div class="site-breadcrumb" style="background-image:url(assets/img/news-and-events/Awards-and-Recognitions/ELectronics.jpeg); height: 550px; object-fit: contain;">
+    <div class="site-breadcrumb" style="background-image:url(assets/img/news-and-events/Awards-and-Recognitions/Prize-Distribution-3.jpg); height: 550px; object-fit: contain;">
         <div class="container">
             <h2 class="breadcrumb-title">AWAREDS AND RECOGNITIONS</h2>
             <ul class="breadcrumb-menu">
@@ -129,7 +129,7 @@
                                     <div class="blog-item-info">
                                         <hr>
                                         <h4 class="blog-title">
-                                            <a href="blog-single.php">Accredited by National Board of Accreditation</a>
+                                         Accredited by National Board of Accreditation
                                         </h4>
                                         <p class="award-para">We got Accreditation for Programs Civil Engineering, Electronics &
                                         Tele-communication Engineering, Mechanical Engineering F. No. : 28-529-2018-NBA</p>
@@ -149,8 +149,8 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Mechanical Engineering Department Second year
-                                                students...</a>
+                                           Mechanical Engineering Department Second year
+                                                students..
                                         </h4>
                                        <p class="award-para"> Mechanical Engineering Departments Second year students got second price in
                                         State Level Poster Presentation Competition held at Government Polytechnic
@@ -171,8 +171,8 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Appreciation Award 2024 for maximum enrollment of
-                                                Life members of ISTE</a>
+                                            Appreciation Award 2024 for maximum enrollment of
+                                                Life members of ISTE
                                         </h4>
                                         <p class="award-para">CSMSS College of Polytechnic, Kanchanwadi, Chhatrapati Sambhajinagar received
                                             Appreciation Award 2024 for maximum enrollment of Life members of ISTE New Delhi
@@ -193,8 +193,8 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Secured Runner-Up position in IEDSSA State Level
-                                                Athletic Competition.</a>
+                                            Secured Runner-Up position in IEDSSA State Level
+                                                Athletic Competition.
                                         </h4>
                                          <p class="award-para">Our Computer Science Department's Second Year Student Ms. Pallavi Rajesh Chavan
                                         Secured Runner Up position in IEDSSA State Level Athletic Competition held in
@@ -214,7 +214,7 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Second Year Students won first prize</a>
+                                            Second Year Students won first prize
                                         </h4>
                                       <p class="award-para">  Artificial Intelligence and Machine Learning Second Year (AN-SY) students won
                                         first prize in event of Brainwaves2k24 scheduled on 24th February 2024 in
@@ -235,7 +235,7 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Third Year Students got Second Prize</a>
+                                            Third Year Students got Second Prize
                                         </h4>
                                        <p class="award-para">ELectronics and Telecommunication Engineering Third Year (EJ-TY) Students got
                                         second prize in MSBTE sponsored State Level quiz competition at MIT Polytechnic
@@ -256,7 +256,7 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Excellent remark by MSBTE for A.Y.2022-23</a>
+                                            Excellent remark by MSBTE for A.Y.2022-23
                                         </h4>
                                        <p class="award-para"> Excellent remark by MSBTE for A.Y.2022-23</p>
 
@@ -275,7 +275,7 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">ISO 21001:2018 Certificate of registration</a>
+                                            ISO 21001:2018 Certificate of registration
                                         </h4>
                                         <p class="award-para">ISO 21001:2018 Certificate of registration 1)Educational organizations
                                         Management system 2)Energy Management System 3)Environmental Management System</p>
@@ -297,7 +297,7 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Gold medal in IEDSSA sport event</a>
+                                            Gold medal in IEDSSA sport event
                                         </h4>
                                        <p class="award-para">CSMSS college of polytechnic got first place and earned gold medal in the
                                         swimming competition held at MGM college under the IEDSSA sport event organized
@@ -318,7 +318,7 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Preface by MSBTE Director Dr. Abhay Wagh</a>
+                                            Preface by MSBTE Director Dr. Abhay Wagh
                                         </h4>
                                      <p class="award-para"> Preface by MSBTE Director Dr. Abhay Wagh</p>
                                        
@@ -337,8 +337,8 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">MSBTE SPONSORED STATE LEVEL PAPER PRESENTATION
-                                                COMPETITION</a>
+                                            MSBTE SPONSORED STATE LEVEL PAPER PRESENTATION
+                                                COMPETITION
                                         </h4>
                                       <p class="award-para"> SECOND PRIZE IN MSBTE SPONSORED STATE LEVEL PAPER PRESENTATION COMPETITION</p> 
 
@@ -357,7 +357,7 @@
                                         <hr>
                                         <h4 class="blog-title">
 
-                                            <a href="newslast.php">Letter of Appreciation By MSBTE, Mumbai</a>
+                                          Letter of Appreciation By MSBTE, Mumbai
                                         </h4>
                                        <p class="award-para"> Letter of Appreciation By MSBTE, Mumbai</p>
 

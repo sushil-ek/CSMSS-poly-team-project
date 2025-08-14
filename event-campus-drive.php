@@ -683,30 +683,30 @@
                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS College of Polytechnic
+                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot "style="color: orange"></i> CSMSS College of Polytechnic
 
 </div>
- <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days text-primary"></i> 13 Jul 2023
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days "style="color: orange"></i> 13 Jul 2023
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>Campus Drive for Electrical & Mechanical Engineering students By Gangamai Industries and Constructions Ltd. Date:13/07/2023 Name of guest:- 1) Vishnu Khedekar (Vice President) 2) Prabhakar Gavande ( Chief Engineer) 3) Rameshwar Sapate (Personal Maneger).
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars pe-2"style="color: orange"></i>Campus Drive for Electrical & Mechanical Engineering students By Gangamai Industries and Constructions Ltd. Date:13/07/2023 Name of guest:- 1) Vishnu Khedekar (Vice President) 2) Prabhakar Gavande ( Chief Engineer) 3) Rameshwar Sapate (Personal Maneger).
 
 </div>
 </div>
 <!--row1-->
                             <div class="row">
                                 <div class=" col-12 col-lg-6 col-md-6 mt-5 ">
-                                     <img src="assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/dreive4.jpg"class=" shadow-lg" style="height:260px; width:350px;">
+                                     <img src="assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/dreive4.jpg"class="w-100 shadow-lg" style="height:260px; ">
                                     
 
 </div>
                             
  <div class=" col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/DRIVE2.jpg"alt="thumb"class=" card shadow-lg" style="height:260px; width:350px;">
+    <img src="assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/DRIVE2.jpg"alt="thumb"class="w-100 card shadow-lg" style="height:260px; ">
 
 </div>
  <div class=" col-12 col-lg-6 col-md-6 mt-5 "> 
-    <img src="assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/DRIVE3.jpg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px; margin-bottom: -45px;">
+    <img src="assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/DRIVE3.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:260px;  margin-bottom: -45px;">
 
 </div>
 

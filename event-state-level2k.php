@@ -689,37 +689,37 @@
                                     
                             <!--icon-->
                             <div class="row ">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>Chhatrapati Sambhajinagar</div>
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>Chhatrapati Sambhajinagar</div>
 
 
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i> 5 Mar 2024 
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i> 5 Mar 2024 
 
 </div>
- <div class="col-12 "><i class="fa-thin fa-bars text-primary"></i> Objective of the Event is to develop the platform for all students to build up their presentation skills knowledge Innovative ideas for maintaining social obligation. This Event is having Paper Presentation Quiz competition and Poster Presentation
+ <div class="col-12 "><i class="fa-thin fa-bars "style="color: orange"></i> Objective of the Event is to develop the platform for all students to build up their presentation skills knowledge Innovative ideas for maintaining social obligation. This Event is having Paper Presentation Quiz competition and Poster Presentation
 </div>
                             <!--row1-->
 <div class="row">
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-<img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events1.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+<img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events1.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events2.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+    <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events2.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 </div>
 <div class="row">
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events3.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+     <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events3.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
 
 
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-  <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events4.jpeg"alt="thumb"  class="card shadow-lg" style="height:200px; width:300px;">
+  <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events4.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 </div>
 </div>

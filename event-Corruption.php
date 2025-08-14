@@ -683,14 +683,14 @@
                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS College of Polytechnic,Aurangabad
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i> CSMSS College of Polytechnic,Aurangabad
 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>5 Nov 2022
+ <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>5 Nov 2022
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>CSMSS College of Polytechnic, request you to participate in the vigilance awareness week for "Corruption Free India for a Developed Nation", by taking e-pledge on CVC website https://pledge.cvc.nic.in/
+ <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>CSMSS College of Polytechnic, request you to participate in the vigilance awareness week for "Corruption Free India for a Developed Nation", by taking e-pledge on CVC website https://pledge.cvc.nic.in/
 
 
 </div>
@@ -698,7 +698,7 @@
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/Corruption-Free-India-for-a-Developed-Nation/corruption.png"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Corruption-Free-India-for-a-Developed-Nation/corruption.png"alt="thumb" class=" w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>

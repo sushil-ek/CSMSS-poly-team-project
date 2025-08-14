@@ -39,11 +39,9 @@ include '../common/header_link.php';
             <!-- Layout container -->
             <div class="layout-page">
                 <!-- Navbar -->
-
                 <?php
                 include '../common/header.php';
                 ?>
-
                 <!-- / Navbar -->
 
                 <div class="container">
@@ -130,10 +128,10 @@ include '../common/header_link.php';
 
                                     <div class="row">
                                         <div class="col-lg-12 mt-3 text-center">
-                                            <button type="submit" class="btn btn-primary"><a href="admission.php" class="text-white">
+                                            <button type="submit" class="btn btn-primary">Update</button>
+                                            <button type="submit" class="btn btn-primary"><a href="show_Student-Achivement.php" class="text-white">
                                                     Back
                                                 </a></button>
-                                            <button type="submit" class="btn btn-primary">EDIT ACHIEVEMENT</button>
                                         </div>
                                     </div>
                                 </form>

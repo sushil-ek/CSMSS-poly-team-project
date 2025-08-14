@@ -46,7 +46,7 @@ include '../common/header_link.php';
 
         <div class="container">
           <div class="card my-4">
-            <h5 class="card-header">ADD ALUMNI</h5>
+            <h5 class="card-header">ADD OUR ALUMNI</h5>
             <div class="card-body">
               <div class="container mt-3">
                 <form>
@@ -115,10 +115,10 @@ include '../common/header_link.php';
 
                   <div class="row">
                     <div class="col-lg-12 mt-3 text-center">
+                      <button type="submit" class="btn btn-primary">ADD</button>
                       <button type="submit" class="btn btn-primary"><a href="show_Our-Alumni.php" class="text-white">
                           Back
                         </a></button>
-                      <button type="submit" class="btn btn-primary">ADD ALUMNI</button>
                     </div>
 
                     <!-- <div class="col-lg-12 mt-3 text-center">

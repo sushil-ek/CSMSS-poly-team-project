@@ -683,35 +683,35 @@
                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 col-lg-6 col-md-12"> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
+                                <div class="col-6 col-lg-6 col-md-12"> <i class="fa-solid fa-location-dot " style="color: orange"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
 
 </div>
- <div class="col-6 "><i class="fa-solid fa-calendar-days text-primary"></i>27 Dec 2024
+ <div class="col-6 "><i class="fa-solid fa-calendar-days " style="color: orange"></i>27 Dec 2024
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i> Conduction of District level science exhibition in collaboration with Z.P. education department.
+ <div class="col-12"><i class="fa-thin fa-bars " style="color: orange"></i> Conduction of District level science exhibition in collaboration with Z.P. education department.
 
 </div>
 </div><br>
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/52th-district-level-science/district1.jpg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/52th-district-level-science/district1.jpg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-    <img src="assets/img/news-and-events/Events/52th-district-level-science/district2.jpg"alt="thumb"class="card shadow-lg" style="height:200px; width:300px; "><br>
+    <img src="assets/img/news-and-events/Events/52th-district-level-science/district2.jpg"alt="thumb"class="w-100 card shadow-lg" style=" height:200px;  "><br>
 
 </div>
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/52th-district-level-science/district3.jpg"alt="thumb"class="card shadow-lg" style="height:200px;  width:300px; ">
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/52th-district-level-science/district3.jpg"alt="thumb"class=" w-100 card shadow-lg" style="height:200px;   ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/52th-district-level-science/district4.jpg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/52th-district-level-science/district4.jpg"alt="thumb" class=" w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>

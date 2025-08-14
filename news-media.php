@@ -22,9 +22,8 @@
     <?php
     include 'common/header-link.php';
     ?>
-<style>
-   
 
+<<<<<<< HEAD
         img,
         video {
             max-width: 100%;
@@ -38,6 +37,8 @@
         }
 
     </style>
+=======
+>>>>>>> 22c5a4d171eca9ae5651f3871f754358badfd353
 </head>
 <body>
 
@@ -166,7 +167,11 @@
             <div class="col-lg-4 col-sm-6 col-md-6 mb-4 text-center">
                 <a href="newslast4.php" data-fancybox="gallery"
                     data-src="assets/img/news-media/punay nagari.jpeg">
+<<<<<<< HEAD
                      <img src="assets/img/news-media/punay nagari.jpeg " alt="Thumb" class="shadow-lg" style="height:250px;width:320px">
+=======
+                     <img src="assets/img/news-media/punay nagari.jpeg " alt="Thumb" class=" shadow-lg media-imgg" style="height:180px; width:250px;">
+>>>>>>> 22c5a4d171eca9ae5651f3871f754358badfd353
                 </a>
             </div>
 

@@ -67,20 +67,21 @@ include '../common/header_link.php';
                       </div>
                     </div>
 
-
+                       <div class="col-lg-6">
+                      <div class="form-floating mb-3 mt-3">
+                        <input type="text" class="form-control" id="Text" placeholder="Description" name="Name" />
+                        <label for="Name">Descripition</label>
+                      </div>
+                    </div>
+                  </div>
+                  
                     <div class="col-lg-6">
                       <div class="mb-3">
                         <input class="form-control p-3 mt-3" type="file" id="formFile" name="image">
                       </div>
                     </div>
 
-                    <div class="col-lg-6">
-                      <div class="form-floating mb-3 mt-3">
-                        <input type="text" class="form-control" id="Text" placeholder="Title" name="Name" />
-                        <label for="Name">Descripition</label>
-                      </div>
-                    </div>
-                  </div>
+                    
 
                   <div class="col-lg-12 text-center">
                     <button type="submit" class="btn btn-primary">Update</button> 

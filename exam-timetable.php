@@ -21,6 +21,13 @@
     <?php
     include 'common/header-link.php';
     ?>
+<<<<<<< HEAD
+
+    <style>
+        
+    </style>
+=======
+>>>>>>> fa6b812d2897bba6e7700ded8538e4315a2bfaa3
 </head>
 
 <body>
@@ -401,10 +408,17 @@
                                                     class="choose-item-info d-flex align-items-center justify-content-between">
                                                     <!-- Placement Summary Text on the left -->
                                                     <a href="#" class="flex-grow-1">
+<<<<<<< HEAD
+                                                        <h4>TIME TABLE FOR MCQ BASED ON-LINE WINTER 2020
+                                                            EXAM FOR FY &
+                                                            DSY</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Final Date wise and slot wise Time
+=======
                                                         <h4 class="line-word2">TIME TABLE FOR MCQ BASED ON-LINE WINTER 2020
                                                             EXAM FOR FY &
                                                             DSY</h4>
                                                         <p class="line-word choose-item-discription mt-0 mb-0">Final Date wise and slot wise Time
+>>>>>>> fa6b812d2897bba6e7700ded8538e4315a2bfaa3
                                                             Table
                                                             for MCQ based on-line Winter 2020 exam for AICTE approved
                                                             newly enrolled and students readmitted for 1st semester of

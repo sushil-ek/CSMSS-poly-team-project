@@ -683,41 +683,41 @@
                            National Road Safety Week"</h2>
                            
                             <div class="row">
-                                <div class="col-12 col-lg-6 col-md-12 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
+                                <div class="col-12 col-lg-6 col-md-12 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS College of Polytechnic,Chh.Sambhajinagar
 
 </div>
- <div class="col-12 col-lg-6 col-md-12"><i class="fa-solid fa-calendar-days text-primary"></i>10 jan 2025
+ <div class="col-12 col-lg-6 col-md-12"><i class="fa-solid fa-calendar-days "style="color: orange"></i>10 jan 2025
 
 </div>
- <div class="col-12 col-lg-6 col-md-12"><i class="fa-thin fa-bars text-primary"></i>  Conduction of an expert talk on National Road Safety by R.T.O. Chh. Sambhajinagar on the occation of National Road Safety Awareness.
+ <div class="col-12 col-lg-6 col-md-12"><i class="fa-thin fa-bars "style="color: orange"></i>  Conduction of an expert talk on National Road Safety by R.T.O. Chh. Sambhajinagar on the occation of National Road Safety Awareness.
 
 </div>
 </div><br>
                             <!--row1-->
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/National-road-safeety/national1.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/National-road-safeety/national1.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6  mt-5">
-    <img src="assets/img/news-and-events/Events/National-road-safeety/national2.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px; ">
+    <img src="assets/img/news-and-events/Events/National-road-safeety/national2.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;  ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/National-road-safeety/national3.jpeg"alt="thumb" class="card shadow-lg" style="height:200px;  width:300px; ">
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/National-road-safeety/national3.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;   ">
 
 </div>
 
 <!--row2-->
 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/National-road-safeety/national4.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/National-road-safeety/national4.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
 
-        <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/National-road-safeety/national5.jpeg"alt="thumb" class="card shadow-lg" style="height:200px;  width:300px; ">
+        <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/National-road-safeety/national5.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px;   ">
 
 </div>    
                             

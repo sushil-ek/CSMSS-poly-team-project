@@ -16,7 +16,15 @@
     <?php
     include 'common/header-link.php';
     ?>
-
+<style>
+    .new-para {
+  width: 260px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+  </style>
 </head>
 
 <body>
@@ -48,7 +56,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/dreive4.jpg)">
             <div class="container">
                 <h2 class="breadcrumb-title">VIDEO GALLERY</h2>
                 <ul class="breadcrumb-menu">
@@ -86,7 +94,7 @@
                             
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5><a href="#">Voting awareness for loksabha election 2024</a></h5>
+                                    <h5 class="new-para"><a href="#">Voting awareness for loksabha election 2024</a></h5>
                                     
                                 </div>
                             </div>
@@ -101,7 +109,7 @@
                           
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5><a href="#">CSMSS COP Alumni Speaks Ankita Deshpande</a></h5>
+                                    <h5 class="new-para"><a href="#">CSMSS COP Alumni Speaks Ankita Deshpande</a></h5>
                                    
                                 </div>
                             </div>
@@ -116,7 +124,7 @@
                            
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5><a href="#">CSMSS COP Alumni Speaks Pallavi Vedpathak</a></h5>
+                                    <h5 class="new-para"><a href="#">CSMSS COP Alumni Speaks Pallavi Vedpathak</a></h5>
                                   
                                 </div>
                             </div>
@@ -131,7 +139,7 @@
                            
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5><a href="#">CSMSS COP Alumni speaks #3 Priya Yadav Alumni</a></h5>
+                                    <h5 class="new-para"><a href="#">CSMSS COP Alumni speaks #3 Priya Yadav Alumni</a></h5>
                                    
                                 </div>
                             </div>
@@ -152,7 +160,7 @@
                             
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5><a href="#">Social Media Cell Inauguration News</a></h5>
+                                    <h5 class="new-para"><a href="#">Social Media Cell Inauguration News</a></h5>
                                     
                                 </div>
                             </div>
@@ -167,7 +175,7 @@
                           
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5><a href="#">Padma Vibhushan Hon. Dr. Anil Kakodkar inaugurated CSMSS Skill Center and SAT-COM Lab | Aurangabad</a></h5>
+                                    <h5 class="new-para"><a href="#">Padma Vibhushan Hon. Dr. Anil Kakodkar inaugurated CSMSS Skill Center and SAT-COM Lab | Aurangabad</a></h5>
                                    
                                 </div>
                             </div>
@@ -182,7 +190,7 @@
                            
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5><a href="#">PROJECT COMPETITION HELD AT CSMSS POLYTECHNIC, AURANGABAD</a></h5>
+                                    <h5 class="new-para"><a href="#">PROJECT COMPETITION HELD AT CSMSS POLYTECHNIC, AURANGABAD</a></h5>
                                   
                                 </div>
                             </div>

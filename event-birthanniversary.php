@@ -672,37 +672,37 @@
                                     </div>
                             </section>
                         </div>
-                        <div class="col-xl-8 col-lg-8">
+                        <div class="col-xl-8 col-lg-8 ">
 
                          <div class="facility-details-img mb-30">
                             <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
                             <h2 class="mt-4 mb-4">
                           CSMSS Celebrates 150th Birth Anniversary of  Chhatrapati Shivaji Maharaj.</h2>
-                            <hr class="text-danger"><br>
+                            
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot text-primary"></i> CSMSS College of Polytechnic</div>
+                                <div class="col-lg-6 col-md-6 col-12 text-dark pb-2"> <i class="fa-solid fa-location-dot "style="color: orange"></i> CSMSS College of Polytechnic</div>
                                 
- <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days text-primary"></i> 1 Jul 2023
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days "style="color: orange"></i> 1 Jul 2023
 
 </div>
- <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars text-primary pe-2"></i>On the occasion of Chhatrapati Shahu Maharaj 150th birth anniversary at Chhatrapati Shahu Maharaj Shikshan Sanstha, worship of the image was done by Secretary of the Institute Shri. Padmakarrao Mulay, Treasurer Shri. Vitthalrao Lahane and Trustee Shri. Sameer Padmakarrao Mulay and all Dignitaries also Distribute Prizes to the winner students of CSMSS Cricket Premier League 2023.
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars pe-2"style="color: orange"></i>On the occasion of Chhatrapati Shahu Maharaj 150th birth anniversary at Chhatrapati Shahu Maharaj Shikshan Sanstha, worship of the image was done by Secretary of the Institute Shri. Padmakarrao Mulay, Treasurer Shri. Vitthalrao Lahane and Trustee Shri. Sameer Padmakarrao Mulay and all Dignitaries also Distribute Prizes to the winner students of CSMSS Cricket Premier League 2023.
 </div>
 </div>
 <!--row1-->
                             <div class="row">
                                 <div class=" col-12 col-lg-6 col-md-6 mt-5 ">
-                                     <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary1.jpeg"class=" card shadow-lg" style="height:260px; width:350px;">
+                                     <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary1.jpeg"class="w-100 card  shadow-lg" style="height:260px; ">
                                     
 
 </div>
                             
  <div class=" col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary2.jpeg"alt="thumb"class=" card shadow-lg" style="height:260px; width:350px;">
+    <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary2.jpeg"alt="thumb"class="w-100 card  shadow-lg" style="height:260px; ">
 
 </div>
  <div class=" col-12 col-lg-6 col-md-6 mt-5 "> 
-    <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary3.jpeg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px; margin-bottom: -45px;">
+    <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary3.jpeg"alt="thumb" class="w-100 card  shadow-lg" style="height:260px;  margin-bottom: -45px;">
 
 </div>
 
@@ -710,18 +710,18 @@
 
 
 <!--row3-->
-<div class="col-12 col-lg-6 col-md-12 mt-5">
- <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary4.jpeg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+<div class="col-12 col-lg-6 col-md-6 mt-5">
+ <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary4.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
-<div class="col-12 col-lg-6 col-md-12 mt-5">
- <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary5.jpeg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+<div class="col-12 col-lg-6 col-md-6 mt-5">
+ <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary5.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>
-<div class="col-12 col-lg-6 col-md-12 mt-5">
- <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary6.jpeg"alt="thumb" class=" card shadow-lg" style="height:260px; width:350px;">
+<div class="col-12 col-lg-6 col-md-6 mt-5">
+ <img src="assets/img/news-and-events/Events/Birth-anniversary/anniversary6.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:260px; ">
                                     
 
 </div>

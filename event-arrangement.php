@@ -682,20 +682,20 @@
                                     
                             <!--icon-->
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot text-primary"></i>CSMSS College of Polytechnic, Aurangabad 
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot"style="color: orange"></i>CSMSS College of Polytechnic, Aurangabad 
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days text-primary"></i>12 jan 2022 
+ <div class="col-6"><i class="fa-solid fa-calendar-days"style="color: orange"></i>12 jan 2022 
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars text-primary"></i>In India, the National Youth Day is celebrated on 12 January annually to commemorate the birth anniversary of Swami Vivekananda. The main aim behind this is to make sure that the students across the country can be encouraged to learn about the life, the ideas and philosophy of Swami Vivekananda and apply them in their lives. Chhatrapati Shahu Maharaj Shikshan Sanstha’s college of Polytechnic, Aurangabad Covid 19 Mega Vaccination for all the students who are above 15 years old.
+ <div class="col-12"><i class="fa-thin fa-bars"style="color: orange"></i>In India, the National Youth Day is celebrated on 12 January annually to commemorate the birth anniversary of Swami Vivekananda. The main aim behind this is to make sure that the students across the country can be encouraged to learn about the life, the ideas and philosophy of Swami Vivekananda and apply them in their lives. Chhatrapati Shahu Maharaj Shikshan Sanstha’s college of Polytechnic, Aurangabad Covid 19 Mega Vaccination for all the students who are above 15 years old.
  <br>                           
 <br>
 <br>
     
                             <div class="row">
                                 <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg" class="card shadow-lg"style="height:220px; width:300px;">
+                                     <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg" class="w-100 card shadow-lg"style="height:220px; ">
                                     
 
 </div>

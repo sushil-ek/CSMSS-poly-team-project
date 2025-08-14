@@ -51,7 +51,11 @@
 
           <div class="container">
             <div class="card my-4">
+<<<<<<< HEAD
+              <h5 class="card-header">ADD MECHANICAL ENGINEERING </h5>
+=======
               <h5 class="card-header">ADD MECHANICAL ENGINEERING</h5>
+>>>>>>> fa6b812d2897bba6e7700ded8538e4315a2bfaa3
               <div class="card-body">
                 <div class="container mt-3">
                <form>
@@ -95,6 +99,10 @@
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
+<<<<<<< HEAD
+                     
+=======
+>>>>>>> fa6b812d2897bba6e7700ded8538e4315a2bfaa3
                       <button type="submit" class="btn btn-primary">Add</button>
                        <button type="submit" class="btn btn-primary"><a href="mechanical_engineering.php" class="text-white">
                         Back
