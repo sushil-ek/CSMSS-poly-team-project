@@ -21,24 +21,6 @@
     <?php
     include 'common/header-link.php';
     ?>
-
-    <style>
-        .abc {
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            /* number of lines to show */
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-
-        .bca {
-            display: -webkit-box;
-            -webkit-line-clamp: 1;
-            
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-    </style>
 </head>
 
 <body>
@@ -419,10 +401,10 @@
                                                     class="choose-item-info d-flex align-items-center justify-content-between">
                                                     <!-- Placement Summary Text on the left -->
                                                     <a href="#" class="flex-grow-1">
-                                                        <h4 class="bca">TIME TABLE FOR MCQ BASED ON-LINE WINTER 2020
+                                                        <h4 class="line-word2">TIME TABLE FOR MCQ BASED ON-LINE WINTER 2020
                                                             EXAM FOR FY &
                                                             DSY</h4>
-                                                        <p class="abc choose-item-discription mt-0 mb-0">Final Date wise and slot wise Time
+                                                        <p class="line-word choose-item-discription mt-0 mb-0">Final Date wise and slot wise Time
                                                             Table
                                                             for MCQ based on-line Winter 2020 exam for AICTE approved
                                                             newly enrolled and students readmitted for 1st semester of

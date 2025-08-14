@@ -77,7 +77,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-granth-dindi.jpg)">
             <div class="container">
                 <h2 class="breadcrumb-title">PHOTO GALLERY</h2>
                 <ul class="breadcrumb-menu">
@@ -115,9 +115,9 @@
                                         <a href="mechanical-eng-dept.php"><i
                                                 class="far fa-long-arrow-right"></i>Mechanical Engineering Department
                                             had arranged an industrial</a>
-                                        <a href="cam-mech-&-eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
+                                        <a href="cam-mech&eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
                                             for Electrical & Mechanical Engineering students</a>
-                                        <a href="CSMSS polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
+                                        <a href="CSMSS-polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
                                             शाहू पॉलिटेक्निक</a>
                                         <a href="glimpses-of-annual-fun.php"><i
                                                 class="far fa-long-arrow-right"></i>Glimpses of annual function Poly
@@ -138,24 +138,24 @@
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                 data-src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/campus front board.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/campus front board.jpg" class=" card shadow-lg" style="height:250px; width:300px;">
+                 data-src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/campus-front-board.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/campus-front-board.jpg" class=" card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/campus.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/campus.jpg" class="card shadow-lg"style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/campus.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/campus.jpg" class="card shadow-lg"style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/interview.jpg ">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/interview.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/interview.jpg ">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/interview.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
@@ -163,22 +163,22 @@
             
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/congrats banner.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/congrats banner.jpg"class="card shadow-lg"style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/congrats-banner.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/congrats-banner.jpg"class="card shadow-lg"style="height:250px; width:300px;">
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/staff.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/staff.jpg" class="card shadow-lg"style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/staff.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/staff.jpg" class="card shadow-lg"style="height:250px; width:300px;">
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/staff with stu.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive for electrical & mechanical enineering students/staff with stu.jpg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/staff-with-stu.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/staff-with-stu.jpg" style="height:250px; width:300px;">
                 </a>
             </div>
             

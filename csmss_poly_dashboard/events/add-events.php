@@ -46,7 +46,7 @@ include '../common/sidebar.php';
           <!-- / Navbar -->
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">ADD Events</h5>
+              <h5 class="card-header">ADD EVENTS</h5>
               <div class="card-body">
                 <div class="container mt-3">
                <form>
@@ -77,10 +77,11 @@ include '../common/sidebar.php';
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
+                       <button type="submit" class="btn btn-primary">Add Event</button>
                       <button type="submit" class="btn btn-primary"><a href="events.php" class="text-white">
                         Back
                       </a></button>
-                      <button type="submit" class="btn btn-primary">Add Event</button>
+                     
                     </div>
 
                     <!-- <div class="col-lg-12 mt-3 text-center">

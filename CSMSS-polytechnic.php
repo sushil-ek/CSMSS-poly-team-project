@@ -74,7 +74,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-granth-dindi.jpg)">
             <div class="container">
                 <h2 class="breadcrumb-title">PHOTO GALLERY</h2>
                 <ul class="breadcrumb-menu">
@@ -91,6 +91,7 @@
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
+                        <div class="col-lg-4 col-md-12 col-12">
                        <div class="department-sidebar">
                                 <div class="widget category">
                                     <h4 class="widget-title">PHOTO GALLERY</h4>
@@ -111,9 +112,9 @@
                                         <a href="mechanical-eng-dept.php"><i
                                                 class="far fa-long-arrow-right"></i>Mechanical Engineering Department
                                             had arranged an industrial</a>
-                                        <a href="cam-mech-&-eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
+                                        <a href="cam-mech&eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
                                             for Electrical & Mechanical Engineering students</a>
-                                        <a href="CSMSS polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
+                                        <a href="CSMSS-polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
                                             शाहू पॉलिटेक्निक</a>
                                         <a href="glimpses-of-annual-fun.php"><i
                                                 class="far fa-long-arrow-right"></i>Glimpses of annual function Poly
@@ -125,6 +126,7 @@
                                 </div>
 
                             </div>
+                            </div>
                         <div class="col-xl-8 col-lg-8">
                                            
                                         <h1 class="mt-1" style="border-bottom: 3px solid orange;">PHOTO GALLERY</h1><br>
@@ -132,25 +134,25 @@
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/college staffs.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/college staffs.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/college-staffs.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/college-staffs.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/interview.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/interview.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/interview.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/interview.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php"a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/staff with stu.jpg"
+                    data-src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/staff-with-stu.jpg"
                     data-caption="Lady and Dog">
-                    <img src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/staff with stu.jpg " class="card shadow-lg" style="height:250px; width:300px;">
+                    <img src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/staff-with-stu.jpg " class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
@@ -158,23 +160,18 @@
             
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/welcome board.jpg"
+                    data-src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/welcome-board.jpg"
                     data-caption="Sheep">
-                    <img src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/welcome board.jpg"class="card shadow-lg" style="height:250px; width:300px;">
+                    <img src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/welcome-board.jpg"class="card shadow-lg" style="height:250px; width:300px;">
                 </a>
             </div>
 
-            <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
-                <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/photos-Gallery/campus drive for electrical & mechanical enineering students/welcome.jpg">
-                    <img src="assets/img/photos-Gallery/campus drive for electrical & mechanical enineering students/welcome.jpg" class="card shadow-lg" style="height:250px; width:300px;">
-                </a>
-            </div>
+            
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/computer lab.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/chhatrapati shahu polytechnic/computer lab.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/computer-lab.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/computer-lab.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                 </a>
             </div>
             

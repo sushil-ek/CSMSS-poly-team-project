@@ -57,7 +57,7 @@ include '../common/header.php';
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4">VIDEO DETAILS</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4">VIDEO GALLERY</h4>
 
              
 
@@ -66,7 +66,7 @@ include '../common/header.php';
               <div class="card">
                 <div class="row">
                   <div class="col-lg-6 ">
-                    <div class="h5 card-header">VIDEOS </div>
+                    <div class="h5 card-header">VIDEO GALLERY </div>
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
@@ -82,34 +82,34 @@ include '../common/header.php';
                       <tr>
                         <th>Sr.No</th>
                         <th>Title</th>
+                       
                         
                       </tr>
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
-                        <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>1</strong></td>
-                        <td class="new-para>Voting awareness for loksabha election 2024</td>
+                       <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>1</strong></td>
+                        <td><p class="new-para">Voting awareness for loksabha election 2024 </p></td>
                         
                           
-
                         </td>
+                   
                         <td>
-                         <div> 
-                            <a href="edit-video.php" class=" text-white">
+                           <div> <a href="edit-video.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
-                                </button></a> 
-                                <a  href="#" class=" text-white">
-                                <button type="button" class="btn rounded-pill btn-primary"> 
-                                 <i class="bx bx-trash me-1 "></i> Delete
+                                </button></a>
+                             <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-primary"> 
+                              <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
                             </div>
-                          </div>
+                          
                         </td>
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>2</strong></td>
-                        <td class="new-para">CSMSS COP Alumni Speaks Ankita Deshpande</td>
+                        <td><p class="new-para">CSMSS COP Alumni Speaks Ankita Deshpande </p></td>
                         
                           
                         </td>
@@ -129,7 +129,7 @@ include '../common/header.php';
                       </tr>
                       <tr>
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>3</strong></td>
-                        <td class="new-para">CSMSS COP Alumni Speaks Pallavi Vedpathak</td>
+                        <td><p class="new-para">CSMSS COP Alumni Speaks Pallavi Vedpathak </p></td>
                         
                         </td>
 
@@ -153,7 +153,7 @@ include '../common/header.php';
                         <td>
                           <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>4</strong>
                         </td>
-                        <td class="new-para">CSMSS COP Alumni speaks #3 Priya Yadav Alumni</td>
+                        <td><p class="new-para">CSMSS COP Alumni speaks #3 Priya Yadav Alumni </p></td>
                         
                           
                         </td>
@@ -178,7 +178,7 @@ include '../common/header.php';
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>5</strong></td>
-                        <td class="new-para">Social Media Cell Inauguration News</td>
+                        <td><p class="new-para">Social Media Cell Inauguration News </p></td>
                        
                           
                           
@@ -199,7 +199,7 @@ include '../common/header.php';
                       </tr>
                      <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>6</strong></td>
-                        <td class="new-para">Padma Vibhushan Hon. Dr. Anil Kakodkar inaugurated<br> CSMSS Skill Center and SAT-COM Lab | Aurangabad</td>
+                        <td><p class="new-para">Padma Vibhushan Hon. Dr. Anil Kakodkar inaugurated CSMSS Skill Center and SAT-COM Lab | Aurangabad </p></td>
                        
                           
                             
@@ -220,9 +220,11 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
-                        <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>7</strong></td>
-                        <td class="new-para">PROJECT COMPETITION HELD AT CSMSS POLYTECHNIC,<br> AURANGABAD</td>
+                       <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>7</strong></td>
+                        <td><p class="new-para">Project Competition held at csmss polytechnic, Aurangabad </p></td>
                        
+                          
+                            
                           
                         </td>
                    
@@ -238,7 +240,6 @@ include '../common/header.php';
                             </div>
                           
                         </td>
-                      </tr>
                       <tr>
                     </tbody>
                   </table>

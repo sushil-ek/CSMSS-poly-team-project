@@ -71,7 +71,7 @@
                        <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
                           <input type="text" class="form-control" id="Text" placeholder="Description"  name="Name"/>
-                          <label for="Name">Descripition</label>
+                          <label for="Name">Description</label>
                         </div>
                       </div>
                     </div>
@@ -89,7 +89,7 @@
                       <button type="submit" class="btn btn-primary">Update</button>
                       <button type="submit" class="btn btn-primary text-white">
                         <a href="college_timetable.php" class="text-white">
-                          BACK
+                          Back
                         </a>
                       </button>
                     </div>
@@ -107,7 +107,7 @@
             ?>
             <!-- / Footer -->
 
-            <div class="content-backdrop fade"></div>
+            <div class="contenackdrop fade"></div>
           </div>
           <!-- Content wrapper -->
         </div>

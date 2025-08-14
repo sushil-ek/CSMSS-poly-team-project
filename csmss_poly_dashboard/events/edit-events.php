@@ -80,7 +80,7 @@ include '../common/sidebar.php';
                         <div class="col-lg-12  py-4">
                                         <div class="form-floating">
                   <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
-                  <label for="floatingTextarea2">Comments</label>
+                  <label for="floatingTextarea2">description</label>
                     </div>
                 </div>
 

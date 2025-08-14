@@ -17,12 +17,20 @@
     include 'common/header-link.php';
     ?>
     <style>
-    .news {
-        width: 180px;
+    .event-line{
+        width: 300px;
         display: -webkit-box;
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 2;
         overflow: hidden;
+    }
+    .news{
+        width: 200px;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        padding-left: 25px; 
     }
     </style>
 </head>
@@ -197,7 +205,7 @@
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="ps-5 news text-center">On the occasion of the
+                                                        <strong class=" news">On the occasion of the
                                                             death anniversary, a heartfelt tribute to Chhatrapati Shahu
                                                             Maharaj.</strong>
 
@@ -214,7 +222,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <strong class="news ps-5 text-center">Blood
+                                                        <strong class="news ">Blood
                                                             Donation Camp on the Occasion of the Birthday of Hon.
                                                             Secretary Padmakarji
                                                             Mulay Sir</strong>
@@ -693,7 +701,7 @@
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
-                                                <div style="min-height: 270px; ">
+                                                <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
                                                         <strong class="news ps-5">Arrangement Of Covid-19 Mega
@@ -804,7 +812,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-occasion.php">On the occasion of the death
                                                     anniversary, a heartfelt tribute to Chhatrapati Shahu
                                                     Maharaj.</a>
@@ -825,7 +833,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-blood-donation.php">Blood Donation Camp on the
                                                     Occasion
                                                     of the Birthday of Hon. Secretary Padmakarji Mulay Sir.</a>
@@ -845,7 +853,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-personality_development.php">Expert Talk on
                                                     "Personality
                                                     Development".</a>
@@ -865,7 +873,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-business-opp.php">Expert Talk on "Business
                                                     Opportunities
                                                     and Product Selection".</a>
@@ -885,7 +893,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-entrepreneurship.php">Expert Talk on
                                                     "Entrepreneurship as
                                                     a Career Choice".</a>
@@ -905,7 +913,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-ISTE-sponsered.php">ISTE Sponsored State Level
                                                     Technical
                                                     Paper Presentation and Quiz Competition.</a>
@@ -925,7 +933,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-inagu-of-project-soft.php">Inaugration of Project lab
                                                     and
                                                     Software development lab.</a>
@@ -945,7 +953,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-expert-talk.php">Expert talk on "Employability in
                                                     Defence
                                                     Services".</a>
@@ -966,7 +974,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-national-road.php">National Road Safety Week".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-national-road.php">Read More<i
@@ -985,7 +993,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-52th-district.php">52th District Level Science
                                                     Exhibition".</a>
                                             </h4>
@@ -1004,7 +1012,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-comprehensive-python.php">Faculty Development
                                                     Training
                                                     Program on "Comprehensive Python and Machine Learning ".</a>
@@ -1019,12 +1027,12 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news and events/Events/csmss celebrate 150th/event cards/event cards/fac dev traing comprehensive.jpg"
+                                            <img src="assets/img/news-and-events/Events/ministry-electronic-faculty-development/faculty-train-1.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-faculty-dev-traning.php">Faculty Development Training
                                                     program".</a>
                                             </h4>
@@ -1043,7 +1051,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-PM-vishwakarma.php">PM Vishawkarma Program".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-PM-vishwakarma.php">Read More<i
@@ -1061,7 +1069,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-induction-pro.php">First Year Induction Program
                                                     2024-25".</a>
                                             </h4>
@@ -1081,7 +1089,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-entrepreneurship-development.php">Entrepreneurship
                                                     development Program".</a>
                                             </h4>
@@ -1101,7 +1109,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-online-web.php">Online webinar on 100% Free Education
                                                     for
                                                     Girls".</a>
@@ -1121,7 +1129,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-john.php">John Deere Campus Drive".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-john.php">Read More<i
@@ -1134,12 +1142,12 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item">
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events1.jpeg"
+                                            <img src="assets/img/news-and-events/Events/state-level-techanical-events/techanical-events2.jpeg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-state-level2k.php">State Level Technical Event
                                                     2k24".</a>
                                             </h4>
@@ -1156,12 +1164,12 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest 2k24/badminton3.jpg"
+                                            <img src="assets/img/news-and-events/Events/Annual-social-gathering/annual7.jpeg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-state-level2k.php">Annual Social Gathering Polyfest
                                                     2k24".</a>
                                             </h4>
@@ -1180,7 +1188,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-special-connect-program.php">School Connect
                                                     Program".</a>
                                             </h4>
@@ -1199,7 +1207,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-Hackathon.php">Hackathon-2023".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-Hackathon.php">Read More<i
@@ -1217,7 +1225,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-MERI-MAATI.php">MERI MAATI MERA DESH ABHIYAN".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-MERI-MAATI.php">Read More<i
@@ -1230,12 +1238,12 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item ">
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news-and-events/Events/meri-mathi-mera-desh/meri-mati.png"
+                                            <img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri2.png"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-industrial-devgiri.php">industrial visit to Devgiri
                                                     Mahanand Dairy Gandheli Chhatrapati Sambhajinagar.</a>
                                             </h4>
@@ -1254,7 +1262,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-first-year.php">First year induction program".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-first-year.php">Read More<i
@@ -1272,7 +1280,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-campus-drive.php">Campus Drive for Electrical &
                                                     Mechanical Engineering students By Gangamai Industries and
                                                     Constructions Ltd.".</a>
@@ -1292,7 +1300,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-resultsummer23.php">RESULT SUMMER 2023".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-resultsummer23.php">Read More<i
@@ -1311,7 +1319,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-eventplacement.php">Placement in Forbes and
                                                     Company".</a>
                                             </h4>
@@ -1330,7 +1338,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-birthanniversary.php">CSMSS Celebrates 150th Birth
                                                     Anniversary of Rajarshri Chhatrapati Shahu Maharaj..</a>
                                             </h4>
@@ -1349,7 +1357,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-national-con-22-23.php">National Conference
                                                     2022-23".</a>
                                             </h4>
@@ -1368,7 +1376,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-annual-2023.php">Annual social gathering 2023".</a>
                                             </h4>
                                             <a class="theme-btn" href="event-annual-2023.php">Read More<i
@@ -1386,7 +1394,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-IEDSSA.php">IEDSSA 2022-23 G-1 ZONE GLIMPSE .</a>
                                             </h4>
                                             <a class="theme-btn" href="event-IEDSSA.php">Read More<i
@@ -1404,7 +1412,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-Diploma-Students.php">Inter Engineering Diploma
                                                     Students
                                                     Sports Association (IEDSSA) Kabaddi Matches".</a>
@@ -1424,7 +1432,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-Diploma-Students.php">Inter Engineering Diploma
                                                     Students
                                                     Sports Association (IEDSSA) Kabaddi Matches".</a>
@@ -1444,7 +1452,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-Corruption.php">Corruption Free India for a Developed
                                                     Nation".</a>
                                             </h4>
@@ -1463,7 +1471,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-yoga-day.php">8th International Yoga Day Celebration
                                                     at
                                                     CSMSS College of Polytechnic.</a>
@@ -1483,7 +1491,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-arrangement.php">Arrangement Of Covid-19 Mega
                                                     Vaccination
                                                     Drive For All The Students Who Are Above 15 Years Old On The
@@ -1499,12 +1507,12 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item">
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news and events/Events/Arrangement Of Special Vaccination Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of Polytechnic/Arrangement Of Special Vaccination Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of Polytechnic.jpeg"
+                                            <img src="assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-special-vaccine.php">Arrangement Of Special
                                                     Vaccination
                                                     Drive Against Corona Virus Disease (Covid-19) At CSMSS College
@@ -1526,7 +1534,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-national-conference.php">National Conference on
                                                     Emerging
                                                     Areas in Engineering and Technology.</a>
@@ -1546,7 +1554,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-paper-pre.php"> A State Level Technical Paper
                                                     Presentation Competition (Electronics Group).</a>
                                             </h4>
@@ -1565,7 +1573,7 @@
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
-                                            <h4 class="blog-title">
+                                            <h4 class="blog-title event-line">
                                                 <a href="event-NBA-workshop.php">Two days state level workshop on
                                                     "NBA
                                                     Accreditation for polytechnic" on 08-04-2019 to 09-04-2019".</a>
