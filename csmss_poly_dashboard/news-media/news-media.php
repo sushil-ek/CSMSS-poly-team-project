@@ -70,7 +70,7 @@ include '../common/header.php';
               <div class="card">
                 <div class="row">
                   <div class="col-lg-6 ">
-                    <div class="h5 card-header">News Media</div>
+                    <div class="h5 card-header">NEWS MEDIA</div>
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">

@@ -124,7 +124,8 @@
                                                     <a href="assets/pdf/placement_details/T&Pcell.pdf"
                                                         class="flex-grow-1">
                                                         <h4> POST-SSC-FY-DIPLOMA-ADMISSION-NOTICE-2024-25 </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Date : 27th May 2024</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 27th May
+                                                            2024</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
                                                     <a href="ol-lg-3 mt-2">
@@ -146,7 +147,8 @@
                                                     <a href="assets/pdf/placement_details/T&Pcell.pdf"
                                                         class="flex-grow-1">
                                                         <h4>IMPORTANT DOCUMENTS FOR ADMISSION 2024-25 </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Date : 26th April 2024</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 26th April
+                                                            2024</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
                                                     <a href="assets\pdf\notices\Important-Documents-For-Admission-2024-25.pdf"
@@ -167,7 +169,8 @@
                                                         class="flex-grow-1">
                                                         <h4>INDUSTRIAL TRAINING OF 2ND YEAR STUDENTS WILL STARTS ON 3RD
                                                             JUNE 2024 </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Date : 04th April 2024</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 04th April
+                                                            2024</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
                                                     <a href="assets\pdf\notices\INDUSTRIAL-TRAINING-OF-2ND-YEAR-STUDENTS-WILL-STARTS-ON-3RD-JUNE-2024.pdf"
@@ -188,7 +191,8 @@
                                                     <a href="assets/pdf/placement_details/T&Pcell.pdf"
                                                         class="flex-grow-1">
                                                         <h4> CIRCULAR FOR PWD CANDIDATES </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Date : 21st February 2024</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 21st
+                                                            February 2024</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
                                                     <a href="assets\pdf\notices\CIRCULAR-FOR-PWD-CANDIDATES.pdf"
@@ -208,7 +212,8 @@
                                                     <a href="assets/pdf/placement_details/T&Pcell.pdf"
                                                         class="flex-grow-1">
                                                         <h4> CLASS TEST TIME-TABLE (A.Y. 2023-24) </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0"> Date :30th January 2024</p>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date :30th January
+                                                            2024</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
                                                     <a href="#" download class="download-btn ms-3">
@@ -228,7 +233,8 @@
                                                         class="flex-grow-1">
                                                         <h4> GRIEVANCE & FEEDBACK FACILITY AVAILABLE ON AICTE WEB PORTAL
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0"> Date :30th January 2024</p>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date :30th January
+                                                            2024</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
                                                     <a href="assets\pdf\notices\GRIEVANCE-&-FEEDBACK-FACILITY-AVAILABLE-ON-AICTE-WEB-PORTAL.pdf"
@@ -289,7 +295,8 @@
                                                         class="flex-grow-1">
                                                         <h4> OTO REGISTRATION CIRCULAR
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Date : 21st August 2023</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 21st August
+                                                            2023</p>
 
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -312,7 +319,8 @@
                                                         class="flex-grow-1">
                                                         <h4> PHOTOCOPY SCHEDULE FOR SUMMER 2023 EXAM
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 30th June 2023</p>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 30th June
+                                                            2023</p>
 
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -335,7 +343,8 @@
                                                         class="flex-grow-1">
                                                         <h4> FEES STRUCTURE FOR ACADEMIC YEAR 2022-23
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 12th August 2022</p>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 12th August
+                                                            2022</p>
 
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -357,7 +366,8 @@
                                                         class="flex-grow-1">
                                                         <h4> AGAINST CAP GENERAL MERIT LIST A. Y. 2022-23
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0"> Date : August 2022</p>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : August 2022
+                                                        </p>
 
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -380,7 +390,8 @@
                                                         class="flex-grow-1">
                                                         <h4> OFFLINE CLASSES COMMENCEMENT FOR EVEN SEMESTER A.Y.2021-22
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 09th February 2022</p>
+                                                        <p class="choose-item-discription mt-0 mb-0"> Date : 09th
+                                                            February 2022</p>
 
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -402,7 +413,8 @@
                                                         class="flex-grow-1">
                                                         <h4> ONLINE GRIEVANCE NOTICE
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Date : 31st May 2021</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 31st May
+                                                            2021</p>
 
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -424,7 +436,8 @@
                                                         class="flex-grow-1">
                                                         <h4> CIRCULAR FOR CONDUCTION OF WINTER 2021 EXAM
                                                         </h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Date : 07th December 2021</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date : 07th
+                                                            December 2021</p>
 
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -445,7 +458,8 @@
                                                         class="flex-grow-1">
                                                         <h4> MAHADBT APPLICATION FORM INSTRUCTIONS
                                                         </h4>
-                                                        <p class="choose-item-discription    mt-0 mb-0"> Mahadbt application form instructions. for
+                                                        <p class="choose-item-discription  line-word   mt-0 mb-0 ">
+                                                            Mahadbt application form instructions. for
                                                             more details contact to
                                                             Mr.
                                                             Atul
@@ -459,7 +473,7 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            
+
                                         </div>
                                     </div>
 

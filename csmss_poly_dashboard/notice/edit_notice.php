@@ -91,7 +91,7 @@
                       <button type="submit" class="btn btn-primary">Update</button>
                       <button type="submit" class="btn btn-primary text-white">
                         <a href="notice.php" class="text-white">
-                          BACK
+                          Back
                         </a>
                       </button>
                     </div>

@@ -77,6 +77,7 @@
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
+                        <div class="col-lg-4 col-md-12 col-12">
                         <div class="department-sidebar">
                                 <div class="widget category">
                                     <h4 class="widget-title">PHOTO GALLERY</h4>
@@ -97,9 +98,9 @@
                                         <a href="mechanical-eng-dept.php"><i
                                                 class="far fa-long-arrow-right"></i>Mechanical Engineering Department
                                             had arranged an industrial</a>
-                                        <a href="cam-mech-&-eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
+                                        <a href="cam-mech&eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
                                             for Electrical & Mechanical Engineering students</a>
-                                        <a href="CSMSS polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
+                                        <a href="CSMSS-polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
                                             शाहू पॉलिटेक्निक</a>
                                         <a href="glimpses-of-annual-fun.php"><i
                                                 class="far fa-long-arrow-right"></i>Glimpses of annual function Poly
@@ -110,6 +111,7 @@
                                     </div>
                                 </div>
 
+                            </div>
                             </div>
                      <div class="col-xl-8 col-lg-8">
 

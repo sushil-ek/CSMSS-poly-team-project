@@ -51,7 +51,7 @@
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">ADD Electrical Engineering</h5>
+              <h5 class="card-header">ADD ELECTRICAL ENGINEERING</h5>
               <div class="card-body">
                 <div class="container mt-3">
                <form>
@@ -95,10 +95,10 @@
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
+                      <button type="submit" class="btn btn-primary">Add</button>
                       <button type="submit" class="btn btn-primary"><a href="electrical_engineering.php" class="text-white">
                         Back
                       </a></button>
-                      <button type="submit" class="btn btn-primary">Add</button>
                     </div>
 
                     <!-- <div class="col-lg-12 mt-3 text-center">

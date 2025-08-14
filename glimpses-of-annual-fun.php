@@ -73,7 +73,7 @@
     <main class="main">
 
        <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-granth-dindi.jpg)">
             <div class="container">
                 <h2 class="breadcrumb-title">PHOTO GALLERY</h2>
                 <ul class="breadcrumb-menu">
@@ -96,16 +96,16 @@
                                 <div class="widget category">
                                     <h4 class="widget-title">PHOTO GALLERY</h4>
                                     <div class="category-list">
-                                        <a href="campus of john.php"><i class="far fa-long-arrow-right"></i>Campus Recruitment Drive od john Deere India Pvt.Ltd</a>
-                                        <a href="campus recuriment of websum.php"><i class="far fa-long-arrow-right"></i>Campus Recruitment Drive of Websum Software Pvt.Ltd </a>
-                                        <a href="campus drive of greaves.php"><i class="far fa-long-arrow-right"></i>Campus Drive of Greaves Cotton Ltd. on 21st February 2025</a>
-                                        <a href="campus drive of core.php"><i class="far fa-long-arrow-right"></i>Campus Drive of Core Project Engineers and Consultant Pvt. Ltd.</a>
-                                        <a href="campus inter of bajaj.php"><i class="far fa-long-arrow-right"></i>Campus Interview of Bajaj Auto Ltd. on 8th February 2025</a>
-                                        <a href="mechanical eng dept.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering Department had arranged an industrial</a>
-                                        <a href="cam mech & eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive for Electrical & Mechanical Engineering students</a>
-                                        <a href="CSMSS polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती शाहू पॉलिटेक्निक</a>
-                                        <a href="glimpses of annual fun.php"><i class="far fa-long-arrow-right"></i>Glimpses of annual function Poly Fest 2k23</a>
-                                        <a href="campus int of john.php"><i class="far fa-long-arrow-right"></i>Campus Interview of John Deere IndiaPvt Ltd 2019</a>
+                                        <a href="campus-of-john.php"><i class="far fa-long-arrow-right"></i>Campus Recruitment Drive od john Deere India Pvt.Ltd</a>
+                                        <a href="campus-recuriment-of-websum.php"><i class="far fa-long-arrow-right"></i>Campus Recruitment Drive of Websum Software Pvt.Ltd </a>
+                                        <a href="campus-drive-of-greaves.php"><i class="far fa-long-arrow-right"></i>Campus Drive of Greaves Cotton Ltd. on 21st February 2025</a>
+                                        <a href="campus-drive-of-core.php"><i class="far fa-long-arrow-right"></i>Campus Drive of Core Project Engineers and Consultant Pvt. Ltd.</a>
+                                        <a href="campus-inter-of-bajaj.php"><i class="far fa-long-arrow-right"></i>Campus Interview of Bajaj Auto Ltd. on 8th February 2025</a>
+                                        <a href="mechanical-eng-dept.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering Department had arranged an industrial</a>
+                                        <a href="cam-mech&eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive for Electrical & Mechanical Engineering students</a>
+                                        <a href="CSMSS-polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती शाहू पॉलिटेक्निक</a>
+                                        <a href="glimpses-of-annual-fun.php"><i class="far fa-long-arrow-right"></i>Glimpses of annual function Poly Fest 2k23</a>
+                                        <a href="campus-int-of-john.php"><i class="far fa-long-arrow-right"></i>Campus Interview of John Deere IndiaPvt Ltd 2019</a>
                                         
                                     </div>
                                 </div>
@@ -125,24 +125,24 @@
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/cultural program.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/cultural program.jpg"  class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/cultural-program.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/cultural-program.jpg"  class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/polyfest granth dindi.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/polyfest granth dindi.jpg"  class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-granth-dindi.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-granth-dindi.jpg"  class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/polyfest indoor & outdoor.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/polyfest indoor & outdoor.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-indoor&outdoor.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-indoor&outdoor.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
@@ -150,8 +150,8 @@
             
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/polyfest Innaguration.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/Glimpses of annual function 2k23/polyfest Innaguration.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-Innaguration.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-Innaguration.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                 </a>
             </div>
 

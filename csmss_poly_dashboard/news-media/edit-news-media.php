@@ -49,7 +49,7 @@ include '../common/header.php';
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">EDIT TESTIMONIALS</h5>
+              <h5 class="card-header">NEWS MEDIA</h5>
               <div class="card-body">
                 <div class="container mt-3">
                   <form>
@@ -74,12 +74,12 @@ include '../common/header.php';
                         </div>
                       </div>
                       
-                        <div class="col-lg-12  py-4">
+                        <!-- <div class="col-lg-12  py-4">
                                         <div class="form-floating">
                   <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
                   <label for="floatingTextarea2">Comments</label>
                     </div>
-                </div>
+                </div> -->
 
                
                     

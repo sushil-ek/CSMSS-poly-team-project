@@ -62,7 +62,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-granth-dindi.jpg)">
             <div class="container">
                 <h2 class="breadcrumb-title">PHOTO GALLERY</h2>
                 <ul class="breadcrumb-menu">
@@ -100,7 +100,7 @@
                                         <a href="mechanical-eng-dept.php"><i
                                                 class="far fa-long-arrow-right"></i>Mechanical Engineering Department
                                             had arranged an industrial</a>
-                                        <a href="cam-mech-&-eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
+                                        <a href="cam-mech&eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
                                             for Electrical & Mechanical Engineering students</a>
                                         <a href="CSMSS-polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
                                             शाहू पॉलिटेक्निक</a>
@@ -117,11 +117,12 @@
                         </div>
                         <!--card 1-->
                         <div class="col-xl-8 col-lg-8 ">
-                            <div class="row">
-                                <h1 class="mt-1 " style="border-bottom: 3px solid orange;">PHOTO GALLERY</h1><br>
+                            
+                                <h1 class="mt-1 " style="border-bottom: 3px solid orange;">PHOTO GALLERY</h1>
+                                <div class="row " style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                                        <div class="blog-item-img">
+                                    <div class="blog-item mt-5 " >
+                                        <div class="blog-item-img ">
                                             <img src="assets/img/news-and-events/photos-Gallery/campus-recruitment-of-john-deere-images/welcome-board.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
@@ -131,16 +132,16 @@
                                                 <a href="campus-of-john.php">Campus Recruitment Drive od john Deere
                                                     India Pvt.Ltd.</a>
                                             </h4>
-                                            <a class="theme-btn" href="campus of john.php">Read More<i
+                                            <a class="theme-btn" href="campus-of-john.php">Read More<i
                                                     class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
                                 </div>
                                 <!--card 2-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item mt-5" >
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/campus-front-board.jpg"
+                                            <img src="assets/img/news-and-events/photos-Gallery/campus-recuritment-of-greaves-cotton-Ltd/certificate-distribute.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
@@ -149,16 +150,16 @@
                                                 <a href="campus-recuriment-of-websum.php">Campus Recruitment Drive of
                                                     Websum Software Pvt.Ltd...</a>
                                             </h4>
-                                            <a class="theme-btn" href="campus recuriment of websum.php">Read More<i
+                                            <a class="theme-btn" href="campus-recuriment-of-websum.php">Read More<i
                                                     class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
                                 </div>
                                 <!--card 3-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item " >
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/college-staff.jpg"
+                                            <img src="assets/img/news-and-events/photos-Gallery/campus-recruitment-of-john-deere-images/campus-interview.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
@@ -167,7 +168,7 @@
                                                 <a href="campus-drive-of-greaves.php">Campus Drive of Greaves Cotton
                                                     Ltd. on 21st February 2025...</a>
                                             </h4>
-                                            <a class="theme-btn" href="campus drive of greaves.php">Read More<i
+                                            <a class="theme-btn" href="campus-drive-of-greaves.php">Read More<i
                                                     class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
@@ -175,7 +176,7 @@
 
                                 <!--card 4-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item " >
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/certificate.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
@@ -195,7 +196,7 @@
 
                                 <!--card 5-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item " >
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/photos-Gallery/campus-interview-of-bajaj-auto-Ltd/staffs.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
@@ -214,18 +215,18 @@
 
                                 <!--card 6-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item " >
                                         <div class="blog-item-img">
-                                            <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical-&-mechanical-enineering-students/interview.jpg"
+                                            <img src="assets/img/news-and-events/photos-Gallery/campus-drive-for-electrical&mechanical-enineering-students/campus-front-board.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
                                         </div>
                                         <div class="blog-item-info">
                                             <hr>
                                             <h4 class="blog-title">
-                                                <a href="cam-mech-&-eng.php">Campus Drive for Electrical & Mechanical
+                                                <a href="cam-mech&eng.php">Campus Drive for Electrical & Mechanical
                                                     Engineering students...</a>
                                             </h4>
-                                            <a class="theme-btn" href="cam-mech-&-eng.php">Read More<i
+                                            <a class="theme-btn" href="cam-mech&eng.php">Read More<i
                                                     class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
@@ -233,7 +234,7 @@
 
                                 <!--card 7-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item " >
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/photos-Gallery/chhatrapati-shahu-polytechnic/college-staffs.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
@@ -252,7 +253,7 @@
 
                                 <!--card 8-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item " >
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/cultural-program.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">
@@ -272,7 +273,7 @@
 
                                 <!--card 9-->
                                 <div class="col-md-6 col-lg-6">
-                                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                                    <div class="blog-item " >
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/photos-Gallery/campus-interview-of-john-deere/staff.jpg"
                                                 alt="Thumb" style="height:250px;width:350px">

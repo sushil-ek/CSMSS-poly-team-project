@@ -60,7 +60,7 @@
               <div class="card">
                 <div class="row">
                   <div class="col-lg-6 ">
-                    <div class="h5 card-header">College Timetable </div>
+                    <div class="h5 card-header">COLLEGE TIMETABLE</div>
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">

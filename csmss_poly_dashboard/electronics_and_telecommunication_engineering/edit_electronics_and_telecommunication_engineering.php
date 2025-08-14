@@ -51,7 +51,7 @@
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">EDIT Electronics & Telecommunication Engineering</h5>
+              <h5 class="card-header">EDIT ELECTRONICS & TELECOMMUNICATION ENGINEERING</h5>
               <div class="card-body">
                 <div class="container mt-3">
                   <form>
@@ -89,7 +89,7 @@
                       <button type="submit" class="btn btn-primary">Update</button>
                       <button type="submit" class="btn btn-primary text-white">
                         <a href="electronics_and_telecommunication_engineering.php" class="text-white">
-                          BACK
+                          Back
                         </a>
                       </button>
                     </div>

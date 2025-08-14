@@ -49,7 +49,7 @@ include '../common/header.php';
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">ADD News Media</h5>
+              <h5 class="card-header">ADD NEWS MEDIA</h5>
               <div class="card-body">
                 <div class="container mt-3">
                <form>
@@ -80,10 +80,11 @@ include '../common/header.php';
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
+                       <button type="submit" class="btn btn-primary">Add News Media</button>
                       <button type="submit" class="btn btn-primary"><a href="news-media.php" class="text-white">
                         Back
                       </a></button>
-                      <button type="submit" class="btn btn-primary">Add News Media</button>
+                     
                     </div>
 
                     <!-- <div class="col-lg-12 mt-3 text-center">

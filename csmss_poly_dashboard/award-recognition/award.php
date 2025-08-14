@@ -62,7 +62,7 @@
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4">Awards and Recognitions</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4">AWARDS & RECOGNITIONS</h4>
 
              
 
@@ -71,7 +71,7 @@
               <div class="card">
                 <div class="row">
                   <div class="col-lg-6 ">
-                    <div class="h5 card-header">Awards and Recognitions </div>
+                    <div class="h5 card-header">AWARDS & RECOGNITIONS</div>
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
@@ -87,6 +87,7 @@
                       <tr>
                         <th>SR.NO</th>
                         <th>Title</th>
+                        <th>IMG</th>
                        
                       </tr>
                     </thead>

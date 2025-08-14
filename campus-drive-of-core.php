@@ -73,7 +73,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/polyfest-granth-dindi.jpg)">
             <div class="container">
                 <h2 class="breadcrumb-title">PHOTO GALLERY</h2>
                 <ul class="breadcrumb-menu">
@@ -110,9 +110,9 @@
                                         <a href="mechanical-eng-dept.php"><i
                                                 class="far fa-long-arrow-right"></i>Mechanical Engineering Department
                                             had arranged an industrial</a>
-                                        <a href="cam-mech-&-eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
+                                        <a href="cam-mech&eng.php"><i class="far fa-long-arrow-right"></i>Campus Drive
                                             for Electrical & Mechanical Engineering students</a>
-                                        <a href="CSMSS polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
+                                        <a href="CSMSS-polytechnic.php"><i class="far fa-long-arrow-right"></i>छत्रपती
                                             शाहू पॉलिटेक्निक</a>
                                         <a href="glimpses-of-annual-fun.php"><i
                                                 class="far fa-long-arrow-right"></i>Glimpses of annual function Poly
@@ -137,24 +137,24 @@
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive of core project engineers and consultants/certificate.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive of core project engineers and consultants/certificate.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/certificate.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/certificate.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive of core project engineers and consultants/interviews.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive of core project engineers and consultants/interviews.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/interviews.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/interviews.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>
 
             <div class="col-lg-4 col-12 col-md-6 mb-4 text-center">
                 <a href="campus int of john.php" a data-fancybox="gallery"
-                    data-src="assets/img/news and events/photos-Gallery/campus drive of core project engineers and consultants/students.jpg">
-                    <img src="assets/img/news and events/photos-Gallery/campus drive of core project engineers and consultants/students.jpg" class="card shadow-lg" style="height:250px; width:300px;">
+                    data-src="assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/students.jpg">
+                    <img src="assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/students.jpg" class="card shadow-lg" style="height:250px; width:300px;">
                     
                 </a>
             </div>

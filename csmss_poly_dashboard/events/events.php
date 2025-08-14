@@ -60,7 +60,7 @@
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4">EVENT DETAILS</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4">EVENTS</h4>
 
              
                           
@@ -85,8 +85,8 @@
                       <tr>
                         <th>Sr.No</th>
                         <th>Title</th>
-                        <th></th>
-                        <th>pdf</th>
+                        <th>img</th>
+                       
                         
                       </tr>
                     </thead>
@@ -96,14 +96,14 @@
                         <td><p class="page-para ">On the
                                             occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu
                                             Maharaj</p></td>
-                        <td>
+                       
                         <td>
                             <img src="../../assets/img/news-and-events/Events/death-anniversary/statue.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                      
                    
                         <td>
                             
@@ -127,14 +127,14 @@
                                             Mulay Sir</p></td>
                         
                           
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Blood-donation-camp/camp1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                        
                    
                         </td>
                         <td>
@@ -156,16 +156,16 @@
                                             Development"</p></td>
                         
                        
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Exepert-talk-personality-development/personality1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                       
                    
-                        </td>
+                        
 
                            
                       
@@ -192,18 +192,18 @@
                                             
                         
                           
-                        </td>
-                        <td>
+                        
+                       
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Exepert-talk-business-oportunity/bisness1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                       
                    
 
-                        </td>
+                        
                          
                        
                         <td>
@@ -226,7 +226,7 @@
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>5</strong></td>
                         <td><p class="page-para ">Expert Talk on "Entrepreneurship as
                                             a Career Choice"</p></td>
-                                            <td>
+                                            
                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Expert-talk-entrepreneurship/career1.jpeg" alt="Avatar" class="one" />
@@ -234,14 +234,14 @@
                         </td>
                         
                           
-                        </td>
+                       
                    
 
-                        </td>
+                        
                        
                           
                           
-                        </td>
+                        
                    
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
@@ -264,17 +264,15 @@
                           
                             
                           
-                        <td>
+                      
                         <td>
                             <img src="../../assets/img/news-and-events/Events/ISTE-Sponsored-State-Level/inaguration.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                       
+                        
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-success">
@@ -294,17 +292,14 @@
                                             Software development lab</p></td>
                        
                           
-                        <td>
+                       
                         <td>
                             <img src="../../assets/img/news-and-events/Events/INAUGRATION-PROJECT-LAB/lab1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                        
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-info">
@@ -325,17 +320,14 @@
                         
                           
 
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Exepert-Talk-on-employbility/employbility.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                       
                         <td>
                          <div> 
                             <a href="edit-events.php" class=" text-white">
@@ -355,16 +347,14 @@
                         <td><p class="page-para ">National Road Safety Week</p></td>
                         
                           
-                        <td>
+                       
                         <td>
                             <img src="../../assets/img/news-and-events/Events/National-road-safeety/national1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
+                        
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-success">
@@ -383,18 +373,16 @@
                         <td><p class="page-para ">52th
                                             District Level Science Exhibition</p></td>
                         
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/52th-district-level-science/district1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                        
                    
-                          </ul>
-
-                        </td>
+                          
                            
                       
                         <td>
@@ -419,16 +407,15 @@
                                             on "Comprehensive Python and Machine Learning "</p></td>
                         
                           
-                        <td>
+                       
                         <td>
                             <img src="../../assets/img/news-and-events/news/mechanical-1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
+                       
+                        
                          
                        
                         <td>
@@ -454,16 +441,14 @@
                         
                           
 
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Faculty-development-training/faculty1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
+                       
                         <td>
                          <div> 
                             <a href="edit-events.php" class=" text-white">
@@ -484,17 +469,14 @@
                                             Vishawkarma Program</p></td>
                         
                           
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/PM-vishavkarma/PM1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                       
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-success">
@@ -513,16 +495,14 @@
                         <td><p class="page-para ">First
                                             Year Induction Program 2024-25</p></td>
                         
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/FIRST-YEAR-INDUCTION-PROGRAM/induction1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
+                       
                            
                       
                         <td>
@@ -548,17 +528,14 @@
                         
                           
                         
-                            <td>
+                            
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Enterprenship-program/enterprenship1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                     
                          
                        
                         <td>
@@ -582,21 +559,18 @@
                         <td><p class="page-para ">Online
                                             webinar on 100% Free Education for Girls</p></td>
                                            
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/online-webinar-100%/webinar1.png" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                       
                         
                           
 
-                        </td>
+                       
                         <td>
                          <div> 
                             <a href="edit-events.php" class=" text-white">
@@ -617,16 +591,14 @@
                                             Campus Drive</p></td>
                         
                           
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/john-deere/john1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
+                       
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-success">
@@ -645,17 +617,17 @@
                         <td><p class="page-para ">School Connect Program</p></td>
                         
                         
-                            <td>
+                            
                         <td>
                             <img src="../../assets/img/news-and-events/Events/school-connect-program/school1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                       
                    
 
-                        </td>
+                        
                            
                       
                         <td>
@@ -680,17 +652,17 @@
                                             level Technical Event 2k24</p></td>
                         
                           
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/state-level-techanical-events/techanical-events1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                       
                    
 
-                        </td>
+                        
                          
                        
                         <td>
@@ -714,17 +686,14 @@
                         <td><p class="page-para ">industrial visit to Devgiri Mahanand
                                             Dairy Gandheli Chhatrapati Sambhajinagar/p></td>
                                            
-                            <td>
+                            
                         <td>
                             <img src="../../assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri1.png" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                       
                         
                           
 
@@ -748,20 +717,17 @@
                         <td><p class="page-para ">Annual
                                             Social Gathering Polyfest 2k24</p></td>
                                           
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Annual-social-gathering/annual1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
+                       
                         
                           
-                        </td>
+                        
                    
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
@@ -780,16 +746,14 @@
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>22</strong></td>
                         <td><p class="page-para ">Hackathon-2023</p></td>
                         
-                        <td>
+                        
                         <td>
                             <img src="../../assets/img/news-and-events/Events/hacathon/hacathon.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
+                       
                            
                       
                         <td>
@@ -813,14 +777,14 @@
                         <td><p class="page-para "> MERI MATI
                                             MERA DESH ABHIYAANर</p></td>
                                             
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/meri-mathi-mera-desh/meri mati.png" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
+                      
                    
                         
 
@@ -848,17 +812,13 @@
                                             induction program</p></td>
                         
                           
-                             <td>
+                            
                         <td>
                             <img src="../../assets/img/news-and-events/Events/firs-year-induction-program2/FS1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
-                          
-                        </td>
-                   
-                        </td>
-                        </td>
+                       
                         <td>
                          <div> 
                             <a href="edit-events.php" class=" text-white">
@@ -879,20 +839,14 @@
                                             Drive for Electrical & Mechanical Engineering students By Gangamai
                                             Industries and Constructions Ltd/p></td>
                                             
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/DRIVE1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
-                        
-                          
-                        </td>
+                       
                    
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
@@ -912,18 +866,14 @@
                         <td><p class="page-para ">Result
                                             Summer 202</p></td>
                                             
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/result-summer-2023/result1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
                         
-                        </td>
 
                            
                       
@@ -948,20 +898,14 @@
                         <td><p class="page-para ">CSMSS Celebrates 150th Birth
                                             Anniversary of Rajarshri Chhatrapati shivaji Maharaj</p></td>
                                             
-                            <td>
+                            
                         <td>
                             <img src="../../assets/img/news-and-events/Events/csmss-celebrate-150th/15th1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-                        </td>
-
+                       
                          
                        
                         <td>
@@ -984,20 +928,14 @@
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>28</strong></td>
                         <td><p class="page-para ">Placement in Forbes and Company</p></td>
                         
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/placement-in-forbase/placement.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-
-                        </td>
+                       
                         <td>
                          <div> 
                             <a href="edit-events.php" class=" text-white">
@@ -1016,19 +954,14 @@
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>29</strong></td>
                         <td><p class="page-para "> National Conference 2022-23</p></td>
                        
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/National-Conference-2022-23/National-Conference-2022-23-1.png" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-                        </td>
+                      
                    
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
@@ -1047,19 +980,14 @@
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>30</strong></td>
                         <td><p class="page-para ">Annual
                                             social gathering 2023</p></td>
-                                            <td>
+                                            
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Annual-social-gathering/annual1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
-                        
-                        </td>
+                       
 
                            
                       
@@ -1083,19 +1011,14 @@
                         </td>
                         <td><p class="page-para "> IEDSSA 2022-23
                                             G-1 ZONE GLIMPSE</p></td>
-                                            <td>
+                                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/IEDSSA-2022-23-G-1-ZONE-GLIMPSE/IEDSSA-2022-23-G-1-ONE-GLIMPSE-1.png" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-                        </td>
+                       
 
                          
                        
@@ -1119,21 +1042,14 @@
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>32</strong></td>
                         <td><p class="page-para ">Inter Engineering Diploma Students
                                             Sports Association (IEDSSA) Kabaddi Matches</p></td>
-                                            <td>
+                                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Inter-Engineering-Diploma-Students-Sports-Association/(IEDSSA)-Kabaddi-Matches-1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
-                        
-                          
-
-                        </td>
+                       
                         <td>
                          <div> 
                             <a href="edit-events.php" class=" text-white">
@@ -1152,19 +1068,14 @@
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>33</strong></td>
                         <td><p class="page-para ">Corruption
                                             Free India for a Developed Nation</p></td>
-                                            <td>
+                                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Corruption-Free-India-for-a-Developed-Nation/corruption.png" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-                        </td>
+                       
                    
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
@@ -1183,19 +1094,14 @@
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>34</strong></td>
                         <td><p class="page-para ">8th
                                             International Yoga Day Celebration at CSMSS College of Polytechnic</p></td>
-                                            <td>
+                                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/8th-International-Yoga-Day-Celebration-at-CSMSS-College-of-Polytechnic/8th1.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                        </td>
-
+                      
                            
                       
                         <td>
@@ -1220,20 +1126,14 @@
                                             Vaccination Drive For All The Students Who Are Above 15 Years Old On The
                                             Occasion Of National Youth Day January 12, 2022.</p></td>
                                             
-                           <td>
+                          
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-
-                        </td>
-                        
-                          
-                        </td>
+                       
 
                          
                        
@@ -1259,20 +1159,14 @@
                                             Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of
                                             Polytechnic</p></td>
                                             
-                            <td>
+                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Arrangement-Of-Covid-19/Arrangement-Of-Covid-19.jpeg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-
-                        </td>
+                       
                         <td>
                          <div> 
                             <a href="edit-events.php" class=" text-white">
@@ -1291,19 +1185,14 @@
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>37</strong></td>
                         <td><p class="page-para ">National Conference on Emerging
                                             Areas in Engineering and Technology</p></td>
-                                            <td>
+                                           
                         <td>
                             <img src="../../assets/img/news and events/Events/National-Conference-on-Emerging-Areas-in-Engineering-and-Technology/National-Conference.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-                        </td>
+                      
                    
                         <td>
                            <div> <a href="edit-events.php" class=" text-white">
@@ -1323,18 +1212,14 @@
                         <td><p class="page-para ">A State
                                             Level Technical Paper Presentation Competition (Electronics Group)</p></td>
                                            
-                            <td>
+                            
                         <td>
                             <img src="../../assets/img/news-and-events/Events/A-State-Level-Technical-Paper-Presentation-Competition-(Electronics Group)/a state1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                        </td>
+                       
 
                            
                       
@@ -1359,19 +1244,14 @@
                         <td><p class="page-para ">Two days
                                             state level workshop on "NBA Accreditation for polytechnic" on 08-04-2019 to
                                             09-04-2019</p></td>
-                                            <td>
+                                           
                         <td>
                             <img src="../../assets/img/news-and-events/Events/Two-days-state-level-workshop-on-NBA-Accreditation-for-polytechnic-on-08-04-2019-to-09-04-2019/two1.jpg" alt="Avatar" class="one" />
 
                         </td>
                         
                           
-                        </td>
-                   
-                        </td>
-                        
-                          
-                        </td>
+                      
 
                          
                        

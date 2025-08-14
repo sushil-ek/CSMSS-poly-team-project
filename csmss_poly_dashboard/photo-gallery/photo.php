@@ -51,107 +51,10 @@
         <div class="layout-page">
           <!-- Navbar -->
 
-          <nav
-            class="layout-navbar container-xxl navbar navbar-expand-xl navbar-detached align-items-center bg-navbar-theme"
-            id="layout-navbar"
-          >
-            <div class="layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0 d-xl-none">
-              <a class="nav-item nav-link px-0 me-xl-4" href="javascript:void(0)">
-                <i class="bx bx-menu bx-sm"></i>
-              </a>
-            </div>
+         <?php
+include '../common/header.php';
 
-            <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
-              <!-- Search -->
-              <div class="navbar-nav align-items-center">
-                <div class="nav-item d-flex align-items-center">
-                  <i class="bx bx-search fs-4 lh-0"></i>
-                  <input
-                    type="text"
-                    class="form-control border-0 shadow-none"
-                    placeholder="Search..."
-                    aria-label="Search..."
-                  />
-                </div>
-              </div>
-              <!-- /Search -->
-
-              <ul class="navbar-nav flex-row align-items-center ms-auto">
-                <!-- Place this tag where you want the button to render. -->
-                <li class="nav-item lh-1 me-3">
-                  <a
-                    class="github-button"
-                    href="https://github.com/themeselection/sneat-html-admin-template-free"
-                    data-icon="octicon-star"
-                    data-size="large"
-                    data-show-count="true"
-                    aria-label="Star themeselection/sneat-html-admin-template-free on GitHub"
-                    >Star</a
-                  >
-                </li>
-
-                <!-- User -->
-                <li class="nav-item navbar-dropdown dropdown-user dropdown">
-                  <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
-                    <div class="avatar avatar-online">
-                      <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
-                    </div>
-                  </a>
-                  <ul class="dropdown-menu dropdown-menu-end">
-                    <li>
-                      <a class="dropdown-item" href="#">
-                        <div class="d-flex">
-                          <div class="flex-shrink-0 me-3">
-                            <div class="avatar avatar-online">
-                              <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
-                            </div>
-                          </div>
-                          <div class="flex-grow-1">
-                            <span class="fw-semibold d-block">John Doe</span>
-                            <small class="text-muted">Admin</small>
-                          </div>
-                        </div>
-                      </a>
-                    </li>
-                    <li>
-                      <div class="dropdown-divider"></div>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="#">
-                        <i class="bx bx-user me-2"></i>
-                        <span class="align-middle new-para">My Profile</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="#">
-                        <i class="bx bx-cog me-2"></i>
-                        <span class="align-middle">Settings</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="#">
-                        <span class="d-flex align-items-center align-middle">
-                          <i class="flex-shrink-0 bx bx-credit-card me-2"></i>
-                          <span class="flex-grow-1 align-middle">Billing</span>
-                          <span class="flex-shrink-0 badge badge-center rounded-pill bg-danger w-px-20 h-px-20">4</span>
-                        </span>
-                      </a>
-                    </li>
-                    <li>
-                      <div class="dropdown-divider"></div>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="auth-login-basic.html">
-                        <i class="bx bx-power-off me-2"></i>
-                        <span class="align-middle ">Log Out</span>
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-                <!--/ User -->
-              </ul>
-            </div>
-          </nav>
+?>
 
           <!-- / Navbar -->
 
@@ -160,7 +63,7 @@
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4 ">PHOTO DETAILS</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4 ">PHOTO GALLERY</h4>
 
              
 
@@ -169,7 +72,7 @@
               <div class="card">
                 <div class="row">
                   <div class="col-lg-6 ">
-                    <div class="h5 card-header">PHOTOS </div>
+                    <div class="h5 card-header">PHOTO GALLERY </div>
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
@@ -185,6 +88,7 @@
                       <tr>
                         <th>Sr.No</th>
                         <th>Title</th>
+                        <th>Img</th>
                         
                       </tr>
                     </thead>
@@ -193,19 +97,7 @@
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>1</strong></td>
                         <td><p  class="new-para">Campus Recruitment Drive od john Deere India Pvt.Ltd</td>
                         <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/campus-front-board.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
-                    
+                          <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/campus-front-board.jpg" alt="Avatar" class="one" />
                         
                         </td>
                         <td>
@@ -224,20 +116,9 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>2</strong></td>
-                        <td class="new-para" >Campus Recruitment Drive of Websum Software Pvt.Ltd</td>
+                        <td><P class="new-para" >Campus Recruitment Drive of Websum Software Pvt.Ltd </p></td>
                          <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/campus-front-board.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
+                          <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/campus-front-board.jpg" alt="Avatar" class="one" />
 
                           
                         </td>
@@ -257,20 +138,9 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>3</strong></td>
-                        <td class="new-para">Campus Drive of Greaves Cotton Ltd. on 21st February 2025.</td>
+                        <td><P class="new-para">Campus Drive of Greaves Cotton Ltd. on 21st February 2025.</P></td>
                          <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/college-staff.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
+                          <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/college-staff.jpg" alt="Avatar" class="one" />
                     
                         
                         </td>
@@ -297,18 +167,7 @@
                         </td>
                         <td><p  class="new-para">Campus Drive of Core Project Engineers and Consultant Pvt. Ltd. for civil engineering student</p></td>
                          <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/certificate.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
+                          <img src="../../assets/img/news-and-events/photos-Gallery/campus-drive-of-core-project-engineers-and-consultants/certificate.jpg" alt="Avatar" class="one" />
                     
                         
                         </td>
@@ -332,20 +191,9 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>5</strong></td>
-                        <td class="new-para">Campus Interview of Bajaj Auto Ltd. on 8th February 2025</td>
+                        <td><P class="new-para">Campus Interview of Bajaj Auto Ltd. on 8th February 2025</P></td>
                          <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-interview-of-bajaj-auto-Ltd/staffs.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
+                         <img src="../../assets/img/news-and-events/photos-Gallery/campus-interview-of-bajaj-auto-Ltd/staffs.jpg" alt="Avatar" class="one" />
                     
                         
                           
@@ -366,20 +214,9 @@
                       </tr>
                      <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>6</strong></td>
-                        <td class="new-para">Campus Drive for Electrical & Mechanical Engineering students</td>
+                        <td> <P class="new-para">Campus Drive for Electrical & Mechanical Engineering students </P></td>
                          <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/interview img 2.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
+                        <img src="../../assets/img/news-and-events/photos-Gallery/campus-recuritment-of-websum-softwares-images/interview img 2.jpg" alt="Avatar" class="one" />
                     
                         
                           
@@ -400,20 +237,9 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>7</strong></td>
-                        <td class="new-para">छत्रपती शाहू पॉलिटेक्निक मध्ये जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्हचे यशस्वी आयोजन-2023</td>
+                        <td><p class="new-para">छत्रपती शाहू पॉलिटेक्निक मध्ये जॉन डियर इंडिया प्रा.ली. तर्फे कॅम्पस ड्राईव्हचे यशस्वी आयोजन-2023 </P></td>
                          <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-recruitment-of-john-deere-images/induction-photo.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
+                           <img src="../../assets/img/news-and-events/photos-Gallery/campus-recruitment-of-john-deere-images/induction-photo.jpg" alt="Avatar" class="one" />
                     
                         
                         </td>
@@ -433,20 +259,9 @@
                       </tr>
                       <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>8</strong></td>
-                        <td class="new-para">Glimpses of annual function Poly Fest 2k23</td>
+                        <td> <P class="new-para">Glimpses of annual function Poly Fest 2k23 </P></td>
                            <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/cultural-program.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
+                         <img src="../../assets/img/news-and-events/photos-Gallery/Glimpses-of-annual-function-2k23/cultural-program.jpg" alt="Avatar" class="one" />
                     
                         
                         </td>
@@ -465,21 +280,9 @@
                         </td>
                         <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>9</strong></td>
-                        <td class="new-para">Campus Interview of John Deere IndiaPvt Ltd 2019</td>
+                        <td><P class="new-para">Campus Interview of John Deere IndiaPvt Ltd 2019 </P></td>
                          <td>
-                          <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
-                            <li
-                              data-bs-toggle="tooltip"
-                              data-popup="tooltip-custom"
-                              data-bs-placement="top"
-                              class="avatar avatar-xs pull-up"
-                              title="Christina Parker"
-                            >
-                              <img src="../../assets/img/news-and-events/photos-Gallery/campus-interview-of-john-deere/staff.jpg" alt="Avatar" class="one" />
-                            </li>
-                            
-                          </ul>
-                    
+                           <img src="../../assets/img/news-and-events/photos-Gallery/campus-interview-of-john-deere/staff.jpg" alt="Avatar" class="one" />
                         
             
                         </td>

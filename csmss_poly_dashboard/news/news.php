@@ -61,7 +61,7 @@
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4">NEWS DETAILS</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4">NEWS </h4>
 
              
 
@@ -87,7 +87,7 @@
                         <th>Sr.No</th>
                         <th>Title</th>
                         <th></th>
-                        <th>pdf</th>
+                        <th>img</th>
                         
                       </tr>
                     </thead>
