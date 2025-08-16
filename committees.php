@@ -136,6 +136,28 @@
                                             </div>
                                         </div>
                                     </div>
+                                      <div class="row">
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="choose-item m-3">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div
+                                                    class="choose-item-info d-flex align-items-center justify-content-between">
+                                                    <!-- Placement Summary Text on the left -->
+                                                    <a href="assets\pdf\committees\ANTI-RAGGING-COMMITTEE.PDF"
+                                                        class="flex-grow-1">
+                                                        <h4>ANTI-RAGGING COMMITTEES</h4>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date:03-06-2023</p>
+                                                    </a>
+                                                    <!-- Download Button on the right -->
+                                                    <a href="assets\pdf\committees\ANTI-RAGGING-COMMITTEE.PDF" download                                                        class="download-btn ms-3">
+                                                        <i class="fa-solid fa-file-arrow-down"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="row">
                                         <div class="col-lg-12 col-md-12">
                                             <div class="choose-item m-3">

@@ -56,25 +56,13 @@
                 <div class="container mt-3">
                   <form>
                     <div class="row">
-                      <div class="col-lg-6">
-                        <div class="form-floating mb-3 mt-3">
-                          <input
-                            type="text"
-                            class="form-control"
-                            id="Text"
-                            placeholder="Sr No"
-                            name="Name"
-                          />
-                          <label for="Name">Sr No</label>
-                        </div>
-                      </div>
                        <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
                           <input type="text" class="form-control" id="Text" placeholder="Subject Code	"  name="Name"/>
                           <label for="Name">Subject Code</label>
                         </div>
                       </div>
-                    </div>
+                    
                      
                       
                      <div class="col-lg-6">
@@ -82,7 +70,7 @@
                           <input class="form-control p-3 mt-3"  type="file" id="formFile" name="image">
                         </div>
                       </div>
-
+</div>
                      
 
                     <div class="col-lg-12 text-center">

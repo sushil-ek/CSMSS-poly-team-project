@@ -125,7 +125,8 @@
                                                     <a href="assets\pdf\college-timetable\A-Y-24-25-EVEN-SEMESTER.pdf"
                                                         class="flex-grow-1">
                                                         <h4> A.Y. 24-25(Even Semester)</h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
+                                                        <p class="choose-item-discription  line-word  mt-0 mb-0">
+                                                            Timetable of all
                                                             Branches(CE,CO,ME,EE,EJ,AI) for Even Semester</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -145,7 +146,8 @@
                                                     <a href="assets\pdf\college-timetable\A-Y-2023-2024-EVEN-SEMESTER.pdf"
                                                         class="flex-grow-1">
                                                         <h4> A.Y. 2023-2024 (EVEN SEMESTER)</h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
+                                                        <p class="choose-item-discription  line-word  mt-0 mb-0">
+                                                            Timetable of all
                                                             Branches(CE,CO,ME,EE,EJ,AI) for Even Semester</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -165,7 +167,8 @@
                                                     <a href="assets\pdf\college-timetable\A-Y-2023-2024-ODD-SEMESTER.pdf"
                                                         class="flex-grow-1">
                                                         <h4> A.Y. 2023-2024 (ODD SEMESTER)</h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
+                                                        <p class="choose-item-discription  line-word  mt-0 mb-0">
+                                                            Timetable of all
                                                             Branches(CE,CO,ME,EE,EJ,AI) for ODD Semester</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
@@ -175,24 +178,27 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <div class="choose-item m-3">
-                                                <div class="choose-item-icon">
-                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                </div>
-                                                <div
-                                                    class="choose-item-info d-flex align-items-center justify-content-between">
-                                                    <!-- Placement Summary Text on the left -->
-                                                    <a href="assets\pdf\college-timetable\A-Y-2023-2024-ODD-SEMESTER.pdf"
-                                                        class="flex-grow-1">
-                                                        <h4> 15-09-2021 CO-3I TIME TABLE</h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Timetable of all
-                                                            Branches(CE,CO,ME,EE,EJ,AI) for ODD Semester</p>
-                                                    </a>
-                                                    <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
+                                            <div class="row">
+                                                <div class="col-lg-12 col-md-12">
+                                                    <div class="choose-item m-3">
+                                                        <div class="choose-item-icon">
+                                                            <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                        </div>
+                                                        <div
+                                                            class="choose-item-info d-flex align-items-center justify-content-between">
+                                                            <!-- Placement Summary Text on the left -->
+                                                            <a href="assets\pdf\college-timetable\A-Y-2023-2024-ODD-SEMESTER.pdf"
+                                                                class="flex-grow-1">
+                                                                <h4> 15-09-2021 CO-3I TIME TABLE</h4>
+                                                                <p
+                                                                    class="choose-item-discription  line-word  mt-0 mb-0">
+                                                                    Timetable of all
+                                                                    Branches(CE,CO,ME,EE,EJ,AI) for ODD Semester</p>
+                                                            </a>
+                                                            <!-- Download Button on the right -->
 
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
 

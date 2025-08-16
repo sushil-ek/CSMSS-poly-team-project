@@ -95,10 +95,10 @@
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
+                      <button type="submit" class="btn btn-primary">Add</button>
                       <button type="submit" class="btn btn-primary"><a href="committees.php" class="text-white">
                         Back
                       </a></button>
-                      <button type="submit" class="btn btn-primary">Add</button>
                     </div>
 
                     <!-- <div class="col-lg-12 mt-3 text-center">

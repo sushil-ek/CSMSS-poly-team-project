@@ -56,20 +56,6 @@
                 <div class="container mt-3">
                <form>
                     <div class="row">
-
-                      <div class="col-lg-6">
-                        <div class="form-floating mb-3 mt-3">
-                          <input
-                            type="text"
-                            class="form-control"
-                            id="Text"
-                            placeholder="Add Sr No"
-                            name="Name"
-                          />
-                          <label for="Name">Sr No</label>
-                        </div>
-                      </div>
-
                       <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
                           <input
@@ -96,10 +82,10 @@
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
-                      <button type="submit" class="btn btn-primary"><a href="admission.php" class="text-white">
+                      <button type="submit" class="btn btn-primary">Add</button>
+                       <button type="submit" class="btn btn-primary"><a href="admission.php" class="text-white">
                         Back
                       </a></button>
-                      <button type="submit" class="btn btn-primary">Add</button>
                     </div>
 
                     <!-- <div class="col-lg-12 mt-3 text-center">

@@ -128,7 +128,7 @@
                                                             2024</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="ol-lg-3 mt-2">
+                                                    <a href="col-lg-3 mt-2">
                                                         <a href="assets\pdf\notices\AGAINST-CAP-GENERAL-MERIT-LIST-A-Y-2022-23.pdf"
                                                             download class="download-btn ms-3">
                                                             <i class="fa-solid fa-file-arrow-down"></i>

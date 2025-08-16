@@ -38,11 +38,10 @@
         <div class="layout-page">
           <!-- Navbar -->
 
-                <?php
-                include '../common/header.php';
+               <?php
+               include '../common/header.php';
 
-                ?>
-
+               ?>
 
           <!-- / Navbar -->
 
@@ -51,7 +50,8 @@
             <!-- Content -->
 
             <div class="container-xxl flex-grow-1 container-p-y">
-              <h4 class="text-muted fw-bold py-3 mb-4">FORMS FOR DOWNLOAD</h4>
+              <h4 class="text-muted fw-bold py-3 mb-4">MANDATORY DISCLOSURE
+</h4>
 
              
 
@@ -60,11 +60,11 @@
               <div class="card">
                 <div class="row">
                   <div class="col-lg-6 ">
-                    <div class="h5 card-header">FORMS FOR DOWNLOAD</div>
+                    <div class="h5 card-header">MANDATORY DISCLOSURE </div>
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
-                    <a href="add_forms_to_download.php">
+                    <a href="add_disclosure.php">
                       <button type="button" class="btn btn-primary m-4">ADD+</button>
                     </a>
                   </div>
@@ -82,8 +82,8 @@
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
-                        <th>1</th>
-                        <td>Title</td>
+                        <td>1</td>
+                        <td><i class="fab fa-angular fa-lg text-danger "></i> <strong>Angular Project</strong></td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                             <li
@@ -115,11 +115,12 @@
                             </li>
                           </ul>
 
+                   
 
                         </td>
                         <td>
                          <div> 
-                            <a href="edit_forms_to_download.php" class=" text-white">
+                            <a href="edit_disclosure.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 
@@ -132,7 +133,8 @@
                         </td>
                       </tr>
                       <tr>
-                       
+                        
+                            </div>
                           </div>
                         </td>
                       </tr>
