@@ -51,7 +51,7 @@
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">EDIT EXAMTIMETABLE </h5>
+              <h5 class="card-header">EDIT EXAM TIMETABLE </h5>
               <div class="card-body">
                 <div class="container mt-3">
                   <form>
@@ -87,7 +87,7 @@
                      <div class="col-lg-12 mt-3 text-center">
                      
                       <button type="submit" class="btn btn-primary">Edit</button>
-                       <button type="submit" class="btn btn-primary"><a href="examtimetable.php" class="text-white">
+                       <button type="submit" class="btn btn-primary"><a href="exam_timetable.php" class="text-white">
                         Back
                       </a></button>
                     </div>

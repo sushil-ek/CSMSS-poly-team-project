@@ -95,14 +95,9 @@
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
-<<<<<<< HEAD
                       
                       <button type="submit" class="btn btn-primary">Add</button>
                       <button type="submit" class="btn btn-primary"><a href="academic_schedule.php" class="text-white">
-=======
-                      <button type="submit" class="btn btn-primary">Add</button>
-                       <button type="submit" class="btn btn-primary"><a href="academic_schedule.php" class="text-white">
->>>>>>> fa6b812d2897bba6e7700ded8538e4315a2bfaa3
                         Back
                       </a></button>
                     </div>

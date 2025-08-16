@@ -105,9 +105,10 @@
                                                         </a>
                                                         <!-- Download Button on the right -->
                                                         <a href="assets\pdf\forms-for-download\STUDENT-REGISTRATION-FORM.pdf"
-                                                            download class="download-btn ms-3">
+                                                            download class="download-btnn ms-3">
                                                             <i class="fa-solid fa-file-arrow-down"></i>
                                                         </a>
+                                                        
                                                     </div>
                                                 </div>
 

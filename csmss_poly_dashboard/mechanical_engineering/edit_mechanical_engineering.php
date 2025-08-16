@@ -56,25 +56,13 @@
                 <div class="container mt-3">
                   <form>
                     <div class="row">
-                      <div class="col-lg-6">
-                        <div class="form-floating mb-3 mt-3">
-                          <input
-                            type="text"
-                            class="form-control"
-                            id="Text"
-                            placeholder="Sr No"
-                            name="Name"
-                          />
-                          <label for="Name">Sr No</label>
-                        </div>
-                      </div>
                        <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
                           <input type="text" class="form-control" id="Text" placeholder="Subject Code"  name="Name"/>
                           <label for="Name">Subject Code</label>
                         </div>
                       </div>
-                    </div>
+                    
                      
                       
                      <div class="col-lg-6">
@@ -87,11 +75,7 @@
 
                     <div class="col-lg-12 text-center">
                       <button type="submit" class="btn btn-primary">Update</button>
-                      <button type="submit" class="btn btn-primary text-white">
-                        <a href="mechanical_engineering.php" class="text-white">
-                          Back
-                        </a>
-                      </button>
+                     <a href="mechanical_engineering.php" class="btn btn-primary text-white">Back</a>
                     </div>
                   </form>
                 </div>

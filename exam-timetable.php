@@ -21,13 +21,10 @@
     <?php
     include 'common/header-link.php';
     ?>
-<<<<<<< HEAD
 
     <style>
         
     </style>
-=======
->>>>>>> fa6b812d2897bba6e7700ded8538e4315a2bfaa3
 </head>
 
 <body>
@@ -136,7 +133,7 @@
                                                         class="flex-grow-1">
                                                         <h4>EXAM TIMETABLE AS FINAL TIMETABLE FOR SUMMER 2025 FOR THEORY
                                                             EXAMINITION </h4>
-                                                        <p class="mt-0 mb-0">Date:Sumer 2025</p>
+                                                        <p class="choose-item-discription mt-0 mb-0">Date:Sumer 2025</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
                                                     <a href="assets\pdf\Exam-timetable\EXAM-TIME-TABLE-AS-FINAL-TIME-TABLE-FOR-SUMMER-2025-THEORY-EXAMINATION.pdf"
@@ -177,10 +174,6 @@
                                                         <h4>FINAL TIME TABLE FOR WINTER 2024 THEORY EXAMINITION </h4>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
-
                                                 </div>
                                             </diV>
 
@@ -256,9 +249,6 @@
                                                         <p class="choose-item-discription mt-0 mb-0">Date :01st December 2023</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
                                                 </div>
                                             </div>
 
@@ -318,10 +308,6 @@
                                                             18 october 2022</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
-
                                                 </div>
                                             </div>
                                             <div class="choose-item m-3">
@@ -331,14 +317,14 @@
                                                 <div
                                                     class="choose-item-info d-flex align-items-center justify-content-between">
                                                     <!-- Placement Summary Text on the left -->
-                                                    <a href="assets\pdf\Exam-timetable\SUMMER-2022-CLASS-TEST-1-TIME-TABLE.xls"
+                                                    <a href="assets\pdf\Exam-timetable\SUMMER-2022-CLASS-TEST-1-TIME-TABLE.xlsx"
                                                         class="flex-grow-1">
                                                         <h4>SUMMER 2022 CLASS TEST 1 TIME TABLE</h4>
                                                         <p class="choose-item-discription mt-0 mb-0">Academic year 2021-22, Summer 2022 class
                                                             test 1 time table (05,06 & 07 April 2022)</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="assets\pdf\Exam-timetable\SUMMER-2022-CLASS-TEST-1-TIME-TABLE.xls"
+                                                    <a href="assets\pdf\Exam-timetable\SUMMER-2022-CLASS-TEST-1-TIME-TABLE.xlsx"
                                                         download class="download-btn ms-3">
                                                         <i class="fa-solid fa-file-arrow-down"></i>
                                                     </a>
@@ -357,9 +343,6 @@
                                                         <p class="choose-item-discription mt-0 mb-0">Other Website Link</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="choose-item m-3">
@@ -369,15 +352,11 @@
                                                 <div
                                                     class="choose-item-info d-flex align-items-center justify-content-between">
                                                     <!-- Placement Summary Text on the left -->
-                                                    <a href="#" class="flex-grow-1">
+                                                    <a class="flex-grow-1">
                                                         <h4>WINTER 2021 CLASS TEST 2 TIME TABLE</h4>
                                                         <p class="choose-item-discription mt-0 mb-0">Timetable Class Test 2, Winter 2021</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
-
                                                 </div>
                                             </div>
                                             <div class="choose-item m-3">
@@ -408,17 +387,10 @@
                                                     class="choose-item-info d-flex align-items-center justify-content-between">
                                                     <!-- Placement Summary Text on the left -->
                                                     <a href="#" class="flex-grow-1">
-<<<<<<< HEAD
-                                                        <h4>TIME TABLE FOR MCQ BASED ON-LINE WINTER 2020
-                                                            EXAM FOR FY &
-                                                            DSY</h4>
-                                                        <p class="choose-item-discription mt-0 mb-0">Final Date wise and slot wise Time
-=======
                                                         <h4 class="line-word2">TIME TABLE FOR MCQ BASED ON-LINE WINTER 2020
                                                             EXAM FOR FY &
                                                             DSY</h4>
                                                         <p class="line-word choose-item-discription mt-0 mb-0">Final Date wise and slot wise Time
->>>>>>> fa6b812d2897bba6e7700ded8538e4315a2bfaa3
                                                             Table
                                                             for MCQ based on-line Winter 2020 exam for AICTE approved
                                                             newly enrolled and students readmitted for 1st semester of
@@ -444,10 +416,6 @@
                                                         <p class="choose-item-discription mt-0 mb-0">Date: 2020</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
-
                                                 </div>
                                             </div>
 
@@ -463,9 +431,6 @@
                                                         <p class="choose-item-discription mt-0 mb-0">Date:</p>
                                                     </a>
                                                     <!-- Download Button on the right -->
-                                                    <a href="#" download class="download-btn ms-3">
-                                                        <i class="fa-solid fa-file-arrow-down"></i>
-                                                    </a>
                                                 </div>
                                             </div>
 

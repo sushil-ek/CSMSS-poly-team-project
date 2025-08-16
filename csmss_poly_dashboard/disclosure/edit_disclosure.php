@@ -40,26 +40,36 @@
         <!-- Layout container -->
         <div class="layout-page">
           <!-- Navbar -->
-        <?php
-        include '../common/header.php';
 
-        ?>
+           <?php
+           include '../common/header.php';
+
+           ?>
+
+
           <!-- / Navbar -->
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">EDIT COMPUTER ENGINEERING </h5>
+              <h5 class="card-header">EDIT MANDATORY DISCLOSURE </h5>
               <div class="card-body">
                 <div class="container mt-3">
                   <form>
                     <div class="row">
-                       <div class="col-lg-6">
+                      <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
-                          <input type="text" class="form-control" id="Text" placeholder="Subject Code"  name="Name"/>
-                          <label for="Name">Subject Code</label>
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="Text"
+                            placeholder="Title"
+                            name="Name"
+                          />
+                          <label for="Name">Title</label>
                         </div>
                       </div>
-                    
+
+                       
                      
                       
                      <div class="col-lg-6">
@@ -67,12 +77,14 @@
                           <input class="form-control p-3 mt-3"  type="file" id="formFile" name="image">
                         </div>
                       </div>
-                    </div>
-                     
 
+                      
+
+                     
+                     
                     <div class="col-lg-12 text-center">
                       <button type="submit" class="btn btn-primary">Update</button>
-                      <a href="computer_engineering.php" class="btn btn-primary text-white">Back</a>
+                      <a href="disclosure.php" class="btn btn-primary text-white">Back</a>
                     </div>
                   </form>
                 </div>

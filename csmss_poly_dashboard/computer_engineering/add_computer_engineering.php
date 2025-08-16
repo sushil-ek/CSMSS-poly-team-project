@@ -62,19 +62,6 @@
                             type="text"
                             class="form-control"
                             id="Text"
-                            placeholder="Sr No"
-                            name="Name"
-                          />
-                          <label for="Name">Sr No</label>
-                        </div>
-                      </div>
-
-                      <div class="col-lg-6">
-                        <div class="form-floating mb-3 mt-3">
-                          <input
-                            type="text"
-                            class="form-control"
-                            id="Text"
                             placeholder=" Subject Code"
                             name="Name"
                           />

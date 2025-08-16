@@ -69,7 +69,7 @@ include '../common/header_link.php';
 
                        <div class="col-lg-6">
                       <div class="form-floating mb-3 mt-3">
-                        <input type="text" class="form-control" id="Text" placeholder="Description  " name="Name" />
+                        <input type="text" class="form-control" id="Text" placeholder="Description" name="Name" />
                         <label for="Name">Descripition</label>
                       </div>
                     </div>
