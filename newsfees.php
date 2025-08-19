@@ -34,6 +34,13 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+         .news {
+          width: 300px;
+            display: -webkit-box;
+             -webkit-box-orient: vertical;
+           -webkit-line-clamp: 2;
+          overflow: hidden;
+}
     </style>
 <body>
 
@@ -610,12 +617,12 @@
             </ol>
         </nav>
                             
-                                            <h1 style=" border-bottom: 3px solid orange;">NEWS<h1>
+        <h1 style=" border-bottom: 3px solid orange;">NEWS<h1>
                                        
-                          <h2 class="mt-4">Fees Structure For Acedemic Year 2022-23..</h2>
+        <h2 class="mt-4">Fees Structure For Acedemic Year 2022-23..</h2>
                                     </h2><br>
                                     
-                                <img src="assets/img/news-and-events/news/fees-structure-22-23.jpg" class="card shadow-lg" style=" width: 100%;" ><br>
+        <img src="assets/img/news-and-events/news/fees-structure-22-23.jpg" class="card shadow-lg" style=" width: 100%;" ><br>
                                   CSMSS College of Polytechnic, Kanchanwadi, Aurangabad. Fees structure for academic year 2022-23
 
                             </div>
