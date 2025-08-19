@@ -25,6 +25,30 @@ include('../common/header_link.php');
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+    .nav-tabs {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        flex-wrap: nowrap;
+    }
+
+    .nav-tabs::-webkit-scrollbar {
+        height: 6px;
+        /* Horizontal scrollbar height */
+    }
+
+
+
+    .nav-tabs::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+
+    .nav-tabs li {
+        flex: 0 0 auto;
+        /* Prevent shrinking */
+    }
+</style>
 
 <body>
     <!-- Layout wrapper -->
@@ -59,30 +83,6 @@ include('../common/header_link.php');
                                 <li><a data-toggle="tab" href="#menu5">Artificial intelligence Engineering</a></li>
 
                             </ul>
-                            <style>
-                                .nav-tabs {
-                                    display: flex;
-                                    overflow-x: auto;
-                                    white-space: nowrap;
-                                    flex-wrap: nowrap;
-                                }
-
-                                .nav-tabs::-webkit-scrollbar {
-                                    height: 6px;
-                                    /* Horizontal scrollbar height */
-                                }
-
-
-
-                                .nav-tabs::-webkit-scrollbar-thumb:hover {
-                                    background: #555;
-                                }
-
-                                .nav-tabs li {
-                                    flex: 0 0 auto;
-                                    /* Prevent shrinking */
-                                }
-                            </style>
                             <div class="tab-content">
                                 <div id="home" class="tab-pane fade in active">
 
@@ -92,7 +92,7 @@ include('../common/header_link.php');
                                         </div>
 
                                         <div class="col-lg-6 d-flex justify-content-end">
-                                            <a href="add_Department-Mou's.php">
+                                            <a href="add_Department-Mous.php">
                                                 <button type="button" class="btn btn-primary me-4">ADD+</button>
                                             </a>
                                         </div>
@@ -113,13 +113,13 @@ include('../common/header_link.php');
                                             <tbody class="table-border-bottom-0">
 
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>EDUCADD LEARNING SOLUTIONS PVT. LTD</strong></td>
                                                     <td>02-02-2024</td>
                                                     <td>01-02-2027</td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -132,13 +132,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>M/S VB ASSOCIATES</strong></td>
                                                     <td>16-07-2024</td>
                                                     <td>15-07-2027</td>
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-success">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -151,13 +151,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>GANGAMAI SUGAR INDUSTRIES PVT. LTD</strong></td>
                                                     <td>16-07-2024 </td>
                                                     <td>15-07-2027</td>
                                                     <td>
 
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-info">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -169,14 +169,14 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>CADD CENTER</strong>
                                                     </td>
                                                     <td>04-02-2024</td>
                                                     <td>03-02-2027</td>
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-warning">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -205,7 +205,7 @@ include('../common/header_link.php');
                                         </div>
 
                                         <div class="col-lg-6 d-flex justify-content-end">
-                                            <a href="add_Department-Mou's.php">
+                                            <a href="add_Department-Mous.php">
                                                 <button type="button" class="btn btn-primary me-4">ADD+</button>
                                             </a>
                                         </div>
@@ -225,13 +225,13 @@ include('../common/header_link.php');
                                             <tbody class="table-border-bottom-0">
 
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Marathwada Auto Cluster , Waluj, Midc, Chhatrapati Sambhajinagar </strong></td>
                                                     <td>6/23/2022 </td>
                                                     <td>6/23/2025</td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -244,14 +244,14 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;"><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Marahtawada Association Of Small Scale Industries And Agriculture , Chikalthana Midc Chhatrapati Sambhajinagar </strong>
-                                                </td>
+                                                    </td>
                                                     <td>8/27/2021 </td>
                                                     <td>8/27/2025</td>
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-success">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -264,7 +264,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>SS Control Pvt Ltd Chikalthana , Midc Chhatrapati Sambhajinagar</strong></td>
                                                     <td>8/27/2021 </td>
                                                     <td>8/27/2025</td>
@@ -273,7 +273,7 @@ include('../common/header_link.php');
 
                                                     <td>
 
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-info">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -286,7 +286,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Chandra Electricals, Chhatrapati Sambhajinagar </strong>
                                                     </td>
@@ -295,7 +295,7 @@ include('../common/header_link.php');
 
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-warning">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -307,13 +307,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>09</td>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>DNR India Auto Tech Pvt Ltd Midc Waluj, Chhatrapati Sambhajinagar </strong></td>
                                                     <td>8/26/2021 </td>
                                                     <td>8/26/2025</td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -326,13 +326,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Shri Vidya Institute Of Skill Development, Chhatrapati Sambhajinagar</strong></td>
                                                     <td>7/8/2017 </td>
                                                     <td> 4/8/2025</td>
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-success">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -344,26 +344,26 @@ include('../common/header_link.php');
 
                                                     </td>
                                                 </tr>
+                                                <tr>
+                                                    <td>7</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Gangami Industries And Construction Limited Harinagar , Najik Babhulgaon, Ahmednagar</strong></td>
+                                                    <td>8/28/2021 </td>
+                                                    <td>8/28/2025</td>
 
-                                                <td>06</td>
-                                                <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Gangami Industries And Construction Limited Harinagar , Najik Babhulgaon, Ahmednagar</strong></td>
-                                                <td>8/28/2021 </td>
-                                                <td>8/28/2025</td>
 
 
+                                                    <td>
 
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Mou's.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-                                                </td>
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+                                                    </td>
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -384,7 +384,7 @@ include('../common/header_link.php');
                                         </div>
 
                                         <div class="col-lg-6 d-flex justify-content-end">
-                                            <a href="add_Department-Mou's.php">
+                                            <a href="add_Department-Mous.php">
                                                 <button type="button" class="btn btn-primary me-4">ADD+</button>
                                             </a>
                                         </div>
@@ -405,14 +405,14 @@ include('../common/header_link.php');
 
 
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Marathawada Auto Cluster, Waluj, MIDC Aurangabad. </strong>
                                                     </td>
                                                     <td> </td>
                                                     <td></td>
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-warning">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -425,13 +425,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>OTTOFlame Edutech Services</strong></td>
                                                     <td></td>
                                                     <td></td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -444,13 +444,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Marathawada Association of Small Scale Industries and Agriculture (MASSIA), Hub Industry</strong></td>
                                                     <td></td>
                                                     <td></td>
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-success">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -463,13 +463,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>DNR India Auto Tech Pvt. Ltd.</strong></td>
                                                     <td></td>
                                                     <td></td>
                                                     <td>
 
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-info">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -482,14 +482,14 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Tool Tech Tooling</strong>
                                                     </td>
                                                     <td> </td>
                                                     <td></td>
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-warning">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -502,13 +502,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>06</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Gangamai Industries and Constructions Ltd.</strong></td>
                                                     <td> </td>
                                                     <td></td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -540,7 +540,7 @@ include('../common/header_link.php');
                                         </div>
 
                                         <div class="col-lg-6 d-flex justify-content-end">
-                                            <a href="add_Department-Mou's.php">
+                                            <a href="add_Department-Mous.php">
                                                 <button type="button" class="btn btn-primary me-4">ADD+</button>
                                             </a>
                                         </div>
@@ -563,13 +563,13 @@ include('../common/header_link.php');
 
 
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Shri Venkatesh Polymould Pvt. Ltd. </strong></td>
                                                     <td>05-04-2023 </td>
                                                     <td>05-04-2025</td>
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-success">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -582,13 +582,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>DNR India Auto Tech Pvt. Ltd.</strong></td>
                                                     <td>26-08-2021 </td>
                                                     <td>25-08-2024</td>
                                                     <td>
 
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-info">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -601,7 +601,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Crystal Technology </strong>
                                                     </td>
@@ -610,7 +610,7 @@ include('../common/header_link.php');
 
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-warning">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -623,13 +623,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>CDSP, Chh.Sambhajinagar </strong></td>
                                                     <td>27-05-2024 </td>
                                                     <td>27-04-2025</td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -642,13 +642,13 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Marathwada Auto Cluster , Waluj, Midc, Chhatrapati Sambhajinagar </strong></td>
                                                     <td>23-06-2022 </td>
                                                     <td>23-06-2025</td>
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-success">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -680,7 +680,7 @@ include('../common/header_link.php');
                                         </div>
 
                                         <div class="col-lg-6 d-flex justify-content-end">
-                                            <a href="add_Department-Mou's.php">
+                                            <a href="add_Department-Mous.php">
                                                 <button type="button" class="btn btn-primary me-4">ADD+</button>
                                             </a>
                                         </div>
@@ -699,12 +699,12 @@ include('../common/header_link.php');
                                             </thead>
                                             <tbody class="table-border-bottom-0">
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>And We Media </strong></td>
                                                     <td>05/02/2024 </td>
                                                     <td>05/02/2027</td>
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-info">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -717,14 +717,14 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Just Logic Software Pvt. Ltd. </strong>
                                                     </td>
                                                     <td>05/02/2024 </td>
                                                     <td>05/02/2027</td>
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-warning">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -737,14 +737,14 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Smartpacey Institute & Technology Solution
                                                             Pvt. Ltd. </strong></td>
                                                     <td>05/02/2024 </td>
                                                     <td>05/02/2027</td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -776,7 +776,7 @@ include('../common/header_link.php');
                                         </div>
 
                                         <div class="col-lg-6 d-flex justify-content-end">
-                                            <a href="add_Department-Mou's.php">
+                                            <a href="add_Department-Mous.php">
                                                 <button type="button" class="btn btn-primary me-4">ADD+</button>
                                             </a>
                                         </div>
@@ -795,13 +795,13 @@ include('../common/header_link.php');
                                             </thead>
                                             <tbody class="table-border-bottom-0">
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Naskraft IT Solutions Pvt. Ltd. </strong></td>
                                                     <td>01-10-2022 </td>
                                                     <td>01-10-2024</td>
 
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-success">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -814,7 +814,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Marathawada Auto Cluster, Waluj,MIDC
                                                             Aurangabad. </strong></td>
                                                     <td>23-06-2022 </td>
@@ -824,7 +824,7 @@ include('../common/header_link.php');
 
                                                     <td>
 
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-info">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -836,7 +836,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Shri Venkatesh Polymould Pvt. Ltd.
                                                         </strong>
@@ -844,7 +844,7 @@ include('../common/header_link.php');
                                                     <td>05-04-2023 </td>
                                                     <td>05-04-2025</td>
                                                     <td>
-                                                        <div> <a href="edit_Department-Mou's.php" class=" text-white">
+                                                        <div> <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-warning">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>
@@ -857,14 +857,14 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. Pravin Ambekar AMB's C-DSP, Chh.
                                                             Sambhajinagar </strong></td>
                                                     <td>18-3-2024 </td>
                                                     <td>21-3-2025</td>
                                                     <td>
                                                         <div>
-                                                            <a href="edit_Department-Mou's.php" class=" text-white">
+                                                            <a href="edit_Department-Mous.php" class=" text-white">
                                                                 <button type="button" class="btn rounded-pill btn-primary">
                                                                     <i class="bx bx-edit-alt me-1"></i> Edit
                                                                 </button></a>

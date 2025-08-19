@@ -25,6 +25,28 @@ include('../common/header_link.php');
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+  .nav-tabs {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    flex-wrap: nowrap;
+  }
+
+  .nav-tabs::-webkit-scrollbar {
+    height: 6px;
+    /* Horizontal scrollbar height */
+  }
+
+  .nav-tabs::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  .nav-tabs li {
+    flex: 0 0 auto;
+    /* Prevent shrinking */
+  }
+</style>
 
 <body>
   <!-- Layout wrapper -->
@@ -60,28 +82,6 @@ include('../common/header_link.php');
                 <li><a data-toggle="tab" href="#menu6">Artificial intelligence Engineering</a></li>
 
               </ul>
-              <style>
-                .nav-tabs {
-                  display: flex;
-                  overflow-x: auto;
-                  white-space: nowrap;
-                  flex-wrap: nowrap;
-                }
-
-                .nav-tabs::-webkit-scrollbar {
-                  height: 6px;
-                  /* Horizontal scrollbar height */
-                }
-
-                .nav-tabs::-webkit-scrollbar-thumb:hover {
-                  background: #555;
-                }
-
-                .nav-tabs li {
-                  flex: 0 0 auto;
-                  /* Prevent shrinking */
-                }
-              </style>
 
 
               <!-- CIVIL DEPARTMENT START -->
@@ -116,7 +116,7 @@ include('../common/header_link.php');
                       <tbody class="table-border-bottom-0">
 
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Surveying</strong></td>
                           <td>661595</td>
 
@@ -136,7 +136,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> Concrete Technology</strong></td>
                           <td>303840</td>
 
@@ -156,15 +156,9 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mechanics of Structure</strong></td>
                           <td>703205</td>
-
-
-
-
-
-
                           <td>
 
                             <div> <a href="edit_List-Laboratries.php" class=" text-white">
@@ -180,20 +174,12 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Geotechnical Engineering</strong>
                           </td>
                           <td>256594</td>
-
-
-
-
-
                           <td>
-
-
-
                             <div> <a href="edit_List-Laboratries.php" class=" text-white">
                                 <button type="button" class="btn rounded-pill btn-warning">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
@@ -206,15 +192,10 @@ include('../common/header_link.php');
 
                           </td>
                         </tr>
-
-
-
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Public Health Engineering</strong></td>
                           <td>230431</td>
-
-
                           <td>
                             <div>
                               <a href="edit_List-Laboratries.php" class=" text-white">
@@ -230,11 +211,9 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> Model Room</strong></td>
                           <td>12480</td>
-
-
                           <td>
                             <div> <a href="edit_List-Laboratries.php" class=" text-white">
                                 <button type="button" class="btn rounded-pill btn-success">
@@ -249,7 +228,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>07</td>
+                          <td>7</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Civil Workshop</strong></td>
                           <td>4160</td>
 
@@ -273,7 +252,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>08</td>
+                          <td>8</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Highway Engineering</strong>
                           </td>
@@ -339,7 +318,7 @@ include('../common/header_link.php');
                       <tbody class="table-border-bottom-0">
 
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Electric Machine Laboratory</strong></td>
                           <td>806151</td>
 
@@ -359,7 +338,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Switchgear and Protection Laboratory</strong></td>
                           <td>155719</td>
 
@@ -379,7 +358,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Electrical Workshop</strong></td>
                           <td>8450</td>
 
@@ -402,7 +381,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Power Electronic Laboratory</strong>
                           </td>
@@ -431,7 +410,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Basic Electrical Engineering Laboratory
                             </strong></td>
                           <td>262281</td>
@@ -493,7 +472,7 @@ include('../common/header_link.php');
                       <tbody class="table-border-bottom-0">
 
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Theory of machines</strong></td>
                           <td>138668</td>
 
@@ -513,7 +492,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Industrial Fluid Power</strong></td>
                           <td>423629</td>
 
@@ -536,7 +515,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Thermal Engineering</strong>
                           </td>
@@ -565,7 +544,7 @@ include('../common/header_link.php');
 
 
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Metrology & Quality control
                             </strong></td>
                           <td>235835.1</td>
@@ -589,7 +568,7 @@ include('../common/header_link.php');
 
 
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Fluid Mechanics & Machinery</strong></td>
                           <td>334447</td>
 
@@ -609,7 +588,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Power Engineering</strong></td>
                           <td>193593</td>
 
@@ -633,7 +612,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>07</td>
+                          <td>7</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Measurement & Control</strong>
                           </td>
@@ -662,7 +641,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>08</td>
+                          <td>8</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong> Design of Machine Elements
                             </strong></td>
                           <td>41000</td>
@@ -684,7 +663,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>09</td>
+                          <td>9</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>CNC LAB</strong></td>
                           <td>1399906.25</td>
 
@@ -765,7 +744,7 @@ include('../common/header_link.php');
                       <tbody class="table-border-bottom-0">
 
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Communication Lab</strong>
                           </td>
@@ -794,7 +773,7 @@ include('../common/header_link.php');
 
 
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Measurement Lab
                             </strong></td>
                           <td>742717</td>
@@ -816,7 +795,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Basic Electronics Lab</strong></td>
                           <td>831545</td>
 
@@ -836,7 +815,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong> Digital & microprocessor Lab</strong></td>
                           <td>153880</td>
 
@@ -862,7 +841,7 @@ include('../common/header_link.php');
 
 
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Analog Electronics lab</strong>
                           </td>
@@ -929,7 +908,7 @@ include('../common/header_link.php');
                       <tbody class="table-border-bottom-0">
 
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong> PROGRAMMING LAB 1
                             </strong></td>
                           <td></td>
@@ -951,7 +930,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> COMPUTER CENTER</strong></td>
                           <td></td>
 
@@ -971,7 +950,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong> PROGRAMMING LAB 2</strong></td>
                           <td></td>
 
@@ -996,7 +975,7 @@ include('../common/header_link.php');
 
 
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>SOFTWARE DEVELOPMENT AND TESTING</strong>
                           </td>
@@ -1025,7 +1004,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong> HARDWARE & NETWORKING LAB
                             </strong></td>
                           <td></td>
@@ -1047,7 +1026,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> PROJECT LAB</strong></td>
                           <td></td>
 
@@ -1106,7 +1085,7 @@ include('../common/header_link.php');
                       <tbody class="table-border-bottom-0">
 
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong> Programming Lab 1</strong></td>
                           <td>1641893</td>
 
@@ -1131,7 +1110,7 @@ include('../common/header_link.php');
 
 
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Programming Lab 2</strong>
                           </td>
@@ -1160,7 +1139,7 @@ include('../common/header_link.php');
 
 
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Software Development Lab
                             </strong></td>
                           <td>1084244.45</td>
@@ -1182,7 +1161,7 @@ include('../common/header_link.php');
                         </tr>
 
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Hardware and Networking Lab</strong></td>
                           <td>1239244.45</td>
 

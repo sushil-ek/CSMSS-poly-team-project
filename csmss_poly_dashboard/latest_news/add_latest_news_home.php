@@ -50,25 +50,24 @@ include '../common/header.php';
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">LATEST NEWS</h5>
+              <h5 class="card-header">ADD LATEST NEWS</h5>
               <div class="card-body">
                 <div class="container mt-3">
-                  <form>
+               <form>
                     <div class="row">
                         <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
                           <input
                             type="date"
-                            class="form-control"
-                            id="Date"
+                            class="form-control "
+                            id="Text"
                             placeholder="Date"
-                            name="Date"
+                            name="Name"
                           />
-                          <label for="Date">Date</label>
+                          <label for="Name">Date</label>
                         </div>
                       </div>
-
-
+                     
                       <div class="col-lg-6">
                         <div class="mb-3">
                           <input class="form-control p-3 mt-3"  type="file" id="formFile" name="image">
@@ -80,27 +79,25 @@ include '../common/header.php';
                           <input
                             type="text"
                             class="form-control"
-                            id="Title"
+                            id="Text"
                             placeholder="Title"
-                            name="Title"
+                            name="Name"
                           />
-                          <label for="Title">Title</label>
+                          <label for="Name">Title</label>
                         </div>
                       </div>
                      
                       
                      
-                       
-               
                     
                     </div>
 
                     <div class="col-lg-12 text-center">
-                       <button type="submit" class="btn btn-primary">Update</button>
-                        <button type="submit" class="btn btn-primary"> <a href="./latest_news.php" class=" text-white">Back</a></button>
-                      
+                      <button type="submit" class="btn btn-primary">Add Latest News</button>
+                        <button type="submit" class="btn btn-primary"> <a href="./latest_news_home.php" class=" text-white">Back</a> </button>
+                    
                     </div>
-                  </form>
+</form>
                 </div>
               </div>
             </div>

@@ -1,18 +1,8 @@
 <!DOCTYPE html>
 
-<!-- =========================================================
-* Sneat - Bootstrap 5 HTML Admin Template - Pro | v1.0.0
-==============================================================
 
-* Product Page: https://themeselection.com/products/sneat-bootstrap-html-admin-template/
-* Created by: ThemeSelection
-* License: You must have a valid license purchased in order to legally use the theme for your project.
-* Copyright ThemeSelection (https://themeselection.com)
-
-=========================================================
- -->
-<!-- beautify ignore:start -->
 <html
+
   lang="en"
   class="light-style layout-menu-fixed"
   dir="ltr"
@@ -24,6 +14,9 @@
 include('../common/header_link.php');
 
 
+?>
+<?php
+require '../common/dbcon.php';
 ?>
  
   <body>
@@ -39,93 +32,12 @@ include('../common/header_link.php');
 
         <!-- Layout container -->
         <div class="layout-page">
-          <!-- Navbar -->
+               <!-- Navbar -->
 
-          <nav
-            class="layout-navbar container-xxl navbar navbar-expand-xl navbar-detached align-items-center bg-navbar-theme"
-            id="layout-navbar"
-          >
-            <div class="layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0 d-xl-none">
-              <a class="nav-item nav-link px-0 me-xl-4" href="javascript:void(0)">
-                <i class="bx bx-menu bx-sm"></i>
-              </a>
-            </div>
+                        <?php
+include '../common/header.php';
 
-            <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
-              <!-- Search -->
-              <div class="navbar-nav align-items-center">
-                <div class="nav-item d-flex align-items-center">
-                  <i class="bx bx-search fs-4 lh-0"></i>
-                  <input
-                    type="text"
-                    class="form-control border-0 shadow-none"
-                    placeholder="Search..."
-                    aria-label="Search..."
-                  />
-                </div>
-              </div>
-              <!-- /Search -->
-
-              <ul class="navbar-nav flex-row align-items-center ms-auto">
-                <!-- Place this tag where you want the button to render. -->
-                <!-- <li class="nav-item lh-1 me-3">
-                  <a
-                    class="github-button"
-                    href="https://github.com/themeselection/sneat-html-admin-template-free"
-                    data-icon="octicon-star"
-                    data-size="large"
-                    data-show-count="true"
-                    aria-label="Star themeselection/sneat-html-admin-template-free on GitHub"
-                    >Star</a
-                  >
-                </li> -->
-
-                <!-- User -->
-                  <li class="nav-item navbar-dropdown dropdown-user dropdown">
-                  <a
-                    class="nav-link dropdown-toggle hide-arrow"
-                    href="javascript:void(0);"
-                    data-bs-toggle="dropdown"
-                  >
-                    <div class="avatar avatar-online">
-                      <img
-                        src="../assets/img/avatars/1.png"
-                        alt
-                        class="w-px-40 h-auto rounded-circle"
-                      />
-                    </div>
-                  </a>
-                  <ul class="dropdown-menu dropdown-menu-end">
-                    <li>
-                      <a class="dropdown-item" href="#">
-                        <div class="d-flex">
-                        
-                          <div class="flex-grow-1 d-flex justify-content-center">
-                            <small class="text-muted text-center">Admin</small>
-                          </div>
-                        </div>
-                      </a>
-                    </li>
-                    <li>
-                      <div class="dropdown-divider"></div>
-                    </li>
-                    
-                   
-                    <li>
-                      
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="auth-login-basic.html">
-                        <i class="bx bx-power-off me-2"></i>
-                        <span class="align-middle">Log Out</span>
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-                <!--/ User -->
-              </ul>
-            </div>
-          </nav>
+?>
 
           <!-- / Navbar -->
 
@@ -146,50 +58,53 @@ include('../common/header_link.php');
                     <div class="h5 card-header">CONTACT US</div>
                   </div>
                  
-                  <div class="col-lg-6 d-flex justify-content-end">
+                  <!-- <div class="col-lg-6 d-flex justify-content-end">
                     <a href="add_contact_us.php">
                       <button type="button" class="btn btn-primary m-4">ADD+</button>
                     </a>
-                  </div>
+                  </div> -->
                 </div>
 
                 <div class="table-responsive text-nowrap">
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <th>SR</th>
                         <th>NAME</th>
                          <th>EMAIL ADDRESS</th>
                         <th>PHONE NUMBER</th>
                          <th>WHAT IS THE CONCERN</th>
                          <th>MESSAGE</th>
-                        <th>ACTION</th>
+                        <!-- <th>ACTION</th> -->
 
                       </tr>
                     </thead>
                     <tbody class="table-border-bottom-0">
+                      <?php
+                      $query = "SELECT * FROM contact_us";
+                      $query_run = mysqli_query($conn, $query);
+
+                      if (mysqli_num_rows($query_run) > 0) {
+                        foreach ($query_run as $contact_us) {
+                      ?>
                       <tr>
-                        <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
-                        <td>abc@gmail.com</td>
-                       
-                        <td>1234567800</td>
-                         <td>Albert Cook</td>
-                         <td>Albert Cook</td>
-                        <td>
-                         <div> 
-                            <a href="edit_contact_us.php" class=" text-white">
-                               <button type="button" class="btn rounded-pill btn-primary">
-                                  <i class="bx bx-edit-alt me-1"></i> Edit
-                                </button></a> 
-                                <a  href="#" class=" text-white">
-                                <button type="button" class="btn rounded-pill btn-primary"> 
-                                 <i class="bx bx-trash me-1 "></i> Delete
-                              </button></a>
-                            </div>
-                          </div>
-                        </td>
+                      <td><?= htmlspecialchars($contact_us['id']) ?></td>
+                      <td><strong><?= htmlspecialchars($contact_us['name']) ?></strong></td>
+                      <td><?= htmlspecialchars($contact_us['email']) ?></td>
+                      <td><?= htmlspecialchars($contact_us['number']) ?></td>
+                      <td><?= htmlspecialchars($contact_us['subject']) ?></td>
+                      <td><?= htmlspecialchars($contact_us['message']) ?></td>
                       </tr>
-                      
-                      
+                      <?php
+                        }
+                      } else {
+                      ?>
+                      <tr>
+                      <td colspan="6" class="text-center">No record found</td>
+                      </tr>
+                      <?php
+                      }
+                      ?>
                     </tbody>
                   </table>
                 </div>

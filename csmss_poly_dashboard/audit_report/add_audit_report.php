@@ -177,7 +177,7 @@ include '../common/sidebar.php';
                     </div>
 
                     <div class="col-lg-12 text-center">
-                      <button type="submit" class="btn btn-primary">ADD AUDIT REPORT</button> <button type="submit" class="btn btn-primary"><a href="audit _report.php" class="text-white">Back</a></button> 
+                      <button type="submit" class="btn btn-primary">ADD AUDIT REPORT</button> <button type="submit" class="btn btn-primary"><a href="audit_report.php" class="text-white">Back</a></button> 
                       
                     </div>
 </form>

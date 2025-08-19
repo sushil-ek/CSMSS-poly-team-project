@@ -33,6 +33,14 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+
+         .news {
+    width: 180px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+    }
     </style>
 </head>
 <body>
@@ -89,7 +97,7 @@
                                             <div class="carousel-item active" data-bs-interval="10000">
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news text-center">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</strong>
+                                                        <p class="ps-5 news text-center">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</p>
                                             
                                                         <center>
                                                             <div class="department-btn ">

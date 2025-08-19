@@ -102,7 +102,7 @@ include '../common/header_link.php';
                                                     <option value="5">Computer Engineering</option>
                                                     <option value="6">Artificial Intelligence and Machine Learning</option>
                                                 </select>
-                                                <label for="Dropdown"> Labels</label>
+                                                <label for="Dropdown"> Department</label>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
@@ -113,7 +113,7 @@ include '../common/header_link.php';
                                                     <option value="2">Second-Year</option>
                                                     <option value="3">Third-Year</option>
                                                 </select>
-                                                <label for="Dropdown"> Labels</label>
+                                                <label for="Dropdown"> Year</label>
                                             </div>
                                         </div>
 
@@ -129,9 +129,6 @@ include '../common/header_link.php';
                                         </div>
 
                                     </div>
-                                    <!-- <div class="col-lg-12 mt-3 text-center">
-                                        <button type="submit" class="btn btn-primary">Add Event</button>
-                                       </div> -->
                                 </form>
                             </div>
                         </div>

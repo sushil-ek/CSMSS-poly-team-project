@@ -33,6 +33,13 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+        .news {
+    width: 180px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+    }
     </style>
 </head>
 
@@ -765,18 +772,13 @@
 
 
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john7.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; ">
+    <img src="assets/img/news-and-events/Events/john-deere/john7.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
 
-
-
-
-
-
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john8.jpeg"alt="thumb" class="card shadow-lg" style="height:200px; ">
+    <img src="assets/img/news-and-events/Events/john-deere/john8.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
@@ -784,7 +786,7 @@
 
 
 <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/john-deere/john9.jpeg"alt="thumb"class="card shadow-lg" style="height:200px; ">
+    <img src="assets/img/news-and-events/Events/john-deere/john9.jpeg"alt="thumb"class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 

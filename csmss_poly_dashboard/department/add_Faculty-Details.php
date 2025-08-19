@@ -136,25 +136,21 @@ include '../common/header_link.php';
                                                     Back
                                                 </a></button>
                                         </div>
-
-                                        <!-- <div class="col-lg-12 mt-3 text-center">
-                      <button type="submit" class="btn btn-primary">Add Event</button>
-                    </div> -->
+                                    </div>
                                 </form>
                             </div>
                         </div>
                     </div>
+
+                    <hr class="my-5" />
+
+                    <!-- Footer -->
+                    <!-- Footer -->
+                    <?php
+                    include '../common/footer.php';
+                    ?>
+                    <!-- / Footer -->
                 </div>
-
-                <hr class="my-5" />
-
-                <!-- Footer -->
-                <!-- Footer -->
-                <?php
-                include '../common/footer.php';
-                ?>
-                <!-- / Footer -->
-
                 <div class="content-backdrop fade"></div>
             </div>
             <!-- Content wrapper -->

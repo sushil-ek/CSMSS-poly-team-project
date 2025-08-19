@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="keywords" content="">
-    
+
     <?php
     include 'common/header-link.php';
     ?>
@@ -17,7 +17,6 @@
         .nav-pills .nav-link.active,
         .nav-pills .show>.nav-link {
             color: #fda31b;
-            /* background-color: #116e63; */
             background-color: transparent;
         }
 
@@ -26,7 +25,6 @@
         }
 
         /* marquee div container  */
-
         #marque-sec .img-one {
             height: 32px;
         }
@@ -73,16 +71,11 @@
 
         #marque-sec .custom-link:hover {
             color: #FFC107;
-            /* Yellow on hover */
         }
 
         #marque-sec .custom-link:active {
             color: green !important;
-            /* green on click */
         }
-
-
-
 
         .accordion-item {
             border: none;
@@ -127,15 +120,10 @@
             border-bottom: 1px solid var(--theme-color);
         }
 
-/* .fixed {
-  position: fixed;
-  top: 100px; 
-  z-index: 1000;
-} */
-.lg{
-margin-left:415px;
-margin-top:-310px;
-}
+        .lg {
+            margin-left: 415px;
+            margin-top: -310px;
+        }
 
 
 
@@ -150,33 +138,31 @@ margin-top:-310px;
             }
         }
 
-.download-btn{
-    color:#f48a19;
-     font-size: 30px;
-    
-}
-                @media only screen and  (max-width: 768px) {
-.download-btn{
-    color:#f48a19;
-    /* font-size: 30px;
-    margin-left:45%; */
-}
+        .download-btn {
+            color: #f48a19;
+            font-size: 30px;
 
-                }
+        }
 
-                  @media only screen and  (max-width: 426px) {
-.download-btn{
-    color:#f48a19;
-    /* font-size: 30px;
-    margin-left:45%; */
-}
+        @media only screen and (max-width: 768px) {
+            .download-btn {
+                color: #f48a19;
 
-                }
+            }
 
+        }
+
+        @media only screen and (max-width: 426px) {
+            .download-btn {
+                color: #f48a19;
+
+            }
+
+        }
     </style>
 </head>
 
-<body>                                                      
+<body>
     <!-- preloader -->
     <div class="preloader">
         <div class="loader-book">
@@ -215,7 +201,7 @@ margin-top:-310px;
         </div>
         <!-- breadcrumb end -->
         <!-- department-single -->
-        <div class="department-single-area  position-relative mt-4 mb-4 "> 
+        <div class="department-single-area  position-relative mt-4 mb-4 ">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
@@ -248,14 +234,14 @@ margin-top:-310px;
                             </div>
                         </div>
 
-                   
 
-                      
+
+
                         <div class="col-xl-8 col-lg-8 overflow-y:scroll" style="overflow-y:scroll; height: 700px; scrollbar-width:none; -ms-overflow-style:none;">
                             <div class="department-details">
-                                <div class="tab-content show"> 
+                                <div class="tab-content show">
                                     <!-- Campus - Active by default -->
-                                     <div class="widget category">
+                                    <div class="widget category">
 
                                         <div id="campus" class="container tab-pane active show"><br>
                                             <h3 class="mb-5 text-center">OBJECTIVES OF TRAINING AND PLACEMENT</h3>
@@ -280,359 +266,105 @@ margin-top:-310px;
                                                 industry as per requirements.</p>
                                         </div>
 
-                                           <div class="widget event-single-info">
+                                        <div class="widget event-single-info">
 
-                                                    <button class="accordion-button" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                        aria-expanded="true" aria-controls="collapseOne">
-                                                        <h4 class="widget-title mt-5 text-center">Placement Data</h4>
-                                                    </button> 
-                                                </h2>
+                                            <button class="accordion-button" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                aria-expanded="true" aria-controls="collapseOne">
+                                                <h4 class="widget-title mt-5 text-center">Placement Data</h4>
+                                            </button>
+                                            </h2>
 
-                                                         <div class="row">
-                                                           <div class="col-lg-12 col-md-12">
-                                                            <div class="choose-item m-3">
-                                                                <div class="choose-item-icon">
-                                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                             </div>
-                                                                <div class="choose-item-info d-flex align-items-center justify-content-between">
-                                                                    <!-- Placement Summary Text on the left -->
-                                                                    <a href="assets/pdf/placement_details/T&Pcell.pdf" class="flex-grow-1">
-                                                                        <p class="mt-0 mb-0">Training and Placement Cell</p>
-                                                                    </a>
-
-                                                                    <!-- Download Button on the right -->
-                                                                    <a href="assets/pdf/placement_details/T&PCell.pdf" download class="download-btn ms-3">
-                                                                     <i class="fa-solid fa-file-arrow-down"></i>
-                                                                    </a>
-                                                                </div>
-                                                                 </div>
+                                            <div class="row">
+                                                <div class="col-lg-12 col-md-12">
+                                                    <div class="choose-item m-3">
+                                                        <div class="choose-item-icon">
+                                                            <img src="assets/img/icon/teacher-2.svg" alt="">
                                                         </div>
+                                                        <div class="choose-item-info d-flex align-items-center justify-content-between">
+                                                            <!-- Placement Summary Text on the left -->
+                                                            <a href="assets/pdf/placement_details/T&Pcell.pdf" class="flex-grow-1">
+                                                                <p class="mt-0 mb-0">Training and Placement Cell</p>
+                                                            </a>
 
-                                                          <div class="col-lg-12 col-md-12">
-                                                                <div class="choose-item m-3">
-                                                                  <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div>
-                                                                    <div class="choose-item-info d-flex align-items-center justify-content-between">
-                                                                        <!-- Placement Summary Text on the left -->
-                                                                        <a href="assets/pdf/placement_details/summery.pdf" class="flex-grow-1">
-                                                                            <p class="mt-0 mb-0">Placement Summary</p>
-                                                                        </a>
-
-                                                                        <!-- Download Button on the right -->
-                                                                        <a href="assets/pdf/placement_details/summery.pdf" download class="download-btn ms-3">
-                                                                            <i class="fa-solid fa-file-arrow-down"></i>
-                                                                        </a>
-                                                                 </div>
-                                                             </div>
-                                                            </div>                                                      
-
-                                                           <div class="col-lg-12 col-md-12">
-                                                            <div class="choose-item m-3">
-                                                                <div class="choose-item-icon">
-                                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                </div>
-                                                              <div class="choose-item-info d-flex align-items-center justify-content-between">
-                                                                 <!-- Placement Summary Text on the left -->
-                                                                  <a href="assets/pdf/placement_details/placement_details.pdf" class="flex-grow-1">
-                                                                     <p class="mt-0 mb-0">Year Wise / Department Wise Students Placement Details</p>
-                                                                 </a>
-
-                                                                 <!-- Download Button on the right -->
-                                                                 <a href="assets/pdf/placement_details/placement_details.pdf" download class="download-btn ms-3">
-                                                                     <i class="fa-solid fa-file-arrow-down"></i>
-                                                                 </a>
-                                                             </div>
-                                                            </div>
+                                                            <!-- Download Button on the right -->
+                                                            <a href="assets/pdf/placement_details/T&PCell.pdf" download class="download-btn ms-3">
+                                                                <i class="fa-solid fa-file-arrow-down"></i>
+                                                            </a>
                                                         </div>
-
-                                                    <div class="col-lg-12 col-md-12">
-                                                     <div class="choose-item m-3">
-                                                         <div class="choose-item-icon">
-                                                             <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                            </div>
-                                                            <div class="choose-item-info d-flex align-items-center justify-content-between">
-                                                             <!-- Placement Summary Text on the left -->
-                                                                <a href="assets/pdf/placement_details/recruiters.pdf" class="flex-grow-1">
-                                                                 <p class="mt-0 mb-0">List Of Recruiters</p>
-                                                                </a>
-
-                                                             <!-- Download Button on the right -->
-                                                                <a href="assets/pdf/placement_details/recruiters.pdf" download class="download-btn ms-3">
-                                                                 <i class="fa-solid fa-file-arrow-down"></i>
-                                                                </a>
-                                                            </div>
-                                                     </div>
                                                     </div>
+                                                </div>
 
-
+                                                <div class="col-lg-12 col-md-12">
+                                                    <div class="choose-item m-3">
+                                                        <div class="choose-item-icon">
+                                                            <img src="assets/img/icon/teacher-2.svg" alt="">
                                                         </div>
-                                                 
+                                                        <div class="choose-item-info d-flex align-items-center justify-content-between">
+                                                            <!-- Placement Summary Text on the left -->
+                                                            <a href="assets/pdf/placement_details/summery.pdf" class="flex-grow-1">
+                                                                <p class="mt-0 mb-0">Placement Summary</p>
+                                                            </a>
 
- </div>
-                                    </div>
-                                </div>
+                                                            <!-- Download Button on the right -->
+                                                            <a href="assets/pdf/placement_details/summery.pdf" download class="download-btn ms-3">
+                                                                <i class="fa-solid fa-file-arrow-down"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-lg-12 col-md-12">
+                                                    <div class="choose-item m-3">
+                                                        <div class="choose-item-icon">
+                                                            <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                        </div>
+                                                        <div class="choose-item-info d-flex align-items-center justify-content-between">
+                                                            <!-- Placement Summary Text on the left -->
+                                                            <a href="assets/pdf/placement_details/placement_details.pdf" class="flex-grow-1">
+                                                                <p class="mt-0 mb-0">Year Wise / Department Wise Students Placement Details</p>
+                                                            </a>
+
+                                                            <!-- Download Button on the right -->
+                                                            <a href="assets/pdf/placement_details/placement_details.pdf" download class="download-btn ms-3">
+                                                                <i class="fa-solid fa-file-arrow-down"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-lg-12 col-md-12">
+                                                    <div class="choose-item m-3">
+                                                        <div class="choose-item-icon">
+                                                            <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                        </div>
+                                                        <div class="choose-item-info d-flex align-items-center justify-content-between">
+                                                            <!-- Placement Summary Text on the left -->
+                                                            <a href="assets/pdf/placement_details/recruiters.pdf" class="flex-grow-1">
+                                                                <p class="mt-0 mb-0">List Of Recruiters</p>
+                                                            </a>
+
+                                                            <!-- Download Button on the right -->
+                                                            <a href="assets/pdf/placement_details/recruiters.pdf" download class="download-btn ms-3">
+                                                                <i class="fa-solid fa-file-arrow-down"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
 
 
+                                            </div>
 
 
-
-                                <!-- new marque -->
-                                <!-- <section id="marque-sec">
-                                    <div class="marquee-container overflow-hidden shadow-sm">
-                                        <div class="marquee-content d-flex align-items-center text-white">
-                                            <span>
-                                                <img class="img-one mt-1" src="assets/img/placement/img_new.png" alt="">
-                                                <a href="assets/pdf/placement_details/IIIR.pdf" class="custom-link"
-                                                    target="_blank">
-                                                    <p class="pe-5 fw-bold text-white"> 112th feb. 2024 - Industry Institute
-                                                        Interaction </p>
-                                                </a>
-                                            </span>
                                         </div>
                                     </div>
-                                </section> -->
-                                <!-- NEW CSS HELPLINE -->
-
-
-
+                                </div>
                                 <div class="col-lg-12 mt-5">
-                                    <!-- <div class="widget event-single-info">
-
-                                                    <button class="accordion-button" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                        aria-expanded="true" aria-controls="collapseOne">
-                                                        <h4 class="widget-title mt-5 text-center">Placement Data</h4>
-                                                    </button> 
-                                                </h2>
-
-                                                         <div class="row">
-                                                            <div class="col-lg-6 col-md-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div> 
-                                                                   <div class="choose-item-info ">
-                                                                        <a href="assets/pdf/placement_details/T&PCell.pdf">
-                                                                            <p class="mt-4"> Training and Placement Cell
-                                                                            </p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-6 col-md-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div>
-                                                                    <div class="choose-item-info">
-                                                                        <a href="assets/pdf/placement_details/summery.pdf">
-                                                                            <p class="mt-4"> Placement Summary</p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-6 col-md-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div>
-                                                                    <div class="choose-item-info">
-                                                                        <a href="assets/pdf/placement_details/placement_details.pdf">
-                                                                            <p class="mt-4"> Year Wise / Department wise
-                                                                                Student Placement Details</p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-6 col-md-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div>
-                                                                    <div class="choose-item-info">
-                                                                        <a href="assets/pdf/placement_details/recruiters.pdf">
-                                                                            <p class="mt-4"> List of Recruiters</p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-                                                 
-
- </div> -->
-
-    </div>
-  </div>
-</section>
 
 
-
-
-                         <!-- department-single end -->
-
-        <!-- <div class="department-single-area py-120 position-relative justify-content-end"> 
-            <div class="container">
-                <div class="department-single-wrapper">
-                    <div class="row">
- 
-                        <div class="col-xl-4 col-lg-4 position-">
-
-                            <div class="department-sidebar fixed col-lg-4 ">
-                                <div class="widget category">
-                                    <h4 class="widget-title">T&P DEPARTMENT </h4>
-                                    <div class="category-list">
-                                        <ul class="nav nav-pills" role="tablist">
-                                            <li class="nav-item col-lg-12 col-md-4 col-12 ">
-                                                <a data-bs-toggle="pill" href="#campus" class="nav-link active">
-                                                    <i class="far fa-long-arrow-right"></i> Placement Details
-                                                </a>
-                                            </li>
-                                            <li class="nav-item col-lg-12 col-md-4 col-12  mt-2">
-                                                <a href="placement_gallery.php" class="nav-link ">
-                                                    <i class="far fa-long-arrow-right"></i> Gallery
-                                                </a>
-                                            </li>
-
-                                            <li class="nav-item col-lg-12 col-md-4 col-12  mt-2">
-                                                <a href="placement.php" class="nav-link">
-                                                    <i class="far fa-long-arrow-right"></i> Our Placement
-                                                </a>
-                                            </li>
-
-                                        </ul>
-                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-                   
-<div class="department-single-area py-120 position-relative justify-content-end"> 
-            <div class="container">
-                <div class="department-single-wrapper">
-                    <div class="row">
-                      
-                        <div class="col-xl-8 col-lg-8 lg">
-                            <div class="department-details">
-                                <div class="tab-content show"> -->
-                                    <!-- Campus - Active by default -->
-                                    <!-- <div class="widget category">
-
-                                        <div id="campus" class="container tab-pane active show"><br>
-                                            <h3 class="mb-5 text-center">OBJECTIVES OF TRAINING AND PLACEMENT</h3>
-                                            <p> The Training & Placement (T & P) cell has been formed for the Job
-                                                Placement & In- plant Trainings of students.</p>
-                                            <p>The Training & Placement (T & P) cell maintains strong bond between
-                                                Industry & Institute in various ways.</p>
-                                            <p>It interact ways the industry frequently by arraigning visits,
-                                                encouraging students, to carry the industrial projects & Trainings.</p>
-                                            <p>Each department has a Placement Coordinator who reports to TPO in
-                                                organizing Training & Placement activities.</p>
-                                            <p>TP coordinator of each department approach industries for summer in-plant
-                                                training and placement activities.</p>
-                                            <p>Through Training & Placement cell various activities of personality
-                                                development are carried out for enhancing soft skills and interview
-                                                techniques so as to make them perfectly fit for industry.</p>
-                                            <p>Create awareness among students regarding available career options and
-                                                help them in identifying their career objectives.</p>
-                                            <p>To give industrial exposure industrial visits & industry expert lecture
-                                                are carried out.</p>
-                                            <p>T & P cell maintain updated the data base of students & forward it to
-                                                industry as per requirements.</p>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <!-- new marque -->
-                                <!-- <section id="marque-sec">
-                                    <div class="marquee-container overflow-hidden shadow-sm">
-                                        <div class="marquee-content d-flex align-items-center text-white">
-                                            <span>
-                                                <img class="img-one mt-1" src="assets/img/placement/img_new.png" alt="">
-                                                <a href="assets/pdf/placement_details/IIIR.pdf" class="custom-link"
-                                                    target="_blank">
-                                                    <p class="pe-5 fw-bold text-white"> 16th feb. 2024 - Industry Institute
-                                                        Interaction </p>
-                                                </a>
-                                            </span>
-                                        </div>
-                                    </div>
-                                </section> -->
-                                <!-- NEW CSS HELPLINE -->
-
-
-
-                                <!-- <div class="col-lg-12 mt-5">
-                                    <div class="widget event-single-info">
-
-                                                    <button class="accordion-button" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                        aria-expanded="true" aria-controls="collapseOne">
-                                                        <h4 class="widget-title mt-5 text-center">Placement Data</h4>
-                                                    </button> 
-                                                </h2>
-
-                                                         <div class="row">
-                                                            <div class="col-lg-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div> 
-                                                                   <div class="choose-item-info ">
-                                                                        <a href="assets/pdf/placement_details/T&PCell.pdf">
-                                                                            <p class="mt-4"> Training and Placement Cell
-                                                                            </p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div>
-                                                                    <div class="choose-item-info">
-                                                                        <a href="assets/pdf/placement_details/summery.pdf">
-                                                                            <p class="mt-4"> Placement Summary</p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div>
-                                                                    <div class="choose-item-info">
-                                                                        <a href="assets/pdf/placement_details/placement_details.pdf">
-                                                                            <p class="mt-4"> Year Wise / Department wise
-                                                                                Student Placement Details</p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-6">
-                                                                <div class="choose-item m-3">
-                                                                    <div class="choose-item-icon">
-                                                                        <img src="assets/img/icon/teacher-2.svg" alt="">
-                                                                    </div>
-                                                                    <div class="choose-item-info">
-                                                                        <a href="assets/pdf/placement_details/recruiters.pdf">
-                                                                            <p class="mt-4"> List of Recruiters</p>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-                                                 
-
- </div> -->
-
+                            </section>
 
     </main>
     <!-- footer area -->

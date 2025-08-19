@@ -13,11 +13,14 @@
     <meta name="keywords" content="">
 
     
+
     <?php
     include 'common/header-link.php';
     ?>
+
+</head>
 <style>
-.nav-pills .nav-link.active,
+    .nav-pills .nav-link.active,
         .nav-pills .show>.nav-link {
             color: #FDA31B;
             background-color: transparent;
@@ -32,9 +35,22 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+    .faq-area .accordion-item i {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 50px;
+    
+    text-align: center;
+}
+.news {
+         width: 230px;
+         display: -webkit-box;
+         -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+         overflow:hidden;
+}
     </style>
-</head>
-
 <body>
 
     <!-- preloader -->
@@ -71,17 +87,18 @@
 
     <main class="main">
 
+         <!-- breadcrumb -->
         
+        <!-- breadcrumb end -->
+
 
         <!-- Student-Corner -->
-        
         <div class="department-single-area py-120">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
                        <div class="col-xl-4 col-lg-4 ">
-
-                <section id="latest-news-section">
+                        <section id="latest-news-section">
                                 <div class="container my-4">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
                                         <h2 class="widget-title" >Latest News</h2>
@@ -89,7 +106,7 @@
                                             <div class="carousel-item active" data-bs-interval="10000">
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <P class="ps-5 news text-center">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</P>
+                                                        <p class=" news text-center">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</p>
                                             
                                                         <center>
                                                             <div class="department-btn ">
@@ -101,9 +118,9 @@
                                             <div class="carousel-item" data-bs-interval="10000">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5 text-center">Blood
+                                                        <p class="news  text-center">Blood
                                             Donation Camp on the Occasion of the Birthday of Hon. Secretary Padmakarji
-                                            Mulay Sir</P>
+                                            Mulay Sir</p>
                                                         
                                                         <center>
                                                             <div class="department-btn">
@@ -115,8 +132,8 @@
                                             <div class="carousel-item" data-bs-interval="10000">
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start pt-5" style=" font-size: 15px">
-                                                        <P class="news ps-5">Expert Talk on "Personality
-                                            Development</P>
+                                                        <p class="news ">Expert Talk on "Personality
+                                            Development</p>
                                                         
                                                         <center>
                                                             <div class="department-btn">
@@ -129,8 +146,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Expert
-                                            Talk on "Business Opportunities and Product Selection</P>
+                                                        <p class="news ">Expert
+                                            Talk on "Business Opportunities and Product Selection</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-business-opp.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -141,8 +158,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Expert Talk on "Entrepreneurship as
-                                            a Career Choice</P>
+                                                        <p class="news ">Expert Talk on "Entrepreneurship as
+                                            a Career Choice</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-entrepreneurship.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -153,8 +170,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">ISTE
-                                            Sponsored State Level Technical Paper Presentation and Quiz Competition</P>
+                                                        <p class="news ">ISTE
+                                            Sponsored State Level Technical Paper Presentation and Quiz Competition</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-ISTE-sponsered.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -165,8 +182,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Inaugration of Project lab and
-                                            Software development lab</P>
+                                                        <p class="news ">Inaugration of Project lab and
+                                            Software development lab</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-inagu-of-project-soft.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -177,8 +194,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Expert
-                                            talk on "Employability in Defence Services</P>
+                                                        <p class="news ">Expert
+                                            talk on "Employability in Defence Services</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-expert-talk.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -189,7 +206,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">National Road Safety Week</P>
+                                                        <p class="news ">National Road Safety Week</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national-road.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -200,8 +217,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">52th
-                                            District Level Science Exhibition</P>
+                                                        <p class="news ">52th
+                                            District Level Science Exhibition</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-52th-district.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -212,8 +229,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Faculty Development Training Program
-                                            on "Comprehensive Python and Machine Learning "</P>
+                                                        <p class="news ">Faculty Development Training Program
+                                            on "Comprehensive Python and Machine Learning "</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-comprehensive-python.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -224,8 +241,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Faculty Development Training
-                                            program</P>
+                                                        <p class="news ">Faculty Development Training
+                                            program</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-faculty-dev-traning.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -237,8 +254,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">PM
-                                            Vishawkarma Program</P>
+                                                        <p class="news ">PM
+                                            Vishawkarma Program</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-PM-vishwakarma.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -249,8 +266,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">First
-                                            Year Induction Program 2024-25</P>
+                                                        <p class="news ">First
+                                            Year Induction Program 2024-25</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-induction-pro.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -261,8 +278,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Entrepreneurship development
-                                            Program</P>
+                                                        <p class="news ">Entrepreneurship development
+                                            Program</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-entrepreneurship-development.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -273,8 +290,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Online
-                                            webinar on 100% Free Education for Girls</P>
+                                                        <p class="news ">Online
+                                            webinar on 100% Free Education for Girls</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-online-web.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -285,8 +302,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">John Deere
-                                            Campus Drive</P>
+                                                        <p class="news ">John Deere
+                                            Campus Drive</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-john.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -297,7 +314,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">School Connect Program</P>
+                                                        <p class="news ">School Connect Program</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-special connect program.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -308,8 +325,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">State
-                                            level Technical Event 2k24</P>
+                                                        <p class="news ">State
+                                            level Technical Event 2k24</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-state-level2k.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -320,8 +337,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">industrial visit to Devgiri Mahanand
-                                            Dairy Gandheli Chhatrapati Sambhajinagar</P>
+                                                        <p class="news ">industrial visit to Devgiri Mahanand
+                                            Dairy Gandheli Chhatrapati Sambhajinagar</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-industrial-devgiri.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -332,8 +349,9 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Annual
-                                            Social Gathering Polyfest 2k24</P>
+                                                        <p class="news ">Annual
+                                            Social Gathering Polyfest 2k24</p>
+                                                        <center>
                                                             <div class="department-btn">
                                                                 <a href="event-polyfest2k24.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
@@ -343,7 +361,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="text-center ps-5 news">Hackathon-2023</P>
+                                                        <p class="text-center  news">Hackathon-2023</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Hackathon.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -354,8 +372,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">MERI MATI
-                                            MERA DESH ABHIYAAN</P>
+                                                        <p class="news ">MERI MATI
+                                            MERA DESH ABHIYAAN</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-MERI-MAATI.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -366,8 +384,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">First year
-                                            induction program</P>
+                                                        <p class="news ">First year
+                                            induction program</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-first-year.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -379,9 +397,9 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Campus
+                                                        <p class="news ">Campus
                                             Drive for Electrical & Mechanical Engineering students By Gangamai
-                                            Industries and Constructions Ltd</P>
+                                            Industries and Constructions Ltd</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-campus-drive.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -392,8 +410,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Result
-                                            Summer 2023</P>
+                                                        <p class="news ">Result
+                                            Summer 2023</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-resultsummer23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -404,8 +422,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">CSMSS Celebrates 150th Birth
-                                            Anniversary of Rajarshri Chhatrapati shivaji Maharaj</P>
+                                                        <p class="news ">CSMSS Celebrates 150th Birth
+                                            Anniversary of Rajarshri Chhatrapati shivaji Maharaj</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-birthanniversary.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -416,7 +434,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Placement in Forbes and Company</P>
+                                                        <p class="news ">Placement in Forbes and Company</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-eventplacement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -427,7 +445,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">National Conference 2022-23</P>
+                                                        <p class="news ">National Conference 2022-23</p>
+                                                        <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national-con-22-23.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
                                                         </center>
@@ -437,8 +456,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Annual
-                                            social gathering 2023</P>
+                                                        <p class="news ">Annual
+                                            social gathering 2023</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-annual-2023.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -449,7 +468,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">IEDSSA 2022-23 G-1 ZONE GLIMPSE</P>
+                                                        <p class="news ">IEDSSA 2022-23 G-1 ZONE GLIMPSE</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-IEDSSA.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -460,8 +479,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Inter Engineering Diploma Students
-                                            Sports Association (IEDSSA) Kabaddi Matches</P>
+                                                        <p class="news ">Inter Engineering Diploma Students
+                                            Sports Association (IEDSSA) Kabaddi Matches</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Diploma-Students.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -472,8 +491,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Corruption
-                                            Free India for a Developed Nation</P>
+                                                        <p class="news ">Corruption
+                                            Free India for a Developed Nation</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Corruption.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -484,8 +503,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">8th
-                                            International Yoga Day Celebration at CSMSS College of Polytechnic</P>
+                                                        <p class="news ">8th
+                                            International Yoga Day Celebration at CSMSS College of Polytechnic</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-yoga-day.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -494,11 +513,11 @@
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
-                                                <div style="min-height: 270px; ">
+                                                <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Arrangement Of Covid-19 Mega
+                                                        <p class="news ">Arrangement Of Covid-19 Mega
                                             Vaccination Drive For All The Students Who Are Above 15 Years Old On The
-                                            Occasion Of National Youth Day January 12, 2022.</strong>
+                                            Occasion Of National Youth Day January 12, 2022.</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-arrangement.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -509,9 +528,9 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Arrangement Of Special Vaccination
+                                                        <p class="news ">Arrangement Of Special Vaccination
                                             Drive Against Corona Virus Disease (Covid-19) At CSMSS College Of
-                                            Polytechnic</P>
+                                            Polytechnic</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-special-vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -522,8 +541,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">National Conference on Emerging
-                                            Areas in Engineering and Technology</P>
+                                                        <p class="news ">National Conference on Emerging
+                                            Areas in Engineering and Technology</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national-conference.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -534,8 +553,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">A State
-                                            Level Technical Paper Presentation Competition (Electronics Group)</P>
+                                                        <p class="news ">A State
+                                            Level Technical Paper Presentation Competition (Electronics Group)</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-paper-pre.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -546,9 +565,9 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <P class="news ps-5">Two days
+                                                        <p class="news ">Two days
                                             state level workshop on "NBA Accreditation for polytechnic" on 08-04-2019 to
-                                            09-04-2019</P>
+                                            09-04-2019</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-NBA-workshop.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -571,9 +590,6 @@
                                         </div>
                                     </div>
                             </section>
-
-
-
                             <div class="department-sidebar ">
                                 <div class="widget category">
                                     <h4 class="widget-title ">EVENTS</h4>
@@ -682,71 +698,51 @@
 
                            
                             </div>
-                           
+                            
                         </div>
-
-
-
-
-
-
-
-
-
                         <div class="col-xl-8 col-lg-8">
-                         <nav aria-label="breadcrumb">
+                            <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">Event</li>
             </ol>
         </nav>
-                         <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
+                             <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
                             <h2 class="mt-4 mb-4">
-                            Online webinar on 100% Free Education for Girls</h2>
-                           
-                            <!--icon-->
-                            <div class="row">
-                                
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS 
-
-</div>
- <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025
-
-</div>
- <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> Pool Campus Drive conducted for John Deere India Pvt Ltd Pune on 2nd April 2024
-<br><br>
-</div>
-</div>
-                            <!--row1-->
-                            <div class="row">
-                                <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                   <nav aria-label="breadcrumb">
-           
-                                     <img src="assets/img/news-and-events/Events/online-webinar/webinar1.png" class="w-100 card shadow-lg" style="height:200px; ">
-                              
-
-</div>
-                            
- <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/online-webinar/webinar2.jpeg" class="w-100 card shadow-lg" alt="thumb" style="height:200px; ">
-
-</div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/online-webinar/webinar3.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
-
-</div>
-
-
-
-
-<!--row3-->
-<div class="col-12 col-lg-6 col-md-6 mt-5">
- <img src="assets/img/news-and-events/Events/online-webinar/webinar4.jpeg"alt="thumb" class="w-100 card shadow-lg"   style="height:200px; ">
+                                           Online webinar on 100% Free Education for Girls</h2>
+                                          
+            <br>
                                     
+                                    
+                            <!--icon-->
+                            <div class="row ">
+                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS</div>
+
+
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025 
 
 </div>
-                            
- <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/online-webinar/webinar5.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
+ <div class="col-12 "><i class="fa-thin fa-bars "style="color: orange"></i>Pool Campus Drive conducted for John Deere India Pvt Ltd Pune on 2nd April 2024
+</div>
+
+                            <div class="row ">
+                                <div class="col-12 col-lg-6 col-md-6  mt-5">
+                                     <img src="assets/img/news-and-events/Events/online-webinar/webinar1.png"class="w-100 card shadow-lg g-5" style="height:220px;  ">
+                                </div>
+                               <div class="col-12 col-lg-6 col-md-6  mt-5">
+                                    <img src="assets/img/news-and-events/Events/online-webinar/webinar2.jpeg"alt="thumb" class="w-100 card shadow-lg g-5"style="height:220px; ">
+</div>
+<div class="row  mt-3 ">   
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/online-webinar/webinar3.jpeg"alt="thumb" class="w-100 card shadow-lg g-2"style="height:220px;">
+
+</div>
+<div class="col-12 col-lg-6 col-md-6  mt-5">
+                                    <img src="assets/img/news-and-events/Events/online-webinar/webinar4.jpeg"alt="thumb" class="w-100 card shadow-lg g-5"style="height:220px; ">
+</div>
+<div class="row  mt-3 ">   
+ <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/online-webinar/webinar5.jpeg"alt="thumb" class="w-100 card shadow-lg g-2"style="height:220px;">
+
+</div>
 
 </div>
 
@@ -754,46 +750,22 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
+</div>                         
+ 
                   
                             
                             
                                    
 </div>
-                                </div>
-                            
-        </div>
-        </div>
-        </div>
-        </div>
+</div>
+</div>
+</div>
+                                
+                                  
+
+
+
         <!-- department-single end-->
 
     </main>
@@ -824,5 +796,3 @@
 <!-- Mirrored from live.themewild.com/eduka/academic-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:32 GMT -->
 
 </html>
-
-

@@ -157,6 +157,7 @@ include('../common/header_link.php');
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <th>SR</th>
                         <th>ES</th>
                         <th>img</th>
                         <th>Actions</th>
@@ -164,6 +165,7 @@ include('../common/header_link.php');
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <td>1</td>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
                        
                         <td>
@@ -211,7 +213,7 @@ include('../common/header_link.php');
                           </div>
                         </td>
                       </tr>
-                      <tr>
+                      <!-- <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
                       
                         <td>
@@ -360,7 +362,7 @@ include('../common/header_link.php');
                             </div>
                           </div>
                         </td>
-                      </tr>
+                      </tr> -->
                     </tbody>
                   </table>
                 </div>

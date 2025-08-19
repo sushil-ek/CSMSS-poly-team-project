@@ -105,3 +105,21 @@
   text-align: center;
   margin-top: 1rem;
 }
+
+
+/* for dropdown  */
+/* Remove unwanted underline/active decoration */
+.menu .menu-link,
+.menu .menu-link:focus,
+.menu .menu-link:active,
+.menu .menu-link:hover {
+  text-decoration: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Optional: keep active menu highlighted with background instead */
+.menu-item.active > .menu-link {
+  background-color: #f0f0f0; /* or your theme color */
+  font-weight: 600;
+}

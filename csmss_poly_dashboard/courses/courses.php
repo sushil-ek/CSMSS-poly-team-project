@@ -75,6 +75,7 @@ include '../common/header.php';
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <th>SR</th>
                         <th>Title</th>
                         <th>Descripition</th>
                         <th>img</th>
@@ -86,6 +87,7 @@ include '../common/header.php';
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <td>1</td>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
                         <td>Albert Cook</td>
                         
@@ -138,7 +140,7 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
-                        <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
+                        <!-- <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
                         <td>Barry Hunter</td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
@@ -295,7 +297,7 @@ include '../common/header.php';
                             </div>
                           </div>
                         </td>
-                      </tr>
+                      </tr> -->
                     </tbody>
                   </table>
                 </div>

@@ -239,7 +239,7 @@
                                     <!-- <img src="assets/img/icon/scholarship.svg" alt=""> -->
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Experienced Faculty</h4>
+                                    <h4 class="feature-title">Experienced <br class="faculty"> Faculty </h4>
                                     <p>Dedicated lecturers guiding students with practical <span class="hide-word"> and theoretical </span>knowledge.
                                     </p>
                                 </div>
@@ -308,12 +308,7 @@
                                                 <b class="text-start">15+ Years Of <br> Quality Service</b>
                                             </div>
                                         </div>
-                                        <!-- <div class="col-md-6"> -->
-                                        <!-- third image  -->
-                                        <!-- <img class="img-2" src="assets/img/about/img_2.png" alt=""> -->
-                                        <!-- fourth image -->
-                                        <!-- <img class="img-3 mt-4" src="assets/img/about/stu_img_2.png" alt="">
-                                        </div> -->
+                                       
                                         <div class="col-md-6">
                                             <!-- third image -->
                                             <img class="img-2 d-none d-md-block" src="assets/img/about/img_2.png"
@@ -420,10 +415,7 @@
                             <img src="assets/img/event/event-one.png" alt="">
                         </div>
                         <div class="event-info">
-                            <!-- <div class="event-meta">
-                                <span class="event-date"><i class="far fa-calendar-alt"></i>7 May 2025</span>
-                                <span class="event-time"><i class="far fa-clock"></i>10.00AM - 04.00PM</span>
-                            </div> -->
+                         
                             <h4 class="event-title mt-3"><a href="event-blood-donation.php">Blood Donation Camp</a></h4>
                             <p>the Occasion of the Birthday of Hon. Secretary Padmakarji Mulay Sir.</p>
                             <div class="event-btn">
@@ -440,11 +432,8 @@
                             <img src="assets/img/event/event-two.png" alt="">
                         </div>
                         <div class="event-info">
-                            <!-- <div class="event-meta">
-                                <span class="event-date"><i class="far fa-calendar-alt"></i>27 Dec 2024</span>
-                                <span class="event-time"><i class="far fa-clock"></i>10.00AM - 04.00PM</span>
-                            </div> -->
-                            <h4 class="event-title mt-3"><a href="event-52th-district.php">istrict Level Science
+                          
+                            <h4 class="event-title mt-3"><a href="event-52th-district.php">District Level Science
                                     Exhibition</a></h4>
                             <p>It brings together young innovators to showcase their creative scientific ideas.</p>
                             <div class="event-btn">
@@ -461,10 +450,7 @@
                             <img src="assets/img/event/event-three.png" alt="">
                         </div>
                         <div class="event-info">
-                            <!-- <div class="event-meta">
-                                <span class="event-date"><i class="far fa-calendar-alt"></i>5 Mar 2024</span>
-                                <span class="event-time"><i class="far fa-clock"></i>10.00AM - 04.00PM</span>
-                            </div> -->
+                           
                             <h4 class="event-title mt-3"><a href="event-state-level.php">State Level Technical Event 2k24</a>
                             </h4>
                             <p>"State Level Technical Event 2K24 invites bright minds to compete and learn"</p>
@@ -482,10 +468,7 @@
                             <img src="assets/img/event/event-four.jpg" alt="">
                         </div>
                         <div class="event-info">
-                            <!-- <div class="event-meta">
-                                <span class="event-date"><i class="far fa-calendar-alt"></i> 9 Sep 2024</span>
-                                <span class="event-time"><i class="far fa-clock"></i>10.00AM - 04.00PM</span>
-                            </div> -->
+                            
                             <h4 class="event-title mt-3"><a href="event-first-year.php">First year induction program </a>
                             </h4>
                             <p>Welcoming new students with guidence ,motivation,and a glimpse into campus life.</p>
@@ -499,116 +482,6 @@
             </div>
         </div>
         <!-- event area end -->
-
-
-        <!-- counter area -->
-        <!-- <div class="counter-area pt-60 pb-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                                <img src="assets/img/icon/course.svg" alt="">
-                            </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="500" data-speed="3000">500</span>
-                                <h6 class="title">+ Total Cources </h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                                <img src="assets/img/icon/graduation.svg" alt="">
-                            </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="1900" data-speed="3000">1900</span>
-                                <h6 class="title">+ Our Students</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                                <img src="assets/img/icon/teacher-2.svg" alt="">
-                            </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="750" data-speed="3000">750</span>
-                                <h6 class="title">+ Skilled Lecturers</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                                <img src="assets/img/icon/award.svg" alt="">
-                            </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="30" data-speed="3000">30</span>
-                                <h6 class="title">+ Win Awards</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <!-- counter area end -->
-
-        <!-- counter section -->
-
-        <!-- <div class="counter-area pt-60 pb-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                                <i class="fa-thin fa-graduation-cap"></i>
-                    </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="194" data-speed="3000">194</span>
-                                <h6 class="title">+Placement </h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                                <img src="assets/img/icon/graduation.svg" alt="">
-                            </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="6" data-speed="3000">6</span>
-                                <h6 class="title">+ Our Course</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                                <i class="fa-thin fa-users"></i>
-                            </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="480" data-speed="3000">480</span>
-                                <h6 class="title">+ No.of Student</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box">
-                            <div class="icon">
-                            <img src="assets/img/icon/teacher-2.svg" alt="">
-                            </div>
-                            <div>
-                                <span class="counter" data-count="+" data-to="59" data-speed="3000">59</span>
-                                <h6 class="title">+ No.Of Teachers</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-</section> -->
-        <!-- counter section end -->
-        <!-- counter section -->
         <!-- counter section -->
         <section id="counter ">
             <div class="counter-area pt-60 pb-60">
@@ -663,8 +536,6 @@
             </div>
         </section>
         <!-- counter section end -->
-        <!-- counter section end -->
-
         <!-- choose-area -->
         <div class="choose-area pt-80 pb-80">
             <div class="container">
@@ -692,7 +563,7 @@
                                                 </div>
                                                 <div class="choose-item-info">
                                                     <h4>Academic Excellence</h4>
-                                                    <p>Expert teachers, updated syllabus,top results.</p>
+                                                    <p>Expert teachers, top results.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -703,7 +574,7 @@
                                                 </div>
                                                 <div class="choose-item-info">
                                                     <h4>Placement Support</h4>
-                                                    <p>Industry links, training,& campus drives.</p>
+                                                    <p>Industry links & campus drives.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1095,7 +966,7 @@
                                 <div class="course-img">
                                     <span class="course-tag"><i class="far fa-bookmark"></i> CE</span>
                                     <img src="assets/img/course/CE.jpg" alt="" style="height:250px;" class="w-100">
-                                    <a href="course-single.php" class="btn"><i class="far fa-link"></i></a>
+                                    <a href="civil-department.php" class="btn"><i class="far fa-link"></i></a>
                                 </div>
                                 <div class="course-content">
                                     <h4 class="course-title mt-4">
@@ -1121,7 +992,7 @@
                                 <div class="course-img">
                                     <span class="course-tag"><i class="far fa-bookmark"></i> EE</span>
                                     <img src="assets/img/course/EE.jpg" alt="" style="height:250px;" class="w-100">
-                                    <a href="course-single.php" class="btn"><i class="far fa-link"></i></a>
+                                    <a href="electrical-department.php" class="btn"><i class="far fa-link"></i></a>
                                 </div>
                                 <div class="course-content">
                                     <h4 class="course-title mt-4">
@@ -1148,7 +1019,7 @@
                                 <div class="course-img">
                                     <span class="course-tag"><i class="far fa-bookmark"></i> ME</span>
                                     <img src="assets/img/course/me.png" alt="" style="height:250px;" class="w-100">
-                                    <a href="course-single.php" class="btn"><i class="far fa-link"></i></a>
+                                    <a href="mechanical-department.php" class="btn"><i class="far fa-link"></i></a>
                                 </div>
                                 <div class="course-content">
                                     <h4 class="course-title mt-4">
@@ -1464,7 +1335,7 @@
                         <a href="https://www.aicte.gov.in"><img src="assets/img/partner/aictept.png" alt="thumb"
                                 style="height: 150px; width:166px"></a>
                         <a href="https://www.education.gov.in/"><img src="assets/img/partner/mhrd.png" alt="thumb"
-                                style="height: 170px; width: 180px;"></a>
+                                style="height: 145px; width: 180px;"></a>
                         <a
                             href="https://mahaeschol.maharashtra.gov.in/MahaEschol/Scholarships/Common/SessionTimeOutPage.aspx"><img
                                 src="assets/img/partner/scholarship.png" alt="thumb"></a>

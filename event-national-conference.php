@@ -35,12 +35,12 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
-    .linee-two {
-    width: 300px;
-            display: -webkit-box;
-            -webkit-box-orient: vertical;
-            -webkit-line-clamp: 2;
-            overflow: hidden;
+    .news {
+         width: 230px;
+         display: -webkit-box;
+         -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+         overflow:hidden;
     }
     </style>
 <body>
@@ -98,7 +98,7 @@
                                             <div class="carousel-item active" data-bs-interval="10000">
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <p class=" linee-two ">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</strong>
+                                                        <p class=" news ">On the occasion of the death anniversary, a heartfelt tribute to Chhatrapati Shahu Maharaj.</strong>
                                             
                                                         <center>
                                                             <div class="department-btn ">
@@ -110,7 +110,7 @@
                                             <div class="carousel-item" data-bs-interval="10000">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption linee-two d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <p class=" text-center">Blood
+                                                        <p class=" news">Blood
                                             Donation Camp on the Occasion of the Birthday of Hon. Secretary Padmakarji
                                             Mulay Sir</p>
                                                         
@@ -353,7 +353,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <p class="text-center ps-5 news">Hackathon-2023</p>
+                                                        <p class="news ps-5 news">Hackathon-2023</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Hackathon.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -505,7 +505,7 @@
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
-                                                <div style="min-height: 270px; ">
+                                                <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
                                                         <p class="news ps-5">Arrangement Of Covid-19 Mega
                                             Vaccination Drive For All The Students Who Are Above 15 Years Old On The
@@ -695,7 +695,7 @@
                         </div>
                         <div class="col-xl-8 col-lg-8">
                             <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
+            <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Events</li>
             </ol>

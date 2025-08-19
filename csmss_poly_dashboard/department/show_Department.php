@@ -49,10 +49,7 @@ include('../common/header_link.php');
                     <!-- Content -->
 
                     <div class="container-xxl flex-grow-1 container-p-y">
-                        <h4 class="text-muted fw-bold py-3 mb-4">Department</h4>
-
-
-
+                        <h4 class="text-muted fw-bold py-3 mb-4">DEPARTMENT DETAILS</h4>
 
                         <!-- Hoverable Table rows -->
                         <div class="card">
@@ -88,8 +85,8 @@ include('../common/header_link.php');
                                                         data-bs-placement="top"
                                                         class="avatar avatar-xs pull-up"
                                                         title="Card img">
-                                                         <!-- <img src="assets\img\csms_card\card-1.jpg" alt="Avatar" class="rounded-circle" /> -->
-                                                          <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
+                                                        <!-- <img src="assets\img\csms_card\card-1.jpg" alt="Avatar" class="rounded-circle" /> -->
+                                                        <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
                                                     </li>
                                                 </ul>
 
@@ -119,7 +116,7 @@ include('../common/header_link.php');
                                                         class="avatar avatar-xs pull-up"
                                                         title="Lilian Fuller">
                                                         <!-- <img src="../../assets/img/csms_card/card-2.jpg" alt="card img" class="rounded-circle" /> -->
-                                                         <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
+                                                        <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
 
                                                     </li>
                                                 </ul>
@@ -152,7 +149,7 @@ include('../common/header_link.php');
                                                         class="avatar avatar-xs pull-up"
                                                         title="Lilian Fuller">
                                                         <!-- <img src="../" alt="Avatar" class="rounded-circle" /> -->
-                                                         <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
+                                                        <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
                                                     </li>
                                                 </ul>
                                             <td>Mechanical Engineering</td>
@@ -182,7 +179,7 @@ include('../common/header_link.php');
                                                         class="avatar avatar-xs pull-up"
                                                         title="Lilian Fuller">
                                                         <!-- <img src="../" alt="Avatar" class="rounded-circle" /> -->
-                                                         <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
+                                                        <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
                                                     </li>
                                                 </ul>
                                             <td>Computer Engineering</td>
@@ -212,7 +209,7 @@ include('../common/header_link.php');
                                                         class="avatar avatar-xs pull-up"
                                                         title="Lilian Fuller">
                                                         <!-- <img src="../" alt="Avatar" class="rounded-circle" /> -->
-                                                         <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
+                                                        <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
                                                     </li>
                                                 </ul>
                                             <td>Electronics & Telecommunication Engineering</td>
@@ -242,7 +239,7 @@ include('../common/header_link.php');
                                                         class="avatar avatar-xs pull-up"
                                                         title="Lilian Fuller">
                                                         <!-- <img src="../" alt="Avatar" class="rounded-circle" /> -->
-                                                         <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
+                                                        <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
                                                     </li>
                                                 </ul>
 

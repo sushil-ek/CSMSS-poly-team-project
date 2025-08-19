@@ -34,6 +34,13 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+         .news {
+         width: 250px;
+         display: -webkit-box;
+         -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+         overflow:hidden;
+}
     </style>
 <body>
 
@@ -246,7 +253,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <p class="ps-5 news">List of selected candidates in John Deere India Pvt Ltd. 2022-23</p>
+                                                        <p class="ps-5news">List of selected candidates in John Deere India Pvt Ltd. 2022-23</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-selected-candidate.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -290,7 +297,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <p class="ps-5 news">Corruption Free India For a Developed Nation</strong>
+                                                        <p class="ps-5news">Corruption Free India For a Developed Nation</strong>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="newscarpation.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -489,7 +496,7 @@
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
-                                                <div style="min-height: 270px; ">
+                                                <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
                                                         <p class="ps-5 news">Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab.</strong>
                                                         <center>
@@ -602,9 +609,9 @@
                         </div>
                         
                         
-                          <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
+                          <div class="col-xl-8 col-lg-2" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                             <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
+            <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">News</li>
             </ol>

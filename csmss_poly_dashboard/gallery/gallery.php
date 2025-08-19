@@ -66,26 +66,31 @@ include '../common/header.php';
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
-                    <a href="../gallery/add_gallery.php">
+                    <a href="add_gallery.php">
                       <button type="button" class="btn btn-primary m-4">ADD+</button>
                     </a>
                   </div>
                 </div>
 
 
-                <div class="table-responsive text-nowrap">
+  <div class="table-responsive text-nowrap">
                   <table class="table table-hover">
                     <thead>
                       <tr>
-                        <th>Title</th>                        
+                        <td>SR</td>
+                        <th>Title</th>
+                        <th>Descripition</th>
                         <th>img</th>
+                        <th>date</th>
+                        <th>location</th>
                         <th>Actions</th>
                       </tr>
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <td>1</td>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
-                       
+                        <td>Albert Cook</td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                             <li
@@ -116,10 +121,14 @@ include '../common/header.php';
                               <img src="../assets/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
                             </li>
                           </ul>
+
+                         <td>17-02-2025</td>
+                          <td>kanchanvadi</td>
+
                         </td>
                         <td>
                          <div> 
-                            <a href="../gallery/edit_gallery.php" class=" text-white">
+                            <a href="edit_gallery.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 
@@ -131,7 +140,7 @@ include '../common/header.php';
                           </div>
                         </td>
                       </tr>
-                      <tr>
+                      <!-- <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
@@ -177,10 +186,10 @@ include '../common/header.php';
                             </div>
                           
                         </td>
-                      </tr>
+                      </tr> -->
                       <tr>
-                        <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>VueJs Project</strong></td>
-                        <td>
+                        <!-- <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>VueJs Project</strong></td> -->
+                        <!-- <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                             <li
                               data-bs-toggle="tooltip"
@@ -210,9 +219,9 @@ include '../common/header.php';
                               <img src="../assets/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
                             </li>
                           </ul>
-                        </td>
+                        </td> -->
                       
-                        <td>
+                        <!-- <td>
                           
                              <div> <a href="edit_gallery.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-info">
@@ -274,7 +283,7 @@ include '../common/header.php';
                             </div>
                           </div>
                         </td>
-                      </tr>
+                      </tr> -->
                     </tbody>
                   </table>
                 </div>

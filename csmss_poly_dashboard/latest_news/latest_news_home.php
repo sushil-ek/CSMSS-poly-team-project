@@ -66,7 +66,7 @@ include '../common/header.php';
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
-                    <a href="../latest_news/add_latest_news.php">
+                    <a href="../latest_news/add_latest_news_home.php">
                       <button type="button" class="btn btn-primary m-4">ADD+</button>
                     </a>
                   </div>
@@ -120,7 +120,7 @@ include '../common/header.php';
                          <td>Albert Cook</td>
                         <td>
                          <div> 
-                            <a href="edit_latest_news.php" class=" text-white">
+                            <a href="../latest_news/edit_latest_news_home.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 

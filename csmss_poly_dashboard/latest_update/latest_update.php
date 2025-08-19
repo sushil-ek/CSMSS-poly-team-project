@@ -73,18 +73,22 @@ include '../common/header.php';
                   </div>
                 </div>
 
-                <div class="table-responsive text-nowrap">
+                                <div class="table-responsive text-nowrap">
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <th>SR</th>
                         <th>Title</th>
+                        <th>Descripition</th>
                         <th>img</th>
-                        <th>Action</th>
+                        <th>Actions</th>
                       </tr>
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <td>1</td>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
+                        <td>Albert Cook</td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                             <li
@@ -95,7 +99,6 @@ include '../common/header.php';
                               title="Lilian Fuller"
                             >
                               <img src="../assets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
-
                             </li>
                             <li
                               data-bs-toggle="tooltip"
@@ -117,7 +120,6 @@ include '../common/header.php';
                             </li>
                           </ul>
                         </td>
-                        
                         <td>
                          <div> 
                             <a href="edit_latest_update.php" class=" text-white">
@@ -133,7 +135,9 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
+                        <td>2</td>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
+                        <td> bkasvdc</td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                             <li
@@ -167,7 +171,7 @@ include '../common/header.php';
                         </td>
                 
                         <td>
-                           <div> <a href="edit_latest_gallery.php" class=" text-white">
+                           <div> <a href="edit_latest_update.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-success">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>
@@ -180,7 +184,10 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
+                                                <td>3</td>
+
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>VueJs Project</strong></td>
+                        <td>lshjfgav</td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                             <li
@@ -215,7 +222,7 @@ include '../common/header.php';
                       
                         <td>
                           
-                             <div> <a href="edit_latest_gallery.php" class=" text-white">
+                             <div> <a href="edit_latest_update.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-info">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 
@@ -228,8 +235,11 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
+                                                <td>4</td>
+
                         <td>
                           <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Bootstrap Project</strong>
+                          <td>hgksfac</td>
                         </td>
                         <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
@@ -267,7 +277,7 @@ include '../common/header.php';
                          
                               
                             
-                            <div> <a href="edit_latest_gallery.php" class=" text-white">
+                            <div> <a href="edit_latest_update.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-warning">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>

@@ -46,45 +46,38 @@ include '../common/header_link.php';
 
                 <div class="container">
                     <div class="card my-4">
-                        <h5 class="card-header">ADD DEPARTMENT MOU's</h5>
+                        <h5 class="card-header">STUDENTS' ASSOCIATION (EESA)-2024-25</h5>
                         <div class="card-body">
                             <div class="container mt-3">
                                 <form>
                                     <div class="row">
-                                        <div class="col-lg-4">
+                                        <div class="col-lg-6">
                                             <div class="form-floating mb-3 mt-3">
                                                 <input
                                                     type="text"
                                                     class="form-control"
                                                     id="Text"
-                                                    placeholder=""
+                                                    placeholder="Name of the Candidate"
                                                     name="Name" />
-                                                <label for="Name">Name of Company</label>
+                                                <label for="Name">Name of the Candidate</label>
                                             </div>
                                         </div>
-                                        <div class="col-lg-2">
+
+                                        <div class="col-lg-6">
                                             <div class="form-floating mb-3 mt-3">
                                                 <input
                                                     type="text"
                                                     class="form-control"
                                                     id="Text"
-                                                    placeholder=""
+                                                    placeholder="Post"
                                                     name="Name" />
-                                                <label for="Name">From</label>
+                                                <label for="Name">Post</label>
+
                                             </div>
                                         </div>
-                                        <div class="col-lg-2">
-                                            <div class="form-floating mb-3 mt-3">
-                                                <input
-                                                    type="text"
-                                                    class="form-control"
-                                                    id="Text"
-                                                    placeholder=""
-                                                    name="Name" />
-                                                <label for="Name">Upto</label>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4">
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-6">
                                             <div class="form-floating mb-3 mt-3">
                                                 <select class="form-select" id="Dropdown" name="Dropdown">
                                                     <option selected disabled>Choose Department</option>
@@ -95,37 +88,32 @@ include '../common/header_link.php';
                                                     <option value="5">Computer Engineering</option>
                                                     <option value="6">Artificial Intelligence and Machine Learning</option>
                                                 </select>
-                                                <label for="Dropdown"> Department</label>
+                                                <label for="Dropdown">Department</label>
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="row">
                                         <div class="col-lg-12 mt-3 text-center">
                                             <button type="submit" class="btn btn-primary">Add</button>
-                                            <button type="submit" class="btn btn-primary"><a href="show_Department-Mou's.php" class="text-white">
+                                            <button type="submit" class="btn btn-primary"><a href="show_Student-Association.php" class="text-white">
                                                     Back
                                                 </a></button>
                                         </div>
-
-                                        <!-- <div class="col-lg-12 mt-3 text-center">
-                      <button type="submit" class="btn btn-primary">Add Event</button>
-                    </div> -->
+                                    </div>
                                 </form>
                             </div>
                         </div>
                     </div>
+
+                    <hr class="my-5" />
+
+                    <!-- Footer -->
+                    <!-- Footer -->
+                    <?php
+                    include '../common/footer.php';
+                    ?>
+                    <!-- / Footer -->
                 </div>
-
-                <hr class="my-5" />
-
-                <!-- Footer -->
-                <!-- Footer -->
-                <?php
-                include '../common/footer.php';
-                ?>
-                <!-- / Footer -->
-
                 <div class="content-backdrop fade"></div>
             </div>
             <!-- Content wrapper -->

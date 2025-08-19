@@ -50,9 +50,6 @@
         </form>
     </div>
     <!-- popup search end -->
-
-
-
     <main class="main">
 
         <!-- breadcrumb -->
@@ -109,50 +106,6 @@
                                     <p class="mb-20 d-md-none d-lg-block  d-xl-block ">
                                         The CSMSS College of Polytechnic has a remarkable tradition of success. It has a good placement record every year. Presently, College offers diploma Programs like Civil Engineering, Computer Engineering, Electrical Engineering, Electronics & Telecommunication Engineering, Mechanical Engineering and Artificial Intelligence & Machine Learning. The college is well equipped with adequate infrastructure in the form of buildings, lecture halls, laboratories, workshops, etc. All the amenities, including hostels for boys and girls, a canteen, a medical facility, ATM, Auditorium, sports ground and independent transportation facilities are available on campus. We are now one of the best colleges in the Aurangabad region. I welcome all the aspirants and stakeholders on the campus to shape their future. Wishing all the success to you!
                                     </p>
-                                    
-                                    <!-- <p class="mb-20">
-                                        Power of choice is untrammelled and when nothing prevents our being able to do
-                                        what we like best, every pleasure is to be welcomed and every pain avoided. But
-                                        in certain circumstances and owing to the claims of duty or the obligations of
-                                        business it will frequently occur that pleasures have to be repudiated and
-                                        annoyances accepted. The wise man therefore always holds in these matters to
-                                        this principle of selection.
-                                    </p>
-                                    <div class="my-4">
-                                        <div class="mb-3">
-                                            <h3 class="mb-3">How To Prepare For The Exam</h3>
-                                            <p>Aliquam facilisis rhoncus nunc, non vestibulum mauris volutpat non.
-                                                Vivamus tincidunt accumsan urna, vel aliquet nunc commodo tristique.
-                                                Nulla facilisi. Phasellus vel ex nulla. Nunc tristique sapien id mauris
-                                                efficitur, porta scelerisque nisl dignissim. Vestibulum ante ipsum
-                                                primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed at
-                                                mollis tellus. Proin consequat, orci nec bibendum viverra, ante orci
-                                                suscipit dolor, et condimentum felis dolor ac lectus.</p>
-                                        </div>
-                                        <ul class="department-single-list">
-                                            <li><i class="far fa-check"></i>Fusce justo risus placerat in risus eget
-                                                tincidunt consequat elit.</li>
-                                            <li><i class="far fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
-                                                placerat.</li>
-                                            <li><i class="far fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
-                                            </li>
-                                            <li><i class="far fa-check"></i>Integer quis lorem est uspendisse eu augue
-                                                porta ullamcorper dictum.</li>
-                                            <li><i class="far fa-check"></i>Quisque tristique neque arcu ut venenatis
-                                                felis malesuada et.</li>
-                                        </ul>
-                                    </div>
-                                    <div class="my-4">
-                                        <h3 class="mb-3">Admission In Business And Finance</h3>
-                                        <p>Quisque a nisl id sem sollicitudin volutpat. Cras et commodo quam, vel congue
-                                            ligula. Orci varius natoque penatibus et magnis dis parturient montes,
-                                            nascetur ridiculus mus. Cras quis venenatis neque. Donec volutpat tellus
-                                            lobortis mi ornare eleifend. Fusce eu nisl ut diam ultricies accumsan.
-                                            Integer lobortis vestibulum nunc id porta. Curabitur aliquam arcu sed ex
-                                            dictum, a facilisis urna porttitor. Fusce et mattis nisl. Sed iaculis libero
-                                            consequat justo auctor iaculis. Vestibulum sed ex et magna tristique
-                                            bibendum. Sed hendrerit neque nec est suscipit, id faucibus dolor convallis.
-                                        </p> -->
                                     </div>
                                 </div>
                             </div>
@@ -162,31 +115,18 @@
             </div>
         </div>
         <!-- department-single end-->
-
     </main>
-
-
-
     <!-- footer area -->
       <?php
     include 'common/footer.php';
     ?>
     <!-- footer area end -->
-
-
-
-
     <!-- scroll-top -->
     <a href="#" id="scroll-top"><i class="far fa-arrow-up-from-arc"></i></a>
     <!-- scroll-top end -->
-
-
      <?php
     include 'common/footer-link.php';
     ?>
-
 </body>
-
-
 <!-- Mirrored from live.themewild.com/eduka/academic-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:32 GMT -->
 </html>
