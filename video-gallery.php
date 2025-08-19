@@ -16,15 +16,37 @@
     <?php
     include 'common/header-link.php';
     ?>
-<style>
-    .new-para {
-  width: 260px;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  overflow: hidden;
-}
-  </style>
+    <style>
+       
+       nav-pills .nav-link.active,
+        .nav-pills .show>.nav-link {
+            color: #FDA31B;
+            background-color: transparent;
+        }
+        .nav-link {
+            color: black;
+        }
+        .breadcrumb-item + .breadcrumb-item::before {
+            content: "\f105"; /* Font Awesome chevron-right */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+           
+        }
+        .breadcrumb{
+                margin-left: 220px;
+    height: 0;
+    padding-top:21px;
+ }
+ .linee-three{
+width: 200px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+ } 
+
+             </style>
+
 </head>
 
 <body>
@@ -55,18 +77,7 @@
 
     <main class="main">
 
-        <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/news-and-events/Events/CAMPUS-DREVE-FOR-ELECTRICAL/dreive4.jpg)">
-            <div class="container">
-                <h2 class="breadcrumb-title">VIDEO GALLERY</h2>
-                <ul class="breadcrumb-menu">
-                    <li><a href="index.php">Home</a></li>
-                    <li class="active">VIDEO GALLERY</li>
-                </ul>
-            </div>
-        </div>
-        <!-- breadcrumb end -->
-
+       
 
         
 
@@ -79,6 +90,12 @@
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
+                             <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mt-4">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">News</li>
+            </ol>
+        </nav>
                             
                             <h1 style="border-bottom: 3px solid orange;">VIDEO GALLERY</h1>
                             
@@ -94,7 +111,7 @@
                             
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5 class="new-para"><a href="#">Voting awareness for loksabha election 2024</a></h5>
+                                    <h5 class="new-para"><a href="#" class="linee-three">Voting awareness for loksabha election 2024</a></h5>
                                     
                                 </div>
                             </div>
@@ -109,7 +126,7 @@
                           
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5 class="new-para"><a href="#">CSMSS COP Alumni Speaks Ankita Deshpande</a></h5>
+                                    <h5 class="new-para"><a href="#" class="linee-three">CSMSS COP Alumni Speaks Ankita Deshpande</a></h5>
                                    
                                 </div>
                             </div>
@@ -124,7 +141,7 @@
                            
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5 class="new-para"><a href="#">CSMSS COP Alumni Speaks Pallavi Vedpathak</a></h5>
+                                    <h5 class="new-para"><a href="#" class="linee-three">CSMSS COP Alumni Speaks Pallavi Vedpathak</a></h5>
                                   
                                 </div>
                             </div>
@@ -139,7 +156,7 @@
                            
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5 class="new-para"><a href="#">CSMSS COP Alumni speaks #3 Priya Yadav Alumni</a></h5>
+                                    <h5 class="new-para"><a href="#" class="linee-three">CSMSS COP Alumni speaks #3 Priya Yadav Alumni</a></h5>
                                    
                                 </div>
                             </div>
@@ -160,7 +177,7 @@
                             
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5 class="new-para"><a href="#">Social Media Cell Inauguration News</a></h5>
+                                    <h5 class="new-para"><a href="#" class="linee-three">Social Media Cell Inauguration News</a></h5>
                                     
                                 </div>
                             </div>
@@ -175,7 +192,7 @@
                           
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5 class="new-para"><a href="#">Padma Vibhushan Hon. Dr. Anil Kakodkar inaugurated CSMSS Skill Center and SAT-COM Lab | Aurangabad</a></h5>
+                                    <h5 class="new-para"><a href="#" class="linee-three">Padma Vibhushan Hon. Dr. Anil Kakodkar inaugurated CSMSS Skill Center and SAT-COM Lab | Aurangabad</a></h5>
                                    
                                 </div>
                             </div>
@@ -190,7 +207,7 @@
                            
                             <div class="team-content">
                                 <div class="team-bio">
-                                    <h5 class="new-para"><a href="#">PROJECT COMPETITION HELD AT CSMSS POLYTECHNIC, AURANGABAD</a></h5>
+                                    <h5 class="new-para"><a href="#" class="linee-three">PROJECT COMPETITION HELD AT CSMSS POLYTECHNIC AURANGABAD</a></h5>
                                   
                                 </div>
                             </div>

@@ -46,7 +46,7 @@ include '../common/header_link.php';
 
         <div class="container">
           <div class="card my-4">
-            <h5 class="card-header">EDIT Department</h5>
+            <h5 class="card-header">ADD Department</h5>
             <div class="card-body">
               <div class="container mt-3">
                 <form>
@@ -74,49 +74,38 @@ include '../common/header_link.php';
                         <label for="Name">Department</label>
                       </div>
                     </div>
-
-                    <!-- <div class="col-lg-4">
-                      <div class="form-floating mb-3 mt-3">
-                        <input
-                          type="text"
-                          class="form-control"
-                          id="Text"
-                          placeholder="Link"
-                          name="Name" />
-                        <label for="Name">Link</label>
-                      </div>
-                    </div> -->
-                    <div class="row">
-                      <div class="col-lg-12 mt-3 text-center">
-                        <button type="submit" class="btn btn-primary">Update</button>
-                        <button type="submit" class="btn btn-primary"><a href="show_Department.php" class="text-white">
-                            Back
-                          </a></button>
-                      </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-lg-12 mt-3 text-center">
+                      <button type="submit" class="btn btn-primary">Update</button>
+                      <button type="submit" class="btn btn-primary"><a href="show_Department.php" class="text-white">
+                          Back
+                        </a></button>
                     </div>
+                  </div>
                 </form>
               </div>
             </div>
           </div>
+
+          <hr class="my-5" />
+
+          <!-- Footer -->
+          <!-- Footer -->
+          <?php
+          include '../common/footer.php';
+          ?>
+          <!-- / Footer -->
+
+          <div class="content-backdrop fade"></div>
         </div>
-        <hr class="my-5" />
-
-        <!-- Footer -->
-        <!-- Footer -->
-        <?php
-        include '../common/footer.php';
-        ?>
-        <!-- / Footer -->
-
-        <div class="content-backdrop fade"></div>
+        <!-- Content wrapper -->
       </div>
-      <!-- Content wrapper -->
+      <!-- / Layout page -->
     </div>
-    <!-- / Layout page -->
-  </div>
 
-  <!-- Overlay -->
-  <div class="layout-overlay layout-menu-toggle"></div>
+    <!-- Overlay -->
+    <div class="layout-overlay layout-menu-toggle"></div>
   </div>
   <!-- / Layout wrapper -->
 

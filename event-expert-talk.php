@@ -19,6 +19,15 @@
     ?>
 
 <style>
+
+    .news {
+    width: 250px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+
+    }
 .nav-pills .nav-link.active,
         .nav-pills .show>.nav-link {
             color: #FDA31B;

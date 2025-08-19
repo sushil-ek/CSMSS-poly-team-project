@@ -35,6 +35,13 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+        .news {
+         width: 230px;
+         display: -webkit-box;
+         -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+         overflow:hidden;
+        }
     </style>
 <body>
 
@@ -498,7 +505,7 @@
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
-                                                <div style="min-height: 270px; ">
+                                                <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
                                                         <p class="news ps-5">Arrangement Of Covid-19 Mega
                                             Vaccination Drive For All The Students Who Are Above 15 Years Old On The
@@ -688,7 +695,7 @@
                        
                         <div class="col-xl-8 col-lg-8">
                             <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
+            <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Events</li>
             </ol>

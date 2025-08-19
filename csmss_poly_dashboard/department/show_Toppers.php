@@ -90,6 +90,7 @@ include('../common/header_link.php');
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
+                                                    <th>Sr.no.</th>
                                                     <th>Name of Student</th>
                                                     <th>Percentage</th>
                                                     <th>Class Awarded</th>
@@ -102,6 +103,7 @@ include('../common/header_link.php');
                                             <!-- Civil Start -->
                                             <tbody class="table-border-bottom-0">
                                                 <tr>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>ADITYA SANDEEP HIWRALE</strong></td>
                                                     <td>85.06</td>
                                                     <td>First Class with Distinction</td>
@@ -124,6 +126,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>DESHMUKH KRUSHNA YOGRAJ</strong></td>
                                                     <td>82.12</td>
                                                     <td>First Class with Distinction</td>
@@ -147,6 +150,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>THORAT SAKSHI EKNATH</strong></td>
                                                     <td>81.29</td>
                                                     <td>First Class with Distinction</td>
@@ -168,6 +172,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>BANKAR RUSHIKESH DEEPAK</strong>
                                                     </td>
@@ -185,8 +190,10 @@ include('../common/header_link.php');
                                                                     <i class="bx bx-trash me-1 "></i> Delete
                                                                 </button></a>
                                                         </div>
-
+                                                    </td>
+                                                </tr>
                                                 <tr>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>PATIL PARESH GULAB</strong></td>
                                                     <td>81.78</td>
                                                     <td>First Class with Distinction</td>
@@ -207,6 +214,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>PATIL DHANESH SHYAM</strong></td>
                                                     <td>75.89</td>
                                                     <td>First Class with Distinction</td>
@@ -228,6 +236,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>LOKHANDE PAWAN APPARAO</strong></td>
                                                     <td>93.3</td>
                                                     <td>First Class with Distinction</td>
@@ -248,6 +257,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>8</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>PATHAN ADIL AMJAD</strong></td>
                                                     <td>92.9</td>
                                                     <td>First Class with Distinction</td>
@@ -268,6 +278,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>9</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>ADAV OMKAR SAMBHAJI</strong></td>
                                                     <td>90.8</td>
                                                     <td>First Class with Distinction</td>
@@ -315,18 +326,20 @@ include('../common/header_link.php');
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th style="text-align: center;">Name of Student</th>
+                                                    <th>Sr.no.</th>
+                                                    <th>Name of Student</th>
                                                     <th>Percentage</th>
                                                     <th>Class Awarded</th>
                                                     <th>Department</th>
                                                     <th>Year</th>
-                                                    <th style="text-align:center">Action</th>
+                                                    <th>Action</th>
                                                 </tr>
                                             </thead>
 
 
                                             <tbody class="table-border-bottom-0">
                                                 <tr>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> BADGUJAR SHANTANU</strong></td>
                                                     <td>79.65</td>
                                                     <td>First Class with Distinction</td>
@@ -347,6 +360,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>RAUT UDAY</strong></td>
                                                     <td>76.94</td>
                                                     <td>First Class with Distinction</td>
@@ -367,6 +381,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>UBALE SIDDHANT AJINATH</strong></td>
                                                     <td>75.41</td>
                                                     <td>First Class with Distinction</td>
@@ -388,6 +403,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>4</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>NIL OMKAR BHIMA</strong></td>
                                                     <td>81.13</td>
                                                     <td>First Class with Distinction</td>
@@ -410,6 +426,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>TAYADE VEDANT SANTOSH</strong></td>
                                                     <td>74</td>
                                                     <td>First Class with Distinction</td>
@@ -431,6 +448,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> RATHOD NEHA POPAT</strong></td>
                                                     <td>73.25</td>
                                                     <td>First Class with Distinction</td>
@@ -452,6 +470,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> BANKAR OM RAJU</strong></td>
                                                     <td>88.1</td>
                                                     <td>First Class with Distinction</td>
@@ -472,6 +491,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>8</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong> GAWANDE SUPRIT KAILAS</strong></td>
                                                     <td>85.1</td>
                                                     <td>First Class with Distinction</td>
@@ -492,6 +512,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>9</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>BAHEKAR SHIVRAJ ASARAM</strong></td>
                                                     <td>84.2</td>
                                                     <td>First Class with Distinction</td>
@@ -540,12 +561,13 @@ include('../common/header_link.php');
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th style="text-align: center;">Name of Student</th>
+                                                    <th>Sr.no.</th>
+                                                    <th>Name of Student</th>
                                                     <th>Percentage</th>
                                                     <th>Class Awarded</th>
                                                     <th>Department</th>
                                                     <th>Year</th>
-                                                    <th style="text-align:center">Action</th>
+                                                    <th>Action</th>
                                                 </tr>
                                             </thead>
 
@@ -553,6 +575,7 @@ include('../common/header_link.php');
                                             <tbody class="table-border-bottom-0">
 
                                                 <tr>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>SHAIKH MOHAMMAD BILAL ASIF</strong></td>
                                                     <td>88</td>
                                                     <td>First Class with Distinction</td>
@@ -573,6 +596,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>THORBOLE KRUSHNA SUJIT</strong></td>
                                                     <td>82.71</td>
                                                     <td>First Class with Distinction</td>
@@ -593,6 +617,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>TRIBHUVAN AMOL JIVAN</strong></td>
                                                     <td>77.65</td>
                                                     <td>First Class with Distinction</td>
@@ -614,6 +639,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>4</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>RATHOD MINAKSHI RAMRAO</strong></td>
                                                     <td>82.95</td>
                                                     <td>First Class with Distinction</td>
@@ -635,6 +661,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>ZODGE MALVIK MAHESH </strong></td>
                                                     <td>82.53</td>
                                                     <td>First Class with Distinction</td>
@@ -657,6 +684,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>RAUT SOPAN RATAN</strong></td>
                                                     <td>78.11</td>
                                                     <td>First Class with Distinction</td>
@@ -678,6 +706,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>KULKARNI SHRUTI RAVINDRA</strong></td>
                                                     <td>92.67</td>
                                                     <td>First Class with Distinction</td>
@@ -700,6 +729,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>8</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>SATPUTE SNEHA SANTOSH</strong></td>
                                                     <td>88.76</td>
                                                     <td>First Class with Distinction</td>
@@ -721,6 +751,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
+                                                    <td>9</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>RAUT GANESH LAXMAN </strong></td>
                                                     <td>84</td>
                                                     <td>First Class with Distinction</td>
@@ -770,12 +801,12 @@ include('../common/header_link.php');
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th style="text-align: center;">Name of Student</th>
+                                                    <th>Name of Student</th>
                                                     <th>Percentage</th>
                                                     <th>Class Awarded</th>
                                                     <th>Department</th>
                                                     <th>Year</th>
-                                                    <th style="text-align:center">Action</th>
+                                                    <th>Action</th>
                                                 </tr>
                                             </thead>
 
@@ -1003,12 +1034,12 @@ include('../common/header_link.php');
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th style="text-align: center;">Name of Student</th>
+                                                    <th>Name of Student</th>
                                                     <th>Percentage</th>
                                                     <th>Class Awarded</th>
                                                     <th>Department</th>
                                                     <th>Year</th>
-                                                    <th style="text-align:center">Action</th>
+                                                    <th>Action</th>
                                                 </tr>
                                             </thead>
 
@@ -1231,12 +1262,12 @@ include('../common/header_link.php');
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th style="text-align: center;">Name of Student</th>
+                                                    <th>Name of Student</th>
                                                     <th>Percentage</th>
                                                     <th>Class Awarded</th>
                                                     <th>Department</th>
                                                     <th>Year</th>
-                                                    <th style="text-align:center">Action</th>
+                                                    <th>Action</th>
                                                 </tr>
                                             </thead>
 
@@ -1461,7 +1492,7 @@ include('../common/header_link.php');
                         <!-- Footer -->
                         <!-- Footer -->
                         <?php
-                        // include('../../common/footer.php');
+                        include('../common/footer.php');
 
                         ?>
                         <!-- / Footer -->

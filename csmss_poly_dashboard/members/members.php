@@ -72,18 +72,20 @@ include '../common/header.php';
                   </div>
                 </div>
 
-                <div class="table-responsive text-nowrap">
+             <div class="table-responsive text-nowrap">
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <th>SR</th>
                         <th>Title</th>
-                        <th>Descripition</th>
+                        <th>Count</th>
                         <th>img</th>
                         <th>Actions</th>
                       </tr>
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <td>1</td>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
                         <td>Albert Cook</td>
                         <td>
@@ -119,7 +121,7 @@ include '../common/header.php';
                         </td>
                         <td>
                          <div> 
-                            <a href="../members/edit_members.php" class=" text-white">
+                            <a href="edit_members.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 
@@ -131,7 +133,7 @@ include '../common/header.php';
                           </div>
                         </td>
                       </tr>
-                      <tr>
+                      <!-- <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
                         <td>Barry Hunter</td>
                         <td>
@@ -167,7 +169,7 @@ include '../common/header.php';
                         </td>
                    
                         <td>
-                           <div> <a href="edit_slider.php" class=" text-white">
+                           <div> <a href="edit_counters.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-success">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>
@@ -216,7 +218,7 @@ include '../common/header.php';
                       
                         <td>
                           
-                             <div> <a href="edit_slider.php" class=" text-white">
+                             <div> <a href="edit_counters.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-info">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 
@@ -269,7 +271,7 @@ include '../common/header.php';
                          
                               
                             
-                            <div> <a href="edit_slider.php" class=" text-white">
+                            <div> <a href="edit_counters.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-warning">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a>
@@ -280,7 +282,7 @@ include '../common/header.php';
                             </div>
                           </div>
                         </td>
-                      </tr>
+                      </tr> -->
                     </tbody>
                   </table>
                 </div>

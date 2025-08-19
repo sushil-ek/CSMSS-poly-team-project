@@ -111,7 +111,7 @@
                 </div>
                 <div class="contact-wrapper">
                     <div class="row">
-                        <div class="col-lg-5">
+                        <div class="col-lg-5 d-lg-block d-none">
                             <div class="contact-img">
                                 <img src="assets/img/contact/chhatrapati.png" alt="">
                             </div>
@@ -123,7 +123,7 @@
                                     <p>To contact CSMSS Polytechnic College, you can fill the following information.
                                     </p>
                                 </div>
-                                <form method="post" action="https://live.themewild.com/eduka/assets/php/contact.php"
+                                <form method="post" action="../csmss-polytechnic-website/csmss_poly_dashboard/contact_us/contactform_code.php"
                                     id="contact-form">
                                     <div class="row">
                                         <div class="col-md-6">
@@ -188,22 +188,6 @@
     include 'common/footer-link.php';
     ?>
 
-    <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const contactForm = document.getElementById("contact-form");
-    
-    if (contactForm) {
-        contactForm.addEventListener("submit", function(e) {
-            e.preventDefault(); // ❗ Keep this only if you don’t want to actually submit to PHP
-            
-            alert("Message Sent ✅");
-            
-            // Clear all input fields
-            contactForm.reset();
-        });
-    }
-});
-</script>
 
 </body>
 <!-- Mirrored from live.themewild.com/eduka/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:30:34 GMT -->

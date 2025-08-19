@@ -49,7 +49,7 @@ include '../common/header.php';
 
           <div class="container">
             <div class="card my-4">
-              <h5 class="card-header">EDIT LATEST GALLERY</h5>
+              <h5 class="card-header">LATEST UPDATE</h5>
               <div class="card-body">
                 <div class="container mt-3">
                   <form>

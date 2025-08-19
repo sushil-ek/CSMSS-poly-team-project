@@ -25,6 +25,28 @@ include('../common/header_link.php');
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+    .nav-tabs {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        flex-wrap: nowrap;
+    }
+
+    .nav-tabs::-webkit-scrollbar {
+        height: 6px;
+        /* Horizontal scrollbar height */
+    }
+
+    .nav-tabs::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+
+    .nav-tabs li {
+        flex: 0 0 auto;
+        /* Prevent shrinking */
+    }
+</style>
 
 <body>
     <!-- Layout wrapper -->
@@ -59,28 +81,6 @@ include('../common/header_link.php');
 
 
                             </ul>
-                            <style>
-                                .nav-tabs {
-                                    display: flex;
-                                    overflow-x: auto;
-                                    white-space: nowrap;
-                                    flex-wrap: nowrap;
-                                }
-
-                                .nav-tabs::-webkit-scrollbar {
-                                    height: 6px;
-                                    /* Horizontal scrollbar height */
-                                }
-
-                                .nav-tabs::-webkit-scrollbar-thumb:hover {
-                                    background: #555;
-                                }
-
-                                .nav-tabs li {
-                                    flex: 0 0 auto;
-                                    /* Prevent shrinking */
-                                }
-                            </style>
 
                             <!-- PROGRAMME ASSESSMENT COMMITTEE (PAC) start -->
                             <div class="tab-content">
@@ -137,7 +137,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr.S. B. Nagargoje</strong></td>
 
                                                     <td>Member</td>
@@ -158,7 +158,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.V. A. Jadhav</strong></td>
 
                                                     <td>Member</td>
@@ -182,7 +182,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. R. H. Gore</strong>
                                                     </td>
@@ -210,7 +210,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs.A.S.Shete</strong></td>
 
                                                     <td>Member</td>
@@ -232,7 +232,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
-                                                    <td>06</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Dr.A.P.Tayde</strong></td>
 
                                                     <td>Member</td>
@@ -256,7 +256,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
-                                                    <td>07</td>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs.A.S.Rudrakanthwar</strong></td>
 
                                                     <td>Member</td>
@@ -322,7 +322,7 @@ include('../common/header_link.php');
 
                                                 <!--  Electrical engineering start -->
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Rahane C. V.</strong></td>
 
                                                     <td>Chairman</td>
@@ -343,7 +343,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Mitkar A. H.</strong></td>
 
                                                     <td>Member</td>
@@ -364,7 +364,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Satish kumar</strong></td>
 
                                                     <td>Member</td>
@@ -388,7 +388,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Faisal M. A.</strong>
                                                     </td>
@@ -417,7 +417,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Pote A. M.</strong></td>
 
                                                     <td>Member</td>
@@ -438,7 +438,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>06</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Jadhav P. R.</strong></td>
 
                                                     <td>Member</td>
@@ -459,7 +459,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>07</td>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mrs. Bansod V. A.</strong></td>
 
                                                     <td>Member</td>
@@ -483,7 +483,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>08</td>
+                                                    <td>8</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mrs. Aute P. J.</strong>
                                                     </td>
@@ -511,7 +511,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>09</td>
+                                                    <td>9</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. Patil U. A.</strong></td>
 
                                                     <td>Member</td>
@@ -573,7 +573,7 @@ include('../common/header_link.php');
                                             <tbody class="table-border-bottom-0">
                                                 <!-- Mechanical Engineering start-->
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. S.S. Madan</strong></td>
 
                                                     <td>Chairman</td>
@@ -595,7 +595,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. S.M. Awhale</strong></td>
 
                                                     <td>Member</td>
@@ -617,7 +617,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mrs. D.R. Lahore</strong></td>
 
                                                     <td>Member</td>
@@ -642,7 +642,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. G.K. Sahane</strong>
                                                     </td>
@@ -671,7 +671,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>MMr. A.A. Sonawane </strong></td>
 
                                                     <td>Member</td>
@@ -693,7 +693,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>06</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. V.R. Shelke</strong></td>
 
                                                     <td>Member</td>
@@ -715,7 +715,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>07</td>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mrs. S.K. Ugale</strong></td>
 
                                                     <td>Member</td>
@@ -740,7 +740,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>08</td>
+                                                    <td>8</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mrs. S.K. Muley</strong>
                                                     </td>
@@ -769,7 +769,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>09</td>
+                                                    <td>9</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. R.K. Chikne</strong></td>
 
                                                     <td>Member</td>
@@ -919,7 +919,7 @@ include('../common/header_link.php');
                                             </thead>
                                             <tbody class="table-border-bottom-0">
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. M. D. Narangale</strong></td>
 
                                                     <td>Chairman</td>
@@ -940,7 +940,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mrs. S. H. Bhandaru</strong></td>
 
                                                     <td>Member</td>
@@ -961,7 +961,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. D. S. Lamb </strong></td>
 
                                                     <td>Member</td>
@@ -985,7 +985,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr.V.U.Shisode</strong>
                                                     </td>
@@ -1013,7 +1013,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. V.S.Patil</strong></td>
 
                                                     <td>Member</td>
@@ -1034,7 +1034,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>06</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mrs.Sakhare M.B.</strong></td>
 
                                                     <td>Member</td>
@@ -1055,7 +1055,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>07</td>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.Dhanwade B.G.</strong></td>
 
                                                     <td>Member</td>
@@ -1125,7 +1125,7 @@ include('../common/header_link.php');
                                             <tbody class="table-border-bottom-0">
                                                 <!-- Computer Engineering start -->
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mrs.R. S. Pophale</strong>
                                                     </td>
@@ -1153,7 +1153,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. A. P .Borlepwar</strong></td>
 
                                                     <td>Member</td>
@@ -1174,7 +1174,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mrs. P.V. Polshetwar</strong></td>
 
                                                     <td>Member</td>
@@ -1195,7 +1195,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mrs. A. K. Kudlikar</strong></td>
 
                                                     <td>Member</td>
@@ -1219,7 +1219,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>MMrs. S. S. Mopari</strong>
                                                     </td>
@@ -1247,7 +1247,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>06</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. D. Y. Vyavahare</strong></td>
 
                                                     <td>Member</td>
@@ -1268,7 +1268,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>07</td>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Ms. S. A. Samrat</strong></td>
 
                                                     <td>Member</td>
@@ -1289,7 +1289,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>08</td>
+                                                    <td>8</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mrs. M. V. Shisode</strong></td>
 
                                                     <td>Member</td>
@@ -1313,7 +1313,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>09</td>
+                                                    <td>9</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Ms.H. M. Pathan</strong>
                                                     </td>

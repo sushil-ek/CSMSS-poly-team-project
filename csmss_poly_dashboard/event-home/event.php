@@ -65,7 +65,7 @@ include '../common/header.php';
                   </div>
                  
                   <div class="col-lg-6 d-flex justify-content-end">
-                    <a href="../event/add_event.php">
+                    <a href="add_event.php">
                       <button type="button" class="btn btn-primary m-4">ADD+</button>
                     </a>
                   </div>
@@ -75,6 +75,7 @@ include '../common/header.php';
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <td>SR</td>
                         <th>Title</th>
                         <th>Descripition</th>
                         <th>img</th>
@@ -85,6 +86,7 @@ include '../common/header.php';
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <td>1</td>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
                         <td>Albert Cook</td>
                         <td>
@@ -124,7 +126,7 @@ include '../common/header.php';
                         </td>
                         <td>
                          <div> 
-                            <a href="../event/edit_event.php" class=" text-white">
+                            <a href="edit_event.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-primary">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
                                 </button></a> 
@@ -136,7 +138,7 @@ include '../common/header.php';
                           </div>
                         </td>
                       </tr>
-                      <tr>
+                      <!-- <tr>
                         <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
                         <td>Barry Hunter</td>
                         <td>
@@ -187,8 +189,8 @@ include '../common/header.php';
                             </div>
                           
                         </td>
-                      </tr>
-                      <tr>
+                      </tr> -->
+                      <!-- <tr>
                         <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>VueJs Project</strong></td>
                         <td>Trevor Baker</td>
                         <td>
@@ -295,7 +297,7 @@ include '../common/header.php';
                             </div>
                           </div>
                         </td>
-                      </tr>
+                      </tr> -->
                     </tbody>
                   </table>
                 </div>

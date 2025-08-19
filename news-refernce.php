@@ -33,6 +33,15 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+
+
+          .news {
+    width: 180px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+    }
     </style>
 </head>
 
@@ -599,7 +608,8 @@
                         </div>
 
          
-                        <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
+                        <div class="col-xl-8 col-lg-8" style="overflow-y:auto; scrollbar-width: none; min-height: 100vh;">
+
                             <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>

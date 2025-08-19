@@ -114,7 +114,7 @@ include('../common/header_link.php');
                       <tbody class="table-border-bottom-0">
                         <!-- civil started -->
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;"><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Indian Society for Technical Education (ISTE), New Delhi.</strong></td>
                           <td>2023-24</td>
                           <td>ISTE</td>
@@ -135,11 +135,11 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;"><i class="fab fa-react fa-lg text-info me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football</strong></td>
                           <td>2023-24</td>
                           <td>IEDSSA</td>
-                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
+                          <td class="text-truncate" style="max-width:250px; white-space:nowrap; overflow:hidden;">
                             Shaikh Arshan, Khan Daniyal, Mustafa Jethurwala Masood</td>
                           <td>Runner up</td>
                           <td>Civil</td>
@@ -156,7 +156,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;"><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Table Tennis</strong></td>
                           <td>2023-24</td>
                           <td>
@@ -178,7 +178,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>IEDSSA (Inter Engineering Diploma Students Sport Association.) in 100M Running</strong>
                           </td>
@@ -202,7 +202,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>MSBTE Final year Exam</strong>
                           </td>
@@ -226,7 +226,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>NASCENT 2024</strong>
                           </td>
@@ -283,7 +283,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>MSBTE Project Competition</strong>
                           </td>
@@ -308,7 +308,7 @@ include('../common/header_link.php');
                           </td>
 
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>IEDSSA</strong>
                           </td>
@@ -334,7 +334,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA</strong>
                           </td>
@@ -360,7 +360,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA</strong>
                           </td>
@@ -386,7 +386,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA</strong>
                           </td>
@@ -412,7 +412,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA</strong>
                           </td>
@@ -438,7 +438,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>07</td>
+                          <td>7</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA</strong>
                           </td>
@@ -464,7 +464,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>08</td>
+                          <td>8</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> State Level Technical Quiz Competition</strong>
                           </td>
@@ -490,7 +490,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>09</td>
+                          <td>9</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> State Level Technical Quiz Competition</strong>
                           </td>
@@ -548,7 +548,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>State Level Paper Presentation</strong>
                           </td>
@@ -574,7 +574,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>State Level Paper Presentation</strong>
                           </td>
@@ -600,7 +600,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</strong>
                           </td>
@@ -626,7 +626,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</strong>
                           </td>
@@ -652,7 +652,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</strong>
                           </td>
@@ -678,7 +678,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</strong>
                           </td>
@@ -704,7 +704,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>07</td>
+                          <td>7</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Football.</strong>
                           </td>
@@ -730,7 +730,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>08</td>
+                          <td>8</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Table Tennis.</strong>
                           </td>
@@ -755,7 +755,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>09</td>
+                          <td>9</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in ATHLETICS.</strong>
                           </td>
@@ -920,7 +920,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Quiz</strong>
                           </td>
@@ -947,7 +947,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Quiz</strong>
                           </td>
@@ -973,7 +973,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Volleyball</strong>
                           </td>
@@ -999,7 +999,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Volleyball
                             </strong>
@@ -1025,7 +1025,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Volleyball
                             </strong>
@@ -1049,7 +1049,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Chess</strong>
                           </td>
@@ -1073,7 +1073,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>07</td>
+                          <td>7</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Basketball</strong>
                           </td>
@@ -1097,7 +1097,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>08</td>
+                          <td>8</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Quiz</strong>
                           </td>
@@ -1121,7 +1121,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>09</td>
+                          <td>9</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Quiz</strong>
                           </td>
@@ -1177,7 +1177,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>State Level Technical Event 'Brainwaves-2k25'(C-Coding)</strong>
                           </td>
@@ -1201,7 +1201,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>02</td>
+                          <td>2</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>State Level Technical Event 'Brainwaves-2k25'(C-Coding)</strong>
                           </td>
@@ -1225,7 +1225,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> State Level Technical Event 'Brainwaves-2k25' (Quiz Competition)</strong>
                           </td>
@@ -1249,7 +1249,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td>
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> State Level Technical Event 'Brainwaves-2k25' (Poster Presentation)</strong>
                           </td>
@@ -1273,7 +1273,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> State Level Technical Event 'Brainwaves-2k25' (Powerpoint Presentation)</strong>
                           </td>
@@ -1298,7 +1298,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA(Inter-Engineering Diploma Students Sports Association ) in Chess</strong>
                           </td>
@@ -1324,7 +1324,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>07</td>
+                          <td>7</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA(Inter-Engineering Diploma Students Sports Association ) in Badminton</strong>
                           </td>
@@ -1350,7 +1350,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>08</td>
+                          <td>8</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA(Inter-Engineering Diploma Students Sports Association ) in Long Jump</strong>
                           </td>
@@ -1375,7 +1375,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>09</td>
+                          <td>9</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA(Inter-Engineering Diploma Students Sports Association ) in Badminton</strong>
                           </td>
@@ -1533,7 +1533,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td>01</td>
+                          <td>1</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA (Inter Engineering Diploma Students Sport Association.) in Chess</strong>
                           </td>
@@ -1557,7 +1557,7 @@ include('../common/header_link.php');
                             </div>
                           </td>
                         </tr>
-                        <td>02</td>
+                        <td>2</td>
                         <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                           <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Stale Level Paper Presentation Competition 2023-24</strong>
                         </td>
@@ -1582,7 +1582,7 @@ include('../common/header_link.php');
                         </td>
                         </tr>
                         <tr>
-                          <td>03</td>
+                          <td>3</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Stale Level Paper Presentation Competition 2023-24</strong>
                           </td>
@@ -1608,7 +1608,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>04</td>
+                          <td>4</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> ELECSPIRE 2K23</strong>
                           </td>
@@ -1634,7 +1634,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>05</td>
+                          <td>5</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> IEDSSA Chess</strong>
                           </td>
@@ -1659,7 +1659,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>06</td>
+                          <td>6</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Stale Level Quiz Competition 2023-24</strong>
                           </td>
@@ -1684,7 +1684,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>07</td>
+                          <td>7</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> Brainwawes-2k23</strong>
                           </td>
@@ -1708,7 +1708,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>08</td>
+                          <td>8</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> National Conference entitled “Recent Innovations and Best Practices in Science and Technology"</strong>
                           </td>
@@ -1734,7 +1734,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td>09</td>
+                          <td>9</td>
                           <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">
                             <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong> National Conference entitled “Recent Innovations and Best Practices in Science and Technology"</strong>
                           </td>

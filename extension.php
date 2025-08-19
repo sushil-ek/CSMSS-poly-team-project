@@ -23,9 +23,6 @@
         }
     </style>
 
-
-
-
 </head>
 
 <body>
@@ -46,10 +43,6 @@
     include 'common/header.php';
     ?>
     <!-- header area end -->
-
-
-
-
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/college.png)">
         <div class="container">
@@ -61,19 +54,6 @@
         </div>
     </div>
     <!-- breadcrumb end -->
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- accordion for Extension of Approval -->
     <!-- Accordion: Extension of Approval -->
     <div class="col-lg-12">
@@ -84,9 +64,6 @@
             </button>
             </h2>
         </div>
-        <!-- <div id="Exten" class="accordion-collapse collapse department-download"
-                                            aria-labelledby="headingExt" data-bs-parent="#Extension">
-                                            <div class="accordion-body"> -->
         <div class="container mt-3 table-responsive">
             <table class=" table table-bordered table-hover">
                 <thead>
@@ -285,18 +262,13 @@
     <!-- Accordion: Audit Report -->
     <div class="col-lg-12">
         <div class="container ">
-            <!-- <div class="accordion mt-4" id="Audit">
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingAudit"> -->
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#Audi"
                 aria-expanded="false" aria-controls="Audi">
                 <span class="widget-title fs-2">Audit Report FY</span>
             </button>
             </h2>
         </div>
-        <!-- <div id="Audi" class="accordion-collapse collapse department-download"
-                                            aria-labelledby="headingAudit" data-bs-parent="#Audit">
-                                            <div class="accordion-body"> -->
+        
         <div class="container mt-3 mb-5 table-responsive">
             <table class=" table table-bordered table-hover">
                 <thead>

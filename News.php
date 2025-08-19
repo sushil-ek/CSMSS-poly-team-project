@@ -25,6 +25,22 @@
   -webkit-line-clamp: 2;
   overflow: hidden;
 }
+
+.nav-pills .nav-link.active,
+        .nav-pills .show>.nav-link {
+            color: #FDA31B;
+            background-color: transparent;
+        }
+        .nav-link {
+            color: black;
+        }
+        .breadcrumb-item + .breadcrumb-item::before {
+            content: "\f105"; /* Font Awesome chevron-right */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            padding: 0 0.5rem;
+            color: #6C757D;
+        }
 </style>
 </head>
 
@@ -68,7 +84,7 @@
 
 
         <!-- news sidebar -->
-        <div class="department-single-area py-120">
+        <div class="department-single-area h-100">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
@@ -76,7 +92,7 @@
 
 
                                           <section id="latest-news-section">
-                                <div class="container my-4">
+                                <div class="container ">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
                                         <h2 class=" widget-title ">Latest News</h2>
                                         <div class="carousel-inner">
@@ -588,9 +604,14 @@
                         </div>
 
                         <div class="col-xl-8 col-lg-8">
-                            
+                            <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mt-5">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">News</li>
+            </ol>
+        </nav>
                                 <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">News</h1>
-                                <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
+                                <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 30%; ">
                                 <!-- CARD ONE  -->
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item ">

@@ -82,7 +82,7 @@ include '../common/header_link.php';
                                                     type="text"
                                                     class="form-control"
                                                     id="Text"
-                                                    placeholder="Add Class Awarded"
+                                                    placeholder="Class Awarded"
                                                     name="Name" />
                                                 <label for="Name">Class Awarded</label>
                                             </div>
@@ -102,7 +102,7 @@ include '../common/header_link.php';
                                                     <option value="5">Computer Engineering</option>
                                                     <option value="6">Artificial Intelligence and Machine Learning</option>
                                                 </select>
-                                                <label for="Dropdown"> Labels</label>
+                                                <label for="Dropdown">Department</label>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
@@ -132,17 +132,16 @@ include '../common/header_link.php';
                             </div>
                         </div>
                     </div>
+
+                    <hr class="my-5" />
+
+                    <!-- Footer -->
+                    <!-- Footer -->
+                    <?php
+                    include '../common/footer.php';
+                    ?>
+                    <!-- / Footer -->
                 </div>
-
-                <hr class="my-5" />
-
-                <!-- Footer -->
-                <!-- Footer -->
-                <?php
-                include '../common/footer.php';
-                ?>
-                <!-- / Footer -->
-
                 <div class="content-backdrop fade"></div>
             </div>
             <!-- Content wrapper -->

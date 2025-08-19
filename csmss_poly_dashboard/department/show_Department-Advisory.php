@@ -25,6 +25,30 @@ include('../common/header_link.php');
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+    .nav-tabs {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        flex-wrap: nowrap;
+    }
+
+    .nav-tabs::-webkit-scrollbar {
+        height: 6px;
+        /* Horizontal scrollbar height */
+    }
+
+
+
+    .nav-tabs::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+
+    .nav-tabs li {
+        flex: 0 0 auto;
+        /* Prevent shrinking */
+    }
+</style>
 
 <body>
     <!-- Layout wrapper -->
@@ -43,7 +67,7 @@ include('../common/header_link.php');
                 include '../common/header.php';
                 ?>
                 <!-- / Navbar -->
-                 
+
                 <!-- Content wrapper -->
                 <div class="content-wrapper">
                     <div class="container-xxl flex-grow-1 container-p-y">
@@ -57,32 +81,6 @@ include('../common/header_link.php');
                                 <li><a data-toggle="tab" href="#computer">Computer Engineering</a></li>
                                 <li><a data-toggle="tab" href="#Artificial">Artificial intelligence Engineering</a></li>
                             </ul>
-                            <style>
-                                .nav-tabs {
-                                    display: flex;
-                                    overflow-x: auto;
-                                    white-space: nowrap;
-                                    flex-wrap: nowrap;
-                                }
-
-                                .nav-tabs::-webkit-scrollbar {
-                                    height: 6px;
-                                    /* Horizontal scrollbar height */
-                                }
-
-
-
-                                .nav-tabs::-webkit-scrollbar-thumb:hover {
-                                    background: #555;
-                                }
-
-                                .nav-tabs li {
-                                    flex: 0 0 auto;
-                                    /* Prevent shrinking */
-                                }
-                            </style>
-
-
                             <div class="tab-content">
                                 <div id="civil" class="tab-pane fade in active">
 
@@ -116,7 +114,7 @@ include('../common/header_link.php');
                                             <tbody class="table-border-bottom-0">
 
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. M. R. More</strong></td>
                                                     <td>HOD</td>
 
@@ -136,7 +134,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>02</td>
+                                                    <td>2</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. S. B. Nagargoje</strong></td>
                                                     <td>Sr.Faculty</td>
 
@@ -156,7 +154,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>03</td>
+                                                    <td>3</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. V. A. Jadhav</strong></td>
                                                     <td>Sr.Faculty</td>
 
@@ -178,7 +176,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>04</td>
+                                                    <td>4</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Pushpak Dabhade</strong>
                                                     </td>
@@ -206,7 +204,7 @@ include('../common/header_link.php');
                                                 </tr>
 
                                                 <tr>
-                                                    <td>05</td>
+                                                    <td>5</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Sohail Ali</strong></td>
                                                     <td>Academician</td>
 
@@ -226,7 +224,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>06</td>
+                                                    <td>6</td>
                                                     <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Sanket Kulkarni</strong></td>
                                                     <td>Employer (Industry Representative)</td>
 
@@ -246,7 +244,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>07</td>
+                                                    <td>7</td>
                                                     <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Avinash Chate
                                                         </strong></td>
                                                     <td>Employer (Industry Representative)</td>
@@ -269,7 +267,7 @@ include('../common/header_link.php');
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>08</td>
+                                                    <td>8</td>
                                                     <td>
                                                         <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Maruti Hud</strong>
                                                     </td>
@@ -295,7 +293,7 @@ include('../common/header_link.php');
 
 
                                                 <tr>
-                                                    <td>09</td>
+                                                    <td>9</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Hitesh Shinde</strong></td>
                                                     <td>Alumni Representative</td>
 
@@ -391,7 +389,7 @@ include('../common/header_link.php');
                                             </thead>
                                             <tbody class="table-border-bottom-0">
                                                 <tr>
-                                                    <td>01</td>
+                                                    <td>1</td>
                                                     <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Rahane C. V.</strong></td>
                                                     <td>HOD</td>
 
@@ -407,636 +405,881 @@ include('../common/header_link.php');
                                                                     <i class="bx bx-trash me-1 "></i> Delete
                                                                 </button></a>
                                                         </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>2</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Mitkar A. H.</strong></td>
+                                                    <td>Lecturer
+                                                    </td>
+
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>3</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Satish kumar
+                                                        </strong></td>
+                                                    <td>Lecturer</td>
+
+
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>4</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Channekar Pravin Arjun
+                                                        </strong>
+                                                    </td>
+
+                                                    <td>Alumni Representative
+                                                    </td>
+
+
+
+
+                                                    <td>
+
+
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>5</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Kartik Pandurang Lande
+                                                        </strong></td>
+                                                    <td>Alumni Representative
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>6</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Dr. Karpe S. R.
+                                                        </strong></td>
+                                                    <td>Academician
+                                                    </td>
+
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>7</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Anil Gawade
+                                                        </strong></td>
+                                                    <td>Employer (Industry Representative)
+                                                    </td>
+
+
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>8</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mrs. Rupali Agrawal
+                                                        </strong>
+                                                    </td>
+                                                    <td>Employer (Industry Representative)
+                                                    </td>
+
+
+
+
+                                                    <td>
+
+
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>9</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Phulke Sandesh
+                                                        </strong></td>
+                                                    <td>Parents Representative
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>10</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Kale Gorakh
+                                                        </strong></td>
+                                                    <td>Parents Representative
+                                                    </td>
+
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
                                     </div>
-                                    </td>
-                                    </tr>
-                                    <tr>
-                                        <td>02</td>
-                                        <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Mitkar A. H.</strong></td>
-                                        <td>Lecturer
-                                        </td>
 
-
-
-                                        <td>
-                                            <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-success">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-success">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>03</td>
-                                        <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Satish kumar
-                                            </strong></td>
-                                        <td>Lecturer</td>
-
-
-
-
-                                        <td>
-
-                                            <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-info">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-info">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>04</td>
-                                        <td>
-                                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Channekar Pravin Arjun
-                                            </strong>
-                                        </td>
-
-                                        <td>Alumni Representative
-                                        </td>
-
-
-
-
-                                        <td>
-
-
-
-                                            <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-warning">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-warning">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>05</td>
-                                        <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Kartik Pandurang Lande
-                                            </strong></td>
-                                        <td>Alumni Representative
-                                        </td>
-
-
-                                        <td>
-                                            <div>
-                                                <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-primary">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-primary">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>06</td>
-                                        <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Dr. Karpe S. R.
-                                            </strong></td>
-                                        <td>Academician
-                                        </td>
-
-
-
-                                        <td>
-                                            <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-success">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-success">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>07</td>
-                                        <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Anil Gawade
-                                            </strong></td>
-                                        <td>Employer (Industry Representative)
-                                        </td>
-
-
-
-
-                                        <td>
-
-                                            <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-info">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-info">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>08</td>
-                                        <td>
-                                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mrs. Rupali Agrawal
-                                            </strong>
-                                        </td>
-                                        <td>Employer (Industry Representative)
-                                        </td>
-
-
-
-
-                                        <td>
-
-
-
-                                            <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-warning">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-warning">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>09</td>
-                                        <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Phulke Sandesh
-                                            </strong></td>
-                                        <td>Parents Representative
-                                        </td>
-
-
-                                        <td>
-                                            <div>
-                                                <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-primary">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-primary">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>10</td>
-                                        <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Kale Gorakh
-                                            </strong></td>
-                                        <td>Parents Representative
-                                        </td>
-
-
-
-                                        <td>
-                                            <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-success">
-                                                        <i class="bx bx-edit-alt me-1"></i> Edit
-                                                    </button></a>
-                                                <a href="#" class=" text-white">
-                                                    <button type="button" class="btn rounded-pill btn-success">
-                                                        <i class="bx bx-trash me-1 "></i> Delete
-                                                    </button></a>
-                                            </div>
-
-                                        </td>
-                                    </tr>
-                                    </tbody>
-                                    </table>
                                 </div>
+                                <!-- electrical end -->
 
-                            </div>
-                            <!-- electrical end -->
+                                <!-- mechanical start -->
+                                <div id="mechanical" class="tab-pane fade">
 
-                            <!-- mechanical start -->
-                            <div id="mechanical" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-6 ">
 
-                                <div class="row">
-                                    <div class="col-lg-6 ">
+                                        </div>
 
+                                        <div class="col-lg-6 d-flex justify-content-end">
+                                            <a href="add_Department-Advisory.php">
+                                                <button type="button" class="btn btn-primary me-3">ADD+</button>
+                                            </a>
+                                        </div>
                                     </div>
 
-                                    <div class="col-lg-6 d-flex justify-content-end">
-                                        <a href="add_Department-Advisory.php">
-                                            <button type="button" class="btn btn-primary me-3">ADD+</button>
-                                        </a>
+                                    <div class="table-responsive text-nowrap">
+                                        <table class="table table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th>sr.no.</th>
+                                                    <th>Name of the Committee Member</th>
+                                                    <th>Details</th>
+                                                    <th>Actions</th>
+
+                                                </tr>
+                                            </thead>
+                                            <tbody class="table-border-bottom-0">
+
+
+                                                <tr>
+                                                    <td>1</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. S.S. Madan
+                                                        </strong>
+                                                    </td>
+                                                    <td>Chairman
+                                                    </td>
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+
+
+                                                <tr>
+                                                    <td>2</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. S.M. Awhale
+                                                        </strong></td>
+                                                    <td>Member
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>3</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. K. B. Tidke
+                                                        </strong></td>
+                                                    <td>Member
+
+                                                    </td>
+
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>4</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.Sunil Kirdak
+
+                                                        </strong></td>
+                                                    <td>Member
+                                                    </td>
+
+
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>5</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr.Shankar Khodke
+
+                                                        </strong>
+                                                    </td>
+
+                                                    <td>Member
+
+                                                    </td>
+
+
+
+
+                                                    <td>
+
+
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>6</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Vaibhav Gosavi
+
+                                                        </strong></td>
+                                                    <td>Member
+
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>7</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr.H.K.Chaudhari
+
+                                                        </strong></td>
+                                                    <td>Member
+                                                    </td>
+
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>8</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Yogesh Arsul
+
+                                                        </strong></td>
+                                                    <td>Member
+
+                                                    </td>
+
+
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>9</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Amol Borude
+
+                                                        </strong>
+                                                    </td>
+                                                    <td>Member
+
+                                                    </td>
+
+
+
+
+                                                    <td>
+
+
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>10</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Ravindra Kulkarni
+
+                                                        </strong></td>
+                                                    <td>Member
+
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>11</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr.Anil Sansare
+
+                                                        </strong></td>
+                                                    <td>Member
+
+                                                    </td>
+
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+
+
+                                            </tbody>
+                                        </table>
                                     </div>
+
                                 </div>
+                                <!-- mechanical department end -->
 
-                                <div class="table-responsive text-nowrap">
-                                    <table class="table table-hover">
-                                        <thead>
-                                            <tr>
-                                                <th>sr.no.</th>
-                                                <th>Name of the Committee Member</th>
-                                                <th>Details</th>
-                                                <th>Actions</th>
+                                <!-- electronic start -->
+                                <div id="electronic" class="tab-pane fade">
 
-                                            </tr>
-                                        </thead>
-                                        <tbody class="table-border-bottom-0">
+                                    <div class="row">
+                                        <div class="col-lg-6 ">
 
+                                        </div>
 
-                                            <tr>
-                                                <td>01</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. S.S. Madan
-                                                    </strong>
-                                                </td>
-                                                <td>Chairman
-                                                </td>
-
-
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-
-
-                                            <tr>
-                                                <td>02</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. S.M. Awhale
-                                                    </strong></td>
-                                                <td>Member
-                                                </td>
-
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>03</td>
-                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. K. B. Tidke
-                                                    </strong></td>
-                                                <td>Member
-
-                                                </td>
-
-
-
-                                                <td>
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>04</td>
-                                                <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.Sunil Kirdak
-
-                                                    </strong></td>
-                                                <td>Member
-                                                </td>
-
-
-
-
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>05</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr.Shankar Khodke
-
-                                                    </strong>
-                                                </td>
-
-                                                <td>Member
-
-                                                </td>
-
-
-
-
-                                                <td>
-
-
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td>06</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Vaibhav Gosavi
-
-                                                    </strong></td>
-                                                <td>Member
-
-                                                </td>
-
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>07</td>
-                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr.H.K.Chaudhari
-
-                                                    </strong></td>
-                                                <td>Member
-                                                </td>
-
-
-
-                                                <td>
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>08</td>
-                                                <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. Yogesh Arsul
-
-                                                    </strong></td>
-                                                <td>Member
-
-                                                </td>
-
-
-
-
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>09</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Amol Borude
-
-                                                    </strong>
-                                                </td>
-                                                <td>Member
-
-                                                </td>
-
-
-
-
-                                                <td>
-
-
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td>10</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Ravindra Kulkarni
-
-                                                    </strong></td>
-                                                <td>Member
-
-                                                </td>
-
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>11</td>
-                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr.Anil Sansare
-
-                                                    </strong></td>
-                                                <td>Member
-
-                                                </td>
-
-
-
-                                                <td>
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-
-
-                                        </tbody>
-                                    </table>
-                                </div>
-
-                            </div>
-                            <!-- mechanical department end -->
-
-                            <!-- electronic start -->
-                            <div id="electronic" class="tab-pane fade">
-
-                                <div class="row">
-                                    <div class="col-lg-6 ">
-
+                                        <div class="col-lg-6 d-flex justify-content-end">
+                                            <a href="add_Department-Advisory.php">
+                                                <button type="button" class="btn btn-primary me-3">ADD+</button>
+                                            </a>
+                                        </div>
                                     </div>
 
-                                    <div class="col-lg-6 d-flex justify-content-end">
-                                        <a href="add_Department-Advisory.php">
-                                            <button type="button" class="btn btn-primary me-3">ADD+</button>
-                                        </a>
+                                    <div class="table-responsive text-nowrap">
+                                        <table class="table table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th>sr.no.</th>
+                                                    <th>Name of the Committee Member</th>
+                                                    <th>Details</th>
+                                                    <th>Actions</th>
+
+                                                </tr>
+                                            </thead>
+                                            <tbody class="table-border-bottom-0">
+
+                                                <tr>
+                                                    <td>1</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. M. D. Narangale
+
+                                                        </strong>
+                                                    </td>
+                                                    <td>HOD
+
+                                                    </td>
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+
+
+                                                <tr>
+                                                    <td>2</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. S. H. Bhandaru
+
+                                                        </strong></td>
+                                                    <td>Faculty
+
+                                                    </td>
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>3</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. D. S. Lamb
+
+                                                        </strong></td>
+                                                    <td>Faculty
+
+
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>4</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.Yogesh B. Shejwal
+
+                                                        </strong></td>
+                                                    <td>Alumni Representative
+
+                                                    </td>
+
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>5</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr.Varad S. Bhadgaonkar
+
+
+                                                        </strong>
+                                                    </td>
+
+                                                    <td>Alumni Representative
+
+
+                                                    </td>
+
+
+
+                                                    <td>
+
+
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>6</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. R. A. Burukul
+
+
+                                                        </strong></td>
+                                                    <td>Academician
+
+                                                    </td>
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>7</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. B. B. Nakhate
+
+                                                        </strong></td>
+                                                    <td>Employer (Industry Representative)
+
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>8</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.Battusingh Rajput
+
+
+                                                        </strong></td>
+                                                    <td>Employer (Industry Representative)
+
+
+                                                    </td>
+
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>9</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Sanjay Bhadgaonkar
+
+
+                                                        </strong>
+                                                    </td>
+                                                    <td>Parents Representative
+
+
+                                                    </td>
+
+
+
+                                                    <td>
+
+
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>10</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Santosh Tukaram Vibhute
+
+
+                                                        </strong></td>
+                                                    <td>Parents Representative
+
+                                                    </td>
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                            </tbody>
+                                        </table>
                                     </div>
+
                                 </div>
+                                <!-- electronic end -->
 
-                                <div class="table-responsive text-nowrap">
-                                    <table class="table table-hover">
-                                        <thead>
-                                            <tr>
-                                                <th>sr.no.</th>
-                                                <th>Name of the Committee Member</th>
-                                                <th>Details</th>
-                                                <th>Actions</th>
+                                <!-- computer start -->
+                                <div id="computer" class="tab-pane fade">
 
-                                            </tr>
-                                        </thead>
-                                        <tbody class="table-border-bottom-0">
+                                    <div class="row">
+                                        <div class="col-lg-6 ">
 
-                                            <tr>
-                                                <td>01</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. M. D. Narangale
+                                        </div>
 
-                                                    </strong>
-                                                </td>
+                                        <div class="col-lg-6 d-flex justify-content-end">
+                                            <a href="add_Department-Advisory.php">
+                                                <button type="button" class="btn btn-primary me-3">ADD+</button>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="table-responsive text-nowrap">
+                                        <table class="table table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th>sr.no.</th>
+                                                    <th>Name of the Committee Member</th>
+                                                    <th>Details</th>
+                                                    <th>Actions</th>
+
+                                                </tr>
+                                            </thead>
+                                            <tbody class="table-border-bottom-0">
+                                                <td>1</td>
+                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mrs.R. S. Pophale
+
+
+                                                    </strong></td>
                                                 <td>HOD
 
                                                 </td>
 
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-
-
-                                            <tr>
-                                                <td>02</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. S. H. Bhandaru
-
-                                                    </strong></td>
-                                                <td>Faculty
-
-                                                </td>
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>03</td>
-                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. D. S. Lamb
-
-                                                    </strong></td>
-                                                <td>Faculty
-
-
-                                                </td>
-
 
                                                 <td>
                                                     <div> <a href="edit_Department-Advisory.php" class=" text-white">
@@ -1050,577 +1293,322 @@ include('../common/header_link.php');
                                                     </div>
 
                                                 </td>
-                                            </tr>
-                                            <tr>
-                                                <td>04</td>
-                                                <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.Yogesh B. Shejwal
+                                                </tr>
 
-                                                    </strong></td>
-                                                <td>Alumni Representative
-
-                                                </td>
+                                                <tr>
+                                                    <td>2</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mrs. A. P .Borlepwar
 
 
-
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>05</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr.Varad S. Bhadgaonkar
+                                                        </strong>
+                                                    </td>
+                                                    <td>Sr. Faculty
 
 
-                                                    </strong>
-                                                </td>
+                                                    </td>
 
-                                                <td>Alumni Representative
+                                                    <td>
 
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
 
-                                                </td>
+                                                    </td>
+                                                </tr>
 
 
 
-                                                <td>
+                                                <tr>
+                                                    <td>3</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. A. K. Kudlikar
+
+
+                                                        </strong></td>
+                                                    <td>Sr. Faculty
+
+
+                                                    </td>
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>4</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mrs. S. R. Rathi
+
+
+                                                        </strong></td>
+                                                    <td>Academician
 
 
 
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td>06</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. R. A. Burukul
+                                                    </td>
 
 
-                                                    </strong></td>
-                                                <td>Academician
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
 
-                                                </td>
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>07</td>
-                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. B. B. Nakhate
-
-                                                    </strong></td>
-                                                <td>Employer (Industry Representative)
-
-                                                </td>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>5</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. A. S. Nagrik
 
 
-                                                <td>
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>08</td>
-                                                <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr.Battusingh Rajput
+                                                        </strong></td>
+                                                    <td>Academician
 
 
-                                                    </strong></td>
-                                                <td>Employer (Industry Representative)
-
-
-                                                </td>
+                                                    </td>
 
 
 
-                                                <td>
+                                                    <td>
 
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
 
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>09</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Sanjay Bhadgaonkar
-
-
-                                                    </strong>
-                                                </td>
-                                                <td>Parents Representative
-
-
-                                                </td>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>6</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Nikhil Brahmbhatt
 
 
 
-                                                <td>
+                                                        </strong>
+                                                    </td>
+
+                                                    <td>Employer (Industry Representative)
 
 
 
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td>10</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Santosh Tukaram Vibhute
+                                                    </td>
 
 
-                                                    </strong></td>
-                                                <td>Parents Representative
 
-                                                </td>
+                                                    <td>
 
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
 
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                        </tbody>
-                                    </table>
-                                </div>
 
-                            </div>
-                            <!-- electronic end -->
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
 
-                            <!-- computer start -->
-                            <div id="computer" class="tab-pane fade">
+                                                    </td>
+                                                </tr>
 
-                                <div class="row">
-                                    <div class="col-lg-6 ">
+                                                <tr>
+                                                    <td>7</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Sanket Deshpande
 
+
+
+                                                        </strong></td>
+                                                    <td>Employer (Industry Representative)
+
+
+                                                    </td>
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>8</td>
+                                                    <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Gaurav Kale
+
+
+                                                        </strong></td>
+                                                    <td>Alumni Representative
+
+
+                                                    </td>
+
+
+                                                    <td>
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-success">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>9</td>
+                                                    <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mrs. Supriya Shinde
+
+
+
+                                                        </strong></td>
+                                                    <td>Alumni Representative
+
+
+
+                                                    </td>
+
+
+
+                                                    <td>
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-info">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>10</td>
+                                                    <td>
+                                                        <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Nishant Wagh
+
+
+
+                                                        </strong>
+                                                    </td>
+                                                    <td>Parents Representative
+
+
+
+                                                    </td>
+
+
+
+                                                    <td>
+
+
+
+                                                        <div> <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-warning">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>11</td>
+                                                    <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Maroti Dande
+
+
+
+                                                        </strong></td>
+                                                    <td>Parents Representative
+
+                                                    </td>
+
+                                                    <td>
+                                                        <div>
+                                                            <a href="edit_Department-Advisory.php" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-edit-alt me-1"></i> Edit
+                                                                </button></a>
+                                                            <a href="#" class=" text-white">
+                                                                <button type="button" class="btn rounded-pill btn-primary">
+                                                                    <i class="bx bx-trash me-1 "></i> Delete
+                                                                </button></a>
+                                                        </div>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                            </tbody>
+                                        </table>
                                     </div>
 
-                                    <div class="col-lg-6 d-flex justify-content-end">
-                                        <a href="add_Department-Advisory.php">
-                                            <button type="button" class="btn btn-primary me-3">ADD+</button>
-                                        </a>
-                                    </div>
+
                                 </div>
 
-                                <div class="table-responsive text-nowrap">
-                                    <table class="table table-hover">
-                                        <thead>
-                                            <tr>
-                                                <th>sr.no.</th>
-                                                <th>Name of the Committee Member</th>
-                                                <th>Details</th>
-                                                <th>Actions</th>
+                                <!-- computer department end -->
+                                <!-- artificial department start -->
+                                <div id="Artificial" class="tab-pane fade">
 
-                                            </tr>
-                                        </thead>
-                                        <tbody class="table-border-bottom-0">
-                                            <td>01</td>
-                                            <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mrs.R. S. Pophale
-
-
-                                                </strong></td>
-                                            <td>HOD
-
-                                            </td>
-
-
-                                            <td>
-                                                <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                        <button type="button" class="btn rounded-pill btn-success">
-                                                            <i class="bx bx-edit-alt me-1"></i> Edit
-                                                        </button></a>
-                                                    <a href="#" class=" text-white">
-                                                        <button type="button" class="btn rounded-pill btn-success">
-                                                            <i class="bx bx-trash me-1 "></i> Delete
-                                                        </button></a>
-                                                </div>
-
-                                            </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td>02</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mrs. A. P .Borlepwar
-
-
-                                                    </strong>
-                                                </td>
-                                                <td>Sr. Faculty
-
-
-                                                </td>
-
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-
-
-                                            <tr>
-                                                <td>03</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mrs. A. K. Kudlikar
-
-
-                                                    </strong></td>
-                                                <td>Sr. Faculty
-
-
-                                                </td>
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>04</td>
-                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mrs. S. R. Rathi
-
-
-                                                    </strong></td>
-                                                <td>Academician
-
-
-
-                                                </td>
-
-
-                                                <td>
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>05</td>
-                                                <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mr. A. S. Nagrik
-
-
-                                                    </strong></td>
-                                                <td>Academician
-
-
-                                                </td>
-
-
-
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>06</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Nikhil Brahmbhatt
-
-
-
-                                                    </strong>
-                                                </td>
-
-                                                <td>Employer (Industry Representative)
-
-
-
-                                                </td>
-
-
-
-                                                <td>
-
-
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td>07</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr. Sanket Deshpande
-
-
-
-                                                    </strong></td>
-                                                <td>Employer (Industry Representative)
-
-
-                                                </td>
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>08</td>
-                                                <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>Mr. Gaurav Kale
-
-
-                                                    </strong></td>
-                                                <td>Alumni Representative
-
-
-                                                </td>
-
-
-                                                <td>
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-success">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>09</td>
-                                                <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>Mrs. Supriya Shinde
-
-
-
-                                                    </strong></td>
-                                                <td>Alumni Representative
-
-
-
-                                                </td>
-
-
-
-                                                <td>
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-info">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>10</td>
-                                                <td>
-                                                    <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Mr. Nishant Wagh
-
-
-
-                                                    </strong>
-                                                </td>
-                                                <td>Parents Representative
-
-
-
-                                                </td>
-
-
-
-                                                <td>
-
-
-
-                                                    <div> <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-warning">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td>11</td>
-                                                <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Mr.Maroti Dande
-
-
-
-                                                    </strong></td>
-                                                <td>Parents Representative
-
-                                                </td>
-
-                                                <td>
-                                                    <div>
-                                                        <a href="edit_Department-Advisory.php" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-edit-alt me-1"></i> Edit
-                                                            </button></a>
-                                                        <a href="#" class=" text-white">
-                                                            <button type="button" class="btn rounded-pill btn-primary">
-                                                                <i class="bx bx-trash me-1 "></i> Delete
-                                                            </button></a>
-                                                    </div>
-
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                        </tbody>
-                                    </table>
                                 </div>
-
-
-                            </div>
-
-                            <!-- computer department end -->
-                            <!-- artificial department start -->
-                            <div id="Artificial" class="tab-pane fade">
-
                             </div>
                         </div>
+
+                        <!-- artificial department end -->
+
+
+                        <!-- Content -->
+
+                        <hr class="my-5" />
+
+
+                        <!-- Footer -->
+                        <!-- Footer -->
+                        <?php
+                        include('../common/footer.php');
+
+                        ?>
+                        <!-- / Footer -->
                     </div>
-                </div>
-                <!-- artificial department end -->
-
-
-                <!-- Content -->
-
-                <div class="container-xxl flex-grow-1 container-p-y">
-                    <h4 class="text-muted fw-bold py-3 mb-4"></h4>
-
-
-
-
-
-
-
-                    <hr class="my-5" />
-
-
-                    <!-- Footer -->
-                    <!-- Footer -->
-                    <?php
-                    include('../common/footer.php');
-
-                    ?>
-                    <!-- / Footer -->
-
                     <div class="content-backdrop fade"></div>
                 </div>
                 <!-- Content wrapper -->

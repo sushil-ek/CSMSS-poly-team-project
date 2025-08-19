@@ -157,6 +157,7 @@ include('../common/header_link.php');
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <th>SR</th>
                         <th>Title</th>
                         <th>PDF</th>
                         <th>Actions</th>
@@ -164,6 +165,7 @@ include('../common/header_link.php');
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <td>1</td>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Training and Placement Cell</strong></td>
                         <!-- <td>Albert Cook</td> -->
                         <td>

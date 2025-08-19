@@ -46,48 +46,12 @@ include '../common/header_link.php';
 
                 <div class="container">
                     <div class="card my-4">
-                        <h5 class="card-header">EDIT DEPARTMENT MOU's</h5>
+                        <h5 class="card-header">ADD IMAGE </h5>
                         <div class="card-body">
                             <div class="container mt-3">
                                 <form>
                                     <div class="row">
-                                        <div class="col-lg-4">
-                                            <div class="form-floating mb-3 mt-3">
-                                                <input
-                                                    type="text"
-                                                    class="form-control"
-                                                    id="Text"
-                                                    placeholder=""
-                                                    name="Name" />
-                                                <label for="Name">Name of the Company</label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-2">
-                                            <div class="form-floating mb-3 mt-3">
-                                                <input
-                                                    type="text"
-                                                    class="form-control"
-                                                    id="Text"
-                                                    placeholder=""
-                                                    name="Name" />
-                                                <label for="Name">From</label>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2">
-                                            <div class="form-floating mb-3 mt-3">
-                                                <input
-                                                    type="text"
-                                                    class="form-control"
-                                                    id="Text"
-                                                    placeholder=""
-                                                    name="Name" />
-                                                <label for="Name">Upto</label>
-                                            </div>
-                                        </div>
-
-
-                                        <div class="col-lg-4">
+                                        <div class="col-lg-6">
                                             <div class="form-floating mb-3 mt-3">
                                                 <select class="form-select" id="Dropdown" name="Dropdown">
                                                     <option selected disabled>Choose Department</option>
@@ -98,37 +62,43 @@ include '../common/header_link.php';
                                                     <option value="5">Computer Engineering</option>
                                                     <option value="6">Artificial Intelligence and Machine Learning</option>
                                                 </select>
-                                                <label for="Dropdown"> Department</label>
+                                                <label for="Dropdown">Department</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-floating mb-3 mt-3">
+                                                <input
+                                                    type="file"
+                                                    class="form-control p-3 mt-3"
+                                                    id="formFile"
+                                                    placeholder="Name of Student"
+                                                    name="image" />
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="row">
                                         <div class="col-lg-12 mt-3 text-center">
-                                            <button type="submit" class="btn btn-primary">Update</button>
-                                            <button type="submit" class="btn btn-primary"><a href="show_Department-Mou's.php" class="text-white">
+                                            <button type="submit" class="btn btn-primary">Add</button>
+                                            <button type="submit" class="btn btn-primary"><a href="show_Department-Slider.php" class="text-white">
                                                     Back
                                                 </a></button>
                                         </div>
-
-                                        <!-- <div class="col-lg-12 mt-3 text-center">
-                      <button type="submit" class="btn btn-primary">Add Event</button>
-                    </div> -->
+                                    </div>
                                 </form>
                             </div>
                         </div>
                     </div>
+
+                    <hr class="my-5" />
+
+                    <!-- Footer -->
+                    <!-- Footer -->
+                    <?php
+                    include '../common/footer.php';
+                    ?>
+                    <!-- / Footer -->
                 </div>
-
-                <hr class="my-5" />
-
-                <!-- Footer -->
-                <!-- Footer -->
-                <?php
-                include '../common/footer.php';
-                ?>
-                <!-- / Footer -->
-
                 <div class="content-backdrop fade"></div>
             </div>
             <!-- Content wrapper -->

@@ -138,16 +138,16 @@ include '../common/header_link.php';
                             </div>
                         </div>
                     </div>
+
+                    <hr class="my-5" />
+
+                    <!-- Footer -->
+                    <!-- Footer -->
+                    <?php
+                    include '../common/footer.php';
+                    ?>
+                    <!-- / Footer -->
                 </div>
-                <hr class="my-5" />
-
-                <!-- Footer -->
-                <!-- Footer -->
-                <?php
-                include '../common/footer.php';
-                ?>
-                <!-- / Footer -->
-
                 <div class="content-backdrop fade"></div>
             </div>
             <!-- Content wrapper -->

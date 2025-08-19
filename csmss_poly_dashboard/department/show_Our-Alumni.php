@@ -89,7 +89,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 01</td>
+                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 1</td>
                           <td>HANUMANT RANGNATH GADE</td>
                           <td>2011-12</td>
                           <td>BG CONSTRUCTION & DEVELOPRES, SABLKHED, AHAMADNAGAR</td>
@@ -108,7 +108,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>02</td>
+                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>2</td>
                           <td>VISHAL AMARSINGH BANSWAL</td>
                           <td>2012-13</td>
                           <td>PROPRIETOR: M/S. VB AND ASSOCIATES</td>
@@ -128,7 +128,7 @@ include('../common/header_link.php');
                         </tr>
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>03
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>3
                           </td>
                           <td>MAYUR ASARAM SATHE</td>
 
@@ -154,7 +154,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>04
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>4
                           </td>
                           <td>ROSHAN UTTAM BAHIRAV</td>
 
@@ -180,7 +180,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>05
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>5
                           </td>
                           <td>SARANG WAGHMARE</td>
 
@@ -206,7 +206,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>06
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>6
                           </td>
                           <td>MARUTI SUDAM HUD</td>
 
@@ -229,7 +229,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>07
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>7
                           </td>
                           <td>JAHIR KIRAN MALHARI </td>
 
@@ -255,7 +255,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>08
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>8
                           </td>
                           <td>FAIZAN ZAKER QURESHI</td>
 
@@ -281,7 +281,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>09
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>9
                           </td>
                           <td>TUSHAR ANNASAHEB PAGORE </td>
 
@@ -566,7 +566,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 01</td>
+                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 1</td>
                           <td>Channekar Pravin Arjun</td>
                           <td>2022-23</td>
                           <td>Placed in John Deere India Pvt. Ltd.</td>
@@ -584,7 +584,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>02</td>
+                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>2</td>
                           <td>Kartik Parmeshwar Lande</td>
                           <td>2019-20</td>
                           <td>Working as Automation Engineer</td>
@@ -605,7 +605,7 @@ include('../common/header_link.php');
                         </tr>
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>03
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>3
                           </td>
                           <td> Jitendra Rathod</td>
 
@@ -661,7 +661,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 01</td>
+                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 1</td>
                           <td>KHAIRNAR NIKHIL DEEPAK</td>
                           <td>2011-12</td>
                           <td>SR.ASSOCIATE CONSULTANT SAP MM INFOSYS LTD.PUNE</td>
@@ -679,7 +679,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>02</td>
+                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>2</td>
                           <td>PATHAN WAJEED HAMIDKHAN</td>
                           <td>2012-13 </td>
                           <td>ASSISTANT MANAGER ,SUZUKI MOTOR GUJARAT PRIVATE LIMITED</td>
@@ -700,7 +700,7 @@ include('../common/header_link.php');
                         </tr>
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>03
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>3
                           </td>
                           <td>ARSUL YOGESH KAILAS</td>
 
@@ -725,7 +725,7 @@ include('../common/header_link.php');
                         </tr>
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>04
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>4
                           </td>
                           <td>SALVE KARUNA BHAGAWANRAO</td>
 
@@ -751,7 +751,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>05
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>5
                           </td>
                           <td>HARDE PRAVIN TUKARAM</td>
 
@@ -777,7 +777,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>06
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>6
                           </td>
                           <td>KULKARNI ANUP ANILRAO</td>
 
@@ -800,7 +800,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>07
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>7
                           </td>
                           <td>WAKLE MANISHA SAKHAHARI </td>
 
@@ -826,7 +826,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>08
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>8
                           </td>
                           <td>FAIZAN ZAKER QURESHI</td>
 
@@ -852,7 +852,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>09
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>9
                           </td>
                           <td>KARANDE SHAILESH SHIVAJI </td>
 
@@ -1213,7 +1213,7 @@ include('../common/header_link.php');
                       </thead>
                       <tbody class="table-border-bottom-0">
                         <tr>
-                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 01</td>
+                          <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 1</td>
                           <td>Gawale Rahul Sahebrao</td>
                           <td>
                             2011-12
@@ -1236,7 +1236,7 @@ include('../common/header_link.php');
                           </td>
                         </tr>
                         <tr>
-                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>02</td>
+                          <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>2</td>
                           <td>Naikwade Pradip Kakasaheb </td>
                           <td>
                             2011-12
@@ -1261,7 +1261,7 @@ include('../common/header_link.php');
                         </tr>
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>03
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>3
                           </td>
                           <td>Makhija Juhi Prakash </td>
                           <td>
@@ -1290,7 +1290,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>04
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>4
                           </td>
                           <td>Naikwade Vishal V.
                           </td>
@@ -1321,7 +1321,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>05
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>5
                           </td>
                           <td> Jadhav Shubhangi Babasabh</td>
                           <td>
@@ -1350,7 +1350,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>06
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>6
                           </td>
                           <td>Hiwrale Sushma J.</td>
                           <td>
@@ -1376,7 +1376,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>07
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>7
                           </td>
                           <td>Chavhan Rahul Janardhan</td>
                           <td>
@@ -1405,7 +1405,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>08
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>8
                           </td>
                           <td>Aksa Khanr</td>
                           <td>
@@ -1432,7 +1432,7 @@ include('../common/header_link.php');
 
                         <tr>
                           <td>
-                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>09
+                            <i class="fab fa-bootstrap fa-lg text-primary me-3"></i>9
                           </td>
                           <td>Teke Urmila Shivaji</td>
                           <td>

@@ -17,13 +17,22 @@
     include 'common/header-link.php';
     ?>
     <style>
-       .award-para {
-  width: 300px;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  overflow: hidden;
-}
+      
+       nav-pills .nav-link.active,
+        .nav-pills .show>.nav-link {
+            color: #e49215ff;
+            background-color: transparent;
+        }
+        .nav-link {
+            color: black;
+        }
+        .breadcrumb-item + .breadcrumb-item::before {
+            content: "\f105"; /* Font Awesome chevron-right */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+           
+        }
+            
     </style>
 </head>
 
@@ -59,17 +68,7 @@
     </div>
 
     <!-- popup search end -->
-    <!-- breadcrumb -->
-    <div class="site-breadcrumb" style="background-image:url(assets/img/news-and-events/Awards-and-Recognitions/Prize-Distribution-3.jpg); height: 550px; object-fit: contain;">
-        <div class="container">
-            <h2 class="breadcrumb-title">AWAREDS AND RECOGNITIONS</h2>
-            <ul class="breadcrumb-menu">
-                <li><a href="index-2.html">Home</a></li>
-                <li class="active">AWAREDS AND RECOGNITIONS</li>
-            </ul>
-        </div>
-    </div>
-    <!-- breadcrumb end -->
+   
     <div class="department-single-area mt-5 faq-area">
         <div class="container">
             <div class="department-single-wrapper">
@@ -95,8 +94,7 @@
                                         A.Y.2022-23</a>
                                     <a href="#"><i class="far fa-long-arrow-right"></i>ISO 21001:2018 Certificate of
                                         registration</a>
-                                    <a href="#"><i class="far fa-long-arrow-right"></i>Excellent remark by MSBTE for A.
-                                        Y. 2021-22</a>
+                                    
                                     <a href="#"><i class="far fa-long-arrow-right"></i>Gold medal in IEDSSA sport
                                         event</a>
                                     <a href="#"><i class="far fa-long-arrow-right"></i>Preface by MSBTE Director Dr.
@@ -105,8 +103,7 @@
                                         PRESENTATION COMPETITION</a>
                                     <a href="#"><i class="far fa-long-arrow-right"></i>Letter of Appreciation By MSBTE,
                                         Mumbai</a>
-                                    <a href="#"><i class="far fa-long-arrow-right"></i>First Prize in MSBTE State level
-                                        paper presentation Competition</a>
+                                   
 
 
                                 </div>
@@ -114,7 +111,13 @@
 
                         </div>
                     </div>
-                    <div class="col-xl-8 col-lg-8">
+                   <div class="col-xl-8 col-lg-8" >
+                             <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mt-4">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">News</li>
+            </ol>
+        </nav>
                         
                             <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">Awards and Recognitions</h1>
                             <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">

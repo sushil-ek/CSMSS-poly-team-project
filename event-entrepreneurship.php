@@ -16,7 +16,38 @@
     <?php
     include 'common/header-link.php';
     ?>
+<style>
 
+
+.news {
+    width: 250px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+
+    }
+
+.nav-pills .nav-link.active,
+        .nav-pills .show>.nav-link {
+            color: #FDA31B;
+            background-color: transparent;
+        }
+        .nav-link {
+            color: black;
+        }
+        .breadcrumb-item + .breadcrumb-item::before {
+            content: "\f105"; /* Font Awesome chevron-right */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            padding: 0 0.5rem;
+            color: #6C757D;
+        }
+
+
+
+
+    </style>
 </head>
 
 <body>
@@ -666,7 +697,12 @@
                             
                         </div>
                         <div class="col-xl-8 col-lg-8">
-
+ <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mt-5">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">News</li>
+            </ol>
+        </nav>
                          <div class="facility-details-img mb-30">
                              <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
                             <h2 class="mt-4 mb-4">

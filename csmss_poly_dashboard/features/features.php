@@ -76,12 +76,14 @@ include '../common/header.php';
                   <table class="table table-hover">
                     <thead>
                       <tr>
+                        <th>SR</th>
                         <th>DESCRIPITION</th>
                      <th>ACTIONS</th>
                       </tr>
                     </thead>
                     <tbody class="table-border-bottom-0">
                       <tr>
+                        <th>1</th>
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>Angular Project</strong></td>
                
                         <!-- <td>
@@ -127,7 +129,7 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
-                        <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td>
+                        <!-- <td><i class="fab fa-react fa-lg text-info me-3"></i> <strong>React Project</strong></td> -->
                       
                         <!-- <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
@@ -158,7 +160,7 @@ include '../common/header.php';
                           </ul>
                         </td> -->
                    
-                        <td>
+                        <!-- <td>
                            <div> <a href="edit_features.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-success">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
@@ -172,7 +174,7 @@ include '../common/header.php';
                         </td>
                       </tr>
                       <tr>
-                        <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>VueJs Project</strong></td>
+                        <td><i class="fab fa-vuejs fa-lg text-success me-3"></i> <strong>VueJs Project</strong></td> -->
                    
                         <!-- <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
@@ -203,7 +205,7 @@ include '../common/header.php';
                           </ul>
                         </td> -->
                       
-                        <td>
+                        <!-- <td>
                           
                              <div> <a href="edit_features.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-info">
@@ -220,7 +222,7 @@ include '../common/header.php';
                       <tr>
                         <td>
                           <i class="fab fa-bootstrap fa-lg text-primary me-3"></i> <strong>Bootstrap Project</strong>
-                        </td>
+                        </td> -->
                       
                         <!-- <td>
                           <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
@@ -251,7 +253,7 @@ include '../common/header.php';
                           </ul>
                         </td>
                         -->
-                        <td>
+                        <!-- <td>
                             <div> <a href="edit_features.php" class=" text-white">
                                <button type="button" class="btn rounded-pill btn-warning">
                                   <i class="bx bx-edit-alt me-1"></i> Edit
@@ -263,7 +265,7 @@ include '../common/header.php';
                             </div>
                           </div>
                         </td>
-                      </tr>
+                      </tr> -->
                     </tbody>
                   </table>
                 </div>

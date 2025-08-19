@@ -82,93 +82,9 @@
                     </div>
                 </div>
                 <div class="row">
-                    <!-- aside tag start -->
-                    <div class="col-xl-4 col-lg-3 col-md-6 col-sm-12">
-                        <div class="department-sidebar">
-                            <div class="widget category">
-                                <h4 class="widget-title">Departments</h4>
-                                <div class="category-list">
-                                    <!-- civil-department.php -->
-                                    <a href="civil-department.php"><i class="far fa-long-arrow-right"></i>Civil Engineering</a>
-                                    <a href="electrical-department.php"><i class="far fa-long-arrow-right"></i>Electrical Engineering</a>
-                                    <a href="mechanical-department.php"><i class="far fa-long-arrow-right"></i>Mechanical Engineering</a>
-                                    <a href="electronics-telecommunication-department.php"><i class="far fa-long-arrow-right"></i>Electronics & Telecommunication Engineering</a>
-                                    <a href="computer-department.php"><i class="far fa-long-arrow-right"></i>Computer Engineering</a>
-                                    <a href="AI-ML-department.php"><i class="far fa-long-arrow-right"></i>Artificial Intelligance & Machine Learning</a>
-                                </div>
-                            </div>
-                            <section id="latest-news-section">
-                                <div class="my-4">
-                                    <div id="carouselExampleDark" class="carousel carousel-dark slide widget category" style="background-color:#f2f3f5;">
-                                        <h2 class="widget-title">Latest News</h2>
-                                        <div class="carousel-inner">
-                                            <div class="carousel-item active" data-bs-interval="10000">
-                                                <div style="min-height: 330px;">
-                                                    <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">MSBTE One time opportunity (OTO) registration time table 2022-23</strong>
-                                                        <p class="mt-2">As per the MSBTE circular dated 29 August 2022, regarding one time opportunity (OTO), MSBTE has declared the time table for registration for the same</p>
-                                                        <center>
-                                                            <div class="department-btn ">
-                                                                <a href="#" class="pt-lg-4 justify-content-center">READ MORE<i class="fas fa-arrow-right-long"></i></a>
-                                                        </center>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="carousel-item" data-bs-interval="10000">
-                                                <div style="min-height: 330px; ">
-                                                    <div class="carousel-caption d-block text-start py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Mechanical Engineering Department Second year students got second</strong>
-                                                        <p class="mt-2">Mechanical Engineering Department Second year students got second price in State Level Poster Presentation Competition held at Government Polytechnic College,</p>
-                                                        <center>
-                                                            <div class="department-btn">
-                                                                <a href="#" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
-                                                        </center>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="carousel-item" data-bs-interval="10000">
-                                                <div style="min-height: 330px;">
-                                                    <div class="carousel-caption d-block text-start py-md-5" style=" font-size: 15px">
-                                                        <strong class="">150th Birth Anniversary Celebration of Chhatrapati Rajarshi Shahu</strong>
-                                                        <p class="mt-2">CSMSS Celebrated 150th Birth Anniversary of Chhatrapati Rajarshi Shahu Maharaj in the presence of all degnitories.</p>
-                                                        <center>
-                                                            <div class="department-btn">
-                                                                <a href="#" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
-                                                        </center>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="carousel-item">
-                                                <div style="min-height: 330px; ">
-                                                    <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="">Refresher Course for Direct Second Year Students</strong>
-                                                        <p class="mt-2">Refresher Course for Direct Second Year Students was arranged for clearing previous concepts.so they can effectively learn dependant subjects</p>
-                                                        <center>
-                                                            <div class="department-btn">
-                                                                <a href="#" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
-                                                        </center>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                <span class="visually-hidden">Previous</span>
-                                            </button>
-                                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                <span class="visually-hidden">Next</span>
-                                            </button>
-                                        </div>
-                                    </div>
-                            </section>
-                            <!-- Latest News Section Close -->
-                        </div>
-                    </div>
-                    <!-- aside tag end -->
-                    <div class="col-xl-8 col-lg-9 col-md-6 col-sm-12">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
-                            <div class="col-lg-4 col-md-12 col-sm-12 ">
+                            <div class="col-lg-4 col-md-6 col-sm-12 ">
                                 <!-- Civil Card -->
                                 <div class="department-item">
                                     <div class="department-image">
@@ -183,7 +99,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12 ">
+                            <div class="col-lg-4 col-md-6 col-sm-12 ">
                                 <!-- Electrical Card -->
                                 <div class="department-item">
                                     <div class="department-image">
@@ -199,7 +115,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12 ">
+                            <div class="col-lg-4 col-md-6 col-sm-12 ">
                                 <!-- Mechanical Card -->
                                 <div class="department-item">
                                     <div class="department-image">
@@ -214,7 +130,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12 ">
+                            <div class="col-lg-4 col-md-6 col-sm-12 ">
                                 <!-- Computer Card -->
                                 <div class="department-item">
                                     <div class="department-image">
@@ -229,7 +145,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12 ">
+                            <div class="col-lg-4 col-md-6 col-sm-12 ">
                                 <!-- Electronics & Telecommunication Card -->
                                 <div class="department-item">
                                     <div class="department-image">
@@ -244,7 +160,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12 ">
+                            <div class="col-lg-4 col-md-6 col-sm-12 ">
                                 <!-- Artificial Intelligence & Machine Card -->
                                 <div class="department-item">
                                     <div class="department-image">
