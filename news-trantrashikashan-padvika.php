@@ -600,7 +600,7 @@
                        
                             <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
                              <nav aria-label="breadcrumb">
-            <ol class="breadcrumb mt-4">
+            <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">News</li>
             </ol>

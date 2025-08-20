@@ -21,7 +21,7 @@
 
 
 .news {
-    width: 250px;
+    width: 180px;
             display: -webkit-box;
             -webkit-box-orient: vertical;
             -webkit-line-clamp: 2;
