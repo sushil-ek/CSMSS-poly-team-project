@@ -92,7 +92,7 @@
 
 
                                           <section id="latest-news-section">
-                                <div class="container ">
+                                <div class="container mt-50">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
                                         <h2 class=" widget-title ">Latest News</h2>
                                         <div class="carousel-inner">
@@ -611,7 +611,7 @@
             </ol>
         </nav>
                                 <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">News</h1>
-                                <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 30%; ">
+                                <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 2956px; ">
                                 <!-- CARD ONE  -->
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item ">
