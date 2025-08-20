@@ -90,8 +90,7 @@
                     <div class="row">
                         <div class="col-xl-4 col-lg-4">
 
-
-                                          <section id="latest-news-section">
+ <section id="latest-news-section">
                                 <div class="container mt-50">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
                                         <h2 class=" widget-title ">Latest News</h2>
