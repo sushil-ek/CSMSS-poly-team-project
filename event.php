@@ -87,7 +87,7 @@
         
 
         <!-- department-single -->
-        <div class="department-single-area py-120">
+        <div class="department-single-area ">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">

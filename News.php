@@ -84,15 +84,15 @@
 
 
         <!-- news sidebar -->
-        <div class="department-single-area h-100">
-            <div class="container">
+        <div class="department-single-area py-120">
+            <div class="container mt-50">
                 <div class="department-single-wrapper">
                     <div class="row">
                         <div class="col-xl-4 col-lg-4">
 
 
                                           <section id="latest-news-section">
-                                <div class="container ">
+                                <div class="container mt-50">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
                                         <h2 class=" widget-title ">Latest News</h2>
                                         <div class="carousel-inner">
@@ -611,7 +611,7 @@
             </ol>
         </nav>
                                 <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">News</h1>
-                                <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 30%; ">
+                                <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 2956px; ">
                                 <!-- CARD ONE  -->
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item ">
@@ -657,7 +657,7 @@
                                         <div class="blog-item-img">
                                             <img src="assets/img/news-and-events/news/institute-level.jpg" alt="Thumb" style="height:250px;width:320px">
                                         </div>
-                                        <div class="eventpage1.php">
+                                        <div class="blog-item-info">
                                             <hr>
                                             <h4 class="blog-title">
                                                 <a href="newsinstitute.php">Institute Level Admission Round 2023-24....</a>
