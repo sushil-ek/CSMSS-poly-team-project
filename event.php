@@ -19,7 +19,7 @@
     <style>
 
     .center {
-    width: 250px;
+    width: 200px;
             display: -webkit-box;
             -webkit-box-orient: vertical;
             -webkit-line-clamp: 2;
@@ -816,7 +816,7 @@
 
 
                             <h1 class="ps-5 mb-4" style="border-bottom: 3px solid orange;">EVENTS</h1>
-                            <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
+                            <div class="row" style="overflow-y:scroll; scrollbar-width: none; height: 2865px;">
                                 <div class="col-md-6 col-lg-6">
                                     <div class="blog-item" data-wow-delay=".50s">
                                         <div class="blog-item-img">
