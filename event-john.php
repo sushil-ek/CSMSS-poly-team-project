@@ -707,7 +707,7 @@
 <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">Events</li>
             </ol>
         </nav>
                          <div class="facility-details-img mb-30">

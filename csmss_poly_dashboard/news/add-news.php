@@ -1,4 +1,7 @@
+
+
 <!DOCTYPE html>
+
 
 <!-- =========================================================
 * Sneat - Bootstrap 5 HTML Admin Template - Pro | v1.0.0
@@ -130,6 +133,6 @@ include '../common/sidebar.php';
 
             ?>
     <!-- Core JS -->
-   
+
   </body>
 </html>

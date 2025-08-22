@@ -694,7 +694,7 @@
                             <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">Events</li>
             </ol>
         </nav>
                             <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
