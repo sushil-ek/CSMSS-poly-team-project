@@ -696,38 +696,33 @@
                     <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">EVENT</li>
             </ol>
         </nav>
-                        <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
-                            <h2 class="mt-4 mb-4">
-                        industrial visit to Devgiri Mahanand Dairy Gandheli Chhatrapati Sambhajinagar</h2>
-                            <!--icon-->
-                        <div class="row ">
-                            <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>Devgiri Mahanand Dairy Gandheli Chhatrapati Sambhajinagar 
-                        </div>
-                             <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>12 Oct 2023</div>
-                           <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>The Mechanical Engineering Department of CSMSS College of Polytechnic had arranged an industrial visit to Devgiri Mahanand Dairy Gandheli Chhatrapati Sambhajinagar
-                           <div class="row">
-                                <div class="col-12 col-lg-6 col-md-6 mt-5">
-                                     <img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri1.png" class="w-100 card shadow-lg" style="height:200px; ">
-                            </div>
+<h1 style="border-bottom: 3px solid orange;">EVENT</h1>
+ <h2 class="mt-4 mb-4">
+ industrial visit to Devgiri Mahanand Dairy Gandheli Chhatrapati Sambhajinagar</h2>
+    <!--icon-->
+ <div class="row ">
+<div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>Devgiri Mahanand Dairy Gandheli Chhatrapati Sambhajinagar 
+ </div>
+ <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>12 Oct 2023</div>
+<div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i>The Mechanical Engineering Department of CSMSS College of Polytechnic had arranged an industrial visit to Devgiri Mahanand Dairy Gandheli Chhatrapati Sambhajinagar
+<div class="row">
+ <div class="col-12 col-lg-6 col-md-6 mt-5">
+   <img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri1.png" class="w-100 card shadow-lg" style="height:200px; ">
+     </div>
                             
-                                 <div class="col-12 col-lg-6 col-md-6 mt-5">
-                          <img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri2.png"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
+ <div class="col-12 col-lg-6 col-md-6 mt-5">
+<img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri2.png"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
-                            </div>
-                        </div>
-                          <div class="row">
-                           <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri3.png"alt="thumb"  class="w-100 card shadow-lg"style="height:200px; ">
-                             </div>
-                            </div>
-
-
-                  
-                            
-                            
-                    </div>
+  </div>
+ </div>
+<div class="row">
+<div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/industrial-event-to-devgiri/devgiri3.png"alt="thumb"  class="w-100 card shadow-lg"style="height:200px; ">
+ </div>
+  </div>              
+   </div>
 
 </div>
 </div>
@@ -736,18 +731,10 @@
 </div>
 </div>
 </div>
-
-
-
-                            
-       
-        <!-- department-single end-->
+   <!-- department-single end-->
 
     </main>
-
-
-
-    <!-- footer area -->
+<!-- footer area -->
     <?php
     include 'common/footer.php';
     ?>
