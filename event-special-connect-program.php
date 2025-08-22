@@ -696,7 +696,7 @@
                                 <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">EVENT</li>
             </ol>
         </nav>
                            
@@ -751,30 +751,11 @@
   <img src="assets/img/news-and-events/Events/school-connect-program/school6.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 </div>
-</div>
-
-
-                            
-                            
+</div>       
                                    
 </div>
-                                </div>
-                            
-     
-
- 
-                            
-                            
-                                
-                                
-                                
-
-
-                
-
-  
-                    
-                </div>
+ </div>
+ </div>
             </div>
         </div>
         <!-- department-single end-->

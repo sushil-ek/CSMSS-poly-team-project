@@ -50,7 +50,10 @@
         -webkit-line-clamp: 2;
          overflow:hidden;
 }
-    </style>
+
+</style>
+
+
 <body>
 
     <!-- preloader -->
@@ -700,18 +703,26 @@
                             </div>
                             
                         </div>
-                        <div class="col-xl-8 col-lg-8">
-                            <nav aria-label="breadcrumb">
+
+
+
+
+
+
+          <div class="col-xl-8 col-lg-8">
+                                <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Event</li>
+                <li class="breadcrumb-item active" aria-current="page">EVENT</li>
             </ol>
         </nav>
-                             <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
+                           
+                       
+                            <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
                             <h2 class="mt-4 mb-4">
-                                           Online webinar on 100% Free Education for Girls</h2>
+                                          Online webinar on 100% Free Education for Girls</h2>
                                           
-            <br>
+            
                                     
                                     
                             <!--icon-->
@@ -719,40 +730,54 @@
                                 <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS</div>
 
 
- <div class="col-6 "><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025 
+ <div class="col-6 ">
+    <i class="fa-solid fa-calendar-days "style="color: orange"></i>14 April 2024
 
 </div>
- <div class="col-12 "><i class="fa-thin fa-bars "style="color: orange"></i>Pool Campus Drive conducted for John Deere India Pvt Ltd Pune on 2nd April 2024
+ <div class="col-12 ">
+    <i class="fa-thin fa-bars "style="color: orange"></i> Pool Campus Drive conducted for John Deere India Ptv Ltd Pune on 2nd April 2024
 </div>
-
-                            <div class="row ">
-                                <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                     <img src="assets/img/news-and-events/Events/online-webinar/webinar1.png"class="w-100 card shadow-lg g-5" style="height:220px;  ">
-                                </div>
-                               <div class="col-12 col-lg-6 col-md-6  mt-5">
-                                    <img src="assets/img/news-and-events/Events/online-webinar/webinar2.jpeg"alt="thumb" class="w-100 card shadow-lg g-5"style="height:220px; ">
 </div>
-<div class="row  mt-3 ">   
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/online-webinar/webinar3.jpeg"alt="thumb" class="w-100 card shadow-lg g-2"style="height:220px;">
+                            <!--row1-->
+<div class="row">
+ <div class="col-12 col-lg-6 col-md-6 mt-5">
+<img src="assets/img/news-and-events/Events/online-webinar/webinar1.png"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
+                                    
 
 </div>
-<div class="col-12 col-lg-6 col-md-6  mt-5">
-                                    <img src="assets/img/news-and-events/Events/online-webinar/webinar4.jpeg"alt="thumb" class="w-100 card shadow-lg g-5"style="height:220px; ">
-</div>
-<div class="row  mt-3 ">   
- <div class="col-12 col-lg-6 col-md-6  mt-5"> <img src="assets/img/news-and-events/Events/online-webinar/webinar5.jpeg"alt="thumb" class="w-100 card shadow-lg g-2"style="height:220px;">
+                            
+ <div class="col-12 col-lg-6 col-md-6 mt-5">
+    <img src="assets/img/news-and-events/Events/online-webinar/webinar2.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
+</div>
+<div class="row">
+ <div class="col-12 col-lg-6 col-md-6 mt-5">
+     <img src="assets/img/news-and-events/Events/online-webinar/webinar3.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
 
 
-
-
+<div class="col-12 col-lg-6 col-md-6 mt-5">
+  <img src="assets/img/news-and-events/Events/online-webinar/webinar4.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
+                                    
 </div>
-</div>                         
+<div class="col-12 col-lg-6 col-md-6 mt-5">
+  <img src="assets/img/news-and-events/Events/online-webinar/webinar5.jpeg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">                              
+</div>
+
+
+</div>       
+                                   
+</div>
+ </div>                       
  
+
+
+
+
+
                   
                             
                             

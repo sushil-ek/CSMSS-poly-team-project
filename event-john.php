@@ -707,7 +707,7 @@
 <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">EVENT</li>
             </ol>
         </nav>
                          <div class="facility-details-img mb-30">
@@ -777,7 +777,7 @@
 </div>
 
 
-<div class="col-12 col-lg-6 col-md-6 mt-5">
+<div class="col-12 col-lg-6 col-md-6 mt-5 ">
     <img src="assets/img/news-and-events/Events/john-deere/john8.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
