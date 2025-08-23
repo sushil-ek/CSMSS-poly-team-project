@@ -80,7 +80,7 @@ include('../common/header_link.php');
                 </li>
                 <li><a data-toggle="tab" href="#Electrical">Electrical Engineering</a></li>
                 <li><a data-toggle="tab" href="#Mechanical">Mechanical Engineering</a></li>
-                <li><a data-toggle="tab" href="#electronic">electronic and Engineering</a></li>
+                <li><a data-toggle="tab" href="#electronic">Electronic and Tele-communication Engineering</a></li>
                 <li><a data-toggle="tab" href="#Computer">Computer Engineering</a></li>
                 <li><a data-toggle="tab" href="#Artificial">Artificial intelligence Engineering</a></li>
               </ul>

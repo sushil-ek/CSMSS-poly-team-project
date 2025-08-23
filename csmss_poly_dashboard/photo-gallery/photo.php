@@ -1,3 +1,20 @@
+<?php
+include '../common/dbcon.php';
+
+if (isset($_POST['submit'])) {
+    $Title = $_POST['Title'];
+    $Image = $_POST['Image'];
+    
+
+    $sql = "INSERT INTO Photo_gallery ( Title, Image) VALUES ('$Title', '$Image')";
+    if (mysqli_query($conn, $sql)) {
+        echo "New record created successfully";
+    } else {
+        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+    }
+}
+?>
+
 <!DOCTYPE html>
 
 <!-- =========================================================
@@ -299,7 +316,7 @@ include '../common/header.php';
                             </div>
                           
                         </td>
-                    </tbody>
+                    
                   </table>
                 </div>
               </div>

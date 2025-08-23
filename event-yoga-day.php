@@ -35,11 +35,11 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
-        .news {
-         width: 180px;
+        .center {
+         width: 200px;
          display: -webkit-box;
          -webkit-box-orient: vertical;
-        -webkit-line-clamp: 2;
+        -webkit-line-clamp: 1;
          overflow:hidden;
         }
     </style>
@@ -695,7 +695,7 @@
                                 <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Events</li>
+                <li class="breadcrumb-item active" aria-current="page">Event</li>
             </ol>
         </nav>
                                             <h1 style="border-bottom: 3px solid orange;">EVENT</h1>

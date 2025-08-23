@@ -1,4 +1,21 @@
+<?php
+include '../common/dbcon.php';
+
+if (isset($_POST['submit'])) {
+    $Title = $_POST['Title'];
+    $Image = $_POST['Image'];
+    
+
+    $sql = "INSERT INTO news ( Title, Image) VALUES ('$Title', '$Image')";
+    if (mysqli_query($conn, $sql)) {
+        echo "New record created successfully";
+    } else {
+        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+    }
+}
+?>
 <!DOCTYPE html>
+
 
 <!-- =========================================================
 * Sneat - Bootstrap 5 HTML Admin Template - Pro | v1.0.0
@@ -53,7 +70,7 @@ include '../common/sidebar.php';
               <h5 class="card-header">EDIT NEWS</h5>
               <div class="card-body">
                 <div class="container mt-3">
-                  <form>
+                  <form method="POST">
                     <div class="row">
                       <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
@@ -61,8 +78,8 @@ include '../common/sidebar.php';
                             type="text"
                             class="form-control"
                             id="Text"
-                            placeholder="Title"
-                            name="Name"
+                            placeholder=" Add Title"
+                            name="Title"
                           />
                           <label for="Name">Title</label>
                         </div>
@@ -87,7 +104,7 @@ include '../common/sidebar.php';
                     </div>
 
                     <div class="col-lg-12 text-center">
-                     <button type="submit" class="btn btn-primary">Update</button> 
+                     <button type="submit" name="submit" class="btn btn-primary">Update</button> 
                      <button type="submit" class="btn btn-primary"><a href=" news.php" class="text-white">Back</a></button> 
                      
                     </div>

@@ -1,3 +1,21 @@
+<?php
+include '../common/dbcon.php';
+
+if (isset($_POST['submit'])) {
+    $Title = $_POST['Title'];
+    $Image = $_POST['Image'];
+    
+
+    $sql = "INSERT INTO news ( Title, Image) VALUES ('$Title', '$Image')";
+    if (mysqli_query($conn, $sql)) {
+        echo "New record created successfully";
+    } else {
+        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+    }
+}
+?>
+
+
 <!DOCTYPE html>
 
 <!-- =========================================================
@@ -96,10 +114,7 @@
                         <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>1</strong></td>
                         <td><p class="page-para ">Mechanical Engineering Department Second year students got second price</p></td>
                         <td>
-                        <td>
-                            <img src="../../assets/img/news-and-events/news/mechanical-1.jpg" alt="Avatar" class="one" />
-
-                        </td>
+                        
                         
                           
                         </td>
@@ -112,6 +127,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -142,6 +161,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-info"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -175,6 +198,11 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                              <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
+                              
                             </div>
                           </div>
                         </td>
@@ -201,6 +229,11 @@
                               <button type="button" class="btn rounded-pill btn-primary"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                              <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-primary"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
+
                             </div>
                           
                         </td>
@@ -231,6 +264,10 @@
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           
                         </td>
@@ -256,6 +293,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-info"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-info"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -283,6 +324,10 @@
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -307,6 +352,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -333,6 +382,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -365,6 +418,10 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                              <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -391,6 +448,10 @@
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -416,6 +477,10 @@
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           
                         </td>
@@ -440,6 +505,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -472,6 +541,10 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -498,6 +571,10 @@
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -522,6 +599,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -549,6 +630,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -582,6 +667,10 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                              <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -608,6 +697,10 @@
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                              <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -631,6 +724,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -659,6 +756,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -690,6 +791,10 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -714,6 +819,10 @@
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -737,6 +846,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -765,6 +878,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                                <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -797,6 +914,10 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -821,6 +942,10 @@
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                              <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -844,6 +969,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -870,6 +999,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -902,6 +1035,10 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                              <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -926,6 +1063,10 @@
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -948,6 +1089,10 @@
                              <a  href="#" class=" text-white">
                               <button type="button" class="btn rounded-pill btn-success"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a  href="#" class=" text-white">
+                              <button type="button" class="btn rounded-pill btn-success"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           
@@ -974,6 +1119,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -1003,6 +1152,10 @@
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
                               </button></a>
+                               <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
+                              </button></a>
                             </div>
                           </div>
                         </td>
@@ -1026,6 +1179,10 @@
                                 <a  href="#" class=" text-white">
                                 <button type="button" class="btn rounded-pill btn-primary"> 
                                  <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a  href="#" class=" text-white">
+                                <button type="button" class="btn rounded-pill btn-primary"> 
+                                 <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -1051,6 +1208,10 @@
                                 <a  href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-info"> 
                              <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                              <a  href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-info"> 
+                             <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>
@@ -1082,6 +1243,10 @@
                                 <a href="#" class=" text-white">
                              <button type="button" class="btn rounded-pill btn-warning"> 
                               <i class="bx bx-trash me-1 "></i> Delete
+                              </button></a>
+                               <a href="#" class=" text-white">
+                             <button type="button" class="btn rounded-pill btn-warning"> 
+                              <i class="bx bx-trash me-1 "></i> Disable
                               </button></a>
                             </div>
                           </div>

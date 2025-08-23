@@ -1,3 +1,19 @@
+<?php
+include '../common/dbcon.php';
+
+if (isset($_POST['submit'])) {
+    $Title = $_POST['Title'];
+    $Image = $_POST['Image'];
+    
+
+    $sql = "INSERT INTO photo_gallery ( Title, Image) VALUES ('$Title', '$Image')";
+    if (mysqli_query($conn, $sql)) {
+        echo "New record created successfully";
+    } else {
+        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+    }
+}
+?>
 <!DOCTYPE html>
 
 <!-- =========================================================
@@ -53,7 +69,7 @@ include '../common/header.php';
               <h5 class="card-header">ADD PHOTO</h5>
               <div class="card-body">
                 <div class="container mt-3">
-               <form>
+               <form method="POST">
                     <div class="row">
                       <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
@@ -61,10 +77,10 @@ include '../common/header.php';
                             type="text"
                             class="form-control"
                             id="Text"
-                            placeholder="Add Programs"
-                            name="Name"
+                            placeholder="Add Title"
+                            name="Title"
                           />
-                          <label for="Name">Programs</label>
+                          <label for="Title">Title</label>
                         </div>
                       </div>
 
@@ -72,7 +88,7 @@ include '../common/header.php';
                       
                      <div class="col-lg-6">
                         <div class="mb-3">
-                          <input class="form-control p-3 mt-3"  type="file" id="formFile" name="image">
+                          <input class="form-control p-3 mt-3"  type="file" id="formFile" name="Image">
                         </div>
                       </div>
 
@@ -81,7 +97,7 @@ include '../common/header.php';
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
-                       <button type="submit" class="btn btn-primary"> Add photo</button>
+                       <button type="submit" name="submit" class="btn btn-primary"> Add </button>
                       <button type="submit" class="btn btn-primary"><a href="photo.php" class="text-white">
                         Back
                       </a></button>

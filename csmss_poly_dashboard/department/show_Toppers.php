@@ -27,7 +27,26 @@ include('../common/header_link.php');
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 <style>
-    .wrap-text {
+  .nav-tabs {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    flex-wrap: nowrap;
+  }
+
+  .nav-tabs::-webkit-scrollbar {
+    height: 6px;
+  }
+
+  .nav-tabs::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  .nav-tabs li {
+    flex: 0 0 auto;
+  } 
+
+  .wrap-text {
         white-space: pre-line;
         /* Allows breaks from HTML or \n */
     }
@@ -66,7 +85,7 @@ include('../common/header_link.php');
                                 <li class="active"><a data-toggle="tab" href="#home">Civil Engineering</a></li>
                                 <li><a data-toggle="tab" href="#menu1">Electrical Engineering</a></li>
                                 <li><a data-toggle="tab" href="#menu2">Mechanical Engineering</a></li>
-                                <li><a data-toggle="tab" href="#menu3">Electronic and Engineering</a></li>
+                                <li><a data-toggle="tab" href="#menu3">Electronic and Tele-communication Engineering</a></li>
                                 <li><a data-toggle="tab" href="#menu4">Computer Engineering</a></li>
                                 <li><a data-toggle="tab" href="#menu5">Artificial intelligence Engineering</a></li>
                             </ul>
@@ -1518,7 +1537,7 @@ include('../common/header_link.php');
       >
     </div> -->
             <?php
-            include('../../common/footer-link.php');
+            include('../common/footer-link.php');
 
 
             ?>

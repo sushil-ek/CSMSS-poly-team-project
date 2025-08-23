@@ -77,7 +77,7 @@ include('../common/header_link.php');
                                 <li class="active"><a data-toggle="tab" href="#civil">Civil Engineering</a></li>
                                 <li><a data-toggle="tab" href="#electrical">Electrical Engineering</a></li>
                                 <li><a data-toggle="tab" href="#mechanical">Mechanical Engineering</a></li>
-                                <li><a data-toggle="tab" href="#electronic">electronic and Engineering</a></li>
+                                <li><a data-toggle="tab" href="#electronic">Electronic and Tele-communication Engineering</a></li>
                                 <li><a data-toggle="tab" href="#computer">Computer Engineering</a></li>
                                 <li><a data-toggle="tab" href="#Artificial">Artificial intelligence Engineering</a></li>
                             </ul>

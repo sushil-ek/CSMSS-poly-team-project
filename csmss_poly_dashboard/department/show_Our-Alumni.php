@@ -92,7 +92,7 @@ include('../common/header_link.php');
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 1</td>
                           <td>HANUMANT RANGNATH GADE</td>
                           <td>2011-12</td>
-                          <td>BG CONSTRUCTION & DEVELOPRES, SABLKHED, AHAMADNAGAR</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">BG CONSTRUCTION & DEVELOPRES, SABLKHED, AHAMADNAGAR</td>
                           <td>civil</td>
 
                           <td>
@@ -111,7 +111,7 @@ include('../common/header_link.php');
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>2</td>
                           <td>VISHAL AMARSINGH BANSWAL</td>
                           <td>2012-13</td>
-                          <td>PROPRIETOR: M/S. VB AND ASSOCIATES</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">PROPRIETOR: M/S. VB AND ASSOCIATES</td>
                           <td>civil</td>
                           <td>
                             <div> <a href="edit_Our-Alumni.php" class=" text-white">
@@ -159,7 +159,7 @@ include('../common/header_link.php');
                           <td>ROSHAN UTTAM BAHIRAV</td>
 
                           <td>2015-16</td>
-                          <td>CIVIL ENGINEER AT PC CONSTRUCTIONS</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">CIVIL ENGINEER AT PC CONSTRUCTIONS</td>
                           <td>civil</td>
 
                           <td>
@@ -185,7 +185,7 @@ include('../common/header_link.php');
                           <td>SARANG WAGHMARE</td>
 
                           <td>2015-16</td>
-                          <td>MANAGING DIRECTOR AT BOLD STUDIO</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">MANAGING DIRECTOR AT BOLD STUDIO</td>
                           <td>civil</td>
 
                           <td>
@@ -211,7 +211,7 @@ include('../common/header_link.php');
                           <td>MARUTI SUDAM HUD</td>
 
                           <td>2016-17</td>
-                          <td>CEO OF DREAMS PLANNER & DESIGNER BIDKIN, PAITHAN</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">CEO OF DREAMS PLANNER & DESIGNER BIDKIN, PAITHAN</td>
                           <td>civil</td>
 
                           <td>
@@ -234,7 +234,7 @@ include('../common/header_link.php');
                           <td>JAHIR KIRAN MALHARI </td>
 
                           <td>2016-17</td>
-                          <td>STRUCTURAL ENGINEER AT RAMA GROUP PUNE</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">STRUCTURAL ENGINEER AT RAMA GROUP PUNE</td>
                           <td>civil</td>
 
                           <td>
@@ -260,7 +260,7 @@ include('../common/header_link.php');
                           <td>FAIZAN ZAKER QURESHI</td>
 
                           <td>2016-17</td>
-                          <td>BIM ENGINEER IN DDDC UAE DUBAI</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">BIM ENGINEER IN DDDC UAE DUBAI</td>
                           <td>civil</td>
 
                           <td>
@@ -286,7 +286,7 @@ include('../common/header_link.php');
                           <td>TUSHAR ANNASAHEB PAGORE </td>
 
                           <td>2017-18</td>
-                          <td>FIELD MANAGER IN VATSALYA CONSULTING SERVICES</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">FIELD MANAGER IN VATSALYA CONSULTING SERVICES</td>
                           <td>civil</td>
 
                           <td>
@@ -312,7 +312,7 @@ include('../common/header_link.php');
                           <td>MANISH GORAKSHA ATAWANE</td>
 
                           <td>2017-18</td>
-                          <td>BIM ENGINEER & MODELER AT MUMBAI AHMEDABAD HIGH SPEED RAIL PROJECT</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">BIM ENGINEER & MODELER AT MUMBAI AHMEDABAD HIGH SPEED RAIL PROJECT</td>
                           <td>civil</td>
 
                           <td>
@@ -364,7 +364,7 @@ include('../common/header_link.php');
                           <td>KARHALE UMESH KASHINATH</td>
 
                           <td>2017-18</td>
-                          <td>LECTURER ( ADITYA EDUCATION GROUP)</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">LECTURER ( ADITYA EDUCATION GROUP)</td>
                           <td>civil</td>
 
                           <td>
@@ -389,7 +389,7 @@ include('../common/header_link.php');
                           <td>SAURABH SOMINATH RITHE</td>
 
                           <td>2017-18</td>
-                          <td>MANJEET PRIDE GROUP,CHATRAPATI SAMBHAJINAGER</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">MANJEET PRIDE GROUP,CHATRAPATI SAMBHAJINAGER</td>
                           <td>civil</td>
 
                           <td>
@@ -439,7 +439,7 @@ include('../common/header_link.php');
                           <td>SANDIP BHANUDAS DHEPLE</td>
 
                           <td>2017-18</td>
-                          <td>JUNIOR ENGINEER (CIVIL) WATER RESOURCES DEPARTMENT</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">JUNIOR ENGINEER (CIVIL) WATER RESOURCES DEPARTMENT</td>
                           <td>civil</td>
 
                           <td>
@@ -489,7 +489,7 @@ include('../common/header_link.php');
                           <td>ADARSH UDAY DUBEY </td>
 
                           <td>2018-19</td>
-                          <td>CIVIL ENGINEER AT BHARUKA CONSTRUCTIONS.</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">CIVIL ENGINEER AT BHARUKA CONSTRUCTIONS.</td>
                           <td>civil</td>
 
                           <td>
@@ -514,7 +514,7 @@ include('../common/header_link.php');
                           <td>HITESH RAMESHWAR SHINDE </td>
 
                           <td>2018-19</td>
-                          <td>SHUBHVASTU ENGINEER'S / GOVERNMENT CONTRACTOR</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">SHUBHVASTU ENGINEER'S / GOVERNMENT CONTRACTOR</td>
                           <td>civil</td>
 
                           <td>
@@ -569,7 +569,7 @@ include('../common/header_link.php');
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 1</td>
                           <td>Channekar Pravin Arjun</td>
                           <td>2022-23</td>
-                          <td>Placed in John Deere India Pvt. Ltd.</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">Placed in John Deere India Pvt. Ltd.</td>
                           <td>Electrical</td>
                           <td>
                             <div> <a href="edit_Our-Alumni.php" class=" text-white">
@@ -587,7 +587,7 @@ include('../common/header_link.php');
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>2</td>
                           <td>Kartik Parmeshwar Lande</td>
                           <td>2019-20</td>
-                          <td>Working as Automation Engineer</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">Working as Automation Engineer</td>
                           <td>Electrical</td>
 
                           <td>
@@ -610,7 +610,7 @@ include('../common/header_link.php');
                           <td> Jitendra Rathod</td>
 
                           <td>2019-20 </td>
-                          <td>Working as Technician in MAHADISCOM</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">Working as Technician in MAHADISCOM</td>
                           <td>Electrical</td>
 
                           <td>
@@ -664,7 +664,7 @@ include('../common/header_link.php');
                           <td><i class="fab fa-angular fa-lg text-danger me-3"></i> 1</td>
                           <td>KHAIRNAR NIKHIL DEEPAK</td>
                           <td>2011-12</td>
-                          <td>SR.ASSOCIATE CONSULTANT SAP MM INFOSYS LTD.PUNE</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">SR.ASSOCIATE CONSULTANT SAP MM INFOSYS LTD.PUNE</td>
                           <td>Mechanical</td>
                           <td>
                             <div> <a href="edit_Our-Alumni.php" class=" text-white">
@@ -682,7 +682,7 @@ include('../common/header_link.php');
                           <td><i class="fab fa-vuejs fa-lg text-success me-3"></i>2</td>
                           <td>PATHAN WAJEED HAMIDKHAN</td>
                           <td>2012-13 </td>
-                          <td>ASSISTANT MANAGER ,SUZUKI MOTOR GUJARAT PRIVATE LIMITED</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">ASSISTANT MANAGER ,SUZUKI MOTOR GUJARAT PRIVATE LIMITED</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -705,7 +705,7 @@ include('../common/header_link.php');
                           <td>ARSUL YOGESH KAILAS</td>
 
                           <td>2013-14 </td>
-                          <td>DY. MANAGER APPLICATION ENGINEERING (R&D BUSINESS UNIT PUNE) KIRLOSKAR OIL ENGINES LIMITED</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">DY. MANAGER APPLICATION ENGINEERING (R&D BUSINESS UNIT PUNE) KIRLOSKAR OIL ENGINES LIMITED</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -730,7 +730,7 @@ include('../common/header_link.php');
                           <td>SALVE KARUNA BHAGAWANRAO</td>
 
                           <td>2013-14 </td>
-                          <td>PRODUCTION PLANNER, KONECRANES ,PUNE</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">PRODUCTION PLANNER, KONECRANES ,PUNE</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -756,7 +756,7 @@ include('../common/header_link.php');
                           <td>HARDE PRAVIN TUKARAM</td>
 
                           <td>2015-16</td>
-                          <td>SR. ENGINEER ( UTILITY) AT JK TYRE & INDUSTRIES LTD</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">SR. ENGINEER ( UTILITY) AT JK TYRE & INDUSTRIES LTD</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -782,7 +782,7 @@ include('../common/header_link.php');
                           <td>KULKARNI ANUP ANILRAO</td>
 
                           <td>2014-15</td>
-                          <td>FOUNDER, SPHURIT TECHNOLOGIES , GROWTH CONSULTANT , DIGITAL MARKETING EXPERT</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">FOUNDER, SPHURIT TECHNOLOGIES , GROWTH CONSULTANT , DIGITAL MARKETING EXPERT</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -805,7 +805,7 @@ include('../common/header_link.php');
                           <td>WAKLE MANISHA SAKHAHARI </td>
 
                           <td>2014-16</td>
-                          <td>JE, MAHAGENCO,GOVT. OF MAHARASHTRA</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">JE, MAHAGENCO,GOVT. OF MAHARASHTRA</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -831,7 +831,7 @@ include('../common/header_link.php');
                           <td>FAIZAN ZAKER QURESHI</td>
 
                           <td>2014-15</td>
-                          <td>SALES ADMINISTRATION ,GREAVES COTTON LIMITED</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">SALES ADMINISTRATION ,GREAVES COTTON LIMITED</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -857,7 +857,7 @@ include('../common/header_link.php');
                           <td>KARANDE SHAILESH SHIVAJI </td>
 
                           <td>2015-16</td>
-                          <td>DEPUTY MANAGER AT GODREJ TOOLING</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">DEPUTY MANAGER AT GODREJ TOOLING</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -883,7 +883,7 @@ include('../common/header_link.php');
                           <td>BORUDE ROHIT VISHNU</td>
 
                           <td>2015-16</td>
-                          <td>STARTED OWN IT COMPANY “SNYAM TECH SOFTWARE”</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">STARTED OWN IT COMPANY “SNYAM TECH SOFTWARE”</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -909,7 +909,7 @@ include('../common/header_link.php');
                           <td>WAGH YOGESH ATMARAM </td>
 
                           <td>2015-16</td>
-                          <td>DESIGN ENGINEER (BIW JIG & FIXTURES) ROBTECH AUTOMATION & SERVICES,PUNE.</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">DESIGN ENGINEER (BIW JIG & FIXTURES) ROBTECH AUTOMATION & SERVICES,PUNE.</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -935,7 +935,7 @@ include('../common/header_link.php');
                           <td>KALATRE KRISHNA RAMRAO</td>
 
                           <td>2016-17</td>
-                          <td>GRAPHICS & ADVANCED GRAPHIC SPECIALIST AT JONH DEERE INDIA</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">GRAPHICS & ADVANCED GRAPHIC SPECIALIST AT JONH DEERE INDIA</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -960,7 +960,7 @@ include('../common/header_link.php');
                           <td>CHOURE POOJA SHRIHAREE</td>
 
                           <td>2016-17</td>
-                          <td>DESIGN ENGINEER,AT OSBORN LIPPERT PVT.LTD</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">DESIGN ENGINEER,AT OSBORN LIPPERT PVT.LTD</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -985,7 +985,7 @@ include('../common/header_link.php');
                           <td>SARAF AMIT ANANT </td>
 
                           <td>2016-17</td>
-                          <td>CUSTOMER RETENTION SPECIALIST & CUSTOMER DELIGHT HEAD. UGAOO AGRI TECH.PUNE</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">CUSTOMER RETENTION SPECIALIST & CUSTOMER DELIGHT HEAD. UGAOO AGRI TECH.PUNE</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -1010,7 +1010,7 @@ include('../common/header_link.php');
                           <td>CHAWALI SACHIN BALAJI</td>
 
                           <td>2017-18</td>
-                          <td>SENIOR ENGINEER JCB INDIA LTD. PUNE</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">SENIOR ENGINEER JCB INDIA LTD. PUNE</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -1060,7 +1060,7 @@ include('../common/header_link.php');
                           <td>BOKIL PRASAD PRADEEPRAO </td>
 
                           <td>2018-19</td>
-                          <td>EQUIPMENT ENGINEER AT ITW INDIA PVT LTD</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">EQUIPMENT ENGINEER AT ITW INDIA PVT LTD</td>
                           <td>Mechanical</td>
 
                           <td>
@@ -1085,7 +1085,7 @@ include('../common/header_link.php');
                           <td>KAYASTH MAYUR RAJENDRA </td>
 
                           <td>2018-19</td>
-                          <td>DATA ENGINEER AT TATA CONSULTANCY SERVICES,PUNE</td>
+                          <td class="text-truncate" style="max-width:350px; white-space:nowrap; overflow:hidden;">DATA ENGINEER AT TATA CONSULTANCY SERVICES,PUNE</td>
                           <td>Mechanical</td>
 
                           <td>

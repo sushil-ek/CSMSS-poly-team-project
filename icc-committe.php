@@ -35,10 +35,10 @@
         }
 
         .news {
-    width: 180px;
+    width: 300px;
             display: -webkit-box;
             -webkit-box-orient: vertical;
-            -webkit-line-clamp: 2;
+            -webkit-line-clamp: 1;
             overflow: hidden;
 
     }
@@ -93,7 +93,7 @@
                 <div class="department-single-wrapper">
                     <div class="row">
                         <div class="col-xl-4 col-lg-4">
-                             <section id="latest-news-section">
+                              <section id="latest-news-section">
                                 <div class="container my-4">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
                                         <h2 class=" widget-title ">Latest News</h2>
@@ -461,7 +461,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
                                                         <p class="ps-5 news">Arrangement of Special vaccination drive against corona virus disease (Covid-19) at CSMSS College of Polytechnic
-                                                        </p>
+    </p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-special-vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>

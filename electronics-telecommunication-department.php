@@ -54,17 +54,6 @@
 
     <main class="main">
 
-        <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
-            <div class="container">
-                <h2 class="breadcrumb-title">Electronics & Telecommunication Engineering</h2>
-                <ul class="breadcrumb-menu">
-                    <li><a href="index.php">Home</a></li>
-                    <li class="active">Electronics & Telecommunication Engineering</li>
-                </ul>
-            </div>
-        </div>
-        <!-- breadcrumb end -->
 
 
         <!-- department-single -->
@@ -79,10 +68,12 @@
                                     <div class="category-list">
                                         <a href="#E & TE"><i class="far fa-long-arrow-right"></i>Introduction</a>
                                         <a href="#AIC"><i class="far fa-long-arrow-right"></i>Admission Intake Capacity</a>
-                                        <a href="#Accordion-section"><i class="far fa-long-arrow-right"></i>Toppers</a>
+                                        <a href="#hod_message"><i class="far fa-long-arrow-right"></i>HOD Message</a>
+
+                                        <a href="#headingOne"><i class="far fa-long-arrow-right"></i>Toppers</a>
                                         <a href="#headingTwo"><i class="far fa-long-arrow-right"></i>Student's Achievement</a>
                                         <a href="#headingThree"><i class="far fa-long-arrow-right"></i>Department Advisory Board (DAB)</a>
-                                        <a href="#accordionExample"><i class="far fa-long-arrow-right"></i>Programmee Assessment Committee (PAC)</a>
+                                        <a href="#headingFourth"><i class="far fa-long-arrow-right"></i>Programmee Assessment Committee (PAC)</a>
                                         <a href="#headingFifth"><i class="far fa-long-arrow-right"></i>List Of Laboratories</a>
                                         <a href="#headingSixth"><i class="far fa-long-arrow-right"></i>student's Association (EESA)-2022-23</a>
                                         <a href="#headingseven"><i class="far fa-long-arrow-right"></i>Department Mou's</a>
@@ -90,11 +81,11 @@
                                     </div>
                                 </div>
                             </div>
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
+
+
+
+
+
                         </div>
                         <!-- department download -->
                         <!-- <div class="widget department-download">
@@ -152,7 +143,7 @@
                                 </div>
 
                                 <!-- carousel  end -->
-                                 <div id="E & TE">
+                                <div id="E & TE">
                                     <div class="department-details">
                                         <div class="mb-4">
                                             <h3 class="mb-20">Electronics & Tele-communication Engineering</h3>
@@ -227,22 +218,22 @@
                                         <p><b class="text-dark">PO6:Project Management:</b> Use engineering management principles individually, as a team member or a leader to manage projects and effectively communicate about well-defined engineering activities.</p>
                                         <p><b class="text-dark">PO7: Life-long learning:</b> Ability to analyze individual needs and engage in updating in the context of technological changes.</p>
                                     </div>
-                                 </div>
-                                    <!-- PO's end -->
+                                </div>
+                                <!-- PO's end -->
                                 <div id="AIC">
                                     <h3 class="mb-3 ps-1 text-black">Admission Intake Capacity : 60</h3>
 
                                     <!-- Accodian start -->
-                                    <div class="container my-5">
+                                    <div class="container my-5" id="hod_message">
                                         <div class="accordion" id="hodAccordion">
                                             <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne">
-                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                <h2 class="accordion-header" id="headingintake">
+                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHOD"
                                                         aria-expanded="true" aria-controls="collapseOne">
                                                         HOD Message
                                                     </button>
                                                 </h2>
-                                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                                <div id="collapseHOD" class="accordion-collapse collapse show" aria-labelledby="headingintake"
                                                     data-bs-parent="#hodAccordion">
                                                     <div class="accordion-body">
                                                         <div class="row">
@@ -518,162 +509,162 @@
 
                                     <!--Accordin section started here-->
                                     <section id="Accordion-section">
-                                        <div id="topper">
 
-                                            <div class="faq-area">
-                                                <div class="row">
-                                                    <div class="col-lg-6 w-100">
-                                                        <!--first Accordion started-->
-                                                        <div class="accordion" id="accordionExample">
-                                                            <div class="accordion-item p-2">
-                                                                <h2 class="accordion-header " id="headingOne">
-                                                                    <button
-                                                                        class="accordion-button collapsed"
-                                                                        type="button" data-bs-toggle="collapse"
-                                                                        data-bs-target="#collapseOne"
-                                                                        aria-expanded="false"
-                                                                        aria-controls="collapseOne">
-                                                                        TOPPERS
-                                                                    </button>
-                                                                </h2>
-                                                                <div id="collapseOne"
-                                                                    class="accordion-collapse collapse"
-                                                                    aria-labelledby="headingOne"
-                                                                    data-bs-parent="#accordionExample">
-                                                                    <div class="accordion-body">
 
-                                                                        <ul>
-                                                                            <li style="list-style-type: disc;">
-                                                                                Following are the overall toppers of
-                                                                                Electronics & Telecomm.engineering department for the
-                                                                                academic year 2022-23.</li>
-                                                                        </ul>
-                                                                        <h5 style="margin-bottom: 10px;"><u>Toppers
-                                                                                of FY EJ</u></h5>
-                                                                        <!--first table started-->
-                                                                        <div class="container mt-3 table-responsive">
-                                                                            <table class="table table-bordered table-hover">
-                                                                                <thead>
-                                                                                    <tr>
-                                                                                        <th>Sr.No.</th>
-                                                                                        <th>Name of Student</th>
-                                                                                        <th> Percentage</th>
-                                                                                        <th>Class Awarded</th>
-                                                                                    </tr>
-                                                                                </thead>
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td>01</td>
-                                                                                        <td>PARADKAR RUSHIKESH PRASAD</td>
-                                                                                        <td>86.59</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>02</td>
-                                                                                        <td>SHRIKHANDE SAURABH BALKRISHNA</td>
-                                                                                        <td>84.59</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>03</td>
-                                                                                        <td>GADWE ANIKET BHAGWAN</td>
-                                                                                        <td>75.76</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
+                                        <div class="faq-area">
+                                            <div class="row">
+                                                <div class="col-lg-6 w-100">
+                                                    <!--first Accordion started-->
+                                                    <div class="accordion" id="accordionExample">
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header " id="headingOne">
+                                                                <button
+                                                                    class="accordion-button collapsed"
+                                                                    type="button" data-bs-toggle="collapse"
+                                                                    data-bs-target="#collapseOne"
+                                                                    aria-expanded="true"
+                                                                    aria-controls="collapseOne">
+                                                                    TOPPERS
+                                                                </button>
+                                                            </h2>
+                                                            <div id="collapseOne"
+                                                                class="accordion-collapse collapse"
+                                                                aria-labelledby="headingOne"
+                                                                data-bs-parent="#accordionExample">
+                                                                <div class="accordion-body">
 
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </div>
-                                                                        <!-- first table end -->
+                                                                    <ul>
+                                                                        <li style="list-style-type: disc;">
+                                                                            Following are the overall toppers of
+                                                                            Electronics & Telecomm.engineering department for the
+                                                                            academic year 2022-23.</li>
+                                                                    </ul>
+                                                                    <h5 style="margin-bottom: 10px;"><u>Toppers
+                                                                            of FY EJ</u></h5>
+                                                                    <!--first table started-->
+                                                                    <div class="container mt-3 table-responsive">
+                                                                        <table class="table table-bordered table-hover">
+                                                                            <thead>
+                                                                                <tr>
+                                                                                    <th>Sr.No.</th>
+                                                                                    <th>Name of Student</th>
+                                                                                    <th> Percentage</th>
+                                                                                    <th>Class Awarded</th>
+                                                                                </tr>
+                                                                            </thead>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td>01</td>
+                                                                                    <td>PARADKAR RUSHIKESH PRASAD</td>
+                                                                                    <td>86.59</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>02</td>
+                                                                                    <td>SHRIKHANDE SAURABH BALKRISHNA</td>
+                                                                                    <td>84.59</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>03</td>
+                                                                                    <td>GADWE ANIKET BHAGWAN</td>
+                                                                                    <td>75.76</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
 
-                                                                        <!-- second table start -->
-                                                                        <h5 style="margin-bottom: 10px;"><u>Toppers
-                                                                                of SY EJ</u></h5>
-                                                                        <div class="container mt-3 table-responsive">
-                                                                            <table class="table table-bordered table-hover">
-                                                                                <thead>
-                                                                                    <tr>
-                                                                                        <th>Sr.No.</th>
-                                                                                        <th>Name of Student</th>
-                                                                                        <th> Percentage</th>
-                                                                                        <th>Class Awarded</th>
-                                                                                    </tr>
-                                                                                </thead>
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td>01</td>
-                                                                                        <td>DIVE ARUNDHATI DEEPAK</td>
-                                                                                        <td>79.56</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>02</td>
-                                                                                        <td> DNYANESHWARI PATIL</td>
-                                                                                        <td>78.67</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>03</td>
-                                                                                        <td>SALUNKE RADHIKA UMESH</td>
-                                                                                        <td>78</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-
-                                                                                </tbody>
-                                                                            </table>
-                                                                            <!--second table end-->
-
-                                                                            <!--third table started-->
-                                                                            <h5 style="margin-bottom: 10px;"><u>Toppers
-                                                                                    of TY EJ</u></h5>
-                                                                            <table class=" table table-bordered table-hover">
-                                                                                <thead>
-                                                                                    <tr>
-                                                                                        <th>Sr.No.</th>
-                                                                                        <th>Name of Student</th>
-                                                                                        <th> Percentage</th>
-                                                                                        <th>Class Awarded</th>
-                                                                                    </tr>
-                                                                                </thead>
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td>01</td>
-                                                                                        <td>BHANDARE BHAKTI GANESH</td>
-                                                                                        <td>85.29</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>02</td>
-                                                                                        <td>NAIK DIPIKA SHIVAJI</td>
-                                                                                        <td>83.18</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>03</td>
-                                                                                        <td>SOPPA SRUSHTI SUNIL</td>
-                                                                                        <td>81.06</td>
-                                                                                        <td>First Class with Distinction</td>
-                                                                                    </tr>
-
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </div>
-                                                                        <!--third table end-->
+                                                                            </tbody>
+                                                                        </table>
                                                                     </div>
+                                                                    <!-- first table end -->
+
+                                                                    <!-- second table start -->
+                                                                    <h5 style="margin-bottom: 10px;"><u>Toppers
+                                                                            of SY EJ</u></h5>
+                                                                    <div class="container mt-3 table-responsive">
+                                                                        <table class="table table-bordered table-hover">
+                                                                            <thead>
+                                                                                <tr>
+                                                                                    <th>Sr.No.</th>
+                                                                                    <th>Name of Student</th>
+                                                                                    <th> Percentage</th>
+                                                                                    <th>Class Awarded</th>
+                                                                                </tr>
+                                                                            </thead>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td>01</td>
+                                                                                    <td>DIVE ARUNDHATI DEEPAK</td>
+                                                                                    <td>79.56</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>02</td>
+                                                                                    <td> DNYANESHWARI PATIL</td>
+                                                                                    <td>78.67</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>03</td>
+                                                                                    <td>SALUNKE RADHIKA UMESH</td>
+                                                                                    <td>78</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <!--second table end-->
+
+                                                                        <!--third table started-->
+                                                                        <h5 style="margin-bottom: 10px;"><u>Toppers
+                                                                                of TY EJ</u></h5>
+                                                                        <table class=" table table-bordered table-hover">
+                                                                            <thead>
+                                                                                <tr>
+                                                                                    <th>Sr.No.</th>
+                                                                                    <th>Name of Student</th>
+                                                                                    <th> Percentage</th>
+                                                                                    <th>Class Awarded</th>
+                                                                                </tr>
+                                                                            </thead>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td>01</td>
+                                                                                    <td>BHANDARE BHAKTI GANESH</td>
+                                                                                    <td>85.29</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>02</td>
+                                                                                    <td>NAIK DIPIKA SHIVAJI</td>
+                                                                                    <td>83.18</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>03</td>
+                                                                                    <td>SOPPA SRUSHTI SUNIL</td>
+                                                                                    <td>81.06</td>
+                                                                                    <td>First Class with Distinction</td>
+                                                                                </tr>
+
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </div>
+                                                                    <!--third table end-->
                                                                 </div>
                                                             </div>
-                                                        
+                                                        </div>
+
                                                         <!--first Accordion end-->
 
                                                         <!--second Accordion start-->
                                                         <div class="accordion-item p-2">
                                                             <h2 class="accordion-header" id="headingTwo">
-                                                              
+
                                                                 <button
                                                                     class="accordion-button collapsed"
                                                                     type="button" data-bs-toggle="collapse"
                                                                     data-bs-target="#collapseTwo"
-                                                                    aria-expanded="false"
+                                                                    aria-expanded="true"
                                                                     aria-controls="collapseTwo">
                                                                     STUDENTS' ACHIEVEMENT
                                                                 </button>
@@ -781,12 +772,12 @@
                                                         <!--third Accordion start-->
                                                         <div class="accordion-item p-2">
                                                             <h2 class="accordion-header "
-                                                                id="headingThree">  
+                                                                id="headingThree">
                                                                 <button
                                                                     class="accordion-button collapsed"
                                                                     type="button" data-bs-toggle="collapse"
                                                                     data-bs-target="#collapseThree"
-                                                                    aria-expanded="false"
+                                                                    aria-expanded="true"
                                                                     aria-controls="collapseThree">
                                                                     DEPARTMENT ADVISORY BOARD (DAB)
                                                                 </button>
@@ -884,7 +875,7 @@
                                                                         class="accordion-button collapsed"
                                                                         type="button" data-bs-toggle="collapse"
                                                                         data-bs-target="#collapsefourth"
-                                                                        aria-expanded="false"
+                                                                        aria-expanded="true"
                                                                         aria-controls="collapseOne">
                                                                         PROGRAMME ASSESSMENT COMMITTEE(PAC)
                                                                     </button>
@@ -960,370 +951,374 @@
                                                             </div>
                                                         </div>
 
-                                                            <!--forth-accordion-end -->
+                                                        <!--forth-accordion-end -->
 
-                                                            <!--Fifth-accordion-Start -->
-                                                            <div class="accordion-item p-2">
-                                                                <h2 class="accordion-header" id="headingFifth">
-                                                                    <button
-                                                                        class="accordion-button collapsed"
-                                                                        type="button" data-bs-toggle="collapse"
-                                                                        data-bs-target="#collapsefifth"
-                                                                        aria-expanded="false"
-                                                                        aria-controls="collapseTwo">
-                                                                        LIST OF LABOROTORIES
-                                                                    </button>
-                                                                </h2>
-                                                                <div id="collapsefifth"
-                                                                    class="accordion-collapse collapse"
-                                                                    aria-labelledby="headingfifth"
-                                                                    data-bs-parent="#accordionExample">
-                                                                    <div class="accordion-body">
-                                                                        <div class="container mt-3 table-responsive">
-                                                                            <!--fifth-table started-->
-                                                                            <table class=" table table-bordered table-hover">
-                                                                                <thead>
-                                                                                    <tr>
-                                                                                        <th>Sr.No.</th>
-                                                                                        <th>Name of Laboratories</th>
-                                                                                        <th>Cost of Equipments (Rs.)</th>
+                                                        <!--Fifth-accordion-Start -->
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header" id="headingFifth">
+                                                                <button
+                                                                    class="accordion-button collapsed"
+                                                                    type="button" data-bs-toggle="collapse"
+                                                                    data-bs-target="#collapsefifth"
+                                                                    aria-expanded="true"
+                                                                    aria-controls="collapseTwo">
+                                                                    LIST OF LABOROTORIES
+                                                                </button>
+                                                            </h2>
+                                                            <div id="collapsefifth"
+                                                                class="accordion-collapse collapse"
+                                                                aria-labelledby="headingfifth"
+                                                                data-bs-parent="#accordionExample">
+                                                                <div class="accordion-body">
+                                                                    <div class="container mt-3 table-responsive">
+                                                                        <!--fifth-table started-->
+                                                                        <table class=" table table-bordered table-hover">
+                                                                            <thead>
+                                                                                <tr>
+                                                                                    <th>Sr.No.</th>
+                                                                                    <th>Name of Laboratories</th>
+                                                                                    <th>Cost of Equipments (Rs.)</th>
 
-                                                                                    </tr>
-                                                                                </thead>
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td>01</td>
-                                                                                        <td>Communication Lab</td>
-                                                                                        <td>755687</td>
+                                                                                </tr>
+                                                                            </thead>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td>01</td>
+                                                                                    <td>Communication Lab</td>
+                                                                                    <td>755687</td>
 
-                                                                                    </tr>
+                                                                                </tr>
 
-                                                                                    <tr>
-                                                                                        <td>02</td>
-                                                                                        <td>Measurement Lab</td>
-                                                                                        <td>742717</td>
+                                                                                <tr>
+                                                                                    <td>02</td>
+                                                                                    <td>Measurement Lab</td>
+                                                                                    <td>742717</td>
 
-                                                                                    </tr>
+                                                                                </tr>
 
-                                                                                    <tr>
-                                                                                        <td>03</td>
-                                                                                        <td>Basic Electronics Lab</td>
-                                                                                        <td>831545</td>
+                                                                                <tr>
+                                                                                    <td>03</td>
+                                                                                    <td>Basic Electronics Lab</td>
+                                                                                    <td>831545</td>
 
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>04</td>
-                                                                                        <td>Digital & microprocessor Lab</td>
-                                                                                        <td>153880</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>04</td>
+                                                                                    <td>Digital & microprocessor Lab</td>
+                                                                                    <td>153880</td>
 
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>05</td>
-                                                                                        <td>Analog Electronics lab</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>05</td>
+                                                                                    <td>Analog Electronics lab</td>
 
-                                                                                        <td>121326</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td></td>
-                                                                                        <td>Total</td>
-                                                                                        <td>2605155</td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </div>
+                                                                                    <td>121326</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td></td>
+                                                                                    <td>Total</td>
+                                                                                    <td>2605155</td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <!-- fifth-accordion-end -->
-
-
-                                                            <!-- sixth-ACCORDIN STARTS-->
-                                                            <div class="accordion-item p-2">
-                                                                <h2 class="accordion-header" id="headingSixth">
-                                                                    <button
-                                                                        class="accordion-button collapsed"
-                                                                        type="button" data-bs-toggle="collapse"
-                                                                        data-bs-target="#collapsesixth"
-                                                                        aria-expanded="false"
-                                                                        aria-controls="collapseTwo">
-                                                                        STUDENT'S ASSOCIATION (EESA)-2022-23
-                                                                    </button>
-                                                                </h2>
-                                                                <div id="collapsesixth"
-                                                                    class="accordion-collapse collapse"
-                                                                    aria-labelledby="headingsixth"
-                                                                    data-bs-parent="#accordionExample">
-                                                                    <div class="accordion-body">
-                                                                        <div class="container mt-3 table-responsive">
-                                                                            <table class=" table table-bordered table-hover">
-                                                                                <!--sixth-table started-->
-                                                                                <thead>
-                                                                                    <tr>
-                                                                                        <th>Sr.No.</th>
-                                                                                        <th>Name of the Candidate</th>
-                                                                                        <th>Post</th>
-
-                                                                                    </tr>
-                                                                                </thead>
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td>01</td>
-                                                                                        <td>DAITHANKAR TEJAS SACHIN</td>
-                                                                                        <td>PRESIDENT</td>
-
-                                                                                    </tr>
-
-                                                                                    <tr>
-                                                                                        <td>02</td>
-                                                                                        <td>GADWE ANIKET BHAGWAN</td>
-                                                                                        <td>VICE PRESIDENT</td>
-
-                                                                                    </tr>
-
-                                                                                    <tr>
-                                                                                        <td>03</td>
-                                                                                        <td>GONDGE KRUSHNA ASHOK</td>
-                                                                                        <td>SECRETARY</td>
-
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>04</td>
-                                                                                        <td>MEHETAR SHRAVANI ARJUN</td>
-                                                                                        <td>TECHNICAL EVENT CO-ORDINATOR-TY</td>
-
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>05</td>
-                                                                                        <td>JIVRAK SONALI NARAYAN</td>
-
-                                                                                        <td>DISCIPLINE HEAD</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>06</td>
-                                                                                        <td>PARADKAR RUSHIKESH PRASA</td>
-                                                                                        <td>SPORTS SECRETARY</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>07</td>
-                                                                                        <td>PATIL PRACHI DATTU</td>
-                                                                                        <td>TREASURER</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>08</td>
-                                                                                        <td>SHRIKHANDE SAURABH BALKRISHNA</td>
-                                                                                        <td>JOINT SECRETARY</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>96</td>
-                                                                                        <td>PRADHAN HARSHAL BHASKAR</td>
-                                                                                        <td>DECORATION HEAD</td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- 6TH ACCORDIN ENDS-->
-
-                                                            <!-- 7TH ACCORDIN STARTS-->
-                                                            <div class="accordion-item p-2">
-                                                                <h2 class="accordion-header" id="headingseven">
-
-                                                                    <button class="accordion-button collapsed" type="button"
-                                                                        data-bs-toggle="collapse" data-bs-target="#collapseseven"
-                                                                        aria-expanded="false" aria-controls="collapseseven">
-                                                                        DEPARTMENT MOU's
-                                                                    </button>
-                                                                </h2>
-                                                                <div id="collapseseven" class="accordion-collapse collapse"
-                                                                    aria-labelledby="headingseven" data-bs-parent="#accordionExample">
-                                                                    <div class="accordion-body">
-                                                                        <div class="container mt-3 table-responsive">
-                                                                            <table class=" table table-bordered table-hover">
-                                                                                <!--SEVENTH-table started-->
-                                                                                <thead>
-                                                                                    <tr>
-                                                                                        <th> Sr. No.</th>
-                                                                                        <th> Name of Company</th>
-                                                                                        <th>From <br></th>
-                                                                                        <th>Upto<br></th>
-                                                                                    </tr>
-                                                                                </thead>
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td>01</td>
-                                                                                        <td>Marathwada Auto Cluster ,
-                                                                                            Waluj, Midc, Chhatrapati
-                                                                                            Sambhajinagar
-                                                                                        </td>
-                                                                                        <td>23-06-2022</td>
-                                                                                        <td>23-06-2025</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>02</td>
-                                                                                        <td> Shri Venkatesh Polymould Pvt. Ltd.</td>
-                                                                                        <td> 05-04-2023</td>
-                                                                                        <td>05-04-2025</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td> 03</td>
-                                                                                        <td> DNR India Auto Tech Pvt. Ltd.</td>
-                                                                                        <td>26-08-2021</td>
-                                                                                        <td>25-08-2024</td>
-
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>04</td>
-                                                                                        <td>Crystal Technology</td>
-                                                                                        <td>27-08-2021</td>
-                                                                                        <td>26-08-2025</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>05</td>
-                                                                                        <td>CDSP, Chh.Sambhajinagar</td>
-                                                                                        <td>27-05-2024</td>
-                                                                                        <td>27-04-2025</td>
-                                                                                    </tr>
-
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </div>
-                                                                        <!--seventh-table end-->
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!--SEVENTH-Accordion end-->
-
-
-
-                                                            <!-- 8TH ACCORDIN STARTS-->
-                                                            <div class="accordion-item p-2">
-                                                                <h2 class="accordion-header" id="headingEight">
-                                                                    <button
-                                                                        class="accordion-button collapsed"
-                                                                        type="button" data-bs-toggle="collapse"
-                                                                        data-bs-target="#collapseEight"
-                                                                        aria-expanded="false"
-                                                                        aria-controls="collapseEight">
-                                                                        DEPARTMENT PROJECT
-                                                                    </button>
-                                                                </h2>
-                                                                <div id="collapseEight"
-                                                                    class="accordion-collapse collapse"
-                                                                    aria-labelledby="headingEight"
-                                                                    data-bs-parent="#accordionExample">
-                                                                    <div class="accordion-body">
-                                                                        <div class="col-md-12">
-                                                                            <div class="hedaing-content">
-                                                                            </div>
-                                                                            <p><strong><u class="p-2">A.Y.
-                                                                                        2020-21</u></strong></p>
-                                                                            <ul class="p-2 ">
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Universal Develoment Board for Practical</li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Hand Gesture For Dumb People
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Android Streaming Micro Quadcopter with Obstacle detection
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Automatic temperture detector in classroom
-                                                                                </li>
-
-                                                                            </ul>
-                                                                            <p><strong><u class="p-2">A.Y.
-                                                                                        2021-22</u></strong></p>
-                                                                            <ul class="p-2 ">
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    8051 Development Board</li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    RFID & GSM Based Security system using Microcontroller</li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    IoT Based Air & Sound Pollution Monitoring System</li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Remote based Digital Notice Board using GSM Module & Microcontroller
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Solar based Mobile Charger
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Alcohol Sensing Alert with Engine Locking System
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Women Safety Device with GPS Trackinf & Alerts
-                                                                                </li>
-
-                                                                            </ul>
-                                                                            <p><strong><u class="p-2">A.Y.
-                                                                                        2022-23</u></strong></p>
-                                                                            <ul class="p-2 ">
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    GUI for error correction in data communication using SCILAB
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    8051 Development Board
-
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    RFID based Attendance system
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Finger print based attendance system
-
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Solar based mobile charger
-                                                                                </li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Automatic Plant Watering System using Ardunio
-
-                                                                                </li>
-
-                                                                            </ul>
-                                                                            <p><strong><u class="p-2">A.Y.
-                                                                                        2023-24</u></strong></p>
-                                                                            <ul
-                                                                                class="justify-content-center p-2 ">
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Biometric Attendance system</li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    water level controller using Python</li>
-                                                                                <li
-                                                                                    style="list-style-type: disc">
-                                                                                    Home Automation</li>
-
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- 8TH ACCORDIN ENDS-->
                                                         </div>
+                                                        <!-- fifth-accordion-end -->
+
+
+                                                        <!-- sixth-ACCORDIN STARTS-->
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header" id="headingSixth">
+                                                                <button
+                                                                    class="accordion-button collapsed"
+                                                                    type="button" data-bs-toggle="collapse"
+                                                                    data-bs-target="#collapsesixth"
+                                                                    aria-expanded="true"
+                                                                    aria-controls="collapseTwo">
+                                                                    STUDENT'S ASSOCIATION (EESA)-2022-23
+                                                                </button>
+                                                            </h2>
+                                                            <div id="collapsesixth"
+                                                                class="accordion-collapse collapse"
+                                                                aria-labelledby="headingsixth"
+                                                                data-bs-parent="#accordionExample">
+                                                                <div class="accordion-body">
+                                                                    <div class="container mt-3 table-responsive">
+                                                                        <table class=" table table-bordered table-hover">
+                                                                            <!--sixth-table started-->
+                                                                            <thead>
+                                                                                <tr>
+                                                                                    <th>Sr.No.</th>
+                                                                                    <th>Name of the Candidate</th>
+                                                                                    <th>Post</th>
+
+                                                                                </tr>
+                                                                            </thead>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td>01</td>
+                                                                                    <td>DAITHANKAR TEJAS SACHIN</td>
+                                                                                    <td>PRESIDENT</td>
+
+                                                                                </tr>
+
+                                                                                <tr>
+                                                                                    <td>02</td>
+                                                                                    <td>GADWE ANIKET BHAGWAN</td>
+                                                                                    <td>VICE PRESIDENT</td>
+
+                                                                                </tr>
+
+                                                                                <tr>
+                                                                                    <td>03</td>
+                                                                                    <td>GONDGE KRUSHNA ASHOK</td>
+                                                                                    <td>SECRETARY</td>
+
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>04</td>
+                                                                                    <td>MEHETAR SHRAVANI ARJUN</td>
+                                                                                    <td>TECHNICAL EVENT CO-ORDINATOR-TY</td>
+
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>05</td>
+                                                                                    <td>JIVRAK SONALI NARAYAN</td>
+
+                                                                                    <td>DISCIPLINE HEAD</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>06</td>
+                                                                                    <td>PARADKAR RUSHIKESH PRASA</td>
+                                                                                    <td>SPORTS SECRETARY</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>07</td>
+                                                                                    <td>PATIL PRACHI DATTU</td>
+                                                                                    <td>TREASURER</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>08</td>
+                                                                                    <td>SHRIKHANDE SAURABH BALKRISHNA</td>
+                                                                                    <td>JOINT SECRETARY</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>96</td>
+                                                                                    <td>PRADHAN HARSHAL BHASKAR</td>
+                                                                                    <td>DECORATION HEAD</td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- 6TH ACCORDIN ENDS-->
+
+                                                        <!-- 7TH ACCORDIN STARTS-->
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header" id="headingseven">
+
+                                                                <button class="accordion-button collapsed" type="button"
+                                                                    data-bs-toggle="collapse" data-bs-target="#collapseseven"
+                                                                    aria-expanded="true" aria-controls="collapseseven">
+                                                                    DEPARTMENT MOU's
+                                                                </button>
+                                                            </h2>
+                                                            <div id="collapseseven" class="accordion-collapse collapse"
+                                                                aria-labelledby="headingseven" data-bs-parent="#accordionExample">
+                                                                <div class="accordion-body">
+                                                                    <div class="container mt-3 table-responsive">
+                                                                        <table class=" table table-bordered table-hover">
+                                                                            <!--SEVENTH-table started-->
+                                                                            <thead>
+                                                                                <tr>
+                                                                                    <th> Sr. No.</th>
+                                                                                    <th> Name of Company</th>
+                                                                                    <th>From <br></th>
+                                                                                    <th>Upto<br></th>
+                                                                                </tr>
+                                                                            </thead>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td>01</td>
+                                                                                    <td>Marathwada Auto Cluster ,
+                                                                                        Waluj, Midc, Chhatrapati
+                                                                                        Sambhajinagar
+                                                                                    </td>
+                                                                                    <td>23-06-2022</td>
+                                                                                    <td>23-06-2025</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>02</td>
+                                                                                    <td> Shri Venkatesh Polymould Pvt. Ltd.</td>
+                                                                                    <td> 05-04-2023</td>
+                                                                                    <td>05-04-2025</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td> 03</td>
+                                                                                    <td> DNR India Auto Tech Pvt. Ltd.</td>
+                                                                                    <td>26-08-2021</td>
+                                                                                    <td>25-08-2024</td>
+
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>04</td>
+                                                                                    <td>Crystal Technology</td>
+                                                                                    <td>27-08-2021</td>
+                                                                                    <td>26-08-2025</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>05</td>
+                                                                                    <td>CDSP, Chh.Sambhajinagar</td>
+                                                                                    <td>27-05-2024</td>
+                                                                                    <td>27-04-2025</td>
+                                                                                </tr>
+
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </div>
+                                                                    <!--seventh-table end-->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!--SEVENTH-Accordion end-->
+
+
+
+                                                        <!-- 8TH ACCORDIN STARTS-->
+                                                        <div class="accordion-item p-2">
+                                                            <h2 class="accordion-header" id="headingEight">
+                                                                <button
+                                                                    class="accordion-button collapsed"
+                                                                    type="button" data-bs-toggle="collapse"
+                                                                    data-bs-target="#collapseEight"
+                                                                    aria-expanded="true"
+                                                                    aria-controls="collapseEight">
+                                                                    DEPARTMENT PROJECT
+                                                                </button>
+                                                            </h2>
+                                                            <div id="collapseEight"
+                                                                class="accordion-collapse collapse"
+                                                                aria-labelledby="headingEight"
+                                                                data-bs-parent="#accordionExample">
+                                                                <div class="accordion-body">
+                                                                    <div class="col-md-12">
+                                                                        <div class="hedaing-content">
+                                                                        </div>
+                                                                        <p><strong><u class="p-2">A.Y.
+                                                                                    2023-24</u></strong></p>
+                                                                        <ul
+                                                                            class="justify-content-center p-2 ">
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Biometric Attendance system</li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                water level controller using Python</li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Home Automation</li>
+
+                                                                        </ul>
+
+                                                                        <p><strong><u class="p-2">A.Y.
+                                                                                    2022-23</u></strong></p>
+                                                                        <ul class="p-2 ">
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                GUI for error correction in data communication using SCILAB
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                8051 Development Board
+
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                RFID based Attendance system
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Finger print based attendance system
+
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Solar based mobile charger
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Automatic Plant Watering System using Ardunio
+
+                                                                            </li>
+
+                                                                        </ul>
+
+                                                                        <p><strong><u class="p-2">A.Y.
+                                                                                    2021-22</u></strong></p>
+                                                                        <ul class="p-2 ">
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                8051 Development Board</li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                RFID & GSM Based Security system using Microcontroller</li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                IoT Based Air & Sound Pollution Monitoring System</li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Remote based Digital Notice Board using GSM Module & Microcontroller
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Solar based Mobile Charger
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Alcohol Sensing Alert with Engine Locking System
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Women Safety Device with GPS Trackinf & Alerts
+                                                                            </li>
+
+                                                                        </ul>
+
+                                                                        <p><strong><u class="p-2">A.Y.
+                                                                                    2020-21</u></strong></p>
+                                                                        <ul class="p-2 ">
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Universal Develoment Board for Practical</li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Hand Gesture For Dumb People
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Android Streaming Micro Quadcopter with Obstacle detection
+                                                                            </li>
+                                                                            <li
+                                                                                style="list-style-type: disc">
+                                                                                Automatic temperture detector in classroom
+                                                                            </li>
+
+                                                                        </ul>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- 8TH ACCORDIN ENDS-->
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
+
                                     </section>
                                     <!--Accordin section End here-->
                                 </div>
@@ -1357,6 +1352,35 @@
     include 'common/footer-link.php';
     ?>
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Get all links starting with #heading (accordion header IDs)
+            const accordionLinks = document.querySelectorAll('a[href^="#heading"]');
+            accordionLinks.forEach(link => {
+                link.addEventListener("click", function(e) {
+                    e.preventDefault();
+                    const headerId = this.getAttribute("href").substring(1); // remove '#'
+                    const header = document.getElementById(headerId);
+                    if (!header) return;
+                    // Scroll to the header
+                    header.scrollIntoView({
+                        behavior: "smooth",
+                        block: "start"
+                    });
+                    // Find the button inside the header (accordion toggle)
+                    const toggleButton = header.querySelector("button[data-bs-toggle='collapse']");
+                    if (!toggleButton) return;
+                    const targetSelector = toggleButton.getAttribute("data-bs-target");
+                    if (!targetSelector) return;
+                    const collapseEl = document.querySelector(targetSelector);
+                    if (!collapseEl) return;
+                    // Use Bootstrap Collapse API to show the section
+                    const bsCollapse = bootstrap.Collapse.getOrCreateInstance(collapseEl);
+                    bsCollapse.show();
+                });
+            });
+        });
+    </script>
 </body>
 
 

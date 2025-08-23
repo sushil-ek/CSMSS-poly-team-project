@@ -1,3 +1,21 @@
+<?php
+include '../common/dbcon.php';
+
+if (isset($_POST['submit'])) {
+    $Title = $_POST['Title'];
+    $Image = $_POST['Image'];
+    
+
+    $sql = "INSERT INTO news ( Title, Image) VALUES ('$Title', '$Image')";
+    if (mysqli_query($conn, $sql)) {
+        echo "New record created successfully";
+    } else {
+        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+    }
+}
+?>
+
+
 <!DOCTYPE html>
 
 <!-- =========================================================
@@ -52,18 +70,12 @@ include '../common/sidebar.php';
               <h5 class="card-header">ADD NEWS</h5>
               <div class="card-body">
                 <div class="container mt-3">
-               <form>
+               <form method="POST">
                     <div class="row">
                       <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
-                          <input
-                            type="text"
-                            class="form-control"
-                            id="Text"
-                            placeholder="Add Programs"
-                            name="Name"
-                          />
-                          <label for="Name">Programs</label>
+                          <input type="text" class="form-control" id="Text" placeholder="Add Title" name="Title"/>
+                          <label for="Name">Title</label>
                         </div>
                       </div>
 
@@ -71,17 +83,23 @@ include '../common/sidebar.php';
                       
                      <div class="col-lg-6">
                         <div class="mb-3">
-                          <input class="form-control p-3 mt-3"  type="file" id="formFile" name="image">
+                          <input class="form-control p-3 mt-3"  type="file" id="formFile" name="Image">
                         </div>
                       </div>
+                       <div class="col-lg-12  py-4">
+                                        <div class="form-floating">
+                  <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                  <label for="floatingTextarea2">Description</label>
+                    </div>
+                </div>
 
                       
                     </div>
 
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
-                       <button type="submit" class="btn btn-primary">Add Video</button>
-                      <button type="submit" class="btn btn-primary"><a href="news.php" class="text-white">
+                       <button type="submit" name="submit" class="btn btn-primary">Add</button>
+                      <button type="submit"  class="btn btn-primary"><a href="news.php" class="text-white">
                         Back
                       </a></button>
                      

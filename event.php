@@ -22,7 +22,7 @@
     width: 200px;
             display: -webkit-box;
             -webkit-box-orient: vertical;
-            -webkit-line-clamp: 2;
+            -webkit-line-clamp: 1;
             overflow: hidden;
 
     }
@@ -101,14 +101,14 @@
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p class="center">On the occasion of the
+                                                        <p class="ms-4 center">On the occasion of the
                                                             death anniversary, a heartfelt tribute to Chhatrapati Shahu
                                                             Maharaj.</p>
 
                                                         <center>
                                                             <div class="department-btn ">
                                                                 <a href="event-occasion.php" 
-                                                                    class="pt-lg-4 justify-content-center">READ MORE<i
+                                                                    class="pt-lg-4 center ms-4">READ MORE<i
                                                                         class="fas fa-arrow-right-long"></i></a>
                                                         </center>
                                                     </div>
@@ -118,7 +118,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">Blood
+                                                        <p  class="ms-4 center">Blood
                                                             Donation Camp on the Occasion of the Birthday of Hon.
                                                             Secretary Padmakarji
                                                             Mulay Sir</p>
@@ -135,7 +135,7 @@
                                                 <div style="min-height: 200px;">
                                                     <div class="carousel-caption d-block text-start pt-5"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Expert Talk on "Personality
+                                                        <p  class="ms-4 center" >Expert Talk on "Personality
                                                             Development</p>
 
                                                         <center>
@@ -152,7 +152,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Expert
+                                                        <p  class="ms-4 center" >Expert
                                                             Talk on "Business Opportunities and Product
                                                             Selection</p>
                                                         <center>
@@ -167,7 +167,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Expert Talk on "Entrepreneurship as
+                                                        <p  class="ms-4 center" >Expert Talk on "Entrepreneurship as
                                                             a Career Choice</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -182,7 +182,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >ISTE
+                                                        <p  class="ms-4 center" >ISTE
                                                             Sponsored State Level Technical Paper Presentation and Quiz
                                                             Competition</p>
                                                         <center>
@@ -197,7 +197,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Inaugration of Project lab and
+                                                        <p  class="ms-4 center" >Inaugration of Project lab and
                                                             Software development lab</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -212,7 +212,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Expert
+                                                        <p  class="ms-4 center" >Expert
                                                             talk on "Employability in Defence Services</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -226,7 +226,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >National Road Safety Week</p>
+                                                        <p  class="ms-4 center" >National Road Safety Week</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national-road.php" class="pt-lg-4">READ
@@ -239,7 +239,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >52th
+                                                        <p  class="ms-4 center" >52th
                                                             District Level Science Exhibition</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -253,7 +253,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Faculty Development Training Program
+                                                        <p  class="ms-4 center" >Faculty Development Training Program
                                                             on "Comprehensive Python and Machine Learning "</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -268,7 +268,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">Faculty Development Training
+                                                        <p  class="ms-4 center">Faculty Development Training
                                                             program</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -284,7 +284,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >PM
+                                                        <p  class="ms-4 center" >PM
                                                             Vishawkarma Program</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -298,7 +298,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >First
+                                                        <p  class="ms-4 center" >First
                                                             Year Induction Program 2024-25</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -312,7 +312,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">Entrepreneurship development
+                                                        <p  class="ms-4 center">Entrepreneurship development
                                                             Program</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -327,7 +327,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Online
+                                                        <p  class="ms-4 center" >Online
                                                             webinar on 100% Free Education for Girls</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -341,7 +341,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >John Deere
+                                                        <p  class="ms-4 center" >John Deere
                                                             Campus Drive</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -355,7 +355,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">School Connect Program</p>
+                                                        <p  class="ms-4 center">School Connect Program</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-special connect program.php"
@@ -369,7 +369,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">State
+                                                        <p  class="ms-4 center">State
                                                             level Technical Event 2k24</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -383,7 +383,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">industrial visit to Devgiri Mahanand
+                                                        <p  class="ms-4 center">industrial visit to Devgiri Mahanand
                                                             Dairy Gandheli Chhatrapati Sambhajinagar</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -398,7 +398,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">Annual
+                                                        <p  class="ms-4 center">Annual
                                                             Social Gathering Polyfest 2k24</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -412,7 +412,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Hackathon-2023</p>
+                                                        <p  class="ms-4 center" >Hackathon-2023</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-Hackathon.php" class="pt-lg-4">READ
@@ -425,7 +425,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >MERI MATI
+                                                        <p  class="ms-4 center" >MERI MATI
                                                             MERA DESH ABHIYAAN</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -439,7 +439,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >First year
+                                                        <p  class="ms-4 center" >First year
                                                             induction program</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -454,7 +454,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">Campus
+                                                        <p  class="ms-4 center">Campus
                                                             Drive for Electrical & Mechanical Engineering students By
                                                             Gangamai
                                                             Industries and Constructions Ltd</p>
@@ -470,7 +470,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">Result
+                                                        <p  class="ms-4 center">Result
                                                             Summer 2023</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -484,7 +484,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">CSMSS Celebrates 150th Birth
+                                                        <p  class="ms-4 center">CSMSS Celebrates 150th Birth
                                                             Anniversary of Rajarshri Chhatrapati shivaji
                                                             Maharaj</p>
                                                         <center>
@@ -500,7 +500,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Placement in Forbes and
+                                                        <p  class="ms-4 center" >Placement in Forbes and
                                                             Company</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -514,7 +514,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >National Conference 2022-23</p>
+                                                        <p  class="ms-4 center" >National Conference 2022-23</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="event-national-con-22-23.php"
@@ -528,7 +528,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >Annual
+                                                        <p  class="ms-4 center" >Annual
                                                             social gathering 2023</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -542,7 +542,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center" >IEDSSA 2022-23 G-1 ZONE
+                                                        <p  class="ms-4 center" >IEDSSA 2022-23 G-1 ZONE
                                                             GLIMPSE</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -556,7 +556,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="center">Inter Engineering Diploma Students
+                                                        <p  class="ms-4 center">Inter Engineering Diploma Students
                                                             Sports Association (IEDSSA) Kabaddi Matches</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -571,7 +571,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="justify-content-center">Corruption
+                                                        <p  class="center ms-4">Corruption
                                                             Free India for a Developed Nation</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -585,7 +585,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="justify-content-center">8th
+                                                        <p  class="center ms-4">8th
                                                             International Yoga Day Celebration at CSMSS College of
                                                             Polytechnic</p>
                                                         <center>
@@ -600,7 +600,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="justify-content-center" >Arrangement Of Covid-19 Mega
+                                                        <p  class="center ms-4" >Arrangement Of Covid-19 Mega
                                                             Vaccination Drive For All The Students Who Are Above 15
                                                             Years Old On The
                                                             Occasion Of National Youth Day January 12, 2022.</p>
@@ -616,7 +616,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="justify-content-center">Arrangement Of Special Vaccination
+                                                        <p  class="center ms-4">Arrangement Of Special Vaccination
                                                             Drive Against Corona Virus Disease (Covid-19) At CSMSS
                                                             College Of
                                                             Polytechnic</p>
@@ -632,7 +632,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="justify-content-center">National Conference on Emerging
+                                                        <p  class="center ms-4">National Conference on Emerging
                                                             Areas in Engineering and Technology</p>
                                                         <center>
                                                             <div class="department-btn">
@@ -647,7 +647,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="justify-content-center">A State
+                                                        <p  class="center ms-4">A State
                                                             Level Technical Paper Presentation Competition (Electronics
                                                             Group)</p>
                                                         <center>
@@ -662,7 +662,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0"
                                                         style=" font-size: 15px">
-                                                        <p  class="justify-content-center" >Two days
+                                                        <p  class="center ms-4" >Two days
                                                             state level workshop on "NBA Accreditation for polytechnic"
                                                             on 08-04-2019 to
                                                             09-04-2019</p>
@@ -810,7 +810,7 @@
                             <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">Event</li>
             </ol>
         </nav>
 
