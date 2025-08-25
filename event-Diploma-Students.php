@@ -32,6 +32,14 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
+
+        .news {
+    width: 180px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+    }
         </style>
 </head>
 
@@ -686,7 +694,7 @@
   <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">News</li>
+                <li class="breadcrumb-item active" aria-current="page">Events</li>
             </ol>
         </nav>
                          <div class="facility-details-img mb-30">
