@@ -54,17 +54,6 @@
 
     <main class="main">
 
-        <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
-            <div class="container">
-                <h2 class="breadcrumb-title">Mechanical Engineering</h2>
-                <ul class="breadcrumb-menu">
-                    <li><a href="index.php">Home</a></li>
-                    <li class="active">Mechanical Engineering</li>
-                </ul>
-            </div>
-        </div>
-        <!-- breadcrumb end -->
 
 
         <!-- department-single -->
@@ -79,6 +68,7 @@
                                     <div class="category-list">
                                         <a href="#introduction"><i class="far fa-long-arrow-right"></i>Introduction</a>
                                         <a href="#intake"><i class="far fa-long-arrow-right"></i>Admission Intake Capacity</a>
+                                        <a href="#hod_message"><i class="far fa-long-arrow-right"></i>HOD Message</a>
                                         <a href="#Faculty"><i class="far fa-long-arrow-right"></i>Faculty Details</a>
                                         <a href="#headingOne"><i class="far fa-long-arrow-right"></i>Toppers</a>
                                         <a href="#headingTwo"><i class="far fa-long-arrow-right"></i>Student's achievements</a>
@@ -283,11 +273,11 @@
                                 </section>
                                 <section id="Admission Capacity">
 
-                                    <h3 class="mb-2 ps-1 text-black">Admission Intake Capacity : 60</h3>
+                                    <h3 class="mb-2 ps-1 text-black" id="intake">Admission Intake Capacity : 60</h3>
 
                                     <!-- Accodian start -->
                                     <div class="my-4">
-                                        <section id="intake">
+                                        <section id="hod_message">
                                             <div class="accordion" id="hodAccordion">
                                                 <div class="accordion-item">
                                                     <h2 class="accordion-header" id="headingintake">
@@ -321,8 +311,8 @@
                                         <!--faculty-details-->
                                         <section id="Faculty">
                                             <h3 class="pt-10 mb-3 mt-3">
-                                        Faculty Details
-                                    </h3>
+                                                Faculty Details
+                                            </h3>
                                             <!--first-table-->
                                             <div class="table-responsive">
                                                 <table class=" table table-bordered table-hover">
@@ -354,18 +344,18 @@
                                                                 FACULTY DETAILS
                                                             </td>
                                                             <td>
-                                                            <a href="assets\pdf\department-pdf\mechanical engg\MEFDAY21_22.pdf">A.Y. 2021-22</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <a href="assets\pdf\department-pdf\mechanical engg\MEFDAY22_23.pdf">A.Y. 2022-23</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <a href="assets\pdf\department-pdf\mechanical engg\MEFDAY23_24.pdf">A.Y. 2023-24</a>
-                                                        </td>
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\MEFDAY21_22.pdf">A.Y. 2021-22</a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\MEFDAY22_23.pdf">A.Y. 2022-23</a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <a href="assets\pdf\department-pdf\mechanical engg\MEFDAY23_24.pdf">A.Y. 2023-24</a>
+                                                            </td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -617,7 +607,7 @@
                                                                         <button class="accordion-button collapsed"
                                                                             type="button" data-bs-toggle="collapse"
                                                                             data-bs-target="#collapseOne"
-                                                                            aria-expanded="false"
+                                                                            aria-expanded="true"
                                                                             aria-controls="collapseOne">
                                                                             TOPPERS
                                                                         </button>
@@ -860,7 +850,7 @@
                                                                         <button class="accordion-button collapsed"
                                                                             type="button" data-bs-toggle="collapse"
                                                                             data-bs-target="#collapseTwo"
-                                                                            aria-expanded="false"
+                                                                            aria-expanded="true"
                                                                             aria-controls="collapseTwo">
                                                                             STUDENTS' ACHIEVEMENT
                                                                         </button>
@@ -1156,7 +1146,7 @@
                                                                 <div class="accordion-item p-2 ">
                                                                     <h2 class="accordion-header" id="headingThird">
                                                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                            data-bs-target="#collapseThird" aria-expanded="false" aria-controls="collapseThird">
+                                                                            data-bs-target="#collapseThird" aria-expanded="true" aria-controls="collapseThird">
                                                                             DEPARTMENT ADVISORY BOARD (DAB)
                                                                         </button>
                                                                     </h2>
@@ -1296,7 +1286,7 @@
                                                                 <div class="accordion-item p-2 ">
                                                                     <h2 class="accordion-header" id="headingFourth">
                                                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                            data-bs-target="#collapseFourth" aria-expanded="false" aria-controls="collapseFourth">
+                                                                            data-bs-target="#collapseFourth" aria-expanded="true" aria-controls="collapseFourth">
                                                                             PROGRAMME ASSESSMENT COMMITTEE (PAC)
                                                                         </button>
                                                                     </h2>
@@ -1486,7 +1476,7 @@
                                                                     <div class="accordion-item">
                                                                         <h2 class="accordion-header p-lg-2" id="headingFifth">
                                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapseOne">
+                                                                                data-bs-target="#collapsefive" aria-expanded="true" aria-controls="collapseOne">
                                                                                 LIST OF LABORATORIES
                                                                             </button>
                                                                         </h2>
@@ -1633,7 +1623,7 @@
                                                                     <div class="accordion-item">
                                                                         <h2 class="accordion-header p-lg-2" id="headingSixth">
                                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                data-bs-target="#collapsesix" aria-expanded="true" aria-controls="collapseTwo">
                                                                                 OUR ALUMNI
                                                                             </button>
                                                                         </h2>
@@ -1953,7 +1943,7 @@
                                                                     <div class="accordion-item">
                                                                         <h2 class="accordion-header p-lg-2" id="headingseventh">
                                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                data-bs-target="#collapseseven" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                data-bs-target="#collapseseven" aria-expanded="true" aria-controls="collapseTwo">
                                                                                 STUDENTS' ASSOCIATION (MESA) 2023-24:
                                                                             </button>
                                                                         </h2>
@@ -2084,7 +2074,7 @@
                                                                     <div class="accordion-item">
                                                                         <h2 class="accordion-header p-lg-2" id="headingeight">
                                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                data-bs-target="#collapseeight" aria-expanded="true" aria-controls="collapseTwo">
                                                                                 DEPARTMENT MOU's
                                                                             </button>
                                                                         </h2>
@@ -2153,45 +2143,28 @@
                                                                     <div class="accordion-item">
                                                                         <h2 class="accordion-header p-lg-2" id="headingnine">
                                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                                data-bs-target="#collapsenine" aria-expanded="false" aria-controls="collapseTwo">
+                                                                                data-bs-target="#collapsenine" aria-expanded="true" aria-controls="collapseTwo">
                                                                                 DEPARTMENT PROJECTS
                                                                             </button>
                                                                         </h2>
                                                                         <div id="collapsenine" class="accordion-collapse collapse" aria-labelledby="headingnine"
                                                                             data-bs-parent="#accordionExample">
                                                                             <div class="accordion-body">
-
-                                                                                <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2020-21</u></strong></p>
+                                                                                <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2023-24</u></strong></p>
                                                                                 <ul>
-                                                                                    <li style="list-style-type: disc;">Power Hammering Machine</li>
-                                                                                    <li style="list-style-type: disc;"> Find out Defect and maintenance with Bagga Boring Works</li>
-                                                                                    <li style="list-style-type: disc;"> Design and development of fixture with Galexy Engineering works</li>
-                                                                                    <li style="list-style-type: disc;"> Vehicle Black Box System (VBBS)</li>
-                                                                                    <li style="list-style-type: disc;"> Surface Condensor</li>
-                                                                                    <li style="list-style-type: disc;"> Impacts of jet (Experimental set up)</li>
-                                                                                    <li style="list-style-type: disc;"> Pedal Operated Hacksaw</li>
-                                                                                    <li style="list-style-type: disc;"> Development of material handling system with Abhijeet Agro Center</li>
-                                                                                    <li style="list-style-type: disc;"> Design of Burr cleaning system with Prabhakar Engineering</li>
-                                                                                    <li style="list-style-type: disc;"> Solar Tree</li>
-                                                                                    <li style="list-style-type: disc;"> Automatic Black Borad Cleaner</li>
-                                                                                </ul>
-                                                                                <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2021-22</u></strong></p>
-                                                                                <ul>
-                                                                                    <li style="list-style-type: disc;">Semi Automated Floor cleaning Machine</li>
-                                                                                    <li style="list-style-type: disc;">Automatic Dog Feeder</li>
-                                                                                    <li style="list-style-type: disc;">Electrically Height adjustable Table</li>
-                                                                                    <li style="list-style-type: disc;">Pedal Power</li>
-                                                                                    <li style="list-style-type: disc;">U turn accident prevention</li>
-                                                                                    <li style="list-style-type: disc;">Obstacle Avoider Robot</li>
-                                                                                    <li style="list-style-type: disc;">LPG and CNG Gas Detector</li>
-                                                                                    <li style="list-style-type: disc;">Box Shifting Machine</li>
-                                                                                    <li style="list-style-type: disc;">Regenerative Bracking System</li>
-                                                                                    <li style="list-style-type: disc;">Singlr Axis Solar Tracker</li>
-                                                                                    <li style="list-style-type: disc;">Design And Fabrication of Agriculture sprayer</li>
-                                                                                    <li style="list-style-type: disc;">Electromagnetic Braking System</li>
-                                                                                    <li style="list-style-type: disc;">Green Energy City</li>
+                                                                                    <li style="list-style-type: disc;">Eye Blink Sensor Smart Irrigation System</li>
 
+                                                                                    <li style="list-style-type: disc;">Automatic bike stand</li>
+                                                                                    <li style="list-style-type: disc;">Electriciy Generation by using foot step</li>
+                                                                                    <li style="list-style-type: disc;">To find a mechanism which keeps the workpiece clamped unless the entire machining is done</li>
+                                                                                    <li style="list-style-type: disc;">Shaft Driven Bicycle</li>
+                                                                                    <li style="list-style-type: disc;">Regenerative Braking System</li>
+                                                                                    <li style="list-style-type: disc;">Solution on Blow Holes in Casting</li>
+                                                                                    <li style="list-style-type: disc;">Cut-Section of Vehicle</li>
+                                                                                    <li style="list-style-type: disc;">Air Water Heater</li>
+                                                                                    <li style="list-style-type: disc;">Steering Control Head Light </li>
                                                                                 </ul>
+
                                                                                 <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2022-23</u></strong></p>
                                                                                 <ul>
                                                                                     <li style="list-style-type: disc;">Solar radiation tracking system</li>
@@ -2211,19 +2184,37 @@
 
                                                                                 </ul>
 
-                                                                                <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2023-24</u></strong></p>
+                                                                                <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2021-22</u></strong></p>
                                                                                 <ul>
-                                                                                    <li style="list-style-type: disc;">Eye Blink Sensor Smart Irrigation System</li>
+                                                                                    <li style="list-style-type: disc;">Semi Automated Floor cleaning Machine</li>
+                                                                                    <li style="list-style-type: disc;">Automatic Dog Feeder</li>
+                                                                                    <li style="list-style-type: disc;">Electrically Height adjustable Table</li>
+                                                                                    <li style="list-style-type: disc;">Pedal Power</li>
+                                                                                    <li style="list-style-type: disc;">U turn accident prevention</li>
+                                                                                    <li style="list-style-type: disc;">Obstacle Avoider Robot</li>
+                                                                                    <li style="list-style-type: disc;">LPG and CNG Gas Detector</li>
+                                                                                    <li style="list-style-type: disc;">Box Shifting Machine</li>
+                                                                                    <li style="list-style-type: disc;">Regenerative Bracking System</li>
+                                                                                    <li style="list-style-type: disc;">Singlr Axis Solar Tracker</li>
+                                                                                    <li style="list-style-type: disc;">Design And Fabrication of Agriculture sprayer</li>
+                                                                                    <li style="list-style-type: disc;">Electromagnetic Braking System</li>
+                                                                                    <li style="list-style-type: disc;">Green Energy City</li>
 
-                                                                                    <li style="list-style-type: disc;">Automatic bike stand</li>
-                                                                                    <li style="list-style-type: disc;">Electriciy Generation by using foot step</li>
-                                                                                    <li style="list-style-type: disc;">To find a mechanism which keeps the workpiece clamped unless the entire machining is done</li>
-                                                                                    <li style="list-style-type: disc;">Shaft Driven Bicycle</li>
-                                                                                    <li style="list-style-type: disc;">Regenerative Braking System</li>
-                                                                                    <li style="list-style-type: disc;">Solution on Blow Holes in Casting</li>
-                                                                                    <li style="list-style-type: disc;">Cut-Section of Vehicle</li>
-                                                                                    <li style="list-style-type: disc;">Air Water Heater</li>
-                                                                                    <li style="list-style-type: disc;">Steering Control Head Light </li>
+                                                                                </ul>
+
+                                                                                <p class="mt-lg-3 mb-lg-3"><strong><u>A.Y. 2020-21</u></strong></p>
+                                                                                <ul>
+                                                                                    <li style="list-style-type: disc;">Power Hammering Machine</li>
+                                                                                    <li style="list-style-type: disc;"> Find out Defect and maintenance with Bagga Boring Works</li>
+                                                                                    <li style="list-style-type: disc;"> Design and development of fixture with Galexy Engineering works</li>
+                                                                                    <li style="list-style-type: disc;"> Vehicle Black Box System (VBBS)</li>
+                                                                                    <li style="list-style-type: disc;"> Surface Condensor</li>
+                                                                                    <li style="list-style-type: disc;"> Impacts of jet (Experimental set up)</li>
+                                                                                    <li style="list-style-type: disc;"> Pedal Operated Hacksaw</li>
+                                                                                    <li style="list-style-type: disc;"> Development of material handling system with Abhijeet Agro Center</li>
+                                                                                    <li style="list-style-type: disc;"> Design of Burr cleaning system with Prabhakar Engineering</li>
+                                                                                    <li style="list-style-type: disc;"> Solar Tree</li>
+                                                                                    <li style="list-style-type: disc;"> Automatic Black Borad Cleaner</li>
                                                                                 </ul>
 
                                                                             </div>
@@ -2239,13 +2230,12 @@
                                             </div>
                                         </section>
                                     </div>
+                                </section>
                             </div>
-                            </section>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
         </div>
         <!-- department-single end-->
 
@@ -2271,6 +2261,35 @@
     include 'common/footer-link.php';
     ?>
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Get all links starting with #heading (accordion header IDs)
+            const accordionLinks = document.querySelectorAll('a[href^="#heading"]');
+            accordionLinks.forEach(link => {
+                link.addEventListener("click", function(e) {
+                    e.preventDefault();
+                    const headerId = this.getAttribute("href").substring(1); // remove '#'
+                    const header = document.getElementById(headerId);
+                    if (!header) return;
+                    // Scroll to the header
+                    header.scrollIntoView({
+                        behavior: "smooth",
+                        block: "start"
+                    });
+                    // Find the button inside the header (accordion toggle)
+                    const toggleButton = header.querySelector("button[data-bs-toggle='collapse']");
+                    if (!toggleButton) return;
+                    const targetSelector = toggleButton.getAttribute("data-bs-target");
+                    if (!targetSelector) return;
+                    const collapseEl = document.querySelector(targetSelector);
+                    if (!collapseEl) return;
+                    // Use Bootstrap Collapse API to show the section
+                    const bsCollapse = bootstrap.Collapse.getOrCreateInstance(collapseEl);
+                    bsCollapse.show();
+                });
+            });
+        });
+    </script>
 </body>
 
 

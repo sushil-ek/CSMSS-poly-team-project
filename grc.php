@@ -35,10 +35,10 @@
             color: #6C757D;
         }
         .news {
-    width: 180px;
+    width: 300px;
             display: -webkit-box;
             -webkit-box-orient: vertical;
-            -webkit-line-clamp: 2;
+            -webkit-line-clamp: 1;
             overflow: hidden;
 
     }
@@ -316,7 +316,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">MSBTE One time opportunity (OTO) registration time table 2022-23</strong>
+                                                        <p class="ps-5 news">MSBTE One time opportunity (OTO) registration time table 2022-23</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="newsmsbteoto.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -360,7 +360,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <p class="ps-5 news">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176</strong>
+                                                        <p class="ps-5 news">Post SSC Diploma/Polytechnic admissions Facilitation Center 2176</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="newssscdiploma.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -405,7 +405,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <p class="ps-5 news">छत्रपती शाहू पॉलीटेकनिक मधील २४ विद्यार्थ्यांची कॅम्पस प्लेसमेंट</strong>
+                                                        <p class="ps-5 news">छत्रपती शाहू पॉलीटेकनिक मधील २४ विद्यार्थ्यांची कॅम्पस प्लेसमेंट</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-csmss-result.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -416,7 +416,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">MAGICx Interview Series Announcement for 15 January 2022!</strong>
+                                                        <p class="ps-5 news">MAGICx Interview Series Announcement for 15 January 2022!</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-magicx-interview.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -427,7 +427,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic.</strong>
+                                                        <p class="ps-5 news">Organized Virtual Surya Namaskar Programme Event held at CSMSS College of Polytechnic.</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-suryanamskar.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -438,7 +438,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</strong>
+                                                        <p class="ps-5 news">Arrangement of Covid-19 Mega Vaccination for all the students who are above 15 years old on the Occasion of National Youth Day January 12, 2022.</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-covid-19.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -449,7 +449,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra.</strong>
+                                                        <p class="ps-5 news">Visit of Delegation of Directorate of Technical Education, Uttar Pradesh for Study tour of Polytechnic Colleges in Maharashtra.</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-uttar-pradesh.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -460,8 +460,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">Arrangement of Special vaccination drive against corona virus disease (Covid-19) at CSMSS College of Polytechnic
-                                                        </strong>
+                                                        <p class="ps-5 news">Arrangement of Special vaccination drive against corona virus disease (Covid-19) at CSMSS College of Polytechnic
+    </p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-special-vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -472,7 +472,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">TC Issue of Final year Pass out student</strong>
+                                                        <p class="ps-5 news">TC Issue of Final year Pass out student</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-tc-issue.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -483,8 +483,8 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">8th
-                                                            तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</strong>
+                                                        <p class="ps-5 news">8th
+                                                            तंत्रशिक्षण पदविका प्रवेश – थोडक्यात माहिती</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-trantrashikashan-padvika.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -495,7 +495,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 270px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab.</strong>
+                                                        <p class="ps-5 news">Padma-vibhushan Hon. Dr. Anil Kakodkar inaugurates CSMSS SAT-COM lab.</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="newspadma-vibhushan.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -506,7 +506,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">CSMSS College of Polytechnic Fees for academic year 2017-18</strong>
+                                                        <p class="ps-5 news">CSMSS College of Polytechnic Fees for academic year 2017-18</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-fees-2017-18.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -517,7 +517,7 @@
                                             <div class="carousel-item">
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
-                                                        <strong class="ps-5 news">MOU has signed with Nashik Engineering Cluster</strong>
+                                                        <p class="ps-5 news">MOU has signed with Nashik Engineering Cluster</p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-signed-membership.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>

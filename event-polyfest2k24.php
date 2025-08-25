@@ -17,17 +17,8 @@
     <?php
     include 'common/header-link.php';
     ?>
-    <style>
+<style>
 
-
-.center {
-    width: 200px;
-            display: -webkit-box;
-            -webkit-box-orient: vertical;
-            -webkit-line-clamp: 1;
-            overflow: hidden;
-
-    }
 
 .nav-pills .nav-link.active,
         .nav-pills .show>.nav-link {
@@ -45,11 +36,14 @@
             color: #6C757D;
         }
 
-
-
-
+          .center {
+    width: 200px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 1;
+            overflow: hidden;
+    }
     </style>
-
 </head>
 
 <body>
@@ -88,13 +82,16 @@
 
     <main class="main">
 
-        
+       
+
+
         <!-- Student-Corner -->
-        <div class="department-single-area py-120">
+        <div class="department-single-area py-120 faq-area">
             <div class="container">
                 <div class="department-single-wrapper">
                     <div class="row">
-                       <div class="col-xl-4 col-lg-4 ">
+                        <div class="col-xl-4 col-lg-4 ">
+
                            <section id="latest-news-section text-centar">
                                 <div class="container my-4">
                                     <div id="carouselExampleDark" class="carousel carousel-dark slide widget category">
@@ -694,6 +691,7 @@
                                         </div>
                                     </div>
 </section>
+
                             <div class="department-sidebar ">
                                 <div class="widget category">
                                     <h4 class="widget-title ">EVENTS</h4>
@@ -802,89 +800,70 @@
 
                            
                             </div>
-                           
+ 
                         </div>
                         <div class="col-xl-8 col-lg-8">
 
-                         <nav aria-label="breadcrumb">
+                        <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Event</li>
             </ol>
         </nav>
+
                          <div class="facility-details-img mb-30">
-                            <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
+                             <h1 style="border-bottom: 3px solid orange;">EVENT</h1>
                             <h2 class="mt-4 mb-4">
-                            Entrepreneurship development Program</h2>
-                            
-                            <!--icon-->
+                            Annual Social Gathering Polyfest 2k24</h2>
+                           
                             <div class="row">
-                                <div class="col-6 "> <i class="fa-solid fa-location-dot "style="color: orange"></i>CSMSS 
+                                <div class="col-6 text-dark pb-2"> <i class="fa-solid fa-location-dot "style="color: orange"></i> Chhatrapati Sambhajinagar
 
 </div>
- <div class="col-6"><i class="fa-solid fa-calendar-days "style="color: orange"></i>4 Apr 2025
+ <div class="col-6 text-dark pb-2"><i class="fa-solid fa-calendar-days "style="color: orange"></i> 19 Feb 2024
 
 </div>
- <div class="col-12"><i class="fa-thin fa-bars "style="color: orange"></i> Entrepreneurship development Program conducted for SC/ST Students.
-<br><br>
+ <div class="col-12 text-dark pb-3"><i class="fa-thin fa-bars  pe-2"style="color: orange"></i>19th February birth anniversary of Chhatrapati Shivaji Maharaj is celebrated at CSMSS which holds great significance in Maharashtra and across India This day is celebrated with joy and happiness
+
 </div>
 </div>
-<!--row1-->
-<div class="row">
-<div class="col-12 col-lg-6 col-md-6 mt-5">
-     <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship1.jpeg"alt="thumb" class=" w-100 card shadow-lg"style="height:200px; ">
+                            <!--row1-->
+                            <div class="row">
+                                <div class="col-12 col-lg-6 col-md-6 mt-5">
+                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/badminton3.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
+                                    
+
+</div>
+                            
+ <div class="col-12 col-lg-6 col-md-6 mt-5 ">
+    <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/carrom2.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
+
+</div>
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/chess1.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
+
+</div>
+
+<!--row2-->
+<div class="col-12 col-lg-6 col-md-6 pt-4 mt-5">
+                                     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance4.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
                                     
 
 </div>
                             
  <div class="col-12 col-lg-6 col-md-6 mt-5">
-    <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship2.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
+     <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/dance6.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
- <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship3.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
-
-</div>
-
-
-
-
-<!--row3-->
-<div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship4.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
-                                    
-
-</div>
-<div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship5.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
-                                    
-
-</div>
-<div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship6.jpeg"alt="thumb" class="w-100 card shadow-lg" style="height:200px; ">
-                                    
-
-</div>
-<div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship7.jpeg"alt="thumb"class="w-100 card shadow-lg" style="height:200px; ">
-                                    
-
-</div>
-<div class="col-12 col-lg-6 col-md-6 mt-5">
-                <img src="assets/img/news-and-events/Events/Enterprenship-program/enterprenship8.jpeg"alt="thumb" class="w-100 card shadow-lg"style="height:200px; ">
-                                    
+ <div class="col-12 col-lg-6 col-md-6 mt-5"> <img src="assets/img/news-and-events/Events/Social-Gathering-Polyfest-k24/ganesh vandana5.jpg"alt="thumb"  class="w-100 card shadow-lg" style="height:200px; ">
 
 </div>
 
 
-                            
- 
-                            
-                            
+                  
                                    
 </div>
                                 </div>
                             
-        </div>
         </div>
         </div>
         </div>

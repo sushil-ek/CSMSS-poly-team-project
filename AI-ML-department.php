@@ -54,17 +54,7 @@
 
     <main class="main">
 
-        <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
-            <div class="container">
-                <h2 class="breadcrumb-title">Artificial Intelligence and Machine Learning</h2>
-                <ul class="breadcrumb-menu">
-                    <li><a href="index.php">Home</a></li>
-                    <li class="active">Artificial Intelligence and Machine Learning</li>
-                </ul>
-            </div>
-        </div>
-        <!-- breadcrumb end -->
+
 
 
         <!-- department-single -->
@@ -79,7 +69,8 @@
                                     <div class="category-list">
                                         <a href="#Artificial Intelligence and Machine Learning"><i class="far fa-long-arrow-right"></i>Introduction</a>
                                         <a href="#Admission Intake Capacity : 60"><i class="far fa-long-arrow-right"></i>Admission Intake Capacity</a>
-                                        <a href="#Accordion-section"><i class="far fa-long-arrow-right"></i>Toppers</a>
+                                        <a href="#hod_message"><i class="far fa-long-arrow-right"></i>HOD Message</a>
+                                        <a href="#headingOne"><i class="far fa-long-arrow-right"></i>Toppers</a>
                                         <a href="#headingTwo"><i class="far fa-long-arrow-right"></i>Student's Achievement</a>
                                         <a href="#headingThree"><i class="far fa-long-arrow-right"></i>List Of Laboratories</a>
                                         <a href="#headingfour"><i class="far fa-long-arrow-right"></i>Department Mou's</a>
@@ -128,29 +119,29 @@
                                 </div>
 
                                 <!-- carousel  end -->
-                                 <div id="Artificial Intelligence and Machine Learning">
-                                <div class="department-details">
-                                    <div class="mb-4">
-                                        <h3 class="mb-20">Artificial Intelligence and Machine Learning</h3>
-                                        <p class="mb-20" style="text-align: justify;">
-                                            Year of commencement: A. Y. 2022-23
-                                            The inception of the department goes in the year 2022-2023. The motto of the department is to provide quality technical education & to make the students industry-ready. Our goal is to ensure that our diploma engineers are well prepared to play the pivotal roles in problem solving project leaders, entrepreneurs, and above all ethical citizens of a global society. The excellent infrastructure, dynamic teaching staff along with training and placement cell ensures a bright future to the students.
-                                            The AI & ML course emphasizes creativity and innovative thinking and is supported by passionate faculties who strive to inspire their students. We promote teamwork among students through projects and co-curricular & extracurricular activities. We are confident that our students will emerge as assets not only to the institution and to the organization they join, but to the society as well </p>
+                                <div id="Artificial Intelligence and Machine Learning">
+                                    <div class="department-details">
+                                        <div class="mb-4">
+                                            <h3 class="mb-20">Artificial Intelligence and Machine Learning</h3>
+                                            <p class="mb-20" style="text-align: justify;">
+                                                Year of commencement: A. Y. 2022-23
+                                                The inception of the department goes in the year 2022-2023. The motto of the department is to provide quality technical education & to make the students industry-ready. Our goal is to ensure that our diploma engineers are well prepared to play the pivotal roles in problem solving project leaders, entrepreneurs, and above all ethical citizens of a global society. The excellent infrastructure, dynamic teaching staff along with training and placement cell ensures a bright future to the students.
+                                                The AI & ML course emphasizes creativity and innovative thinking and is supported by passionate faculties who strive to inspire their students. We promote teamwork among students through projects and co-curricular & extracurricular activities. We are confident that our students will emerge as assets not only to the institution and to the organization they join, but to the society as well </p>
+                                        </div>
+                                        <!-- Short-term Future Plans start -->
+                                        <div class="mb-4">
+                                            <h3 class="mb-3">Short-term Future Plans</h3>
+                                            <ul class="department-single-list">
+                                                <li><i class="far fa-check"></i> To Increase connectivity with maximum industries.</li>
+                                                <li><i class="far fa-check"></i> Develop industry-institute interaction to impart professional and entrepreneurship skills in students.</li>
+                                                <li><i class="far fa-check"></i> Inculcate social integrity and ethics among students through extra-curricular activities for overall development and life-long learning.</li>
+                                                <To><i class="far fa-check"></i> To Setup the well equipped laboratories with higher configuration systems </li>
+                                                    <li><i class="far fa-check"></i> To motivate students to participate in State & National level Paper/Project Competition </li>
+                                                    <li><i class="far fa-check"></i>To organized National Level Conferences & Seminar </li>
+                                                    <li><i class="far fa-check"></i>To be the department with zero dropout rate </li>
+                                            </ul>
+                                        </div>
                                     </div>
-                                    <!-- Short-term Future Plans start -->
-                                    <div class="mb-4">
-                                        <h3 class="mb-3">Short-term Future Plans</h3>
-                                        <ul class="department-single-list">
-                                            <li><i class="far fa-check"></i> To Increase connectivity with maximum industries.</li>
-                                            <li><i class="far fa-check"></i> Develop industry-institute interaction to impart professional and entrepreneurship skills in students.</li>
-                                            <li><i class="far fa-check"></i> Inculcate social integrity and ethics among students through extra-curricular activities for overall development and life-long learning.</li>
-                                            <To><i class="far fa-check"></i> To Setup the well equipped laboratories with higher configuration systems </li>
-                                                <li><i class="far fa-check"></i> To motivate students to participate in State & National level Paper/Project Competition </li>
-                                                <li><i class="far fa-check"></i>To organized National Level Conferences & Seminar </li>
-                                                <li><i class="far fa-check"></i>To be the department with zero dropout rate </li>
-                                        </ul>
-                                    </div>
-                                </div>
                                     <!-- Short-term Future Plans end -->
                                     <!-- Long-term Future Plans start -->
                                     <div class="mb-4">
@@ -180,43 +171,43 @@
                                     <!-- PO's end -->
                                 </div>
                                 <div id="Admission Intake Capacity : 60">
-                                <h3 class="mb-3 ps-1 text-black">Admission Intake Capacity : 60</h3>
-                               
-                                <!-- Accodian start -->
-                                <div class="container my-5">
-                                    <div class="accordion" id="hodAccordion">
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                    aria-expanded="true" aria-controls="collapseOne">
-                                                    HOD Message
-                                                </button>
-                                            </h2>
-                                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                                data-bs-parent="#hodAccordion">
-                                                <div class="accordion-body">
-                                                    <div class="row">
-                                                        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-                                                            <center><img class="sticky" src="assets\img\department\HODAIML.jpeg" alt="HOD Image" width="150" height="200" style="border-radius:0px;"></center>
-                                                            <center><b>Mrs. S. R. Borakhade</b><br><i>HOD</i></center>
+                                    <h3 class="mb-3 ps-1 text-black">Admission Intake Capacity : 60</h3>
+
+                                    <!-- Accodian start -->
+                                    <div class="container my-5" id="hod_message">
+                                        <div class="accordion" id="hodAccordion">
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingintake">
+                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHOD"
+                                                        aria-expanded="true" aria-controls="collapseOne">
+                                                        HOD Message
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseHOD" class="accordion-collapse collapse show" aria-labelledby="headingintake"
+                                                    data-bs-parent="#hodAccordion">
+                                                    <div class="accordion-body">
+                                                        <div class="row">
+                                                            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                                                <center><img class="sticky" src="assets\img\department\HODAIML.jpeg" alt="HOD Image" width="150" height="200" style="border-radius:0px;"></center>
+                                                                <center><b>Mrs. S. R. Borakhade</b><br><i>HOD</i></center>
+                                                            </div>
+                                                            <div class="col-lg-8 col-md-12">
+                                                                <p style="text-align: justify">It gives me immense pleasure to give you the Greetings! From the Department of Artificial Intelligence and Machine Learning (AN) of CSMSS College of Polytechnic, Aurangabad, it is striving towards the goal of providing innovative and quality education to the students to achieve academic excellence. Since its inception in 2022-2023, the department has maintained an excellent academic record and ‘Excellent’ grade also from MSBTE.</p>
+                                                                <p style="text-align: justify">The M.S.B.T.E. Mumbai has conferred the ‘Excellent’ grade to the department for its academic activities, and has been certified by ISO. The Department has sufficient and good infrastructural </p>
+                                                            </div>
+                                                            <p style="text-align: justify">design, and well equipped laboratories.</p>
+                                                            <p style="text-align: justify">The motto of the department is to provide quality technical education & to make the students industry-ready. Our goal is to ensure that our diploma engineers are well prepared to play the pivotal role in problem solving projects, make them efficient leaders, entrepreneurs, and above all ethical citizens of the global society. The excellent infrastructure, dynamic teaching staff along with training and placement cell ensures a bright future to the students. The greatest asset of the department is its highly motivated and learned faculty.</p>
+                                                            <p style="text-align: justify">Thank you...</p>
                                                         </div>
-                                                        <div class="col-lg-8 col-md-12">
-                                                            <p style="text-align: justify">It gives me immense pleasure to give you the Greetings! From the Department of Artificial Intelligence and Machine Learning (AN) of CSMSS College of Polytechnic, Aurangabad, it is striving towards the goal of providing innovative and quality education to the students to achieve academic excellence. Since its inception in 2022-2023, the department has maintained an excellent academic record and ‘Excellent’ grade also from MSBTE.</p>
-                                                            <p style="text-align: justify">The M.S.B.T.E. Mumbai has conferred the ‘Excellent’ grade to the department for its academic activities, and has been certified by ISO. The Department has sufficient and good infrastructural </p>
-                                                        </div>
-                                                        <p style="text-align: justify">design, and well equipped laboratories.</p>
-                                                        <p style="text-align: justify">The motto of the department is to provide quality technical education & to make the students industry-ready. Our goal is to ensure that our diploma engineers are well prepared to play the pivotal role in problem solving projects, make them efficient leaders, entrepreneurs, and above all ethical citizens of the global society. The excellent infrastructure, dynamic teaching staff along with training and placement cell ensures a bright future to the students. The greatest asset of the department is its highly motivated and learned faculty.</p>
-                                                        <p style="text-align: justify">Thank you...</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
                                     <!-- Form Section Start -->
                                     <!--faculty-details-->
                                     <!--first-table-start-->
-                              <h3 class="mb-4 ps-1 text-black mt-4">Faculty Details</h3>
+                                    <h3 class="mb-4 ps-1 text-black mt-4">Faculty Details</h3>
                                     <div class="table-responsive">
                                         <table class=" table table-bordered table-hover">
                                             <thead>
@@ -396,7 +387,7 @@
                                     <!-- Form Section Ends  -->
                                     <!-- Accordin Main Start -->
                                     <!--Accordin section started here-->
-                               
+
                                     <section id="Accordion-section">
                                         <div class="faq-area">
 
@@ -407,12 +398,12 @@
                                                         <div class=" accordion-item p-2">
                                                             <h2 class="accordion-header" id="headingOne">
                                                                 <button class="accordion-button collapsed" type="button"
-                                                                    data-bs-toggle="collapse" data-bs-target="#collaspOne"
-                                                                    aria-expanded="false" aria-controls="collaspOne">
+                                                                    data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                                    aria-expanded="true" aria-controls="collapseOne">
                                                                     TOPPERS
                                                                 </button>
                                                             </h2>
-                                                            <div id="collaspOne" class="accordion-collapse collapse"
+                                                            <div id="collapseOne" class="accordion-collapse collapse"
                                                                 aria-labelledby="headingOne"
                                                                 data-bs-parent="#accordionExample">
                                                                 <div class="accordion-body">
@@ -686,12 +677,12 @@
                                                         <!--first Accordion end-->
 
                                                         <!--second Accordion start-->
-                                
+
                                                         <div class="accordion-item p-2">
                                                             <h2 class="accordion-header" id="headingTwo">
                                                                 <button class="accordion-button collapsed" type="button"
                                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                                    aria-expanded="true" aria-controls="collapseTwo">
                                                                     STUDENTS' ACHIEVEMENT
                                                                 </button>
                                                             </h2>
@@ -948,14 +939,14 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                     <!--second Accordion end-->
+                                                        <!--second Accordion end-->
                                                         <!--third Accordion start-->
-                               
+
                                                         <div class="accordion-item p-2">
                                                             <h2 class="accordion-header " id="headingThree">
                                                                 <button class="accordion-button collapsed" type="button"
                                                                     data-bs-toggle="collapse"
-                                                                    data-bs-target="#collapseThree" aria-expanded="false"
+                                                                    data-bs-target="#collapseThree" aria-expanded="true"
                                                                     aria-controls="collapseThree">
                                                                     LIST OF LABORATORIES
                                                                 </button>
@@ -1046,16 +1037,16 @@
 
                                                         <!-- Accordion Start -->
                                                         <!--fourth Accordion Start-->
-                                                           
+
                                                         <div class=" accordion-item p-2">
                                                             <h2 class="accordion-header" id="headingfour">
-                                                                <button class="accordion-button collapsed" type="button"
+                                                                <button class="accordion-button collapsed show" type="button"
                                                                     data-bs-toggle="collapse" data-bs-target="#collapsefour"
-                                                                    aria-expanded="false" aria-controls="collapsefour">
+                                                                    aria-expanded="true" aria-controls="collapsefour">
                                                                     DEPARTMENT MOU's
                                                                 </button>
                                                             </h2>
-                                                            <div id="collapsefour" class="accordion-collapse collapse"
+                                                            <div id="collapsefour" class="accordion-collapse collapse "
                                                                 aria-labelledby="headingfour"
                                                                 data-bs-parent="#accordionExample">
                                                                 <div class="accordion-body">
@@ -1206,6 +1197,35 @@
     include 'common/footer-link.php';
     ?>
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Get all links starting with #heading (accordion header IDs)
+            const accordionLinks = document.querySelectorAll('a[href^="#heading"]');
+            accordionLinks.forEach(link => {
+                link.addEventListener("click", function(e) {
+                    e.preventDefault();
+                    const headerId = this.getAttribute("href").substring(1); // remove '#'
+                    const header = document.getElementById(headerId);
+                    if (!header) return;
+                    // Scroll to the header
+                    header.scrollIntoView({
+                        behavior: "smooth",
+                        block: "start"
+                    });
+                    // Find the button inside the header (accordion toggle)
+                    const toggleButton = header.querySelector("button[data-bs-toggle='collapse']");
+                    if (!toggleButton) return;
+                    const targetSelector = toggleButton.getAttribute("data-bs-target");
+                    if (!targetSelector) return;
+                    const collapseEl = document.querySelector(targetSelector);
+                    if (!collapseEl) return;
+                    // Use Bootstrap Collapse API to show the section
+                    const bsCollapse = bootstrap.Collapse.getOrCreateInstance(collapseEl);
+                    bsCollapse.show();
+                });
+            });
+        });
+    </script>
 </body>
 
 

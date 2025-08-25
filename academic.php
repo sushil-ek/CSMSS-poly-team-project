@@ -56,7 +56,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <!-- <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
             <div class="container">
                 <h2 class="breadcrumb-title">Academics Department</h2>
                 <ul class="breadcrumb-menu">
@@ -64,7 +64,7 @@
                     <li class="active">Academics Department</li>
                 </ul>
             </div>
-        </div>
+        </div> -->
         <!-- breadcrumb end -->
 
 
@@ -72,12 +72,9 @@
         <div class="department-area py-120">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 mx-auto">
+                    <div class="col-lg-12 mx-auto">
                         <div class="site-heading text-center">
-                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Department</span>
                             <h2 class="site-title">Browse Our <span>Department</span></h2>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of
-                                a page when looking at its layout.</p>
                         </div>
                     </div>
                 </div>
@@ -94,7 +91,7 @@
                                     <div class="department-info">
                                         <h4 class="department-title pt-30"><a href="civil-department.php">Civil Engineering</a></h4>
                                         <div class="department-btn">
-                                            <a href="civil-department.php" class="pt-lg-4">Read More<i class="fas fa-arrow-right-long"></i></a>
+                                            <a href="civil-department.php">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +116,7 @@
                                 <!-- Mechanical Card -->
                                 <div class="department-item">
                                     <div class="department-image">
-                                        <img src="assets\img\csms_card\card_3.jpg" alt="mechanical image" style="width: 25rem; height:136px;">
+                                        <img src="assets\img\csms_card\card_3.jpg" alt="mechanical image" style="width: 25rem; height:247px;">
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card_3.jpg -->
                                     </div>
                                     <div class="department-info">
@@ -134,7 +131,7 @@
                                 <!-- Computer Card -->
                                 <div class="department-item">
                                     <div class="department-image">
-                                        <img src="assets\img\csms_card\card_5.jpg" alt="computer image" style="width: 25rem;  height:136px;">
+                                        <img src="assets\img\csms_card\card_5.jpg" alt="computer image" style="width: 25rem;  height:247px;">
                                         <!-- C:\xampp_new\htdocs\csmss-polytechnic-website\assets\img\csms_card\card_5.jpg -->
                                     </div>
                                     <div class="department-info">
@@ -169,7 +166,7 @@
                                     </div>
                                     <div class="department-info">
                                         <h4 class="department-title pt-30"><a href="AI-ML-department.php">Artificial Intelligence & Machine Learning</a></h4>
-                                        <div class="department-btn mt-sm-4">
+                                        <div class="department-btn">
                                             <a href="AI-ML-department.php">Read More<i class="fas fa-arrow-right-long"></i></a>
                                         </div>
                                     </div>
