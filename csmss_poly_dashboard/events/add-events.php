@@ -1,3 +1,38 @@
+
+<?php
+include '../common/dbcon.php';
+if (isset($_POST['submit'])) {
+    $title = $_POST['title'];
+    $description = $_POST['description'];
+
+    $imageName = $_FILES['image']['name'];
+    $imageTmpName = $_FILES['image']['tmp_name'];
+    $imageuploadpath = '../assets/img/news-events/Events/';
+
+    if(!is_dir($imageuploadpath)){
+        mkdir($imageuploadpath, 0777, true);
+    }
+
+    $uniqueimageName = uniqid('', true) . '-' . basename($imageName);
+    $targetFilePath = $imageuploadpath . $uniqueimageName;
+
+    if (move_uploaded_file($imageTmpName, $targetFilePath)) {
+        $sql = "INSERT INTO event (title, image, description)
+                VALUES ('$title','$targetFilePath','$description')";
+        if (mysqli_query($conn, $sql)) {
+            echo "New Record Created Successfully";
+        } else {
+            echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+        }
+    } else {
+        echo "Failed to upload image.";
+    }
+}
+?>
+// ...existing code...
+
+
+
 <!DOCTYPE html>
 
 <!-- =========================================================
@@ -49,7 +84,7 @@ include '../common/sidebar.php';
               <h5 class="card-header">ADD EVENTS</h5>
               <div class="card-body">
                 <div class="container mt-3">
-               <form>
+               <form method ="POST" enctype="multipart/form-data">
                     <div class="row">
                       <div class="col-lg-6">
                         <div class="form-floating mb-3 mt-3">
@@ -57,10 +92,10 @@ include '../common/sidebar.php';
                             type="text"
                             class="form-control"
                             id="Text"
-                            placeholder="Add Programs"
-                            name="Name"
+                            placeholder="Add title"
+                            name="title"
                           />
-                          <label for="Name">Programs</label>
+                          <label for="Name">title</label>
                         </div>
                       </div>
 
@@ -74,10 +109,15 @@ include '../common/sidebar.php';
 
                       
                     </div>
-
+ <div class="col-lg-12  py-4">
+                                        <div class="form-floating mb-3 mt-3">
+                <textarea class="form-control" id="description" name="description" placeholder="Enter description"></textarea>
+                <label for="description">description</label>
+                    </div>
+                </div>
                     <div class="row">
                      <div class="col-lg-12 mt-3 text-center">
-                       <button type="submit" class="btn btn-primary">Add Event</button>
+                       <button type="submit" name="submit" class="btn btn-primary">Add Event</button>
                       <button type="submit" class="btn btn-primary"><a href="events.php" class="text-white">
                         Back
                       </a></button>
