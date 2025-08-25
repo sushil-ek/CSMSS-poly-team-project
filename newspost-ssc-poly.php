@@ -16,21 +16,7 @@
     <?php
     include 'common/header-link.php';
     ?>
-
-
-<style>
-
-    .news {
-    width: 180px;
-            display: -webkit-box;
-            -webkit-box-orient: vertical;
-            -webkit-line-clamp: 2;
-            overflow: hidden;
-
-    }
-
-
-    
+    <style>
  .nav-pills .nav-link.active,
         .nav-pills .show>.nav-link {
             color: #FDA31B;
@@ -46,13 +32,14 @@
             padding: 0 0.5rem;
             color: #6C757D;
         }
-
+         .news {
+    width: 300px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 1;
+            overflow: hidden;
+    }
     </style>
-
-
-
-
-
 
 </head>
 
@@ -91,8 +78,8 @@
 
 
     <main class="main">
+         <!-- breadcrumb -->
         
-
 
         <!-- Student-Corner -->
         <div class="department-single-area py-120 faq-area">
@@ -468,7 +455,7 @@
                                                 <div style="min-height: 200px; ">
                                                     <div class="carousel-caption d-block text-start py-md-5 py-lg-0" style=" font-size: 15px">
                                                         <p class="ps-5 news">Arrangement of Special vaccination drive against corona virus disease (Covid-19) at CSMSS College of Polytechnic
-                                                        </p>
+    </p>
                                                         <center>
                                                             <div class="department-btn">
                                                                 <a href="news-special-vaccine.php" class="pt-lg-4">READ MORE<i class="fas fa-arrow-right-long"></i></a>
@@ -614,7 +601,7 @@
                                 
                         
                         <div class="col-xl-8 col-lg-8" style="overflow-y:scroll; scrollbar-width: none; height: 1000px;">
-                             <nav aria-label="breadcrumb">
+                            <nav aria-label="breadcrumb">
             <ol class="breadcrumb mt-5">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">News</li>

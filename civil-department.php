@@ -54,17 +54,7 @@
 
     <main class="main">
 
-        <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
-            <div class="container">
-                <h2 class="breadcrumb-title">Civil Engineering</h2>
-                <ul class="breadcrumb-menu">
-                    <li><a href="index.php">Home</a></li>
-                    <li class="active">Civil Engineering</li>
-                </ul>
-            </div>
-        </div>
-        <!-- breadcrumb end -->
+
 
 
         <!-- department-single -->
@@ -79,6 +69,7 @@
                                     <div class="category-list">
                                         <a href="#introduction"><i class="far fa-long-arrow-right"></i>Introduction</a>
                                         <a href="#intake"><i class="far fa-long-arrow-right"></i>Admission Intake Capacity</a>
+                                        <a href="#hod_message"><i class="far fa-long-arrow-right"></i>HOD Message</a>
                                         <a href="#faculty"><i class="far fa-long-arrow-right"></i>Faculty Details</a>
                                         <a href="#headingOne"><i class="far fa-long-arrow-right"></i>Toppers</a>
                                         <a href="#headingTwo"><i class="far fa-long-arrow-right"></i>Student's achievements</a>
@@ -241,19 +232,19 @@
                                 </div>
                             </div>
 
-                            <h3 class="mb-2 ps-1 text-black">Admission Intake Capacity : 60</h3>
+                            <h3 class="mb-2 ps-1 text-black" id="intake">Admission Intake Capacity : 60</h3>
                             <!-- Accodian start -->
                             <div class="container my-5">
-                                <section id=intake>
+                                <section id="hod_message">
                                     <div class="accordion" id="hodAccordion">
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingintake">
-                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHOD"
                                                     aria-expanded="true" aria-controls="collapseOne">
                                                     HOD Message
                                                 </button>
                                             </h2>
-                                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingintake"
+                                            <div id="collapseHOD" class="accordion-collapse collapse show" aria-labelledby="headingintake"
                                                 data-bs-parent="#hodAccordion">
                                                 <div class="accordion-body">
                                                     <div class="row">
@@ -494,7 +485,7 @@
                                                                 type="button"
                                                                 data-bs-toggle="collapse"
                                                                 data-bs-target="#collapseOne"
-                                                                aria-expanded="false"
+                                                                aria-expanded="true"
                                                                 aria-controls="collapseOne">
                                                                 TOPPERS
                                                             </button>
@@ -719,7 +710,7 @@
                                                                 type="button"
                                                                 data-bs-toggle="collapse"
                                                                 data-bs-target="#collapseTwo"
-                                                                aria-expanded="false"
+                                                                aria-expanded="true"
                                                                 aria-controls="collapseTwo">
                                                                 STUDENTS' ACHIEVEMENT
                                                             </button>
@@ -895,7 +886,7 @@
                                                                 type="button"
                                                                 data-bs-toggle="collapse"
                                                                 data-bs-target="#collapseThree"
-                                                                aria-expanded="false"
+                                                                aria-expanded="true"
                                                                 aria-controls="collapseThree">
                                                                 DEPARTMENT ADVISORY BOARD (DAB)
                                                             </button>
@@ -1038,7 +1029,7 @@
                                                                     type="button"
                                                                     data-bs-toggle="collapse"
                                                                     data-bs-target="#collapsefourth"
-                                                                    aria-expanded="false"
+                                                                    aria-expanded="true"
                                                                     aria-controls="collapseOne">
                                                                     PROGRAMME ASSESSMENT COMMITTEE(PAC)
                                                                 </button>
@@ -1176,7 +1167,7 @@
                                                                 type="button"
                                                                 data-bs-toggle="collapse"
                                                                 data-bs-target="#collapsefifth"
-                                                                aria-expanded="false"
+                                                                aria-expanded="true"
                                                                 aria-controls="collapseTwo">
                                                                 LIST OF LABOROTORIES
                                                             </button>
@@ -1302,7 +1293,7 @@
                                                     <div class="accordion-item p-2">
                                                         <h2 class="accordion-header" id="headingSixth">
                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                data-bs-target="#collapsesixth" aria-expanded="false" aria-controls="collapseThree">
+                                                                data-bs-target="#collapsesixth" aria-expanded="true" aria-controls="collapseThree">
                                                                 OUR ALUMNI
                                                             </button>
                                                         </h2>
@@ -1598,7 +1589,7 @@
                                                     <div class="accordion-item p-2">
                                                         <h2 class="accordion-header" id="headingseventh">
                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                data-bs-target="#collapseseventh" aria-expanded="false" aria-controls="collapseTwo">
+                                                                data-bs-target="#collapseseventh" aria-expanded="true" aria-controls="collapseTwo">
                                                                 STUDENTS' ASSOCIATION (CESA)-2022-23
 
                                                             </button>
@@ -1691,7 +1682,7 @@
                                                     <div class="accordion-item p-2">
                                                         <h2 class="accordion-header" id="headingeight">
                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseeight">
+                                                                data-bs-target="#collapseeight" aria-expanded="true" aria-controls="collapseeight">
                                                                 DEPARTMENT MOU's
                                                             </button>
                                                         </h2>
@@ -1745,7 +1736,7 @@
                                                     <div class="accordion-item p-2">
                                                         <h2 class="accordion-header" id="headingnine">
                                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                                data-bs-target="#collapseninth" aria-expanded="false"
+                                                                data-bs-target="#collapseninth" aria-expanded="true"
                                                                 aria-controls="collapseninth">
                                                                 DEPARTMENT PROJECT
                                                             </button>
@@ -1756,6 +1747,42 @@
                                                                 <div class="col-md-12">
                                                                     <div class="hedaing-content">
                                                                     </div>
+
+                                                                    <p><strong><u class="p-2">A.Y. 2023-24</u></strong></p>
+                                                                    <ul class="justify-content-center p-3 ">
+                                                                        <li style="list-style-type: disc">Smart Estimator 2023-A tool for quick estimate</li>
+                                                                        <li style="list-style-type: disc">Production of paver block using waste plastic</li>
+                                                                        <li style="list-style-type: disc">Smart Traffic System for Smart City Chhatrapati Sambhajinagar</li>
+                                                                        <li style="list-style-type: disc">Design sever line for Rural area</li>
+                                                                    </ul>
+
+                                                                    <p><strong><u class="p-2">A.Y. 2022-23</u></strong></p>
+                                                                    <ul class="p-3 ">
+                                                                        <li style="list-style-type: disc">Design and estimate of circular overhead water tank for remote village</li>
+                                                                        <li style="list-style-type: disc">Design sewage treatment plant for the rural areas</li>
+                                                                        <li style="list-style-type: disc">Analysis of (G+2) Residential building using E-tab software</li>
+                                                                        <li style="list-style-type: disc">Use of waste plastic blended bitumen for road construction and maintenance</li>
+                                                                        <li style="list-style-type: disc">Estimation of G+1 residential building</li>
+                                                                    </ul>
+
+                                                                    <p><strong><u class="p-2">A.Y. 2021-22</u></strong></p>
+                                                                    <ul class="p-3 ">
+                                                                        <li style="list-style-type: disc">Use of plastic waste in bituminuos pavement</li>
+                                                                        <li style="list-style-type: disc">Deep root watering system by providing soak pits</li>
+                                                                        <li style="list-style-type: disc">Domestic sewage water treatment plant</li>
+                                                                        <li style="list-style-type: disc">Waste water Management</li>
+                                                                        <li style="list-style-type: disc">Excel spread sheet of surveying calculation</li>
+                                                                        <li style="list-style-type: disc">Low cost water treatment for rural areas</li>
+                                                                        <li style="list-style-type: disc">study of traditional house in practyices</li>
+                                                                        <li style="list-style-type: disc">study of traditional house in practyices</li>
+                                                                        <li style="list-style-type: disc">Construiction of green lane for wirelwss charging for electrical vehicles</li>
+                                                                        <li style="list-style-type: disc">Housing project using precast method</li>
+                                                                        <li style="list-style-type: disc">Self curing concrete</li>
+                                                                        <li style="list-style-type: disc">Traffic island</li>
+                                                                        <li style="list-style-type: disc">vRular road development</li>
+                                                                        <li style="list-style-type: disc">Water absorbing pavement</li>
+                                                                    </ul>
+
                                                                     <p><strong><u class="p-2">A.Y. 2020-21</u></strong></p>
                                                                     <ul class="p-3 ">
                                                                         <li style="list-style-type: disc"> Comparative study between asphalt road and cement concrete road.</li>
@@ -1776,38 +1803,7 @@
                                                                         <li style="list-style-type: disc">To provide quality education which helps to fulfill the needs of industry through academics.</li>
                                                                         <li style="list-style-type: disc">Inculcate ethical values among the students as civil engineers with social commitment.</li>
                                                                     </ul>
-                                                                    <p><strong><u class="p-2">A.Y. 2021-22</u></strong></p>
-                                                                    <ul class="p-3 ">
-                                                                        <li style="list-style-type: disc">Use of plastic waste in bituminuos pavement</li>
-                                                                        <li style="list-style-type: disc">Deep root watering system by providing soak pits</li>
-                                                                        <li style="list-style-type: disc">Domestic sewage water treatment plant</li>
-                                                                        <li style="list-style-type: disc">Waste water Management</li>
-                                                                        <li style="list-style-type: disc">Excel spread sheet of surveying calculation</li>
-                                                                        <li style="list-style-type: disc">Low cost water treatment for rural areas</li>
-                                                                        <li style="list-style-type: disc">study of traditional house in practyices</li>
-                                                                        <li style="list-style-type: disc">study of traditional house in practyices</li>
-                                                                        <li style="list-style-type: disc">Construiction of green lane for wirelwss charging for electrical vehicles</li>
-                                                                        <li style="list-style-type: disc">Housing project using precast method</li>
-                                                                        <li style="list-style-type: disc">Self curing concrete</li>
-                                                                        <li style="list-style-type: disc">Traffic island</li>
-                                                                        <li style="list-style-type: disc">vRular road development</li>
-                                                                        <li style="list-style-type: disc">Water absorbing pavement</li>
-                                                                    </ul>
-                                                                    <p><strong><u class="p-2">A.Y. 2022-23</u></strong></p>
-                                                                    <ul class="p-3 ">
-                                                                        <li style="list-style-type: disc">Design and estimate of circular overhead water tank for remote village</li>
-                                                                        <li style="list-style-type: disc">Design sewage treatment plant for the rural areas</li>
-                                                                        <li style="list-style-type: disc">Analysis of (G+2) Residential building using E-tab software</li>
-                                                                        <li style="list-style-type: disc">Use of waste plastic blended bitumen for road construction and maintenance</li>
-                                                                        <li style="list-style-type: disc">Estimation of G+1 residential building</li>
-                                                                    </ul>
-                                                                    <p><strong><u class="p-2">A.Y. 2023-24</u></strong></p>
-                                                                    <ul class="justify-content-center p-3 ">
-                                                                        <li style="list-style-type: disc">Smart Estimator 2023-A tool for quick estimate</li>
-                                                                        <li style="list-style-type: disc">Production of paver block using waste plastic</li>
-                                                                        <li style="list-style-type: disc">Smart Traffic System for Smart City Chhatrapati Sambhajinagar</li>
-                                                                        <li style="list-style-type: disc">Design sever line for Rural area</li>
-                                                                    </ul>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1850,7 +1846,35 @@
     <?php
     include 'common/footer-link.php';
     ?>
-
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Get all links starting with #heading (accordion header IDs)
+            const accordionLinks = document.querySelectorAll('a[href^="#heading"]');
+            accordionLinks.forEach(link => {
+                link.addEventListener("click", function(e) {
+                    e.preventDefault();
+                    const headerId = this.getAttribute("href").substring(1); // remove '#'
+                    const header = document.getElementById(headerId);
+                    if (!header) return;
+                    // Scroll to the header
+                    header.scrollIntoView({
+                        behavior: "smooth",
+                        block: "start"
+                    });
+                    // Find the button inside the header (accordion toggle)
+                    const toggleButton = header.querySelector("button[data-bs-toggle='collapse']");
+                    if (!toggleButton) return;
+                    const targetSelector = toggleButton.getAttribute("data-bs-target");
+                    if (!targetSelector) return;
+                    const collapseEl = document.querySelector(targetSelector);
+                    if (!collapseEl) return;
+                    // Use Bootstrap Collapse API to show the section
+                    const bsCollapse = bootstrap.Collapse.getOrCreateInstance(collapseEl);
+                    bsCollapse.show();
+                });
+            });
+        });
+    </script>
 </body>
 
 
